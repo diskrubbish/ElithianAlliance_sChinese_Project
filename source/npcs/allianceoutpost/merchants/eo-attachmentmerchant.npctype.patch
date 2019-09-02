@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "value": "  Weapon modification",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Aberos",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "Bored of the same old guns? Personalize them with some mods!",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I'll be here if you need more weapon mods.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Looking to personalize your weapons? You've come to the right place!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "My supplies are right over there.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Now, let's see if we can find you what you need.",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Weapon Attachments Dealer",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  }
+]

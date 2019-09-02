@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Trinkian Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A dark metal platform.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Metal platformsss",
+    "path": "/floranDescription"
+  }
+]

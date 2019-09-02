@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Looking for something fast? Or something that can take a hit? We have it all here!",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "See a vehicle you like? My manager would be happy to give you the details.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "This dealership has all the best vehicles. Aventor, Veronas, AAE - you name it!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "We've got all the best vehicles here. Make sure you speak to my manager upstairs!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "You look like you like hovercars. We've got the best ones right here.",
+    "path": "/scriptConfig/dialog/converse/default/default/4"
+  }
+]

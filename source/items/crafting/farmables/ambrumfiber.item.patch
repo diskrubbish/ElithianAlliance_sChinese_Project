@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Ambrum Fiber",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Soft fluffy fibers harvested from the ambrum plant.",
+    "path": "/description"
+  }
+]

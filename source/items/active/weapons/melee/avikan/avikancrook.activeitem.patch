@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A bone crook used by Gad'hur herders.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Crook",
+    "path": "/shortdescription"
+  }
+]

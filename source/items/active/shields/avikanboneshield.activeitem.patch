@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A plate of monster bone.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Shield",
+    "path": "/shortdescription"
+  }
+]

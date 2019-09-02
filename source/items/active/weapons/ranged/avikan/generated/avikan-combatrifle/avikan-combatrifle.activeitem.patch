@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A standard-model Nomada Combat Rifle.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nomada Combat Rifle",
+    "path": "/shortdescription"
+  }
+]

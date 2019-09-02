@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Nomada Shortbow",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;A light and quick bow for harvesting monster parts.",
+    "path": "/description"
+  }
+]

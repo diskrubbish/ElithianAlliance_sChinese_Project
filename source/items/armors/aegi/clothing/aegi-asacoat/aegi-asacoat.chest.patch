@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "ASA Coat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A high quality coat for high-ranking ASA officials.",
+    "path": "/description"
+  }
+]

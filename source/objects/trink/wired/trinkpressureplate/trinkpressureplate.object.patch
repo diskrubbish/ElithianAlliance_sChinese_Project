@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Akki stand on plate, plate sink into ground.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Pressure Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pressure plate that activates when stood on.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis. Pressure plate. Activated when stood upon.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sstand on platess, thingsss happen!",
+    "path": "/floranDescription"
+  }
+]

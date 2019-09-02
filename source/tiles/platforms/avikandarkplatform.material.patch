@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Dark Avikan Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A dark metal platform.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A dark-lookin' platform.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki stand on platform-dark, make Akki look light.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. A dark metal platform.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal platform iss dark.",
+    "path": "/floranDescription"
+  }
+]

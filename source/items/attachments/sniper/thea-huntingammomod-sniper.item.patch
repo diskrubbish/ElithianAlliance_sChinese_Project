@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Hunting Ammo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sniper ammunition that allows meat and hides to be harvested from targets.",
+    "path": "/description"
+  }
+]

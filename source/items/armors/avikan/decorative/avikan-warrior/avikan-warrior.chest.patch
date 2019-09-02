@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Warrior's Chestpiece",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A large bone plate to protect the body.",
+    "path": "/description"
+  }
+]

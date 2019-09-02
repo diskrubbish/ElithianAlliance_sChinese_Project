@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Navigator's Chestplate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A durable chestplate often worn by Aeginian navigators.",
+    "path": "/description"
+  }
+]

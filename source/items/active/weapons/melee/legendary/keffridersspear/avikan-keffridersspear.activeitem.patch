@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "^#BA66FF;A spear given to true Keffriders.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Keffrider's Spear ^yellow;^reset;",
+    "path": "/upgradeParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Keffrider's Spear^reset;",
+    "path": "/shortdescription"
+  }
+]

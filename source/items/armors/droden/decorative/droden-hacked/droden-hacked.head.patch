@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Violated Head",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A Droden frame head, hacked by Thelean Vesomeyr.",
+    "path": "/description"
+  }
+]

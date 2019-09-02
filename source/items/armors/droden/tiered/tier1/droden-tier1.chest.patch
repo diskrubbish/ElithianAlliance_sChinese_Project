@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Iron Chassis",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A basic iron chassis upgrade.",
+    "path": "/description"
+  }
+]

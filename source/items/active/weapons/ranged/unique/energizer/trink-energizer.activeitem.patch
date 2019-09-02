@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Target Marking",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;An energy rifle built for tactical incursions.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;HL-5 Energizer^white;",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Rhaiod Robe",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A long robe worn by high priests of the Rhaiod.",
+    "path": "/description"
+  }
+]

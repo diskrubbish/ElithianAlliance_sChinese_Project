@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Summons a Vanguard Krahl from your ship's cargo hold.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Krahl Controller",
+    "path": "/shortdescription"
+  }
+]

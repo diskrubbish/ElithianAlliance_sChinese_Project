@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Watcher Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A legs piece replacement for Droden Watcher units.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Scavenger's Greaves",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;Scrap metal greaves worn by Akkimari scavengers.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A bladed staff used in the rituals of Shalakka shamans.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Shalakka Ritual Staff^white;",
+    "path": "/shortdescription"
+  }
+]

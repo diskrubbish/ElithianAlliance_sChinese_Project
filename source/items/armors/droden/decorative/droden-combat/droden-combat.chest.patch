@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Combat Frame Chest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A specialized Droden war frame, it is far more durable than regular frames.",
+    "path": "/description"
+  }
+]

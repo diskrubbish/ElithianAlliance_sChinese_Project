@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Trooper's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;An armoured helmet worn by some Aeginian ground troops.",
+    "path": "/description"
+  }
+]

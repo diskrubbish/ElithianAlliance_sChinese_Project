@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Marauder's Visor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A tactical visor worn by cunning raiders.",
+    "path": "/description"
+  }
+]

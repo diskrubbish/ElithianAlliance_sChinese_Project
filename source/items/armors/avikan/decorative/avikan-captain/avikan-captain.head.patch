@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Honoured Captain's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A helmet worn by Honoured Captains of the Nomada.",
+    "path": "/description"
+  }
+]

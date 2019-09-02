@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "ASA Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;All ASA officials wear these uniforms.",
+    "path": "/description"
+  }
+]

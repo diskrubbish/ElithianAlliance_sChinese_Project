@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Marauder's Greaves",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;Greaves and a tactical belt worn by cunning raiders.",
+    "path": "/description"
+  }
+]

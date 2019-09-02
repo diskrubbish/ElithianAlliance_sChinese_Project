@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Kavanite Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Strong, sand-coloured metal plating.",
+    "path": "/description"
+  }
+]

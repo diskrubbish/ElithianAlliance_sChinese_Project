@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An electric component.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Electric Component^white;",
+    "path": "/shortdescription"
+  }
+]

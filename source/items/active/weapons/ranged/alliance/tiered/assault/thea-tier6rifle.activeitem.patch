@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A compact, high-impact assault rifle.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Smart Bullet",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "AC.A-6 Comet",
+    "path": "/shortdescription"
+  }
+]

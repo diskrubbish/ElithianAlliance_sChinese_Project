@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Holographic attack module disengaging.",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Holographic attack module malfunction. Target out of reach.",
+    "path": "/scriptConfig/dialog/cantReach/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Holographic attack module misfunction. Target eliminated.",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Holographic attack module recalibrating.",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Initiating holographic attack module.",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Re-initiating holographic attack module.",
+    "path": "/scriptConfig/dialog/reattack/default/default/0"
+  }
+]

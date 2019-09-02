@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Allows you to summon and control a Drahl unit.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Drahl Remote Controller",
+    "path": "/shortdescription"
+  }
+]

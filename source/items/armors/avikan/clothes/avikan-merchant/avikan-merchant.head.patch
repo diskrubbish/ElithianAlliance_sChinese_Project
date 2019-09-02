@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Merchant's Cloak",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A decorated leather cloak, a favourite amongst desert merchants.",
+    "path": "/description"
+  }
+]

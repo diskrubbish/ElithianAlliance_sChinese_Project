@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A traditional meal.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan meal.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan food. It smells good.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plate-food, tasty.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This food is nothing like what we have on Hyzolia.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This food is too spicey for my liking.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A balanced meal.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A balanced meal.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A plate full of food.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A well-balanced dinner.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Nutritional value: excellent.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Delicious food.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dinner.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Food. Yummy food!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Foodsss.",
+    "path": "/floranDescription"
+  }
+]

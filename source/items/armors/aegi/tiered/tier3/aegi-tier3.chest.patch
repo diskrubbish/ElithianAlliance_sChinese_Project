@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Trooper's Chestplate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;An armoured chestplate worn by some Aeginian ground troops.",
+    "path": "/description"
+  }
+]

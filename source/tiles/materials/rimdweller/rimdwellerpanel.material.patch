@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Rim Panel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rusty old metal panels.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A metal panel that needs polishin'.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Metal panel. Moderate deterioration detected.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Panel-rusted, Akki no clean it.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Russsty metal platess are good for back rubsss.",
+    "path": "/floranDescription"
+  }
+]

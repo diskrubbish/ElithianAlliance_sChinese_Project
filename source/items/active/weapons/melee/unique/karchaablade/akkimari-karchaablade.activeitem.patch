@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A blade used by the savage Karchaa tribe.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Karchaa Blade^white;",
+    "path": "/shortdescription"
+  }
+]

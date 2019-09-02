@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Damage Per Second:",
+    "path": "/dpsTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Mining Strength:",
+    "path": "/miningStrengthTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  }
+]

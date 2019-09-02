@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Vanguard Armor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;Armor plating issued to soldiers of the Avikan Vanguard.",
+    "path": "/description"
+  }
+]

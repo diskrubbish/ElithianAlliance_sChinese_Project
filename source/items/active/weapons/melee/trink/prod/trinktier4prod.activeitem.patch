@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Circuit Prod Mk IV",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An electric prod built to keep assailants at bay.",
+    "path": "/description"
+  }
+]

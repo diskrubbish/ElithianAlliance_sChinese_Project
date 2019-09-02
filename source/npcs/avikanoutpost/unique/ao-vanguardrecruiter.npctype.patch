@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "value": "I doubt the Vanguard has a place for you, but we'll see.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "I doubt the Vanguard has a place for you, but we'll see.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "Rokhan",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "The Vanguard could use a Captain such as yourself.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "The Vanguard uses many Droden, but none have enlisted out of their free will. Will you be the first?",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "You think you have what it takes to join the Vanguard?",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "You think you have what it takes to join the Vanguard?",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "You think you have what it takes to join the Vanguard?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "You think you have what it takes to join the Vanguard?",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "You think you have what it takes to join the Vanguard?",
+    "path": "/scriptConfig/dialog/converse/avikan/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "You think you have what it takes to join the Vanguard?",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "You think you have what it takes to join the Vanguard?",
+    "path": "/scriptConfig/dialog/converse/avikan/novakid/0"
+  },
+  {
+    "op": "replace",
+    "value": "You think you have what it takes to join the Vanguard?",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

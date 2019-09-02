@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Prime Circuit",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Notes on one of NivRAM's experimental weapon designs.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "One of NivRAM's many experimental weapon designs is the Prime Circuit - a prod powered by a custom-built, overcharged generator. The overcharged generator would give the weapon a higher energy output on the initial strike, as well as greater sustained energy output. Additionally, the overcharged generator could be supercharged for short periods of time, allowing the electric energy to arc directly to nearby targets.",
+    "path": "/contentPages/0"
+  }
+]

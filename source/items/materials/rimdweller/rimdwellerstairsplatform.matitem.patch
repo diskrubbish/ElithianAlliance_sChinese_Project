@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Rim Stairs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sturdy metal stairs.",
+    "path": "/description"
+  }
+]

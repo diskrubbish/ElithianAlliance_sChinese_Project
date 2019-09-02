@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "value": "<field> <role>",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Intruder",
+    "path": "/scriptConfig/crew/ranks/2"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Scout",
+    "path": "/scriptConfig/crew/ranks/1"
+  },
+  {
+    "op": "replace",
+    "value": "Dominion <role>",
+    "path": "/scriptConfig/crew/ranks/3"
+  },
+  {
+    "op": "replace",
+    "value": "Infiltrator",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Narvakhan",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "Death will come for your enemies.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I don't care for the Dominion. I will fight for you, instead.",
+    "path": "/scriptConfig/dialog/crewmember/offer/thelean/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I never believed in Creaton. Perhaps you will be a better leader.",
+    "path": "/scriptConfig/dialog/crewmember/offer/thelean/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I will fight anything and anyone. I have no fear.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Point me to a target and I will kill it.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "You are stronger than I anticipated. I will join you.",
+    "path": "/scriptConfig/dialog/crewmember/offer/thelean/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Your enemies will die by my hand.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Your strength is admirable. I will fight for you.",
+    "path": "/scriptConfig/dialog/crewmember/offer/thelean/default/1"
+  }
+]

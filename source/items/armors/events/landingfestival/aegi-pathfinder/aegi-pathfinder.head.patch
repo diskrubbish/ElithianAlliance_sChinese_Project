@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Pathfinder's Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;The costume of the Pathfinder, paragon of the Landing Festival!",
+    "path": "/description"
+  }
+]

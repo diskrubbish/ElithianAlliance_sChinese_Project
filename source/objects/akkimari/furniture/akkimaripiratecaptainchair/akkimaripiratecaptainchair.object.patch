@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A chair built from scrap. It looks intimidating.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A chair hung from the ceiling with some strange wires.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A scavenger's throne.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A scrap metal chair hung from some ropes.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A scrappy chair suspended with strong silken threads.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A strange but comfortable chair suspended using some sort of ropes.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A strange chair hung from some ropes.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akris Pirate Captain Chair",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chair for chieftain. Respect-great for chieftain-strong.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien chair. Silken threads exceed material strength expectations.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran wonderss why thisss chair iss hanging.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This chair is comfortable, but it feels strange to not be touching the ground.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This chair looks like the throne of some scavenger.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This chair looks pretty cool.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This don't look safe to sit in...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This looks like the chair of a commander.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Vhos Avha'las",
+    "path": "/bookmarkName"
+  },
+  {
+    "op": "replace",
+    "value": "Beam to Ship",
+    "path": "/destinations/0/name"
+  }
+]

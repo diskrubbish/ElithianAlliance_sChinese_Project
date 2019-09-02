@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Nomad's Pack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;The backpack of an Avikan Nomad. For storing the essentials.",
+    "path": "/description"
+  }
+]

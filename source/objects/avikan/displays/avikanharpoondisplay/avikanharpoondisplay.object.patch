@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A harpoon gun. What is it meant to hunt?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A very capable harpoon gun. I imagine it can impale enemies with ease.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan harpoon gun on display.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan-designed harpoon gun. Rather impressive.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An intimidating harpoon gun.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Few weapons can pierce a Sandstalker's skin. This weapon does it with ease.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Harpoon, for killing.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Now THAT is a harpoon gun!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Avikan must have hunted massive creatures on their homeplanet.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The creatures the Avikan hunt with this weapon must be enormous.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The size of this harpoon makes me wonder what its creators hunt...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This harpoon gun was built to hunt massive creatures.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Thisss sstick fires metal sspearsss? Floran likesss...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Harpoon Display",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Warning. Harpoon guns can cause lethal damage.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Would this harpoon gun work underwater?",
+    "path": "/hymidDescription"
+  }
+]

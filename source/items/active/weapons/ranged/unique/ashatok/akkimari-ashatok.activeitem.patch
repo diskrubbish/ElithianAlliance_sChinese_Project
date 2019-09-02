@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Vaash Spray",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;An unstable makeshift weapon that randomly fires highly volatile projectiles.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Ashatok^white;",
+    "path": "/shortdescription"
+  }
+]

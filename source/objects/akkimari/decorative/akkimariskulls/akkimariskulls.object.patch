@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "A creepy pile of skulls.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pile of Akkimari skulls.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akkimari Skulls",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akkimari dead now. Skulls remain.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akkimari skulls. What a shame.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alien skulls. Kinda creepy.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dead Akkimari. I wonder how they died?",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien remains. Analysis: Akkimari skulls.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hollow skulls. The acoustics make me think they're Akkimari skulls.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "More skulls. As if I hadn't seen enough of them yet...",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Skullsss on top of sskullsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Someone's been on a killing spree...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Strange alien skulls.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Strange skulls, piled on top of each other.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Akkimari seem to have a thing for skulls.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The skulls of dead Akkimari.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The skulls of deceased aliens. What a sad sight...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The skulls of now-dead Akkimari.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These are Akkimari skulls. I should be careful around here...",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These seem to be Akkimari skulls.",
+    "path": "/dremetonDescription"
+  }
+]

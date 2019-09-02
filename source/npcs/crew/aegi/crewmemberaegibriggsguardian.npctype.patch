@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "<field> <role>",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "Guardian",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Briggs",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "Junior <field> <role>",
+    "path": "/scriptConfig/crew/ranks/2"
+  },
+  {
+    "op": "replace",
+    "value": "Senior <field> <role>",
+    "path": "/scriptConfig/crew/ranks/1"
+  }
+]

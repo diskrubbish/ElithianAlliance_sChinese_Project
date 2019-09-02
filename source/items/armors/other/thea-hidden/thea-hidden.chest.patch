@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A small device that hides armour in your chestwear slot.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Chestwear Cloaker",
+    "path": "/shortdescription"
+  }
+]

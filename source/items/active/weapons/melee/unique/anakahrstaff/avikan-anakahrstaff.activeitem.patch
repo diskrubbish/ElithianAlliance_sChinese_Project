@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Discharge",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A staff armed with dual static linecharge drives.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Anakahr Staff^white;",
+    "path": "/shortdescription"
+  }
+]

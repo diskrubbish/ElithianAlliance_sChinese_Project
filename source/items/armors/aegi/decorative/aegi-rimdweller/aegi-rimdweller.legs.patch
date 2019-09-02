@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Rimdweller Leggings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;Heavy leggings with magnetics boots for spacewalking.",
+    "path": "/description"
+  }
+]

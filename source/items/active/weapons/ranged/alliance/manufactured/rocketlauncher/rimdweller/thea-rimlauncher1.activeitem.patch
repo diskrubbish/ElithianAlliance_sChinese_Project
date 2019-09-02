@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A rocket launcher produced somewhere in the Rim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Eradicator RM16",
+    "path": "/shortdescription"
+  }
+]

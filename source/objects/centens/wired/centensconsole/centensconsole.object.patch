@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Centensian computer console, I believe.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Centensian console.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A computer console.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A console created by the Centens. No one knows what it was used for, exactly.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A console created by the Old Ones.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A console. Centensian in nature, based on its appearance.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An old but highly advanced console.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Centensian Console",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Computer-ancient, god-maker-made.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "No holographic screen? I'm disappointed.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssshiny ssscreen.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The screen on this console still works after eons of disuse.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These ancient computers are always a mystery. How exciting.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This console was created by the Centens.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An ancient computer terminal, still functional.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis. Detected Centensian interface.",
+    "path": "/drodenDescription"
+  }
+]

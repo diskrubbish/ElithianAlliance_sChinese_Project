@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A TV stand.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A TV stand. What's inside the small storage compartment?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cabinet often used as a TV stand.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A simple stand for a large screen.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small cabinet.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A space-efficient TV stand.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A stand for a television.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A stand for the TV.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki place screen here.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance TV Stand",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien table of some kind. It has some storage space too.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient use of space. This TV stand has a small but useful storage compartment.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran place TV on topsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It's just a TV stand.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "T'is just a stand for a television screen.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected desk.",
+    "path": "/drodenDescription"
+  }
+]

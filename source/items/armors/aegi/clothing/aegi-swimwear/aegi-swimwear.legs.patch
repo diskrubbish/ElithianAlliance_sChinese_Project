@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Swimwear Bottom",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;Attire well-suited when going swimming.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Vanguard Optics Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;HEAD SLOT. ^white;A high-grade violium optics mod.",
+    "path": "/description"
+  }
+]

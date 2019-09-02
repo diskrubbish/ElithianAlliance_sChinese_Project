@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "Rate of Fire:",
+    "path": "/speedTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Ammo Usage:",
+    "path": "/ammoUsageTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Damage Per Throw:",
+    "path": "/damagePerShotTitleLabel/value"
+  }
+]

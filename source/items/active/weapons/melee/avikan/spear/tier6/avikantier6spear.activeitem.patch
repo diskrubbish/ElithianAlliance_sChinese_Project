@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Clanguard Spear",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An energy weapon used by high-ranking members of the Clanguard.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Energy Discharge",
+    "path": "/altAbility/name"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Briggs Tanktop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A simple tanktop often worn by Briggs construction workers.",
+    "path": "/description"
+  }
+]

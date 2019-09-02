@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Makeshift Nailbomb",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;A makeshift grenade filled with sharpened nails.^reset;",
+    "path": "/description"
+  }
+]

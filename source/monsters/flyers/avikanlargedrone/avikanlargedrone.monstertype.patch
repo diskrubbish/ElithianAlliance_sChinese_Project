@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Elite Drahl",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A massive combat drone for supporting Avikan soldiers on the field.",
+    "path": "/description"
+  }
+]

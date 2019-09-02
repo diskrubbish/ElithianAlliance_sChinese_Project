@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A long and powerful lance forged in tribute to Elithia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Lance of the Elithian^white;",
+    "path": "/shortdescription"
+  }
+]

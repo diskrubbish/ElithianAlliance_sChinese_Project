@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Holographic Body",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Thelean. ^white;Makes you appear like an Avikan hologram.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Trader's Shorts",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;Silken shorts worn by traders of the Covenant.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Akki flip switch. Akki see what happens.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis. Switch. Used to power on and off various objects.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssswitch!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small wall-mounted switch.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Wall Switch",
+    "path": "/shortdescription"
+  }
+]

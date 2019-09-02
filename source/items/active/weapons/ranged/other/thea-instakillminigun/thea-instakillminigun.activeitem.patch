@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A golden gatling gun for truly ultimate power. You cheater!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Golden Gatling Gun^white;",
+    "path": "/shortdescription"
+  }
+]

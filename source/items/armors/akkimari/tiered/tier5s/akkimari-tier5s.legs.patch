@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Ravager's Greaves r.S",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;Combat greaves made of durable metals. Vigorous version.",
+    "path": "/description"
+  }
+]

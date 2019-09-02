@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "Legion",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Mechanical Unit",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "Droden Legion Mechanical Unit available. Requesting permission to board ship.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Mechanical Unit",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Mechanical unit <selfname> reporting for duty. Requesting permission to board ship.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ship fuel tank capacity is below standards. Unit will improve maximum capacity.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Unit <selfname> reporting in. Mechanical unit requesting permission to board ship.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/1"
+  }
+]

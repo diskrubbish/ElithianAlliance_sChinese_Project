@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A twisted creature created by the Theleans.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ghavorkan",
+    "path": "/shortdescription"
+  }
+]

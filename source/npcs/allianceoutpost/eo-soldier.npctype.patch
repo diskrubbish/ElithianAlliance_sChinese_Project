@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "value": "Do you have business with the Admiral?",
+    "path": "/scriptConfig/dialog/converse/default/aegi/1"
+  },
+  {
+    "op": "replace",
+    "value": "Do you have business with the Admiral?",
+    "path": "/scriptConfig/dialog/converse/default/trink/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'm gonna have to ask you to leave.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Make sure to keep your ambassador's pass on you at all times.",
+    "path": "/scriptConfig/dialog/converse/default/aegi/2"
+  },
+  {
+    "op": "replace",
+    "value": "Make sure to keep your ambassador's pass on you at all times.",
+    "path": "/scriptConfig/dialog/converse/default/trink/2"
+  },
+  {
+    "op": "replace",
+    "value": "These offices are restricted.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "This floor is for ambassadors only.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to the Command Center, ambassador.",
+    "path": "/scriptConfig/dialog/converse/default/aegi/0"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to the Command Center, ambassador.",
+    "path": "/scriptConfig/dialog/converse/default/trink/0"
+  }
+]

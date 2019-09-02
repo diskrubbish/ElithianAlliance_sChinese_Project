@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Cluster Ammo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Grenade launcher ammunition that releases small cluster grenades on detonation.",
+    "path": "/description"
+  }
+]

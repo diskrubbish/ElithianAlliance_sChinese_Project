@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "value": "Ah, hello there! Are you here to do business? We should have some additional cargo you can buy.",
+    "path": "/scriptConfig/dialog/converse/aegi/aegi/6"
+  },
+  {
+    "op": "replace",
+    "value": "Ah, hello there! Are you here to do business? We should have some additional cargo you can buy.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "Are you here on official Union business, my friend?",
+    "path": "/scriptConfig/dialog/converse/aegi/aegi/1"
+  },
+  {
+    "op": "replace",
+    "value": "Being in command of a ship can be a tedious job, as you must know, but I love it still.",
+    "path": "/scriptConfig/dialog/converse/aegi/aegi/3"
+  },
+  {
+    "op": "replace",
+    "value": "Being in command of a ship can be a tedious job, but I love it still.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I see you have your own ship too. Welcome, my fellow captain.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "My navigators detected your approaching ship. What brings you to us in this vast emptiness of space?",
+    "path": "/scriptConfig/dialog/converse/aegi/aegi/4"
+  },
+  {
+    "op": "replace",
+    "value": "My navigators detected your approaching ship. What brings you to us in this vast emptiness of space?",
+    "path": "/scriptConfig/dialog/converse/aegi/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Please do not distract my navigators too much. They are quite busy managing the ship's navigation systems.",
+    "path": "/scriptConfig/dialog/converse/aegi/aegi/5"
+  },
+  {
+    "op": "replace",
+    "value": "Please do not distract my navigators too much. They are quite busy managing the ship's navigation systems.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to our ship, my fellow captain.",
+    "path": "/scriptConfig/dialog/converse/aegi/aegi/0"
+  },
+  {
+    "op": "replace",
+    "value": "What brings you to our ship?",
+    "path": "/scriptConfig/dialog/converse/aegi/aegi/2"
+  },
+  {
+    "op": "replace",
+    "value": "What brings you to our ship?",
+    "path": "/scriptConfig/dialog/converse/aegi/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to our ship, traveler.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to our ship, traveler.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

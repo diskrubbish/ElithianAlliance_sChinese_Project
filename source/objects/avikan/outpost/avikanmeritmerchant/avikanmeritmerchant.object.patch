@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "value": "Akki buy things with tokens. Akki not like.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "  Being meritful has its merits.",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Gotta have some tokens of merit if I wish to trade here.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "If Floran givess robot man tokensss, robot man gives Floran itemsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Merchant detected. Purchases are made using tokens of merit.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tokens of merit can be traded for a variety of goods here.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tokens of merit can be traded for a variety of goods here.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nomada Token Exchange",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Nomada Token Exchange",
+    "path": "/shortdescription"
+  }
+]

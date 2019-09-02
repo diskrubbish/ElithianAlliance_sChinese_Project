@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Ricochet Shot",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A unique line rifle built to decimate the Errasmeyr.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Errasslayer's Lance^white;",
+    "path": "/shortdescription"
+  }
+]

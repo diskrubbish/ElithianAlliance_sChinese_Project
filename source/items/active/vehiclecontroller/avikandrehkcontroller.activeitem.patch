@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Drehk Controller",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Summons a Drehk from your ship's cargo hold.",
+    "path": "/description"
+  }
+]

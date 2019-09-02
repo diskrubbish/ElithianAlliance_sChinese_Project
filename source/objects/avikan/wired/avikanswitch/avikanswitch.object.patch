@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Akki flip switch, make nice noise. Flip, flip, flip again!",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Switch",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small switch.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis. Switch. Used to power on and off various objects.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssswitch!",
+    "path": "/floranDescription"
+  }
+]

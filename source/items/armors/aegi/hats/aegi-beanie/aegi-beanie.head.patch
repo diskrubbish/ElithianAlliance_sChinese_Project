@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Union Beanie",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A warm and comfortable beanie.",
+    "path": "/description"
+  }
+]

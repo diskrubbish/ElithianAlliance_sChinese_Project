@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "A small wall-mounted light.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Wall Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light-small, placed on wall.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssmall lightsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light source detected.",
+    "path": "/drodenDescription"
+  }
+]

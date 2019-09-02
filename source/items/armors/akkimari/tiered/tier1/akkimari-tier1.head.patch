@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Scoundrel's Scarf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A roughly made scarf that wraps around the head.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A small, aggressive drone built to overwhelm the enemy in swarms.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Arrak'ash",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A contract for hiring the services of Alliance crew members.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Alliance Crew Contract^white;",
+    "path": "/shortdescription"
+  }
+]

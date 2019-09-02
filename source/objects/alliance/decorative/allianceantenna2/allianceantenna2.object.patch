@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Antenna",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A basic antenna.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A basic antenna.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A powerful antenna.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A powerful antenna.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A standard Alliance antenna.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sturdy antenna.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Aeginian-built antenna.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien antenna.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An antenna of an unusual design.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An antenna, obviously.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Antenna-alien. Akki curious what it's sending.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien antenna. Unable to decode signal.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal ssticks receive ssignals from far away.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some sorta antenna.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Aegi designed this antenna.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This antenna is reasonably efficient.",
+    "path": "/trinkDescription"
+  }
+]

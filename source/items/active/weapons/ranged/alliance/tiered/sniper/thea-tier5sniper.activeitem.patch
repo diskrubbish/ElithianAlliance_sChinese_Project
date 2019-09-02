@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A high-impact sniper rifle.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "AC.R-13 Chalice",
+    "path": "/shortdescription"
+  }
+]

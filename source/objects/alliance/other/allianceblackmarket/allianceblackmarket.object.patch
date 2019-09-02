@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "value": "Bolter's Bazaar",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Bolter's Bazaar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "  For all your semi-legal goods",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "A machine, and a shady one at that. I should be careful.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alien-shady sells stuff-good.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected unregistered robotic merchant. Recommending caution.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssshady looking robot can ssell Floran many goodsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This Trink looks shady...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A shady lookin' fella. Gotta be a black market of sorts.",
+    "path": "/novakidDescription"
+  }
+]

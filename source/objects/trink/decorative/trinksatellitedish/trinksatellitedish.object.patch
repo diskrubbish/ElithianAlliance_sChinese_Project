@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Trinkian satellite dish.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Trinkian satellite dish.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Trinkian satellite dish. A simple but effective tool for receiving signals from outer space.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metal satellite dish. Avikan antennas are far more powerful than this.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A satellite dish of Trinkian design.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A satellite dish. I wonder what sort of cryptic messages it's receiving?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A satellite dish. What purpose does the box below it fulfill?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A shiny satellite dish. Could it receive a message from home?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple Trinkian satellite dish. Nothing too special.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple satellite dish.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis: satellite dish. Provides access to global communications systems.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal dissshhh goesss round and round and round...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This satellite dish is used to receive messages from ships in orbit, amongst others.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A satellite dish for receiving signals.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Dish-radar goes around, around, around.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Satellite Dish",
+    "path": "/shortdescription"
+  }
+]

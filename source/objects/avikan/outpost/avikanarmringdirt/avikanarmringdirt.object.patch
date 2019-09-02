@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "A pile of dirty muck. Perhaps there's something in it?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Detected sewage waste. Scanning for additional items...",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "If Floran digss through muck, Floran might find something?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Is it just me, or do I see somethin' shiny in that pile o' muck?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lost Arm Ring",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Muck-icky. Akki not want to get hands-dirty.",
+    "path": "/akkimariDescription"
+  }
+]

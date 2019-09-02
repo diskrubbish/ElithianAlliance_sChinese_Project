@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Ravager's Cuirass r.S",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A combat cuirass made of durable metals. Vigorous version.",
+    "path": "/description"
+  }
+]

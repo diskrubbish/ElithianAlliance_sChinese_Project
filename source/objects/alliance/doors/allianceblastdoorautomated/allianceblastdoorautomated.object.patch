@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Door-thick, for resisting blasts.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Automated Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A heavy blast door.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A highly resistant blast door.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "An alien blast door.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A blast door. It looks like it can withstand anything.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A blast door. What might lie beyond it?",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A strong blast door.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A thick blast door.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A thick blast door. It won't be breached easily.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Blast door detected.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran wondersss what is behind metal doorsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A blast door.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A heavy metal blast door. Cool.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metal blast door.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A shiny blast door.",
+    "path": "/avianDescription"
+  }
+]

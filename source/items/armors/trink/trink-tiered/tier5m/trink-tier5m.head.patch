@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Utilitarian Optics Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;HEAD SLOT. ^white;A high-grade rubium optics mod.",
+    "path": "/description"
+  }
+]

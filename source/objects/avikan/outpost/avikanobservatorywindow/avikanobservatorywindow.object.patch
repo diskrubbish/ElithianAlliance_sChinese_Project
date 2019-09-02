@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "Analysis. Glass.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Observatory Window",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "View-beautiful. Akki like.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large reinforced window.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran fassscinated by viewsss...",
+    "path": "/floranDescription"
+  }
+]

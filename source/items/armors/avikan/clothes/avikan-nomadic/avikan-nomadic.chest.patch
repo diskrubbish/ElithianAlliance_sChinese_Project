@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Nomad's Wraps",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;Leather wraps to protect against desert winds. Favoured by the nomads of the Kadavan deserts.",
+    "path": "/description"
+  }
+]

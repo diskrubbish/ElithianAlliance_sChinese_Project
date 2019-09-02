@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A gate that slows down hoverbikes. It sends out a signal whenever a vehicle passes through it.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A gate that slows down passing hoverbikes.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A gate that slows down passing hoverbikes.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A marker that forces hoverbikes to slow down.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A marker that slows down hoverbikes that pass by.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A racing gate that slows down passing hoverbikes. Darn.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A racing gate. It'll slow down any hoverbike that passes by.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A racing marker, it'll slow down any passing hoverbike.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A racing marker. It slows down passing hoverbikes.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki drive by, Akki slows down. Akki not like.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Racing Gate - Slow",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected racing gate. Slows down passing hoverbikes.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran ssshould be careful. Glowing pole ssslowss down hoverbikess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This gate will slow down any passing hoverbike.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This marker slows down hoverbikes. Yikes.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This racing gate slows down passing hoverbikes.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This will slow down any passing hoverbikes.",
+    "path": "/hymidDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Rogue Captain's Armor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;Armour plating often worn by Captains who have left the Nomada.",
+    "path": "/description"
+  }
+]

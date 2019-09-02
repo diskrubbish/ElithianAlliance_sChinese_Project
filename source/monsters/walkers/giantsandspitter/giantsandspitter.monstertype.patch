@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Sandspitter",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Sandspitter spits sand to slow down its foes.",
+    "path": "/description"
+  }
+]

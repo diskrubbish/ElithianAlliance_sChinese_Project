@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Hatchmother's Cloak",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;The cloak of an Avikan hatchmother.",
+    "path": "/description"
+  }
+]

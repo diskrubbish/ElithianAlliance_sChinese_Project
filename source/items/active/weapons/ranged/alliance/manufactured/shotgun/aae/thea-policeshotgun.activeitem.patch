@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A shotgun sometimes employed by P-ASA officers.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "P-ASA Disperser S-3",
+    "path": "/shortdescription"
+  }
+]

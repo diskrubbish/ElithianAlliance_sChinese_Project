@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Belted Tanktop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A tanktop and belt, popular amongst the Aegi.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "SET BONUS: Speed increase while invisible",
+    "path": "/label"
+  }
+]

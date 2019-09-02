@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Starfarer's Suit",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A suit commonly worn by Avikan starfarers.",
+    "path": "/description"
+  }
+]

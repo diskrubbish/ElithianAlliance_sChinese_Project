@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Spice Bol",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spiced and cooked Bolbohns make for a decidedly odd taste.",
+    "path": "/description"
+  }
+]

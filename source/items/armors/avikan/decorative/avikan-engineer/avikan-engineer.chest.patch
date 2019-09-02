@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Engineer's Vest",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A tight-fitting vest worn by engineers of the Nomada.",
+    "path": "/description"
+  }
+]

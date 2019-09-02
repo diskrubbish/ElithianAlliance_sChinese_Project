@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An official Union Citizen Identification Card.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Union Citizen Pass^white;",
+    "path": "/shortdescription"
+  }
+]

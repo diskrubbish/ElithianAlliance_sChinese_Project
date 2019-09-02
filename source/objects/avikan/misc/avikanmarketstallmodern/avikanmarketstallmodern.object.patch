@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A collection of Avikan drones, lights and other tech.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A collection of alien technology.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A market stall full of Avikan tech.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A market stall full of alien tech.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A market stall! What are they selling?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A variety of Avikan items, all advanced technology.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki steal drones-alien here. Not buy.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alien technology for sale? This might be useful...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An assortment of Avikan technology.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Tech Stall",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan technology. I see drones, droids, lights...",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Despite their anti-AI culture, the Avikan use drones and other robots extensively.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Drones! The perfect toys for spying on your neighbors!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal birdsss for sssale.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These drones are advanced, but don't even come close to the Trinks.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Whoever owns this stall sells Drahls, Droden and other tech.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected market stall. Scanning for nearby merchants...",
+    "path": "/drodenDescription"
+  }
+]

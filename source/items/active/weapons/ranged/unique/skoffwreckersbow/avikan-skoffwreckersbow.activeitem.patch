@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A monstrous linerifle capable of downing ships in flight.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Skoffwrecker's Bow^white;",
+    "path": "/shortdescription"
+  }
+]

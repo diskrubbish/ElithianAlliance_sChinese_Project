@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Construct",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Centensian components allow this weapon to summon constructs.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;The Architect^white;",
+    "path": "/shortdescription"
+  }
+]

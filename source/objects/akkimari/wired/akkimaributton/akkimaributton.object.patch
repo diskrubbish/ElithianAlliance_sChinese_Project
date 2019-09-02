@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "A touch-screen button.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akris Wall Button",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki press, things happen.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis. Button. Used to temporarily activate circuits.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presss it!",
+    "path": "/floranDescription"
+  }
+]

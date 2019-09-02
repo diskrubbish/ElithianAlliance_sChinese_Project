@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Solar Barrage",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;An ancient weapon that drains stars for power.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Sun Drainer^white;",
+    "path": "/shortdescription"
+  }
+]

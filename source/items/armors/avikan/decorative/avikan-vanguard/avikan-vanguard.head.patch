@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Vanguard Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A durable helmet issued to soldiers of the Avikan Vanguard.",
+    "path": "/description"
+  }
+]

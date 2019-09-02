@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A light Thelean blade. The grip is very uncomfortable to non-Theleans.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Thelean Shortblade",
+    "path": "/shortdescription"
+  }
+]

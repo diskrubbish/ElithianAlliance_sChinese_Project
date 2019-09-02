@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Rogue's Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A dark mask, worn by those involved in shady businesses.",
+    "path": "/description"
+  }
+]

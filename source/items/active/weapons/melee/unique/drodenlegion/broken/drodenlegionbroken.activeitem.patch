@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A broken longsword, with a chipped blade and busted power supply.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Longsword",
+    "path": "/shortdescription"
+  }
+]

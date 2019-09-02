@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Broken Avikan Panel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Damaged metal panel. Unit might be able to break through.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran breaksss through panelss with crackss. Floran is ssstrong.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Panel-damaged, close to breaking.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This panel looks broken. Perhaps I can break through.",
+    "path": "/description"
+  }
+]

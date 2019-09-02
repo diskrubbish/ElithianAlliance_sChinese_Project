@@ -1,0 +1,112 @@
+[
+  {
+    "op": "replace",
+    "value": "Entering rest mode.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Error. Unable to reach location.",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Replacement for unit <selfname> has arrived.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Replacement unit has arrived.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Requesting permission to join ship crew.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Resuming combat mode.",
+    "path": "/scriptConfig/dialog/crewmember/follow/droden/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "This unit can offer combat support.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/droden/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "This unit is at your service.",
+    "path": "/scriptConfig/dialog/crewmember/follow/droden/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "This unit is at your service. Requesting permission to join ship crew.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "This unit will assist you in combat, Captain.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/droden/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "This unit will remain here.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Unable to reach target location.",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Unit <selfname> requests permission to join ship crew.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Unit is falling behind.",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Unit is ready for combat.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/droden/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Unit is ready to venture on.",
+    "path": "/scriptConfig/dialog/crewmember/follow/droden/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Unit is unable to reach that location.",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/droden/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Unit replacement delivery completed.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Unit replacement reporting for duty.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/droden/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Unit reporting for duty.",
+    "path": "/scriptConfig/dialog/crewmember/follow/droden/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Unit will guard this location.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Unit will wait.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/droden/default/0"
+  }
+]

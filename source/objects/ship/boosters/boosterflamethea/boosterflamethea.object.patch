@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A booster, the wings of a ship.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A booster. These have been known to malfunction and explode.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large flaming exhaust. It'll sling this ship from one star right to another.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A ship engine's exhaust flame. It is extremely hot.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A spaceship's engine exhaust flame.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Booster Flame",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Exhaust-hot, Akki burn if Akki touch.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Heat signature detected. Spaceship propulsion confirmed.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Propulsion.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ship propulsion. The flame seems a bit excessive.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The engines on this ship need a lot of fuel. Too much, perhaps.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The exhaust flame of a spaceship engine is hot. Very hot.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The exhaust of a spaceship engine always reminds me of the volcanoes of Heragon.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These engines provide an incredible amount of force.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This ship's engine is more efficient than the flames would suggest.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This thing eats through fuel.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssscary fire.",
+    "path": "/floranDescription"
+  }
+]

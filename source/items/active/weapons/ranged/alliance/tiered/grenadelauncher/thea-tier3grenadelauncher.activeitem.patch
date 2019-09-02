@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A basic grenade launcher.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Baron M-12",
+    "path": "/shortdescription"
+  }
+]

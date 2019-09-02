@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Hunter's Skull",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A sturdy skull with a leather strap, worn by Avikan hunters.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Allows you to summon and control a small Drahlid unit.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Drahlid Remote Controller",
+    "path": "/shortdescription"
+  }
+]

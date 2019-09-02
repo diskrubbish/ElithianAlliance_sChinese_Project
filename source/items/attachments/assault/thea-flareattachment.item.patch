@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An underbarrel flare launcher.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flare Launcher",
+    "path": "/shortdescription"
+  }
+]

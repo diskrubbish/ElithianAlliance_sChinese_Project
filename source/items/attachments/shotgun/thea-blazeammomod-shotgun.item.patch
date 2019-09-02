@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Blaze Ammo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shotgun ammunition that ignites shortly after being fired.",
+    "path": "/description"
+  }
+]

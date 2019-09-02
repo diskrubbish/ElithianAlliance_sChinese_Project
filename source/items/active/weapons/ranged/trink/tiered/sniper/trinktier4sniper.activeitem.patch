@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Piercing Laser",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "A medium-grade, standard issue laser sniper rifle built by the Trinks.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Circuit Sniper Mk I",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Maelstrom RM9",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A machinegun perfect for sustained fire.",
+    "path": "/description"
+  }
+]

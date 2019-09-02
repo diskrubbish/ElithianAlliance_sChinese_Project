@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "A strong reinforced rail.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Rail",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected rail.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rails-shiny, Akki ride them fast!",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shiny metal rails.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some sturdy lookin' rails, gettin' the itch to ride 'em.",
+    "path": "/novakidDescription"
+  }
+]

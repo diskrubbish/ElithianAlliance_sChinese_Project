@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Holo",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "I like the sewers. It's always so quiet and peaceful here.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "An assault rifle produced somewhere in the Rim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bludgeoner RM8",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Proximity Ammo",
+    "path": "/altAbility/name"
+  }
+]

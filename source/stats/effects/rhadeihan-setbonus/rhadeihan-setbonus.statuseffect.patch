@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "SET BONUS: Damage increase at full health",
+    "path": "/label"
+  }
+]

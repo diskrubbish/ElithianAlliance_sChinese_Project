@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Warm Jacket",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A warm, padded jacket.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Place a self-propelled platform that follows rails.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Rail Platform",
+    "path": "/shortdescription"
+  }
+]

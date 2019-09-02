@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "AC.R-15 Longsight",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A high-impact sniper rifle.",
+    "path": "/description"
+  }
+]

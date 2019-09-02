@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "P-ASA Enforcer P-6",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "The standard handgun held by P-ASA officers.",
+    "path": "/description"
+  }
+]

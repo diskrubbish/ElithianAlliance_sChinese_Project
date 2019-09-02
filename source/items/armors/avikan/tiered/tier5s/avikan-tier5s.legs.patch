@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Nomada Skirt Type-S",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A leather skirt with metal plates on the side. Vigorous version.",
+    "path": "/description"
+  }
+]

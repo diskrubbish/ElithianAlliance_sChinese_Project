@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large and bulky monitor array.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Infospire",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Infospire, it shows real-time information about the entire Elithian economy.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient solution to collecting and displaying economical information.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder what all of this information really means...",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Lots of screens.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Screens-shiny, Akki steal?",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Several monitors mounted to a large central processing unit.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Shiny screens.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssshiny sscreenss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "That's quite a few screens.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "That's quite the monitor array.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The CPU on this Infospire is quite powerful.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The buzz from these screens is soothing.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "There's a lot of information about the Elithian economy here.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These monitors display economical information.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This Infospire displays all the latest news regarding the Elithian economy.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien interface.",
+    "path": "/drodenDescription"
+  }
+]

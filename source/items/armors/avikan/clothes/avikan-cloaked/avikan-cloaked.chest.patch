@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Deep Desert Robes",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A large robe worn by those few who dare brave Kadavan's deepest deserts.",
+    "path": "/description"
+  }
+]

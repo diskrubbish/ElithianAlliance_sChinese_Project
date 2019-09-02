@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Frozen",
+    "path": "/label"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A prototype compact linerifle developed by the Seekers.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Seeker MLR-02^white;",
+    "path": "/shortdescription"
+  }
+]

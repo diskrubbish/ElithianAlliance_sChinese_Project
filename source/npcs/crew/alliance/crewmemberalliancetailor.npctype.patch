@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "value": "Tailor",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Come to me if you want to update your crew's uniform!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Incredible fashion sense, captain!",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Looking good!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "My tailoring skills let me update your crew's uniform. Just speak to me when you need my services!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "That look is definitely in this season!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "This outfit will make your crew really stand out. Great choice, captain!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance",
+    "path": "/scriptConfig/crew/role/field"
+  }
+]

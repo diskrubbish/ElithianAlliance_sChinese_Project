@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Nomada Bow",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;Used to harvest monster bones and hides.",
+    "path": "/description"
+  }
+]

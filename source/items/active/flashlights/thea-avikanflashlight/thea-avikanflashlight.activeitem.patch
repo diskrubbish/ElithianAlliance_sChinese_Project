@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A powerful flashlight with a broad light.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nomada Flashlight",
+    "path": "/shortdescription"
+  }
+]

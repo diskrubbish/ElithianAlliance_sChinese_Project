@@ -1,0 +1,122 @@
+[
+  {
+    "op": "replace",
+    "value": "<selfname> can not die! Ha!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/akkimari/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> feel strange now...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/akkimari/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> follow you. Alright?",
+    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> gonna fight!",
+    "path": "/scriptConfig/dialog/crewmember/follow/akkimari/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> lives again!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/akkimari/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> mad! No go there!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> not go there. Too far.",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> ready for fight!",
+    "path": "/scriptConfig/dialog/crewmember/follow/akkimari/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> want to fight. Not wait.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> want to join you.",
+    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> will wait. Not too long.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Death does not scare <selfname>!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/akkimari/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Go! <selfname> follow.",
+    "path": "/scriptConfig/dialog/crewmember/follow/akkimari/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Gonna kill!",
+    "path": "/scriptConfig/dialog/crewmember/follow/akkimari/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "No leave <selfname>!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Not leave <selfname> long.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Strong fighter! <selfname> want to follow you!",
+    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Why leave <selfname> behind?",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Why must <selfname> wait?",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> makes blades sharp for you. When fight?",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "<selfname> scavenges for long time. Strong now.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Fight for you now, <selfname> will.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Want to fight for you.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "You strong! <selfname> follow you!",
+    "path": "/scriptConfig/dialog/crewmember/offer/akkimari/default/3"
+  }
+]

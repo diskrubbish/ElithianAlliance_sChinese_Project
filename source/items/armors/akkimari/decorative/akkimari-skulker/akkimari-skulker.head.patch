@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Skulker's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A helmet with integrated night and heat vision, worn by Akkimari skulkers.",
+    "path": "/description"
+  }
+]

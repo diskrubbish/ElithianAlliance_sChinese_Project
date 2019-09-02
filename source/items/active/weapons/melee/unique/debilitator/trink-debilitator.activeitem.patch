@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Stun Discharge",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A massive shock baton built to incapacitate enemies.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;SB-4 Debilitator^white;",
+    "path": "/shortdescription"
+  }
+]

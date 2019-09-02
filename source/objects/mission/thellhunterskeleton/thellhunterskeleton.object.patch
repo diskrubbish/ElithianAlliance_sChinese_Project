@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "Alien-dead. Look like Thellhunter.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Avikan bones. Analysis: DNA traces match Thellhunter's profile.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Old boness, boness of the Thellhunter...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Thellhunter... He was stronger than my brethren, but fell nevertheless.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The legendary Thellhunter himself...",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "The skeleton of the great Thellhunter himself...",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Thellhunter's Skeleton",
+    "path": "/shortdescription"
+  }
+]

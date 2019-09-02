@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Vanguard Pack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A lightweight but well protected metal chest designed to be worn on the back.",
+    "path": "/description"
+  }
+]

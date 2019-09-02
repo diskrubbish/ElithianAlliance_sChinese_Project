@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An elemental arrow that slows down targets.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Ice Arrow",
+    "path": "/shortdescription"
+  }
+]

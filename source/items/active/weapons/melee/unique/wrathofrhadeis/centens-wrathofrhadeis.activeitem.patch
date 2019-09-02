@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Wrath of Rhadeis",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A hammer wielding the strength of a Centensian god.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Wrath of Rhadeis^white;",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Precision Rockets",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A dual-barrel rocket launcher built to impress.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Nauroo^white;",
+    "path": "/shortdescription"
+  }
+]

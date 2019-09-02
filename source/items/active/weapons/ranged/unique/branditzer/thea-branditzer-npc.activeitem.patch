@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A minimalistic railgun firing dual overheated slugs.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Branditzer Type-1 (NPC)^reset;",
+    "path": "/shortdescription"
+  }
+]

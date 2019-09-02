@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;An exosuit built to enhance the agility of Vanguard soldiers. The reinforced spine also reduces fall damage.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Vanguard Exo-suit^white;",
+    "path": "/shortdescription"
+  }
+]

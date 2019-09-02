@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A relic associated with Rashaek, the Thelean uplifter.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Rashaek's Wisdom^white;",
+    "path": "/shortdescription"
+  }
+]

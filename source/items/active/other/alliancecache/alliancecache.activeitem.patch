@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Sealed Alliance Cache",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sealed cache containing something of value. Hold ^green;[LMB] ^white;to open!",
+    "path": "/description"
+  }
+]

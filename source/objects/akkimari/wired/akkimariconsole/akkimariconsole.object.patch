@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A computer console capable of wiring circuits together.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akris Console",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A strange interface for sure. Akkimari consoles make no sense to me.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Akkimari-built console. The interface is unfamiliar to me.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Akkimari-built interface. Strange, as usual.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Console for mechanism-control. Akki wire things together.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I suppose this may control nearby mechanisms, but I can't be sure without trying the buttons...",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This interface makes my fingers tingle when I press a button. It's odd, but also somehow pleasant.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A console for controlling connected objects.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A control panel of some sort.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A shiny console with an even shinier interface.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien interface. I can't make much sense of it.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis. Console. Interface decryption failed.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I probably shouldn't touch any of these buttons, but I really want to...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssshiny buttonsss, Floran presss?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This console may control nearby mechanisms.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This panel likely controls mechanisms nearby.",
+    "path": "/avianDescription"
+  }
+]

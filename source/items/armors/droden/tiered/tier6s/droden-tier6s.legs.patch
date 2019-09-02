@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Elite legs Type-S",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A legs upgrade for elite combat units. Vigorous version.",
+    "path": "/description"
+  }
+]

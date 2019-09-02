@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bad-ass rocket launcher if I ever saw one!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rather inefficient killing machine, but effective nonetheless.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rocket launcher built by the Avikan. They sure know how to build intimidating weapons.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rocket launcher of Avikan design.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A weapon of great destructive power.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A weapon of great power.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan rocket launcher on display.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "An impressive weapon of Avikan design.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Explosive weapon detected. Please exercise caution.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran not scared by boom-ssstick.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wouldn't recommend using a weapon like this underwater.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Launcher-rocket, make big boom! Make Akki happy.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This Vanguard rocket launcher instills fear into any enemy.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This rocket launcher looks intimidating.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This weapon was built to intimidate, and it's doing its job rather well.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard RPG Display",
+    "path": "/shortdescription"
+  }
+]

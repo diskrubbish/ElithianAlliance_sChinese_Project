@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Silencer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Silences shots and allows projectiles to pierce targets.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Bolter's Rags",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;LEG SLOT. ^white;A ragged cloth worn by the Bolter.",
+    "path": "/description"
+  }
+]

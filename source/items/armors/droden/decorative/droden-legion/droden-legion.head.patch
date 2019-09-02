@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Legion Head",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A head piece replacement for Droden Legion units.",
+    "path": "/description"
+  }
+]

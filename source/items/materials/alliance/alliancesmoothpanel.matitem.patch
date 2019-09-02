@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Alliance Panel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Polished metal panels.",
+    "path": "/description"
+  }
+]

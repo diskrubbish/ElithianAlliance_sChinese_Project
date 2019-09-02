@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran isss curiousss. What'ss insside?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cooled storage device. Food won't spoil quickly in here.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cooled storage unit, for keeping food fresh.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A cooled storage unit, perfect for keeping bananas fresh.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A fridge, I think.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A highly efficient cooling device. Useful for storing organic matter.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A machine-built cooling device. Far too cold for my liking.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cooled storage device detected. Device will keep organic matter from decaying.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cooled storage. For keeping food fresh, I would think.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "My stomach is rumbling with excitement!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some use these cooling devices to store food, but they have many more applications besides.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Storage-cold, keeps food fresh.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Trink don't usually keep food, unless they expect organic visitors.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This fridge can be configured to reach extremely low temperatures.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This machine si cold to the touch. Is it some sorta fridge?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Cooled Storage",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian fridges can reach extremely low temperatures.",
+    "path": "/jorgasianDescription"
+  }
+]

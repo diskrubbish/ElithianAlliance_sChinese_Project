@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;Shakkar (NPC)^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A brutal spear with an electrified blade.",
+    "path": "/description"
+  }
+]

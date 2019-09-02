@@ -1,0 +1,307 @@
+[
+  {
+    "op": "replace",
+    "value": "Chi",
+    "path": "/names/1/1/38"
+  },
+  {
+    "op": "replace",
+    "value": "Alpha",
+    "path": "/names/1/1/18"
+  },
+  {
+    "op": "replace",
+    "value": "BIT",
+    "path": "/names/1/2/7"
+  },
+  {
+    "op": "replace",
+    "value": "BYTE",
+    "path": "/names/1/2/9"
+  },
+  {
+    "op": "replace",
+    "value": "Beta",
+    "path": "/names/1/1/19"
+  },
+  {
+    "op": "replace",
+    "value": "Bi",
+    "path": "/names/1/1/45"
+  },
+  {
+    "op": "replace",
+    "value": "CLOUD",
+    "path": "/names/1/2/6"
+  },
+  {
+    "op": "replace",
+    "value": "CPU",
+    "path": "/names/1/2/3"
+  },
+  {
+    "op": "replace",
+    "value": "DATA",
+    "path": "/names/1/2/16"
+  },
+  {
+    "op": "replace",
+    "value": "DISK",
+    "path": "/names/1/2/12"
+  },
+  {
+    "op": "replace",
+    "value": "DRIVE",
+    "path": "/names/1/2/13"
+  },
+  {
+    "op": "replace",
+    "value": "Delta",
+    "path": "/names/1/1/21"
+  },
+  {
+    "op": "replace",
+    "value": "Down",
+    "path": "/names/1/1/42"
+  },
+  {
+    "op": "replace",
+    "value": "Epsilon",
+    "path": "/names/1/1/22"
+  },
+  {
+    "op": "replace",
+    "value": "Eta",
+    "path": "/names/1/1/24"
+  },
+  {
+    "op": "replace",
+    "value": "Exa",
+    "path": "/names/1/1/7"
+  },
+  {
+    "op": "replace",
+    "value": "Exbi",
+    "path": "/names/1/1/15"
+  },
+  {
+    "op": "replace",
+    "value": "FLOP",
+    "path": "/names/1/2/10"
+  },
+  {
+    "op": "replace",
+    "value": "FLUX",
+    "path": "/names/1/2/14"
+  },
+  {
+    "op": "replace",
+    "value": "Gamma",
+    "path": "/names/1/1/20"
+  },
+  {
+    "op": "replace",
+    "value": "Gibi",
+    "path": "/names/1/1/12"
+  },
+  {
+    "op": "replace",
+    "value": "Giga",
+    "path": "/names/1/1/4"
+  },
+  {
+    "op": "replace",
+    "value": "HERTZ",
+    "path": "/names/1/2/11"
+  },
+  {
+    "op": "replace",
+    "value": "Hi",
+    "path": "/names/1/1/43"
+  },
+  {
+    "op": "replace",
+    "value": "Iota",
+    "path": "/names/1/1/26"
+  },
+  {
+    "op": "replace",
+    "value": "Kappa",
+    "path": "/names/1/1/27"
+  },
+  {
+    "op": "replace",
+    "value": "Kibi",
+    "path": "/names/1/1/10"
+  },
+  {
+    "op": "replace",
+    "value": "Kilo",
+    "path": "/names/1/1/2"
+  },
+  {
+    "op": "replace",
+    "value": "LOAD",
+    "path": "/names/1/2/15"
+  },
+  {
+    "op": "replace",
+    "value": "Lambda",
+    "path": "/names/1/1/28"
+  },
+  {
+    "op": "replace",
+    "value": "Mebi",
+    "path": "/names/1/1/11"
+  },
+  {
+    "op": "replace",
+    "value": "Mega",
+    "path": "/names/1/1/3"
+  },
+  {
+    "op": "replace",
+    "value": "Mu",
+    "path": "/names/1/1/29"
+  },
+  {
+    "op": "replace",
+    "value": "NYBBLE",
+    "path": "/names/1/2/8"
+  },
+  {
+    "op": "replace",
+    "value": "Niv",
+    "path": "/names/1/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "OS",
+    "path": "/names/1/2/4"
+  },
+  {
+    "op": "replace",
+    "value": "Omega",
+    "path": "/names/1/1/40"
+  },
+  {
+    "op": "replace",
+    "value": "Omicron",
+    "path": "/names/1/1/31"
+  },
+  {
+    "op": "replace",
+    "value": "Pebi",
+    "path": "/names/1/1/14"
+  },
+  {
+    "op": "replace",
+    "value": "Peta",
+    "path": "/names/1/1/6"
+  },
+  {
+    "op": "replace",
+    "value": "Phi",
+    "path": "/names/1/1/37"
+  },
+  {
+    "op": "replace",
+    "value": "Pi",
+    "path": "/names/1/1/32"
+  },
+  {
+    "op": "replace",
+    "value": "Psi",
+    "path": "/names/1/1/39"
+  },
+  {
+    "op": "replace",
+    "value": "RAM",
+    "path": "/names/1/2/1"
+  },
+  {
+    "op": "replace",
+    "value": "ROM",
+    "path": "/names/1/2/2"
+  },
+  {
+    "op": "replace",
+    "value": "Rho",
+    "path": "/names/1/1/33"
+  },
+  {
+    "op": "replace",
+    "value": "Sigma",
+    "path": "/names/1/1/34"
+  },
+  {
+    "op": "replace",
+    "value": "Tau",
+    "path": "/names/1/1/35"
+  },
+  {
+    "op": "replace",
+    "value": "Tebi",
+    "path": "/names/1/1/13"
+  },
+  {
+    "op": "replace",
+    "value": "Tera",
+    "path": "/names/1/1/5"
+  },
+  {
+    "op": "replace",
+    "value": "Theta",
+    "path": "/names/1/1/25"
+  },
+  {
+    "op": "replace",
+    "value": "Up",
+    "path": "/names/1/1/41"
+  },
+  {
+    "op": "replace",
+    "value": "Upsilon",
+    "path": "/names/1/1/36"
+  },
+  {
+    "op": "replace",
+    "value": "WARE",
+    "path": "/names/1/2/5"
+  },
+  {
+    "op": "replace",
+    "value": "Wi",
+    "path": "/names/1/1/44"
+  },
+  {
+    "op": "replace",
+    "value": "Xi",
+    "path": "/names/1/1/30"
+  },
+  {
+    "op": "replace",
+    "value": "Yobi",
+    "path": "/names/1/1/17"
+  },
+  {
+    "op": "replace",
+    "value": "Yotta",
+    "path": "/names/1/1/9"
+  },
+  {
+    "op": "replace",
+    "value": "Zebi",
+    "path": "/names/1/1/16"
+  },
+  {
+    "op": "replace",
+    "value": "Zeta",
+    "path": "/names/1/1/23"
+  },
+  {
+    "op": "replace",
+    "value": "Zetta",
+    "path": "/names/1/1/8"
+  }
+]

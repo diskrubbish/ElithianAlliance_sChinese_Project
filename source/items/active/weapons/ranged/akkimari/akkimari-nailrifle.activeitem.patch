@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A makeshift assault rifle firing hardened nails.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akris Nailrifle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Piercing Nails",
+    "path": "/altAbility/name"
+  }
+]

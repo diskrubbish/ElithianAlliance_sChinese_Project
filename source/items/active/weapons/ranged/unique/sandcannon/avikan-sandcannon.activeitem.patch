@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Sand Bomb",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A merciless stream of sand to keep your enemies at bay.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Desert's Embrace^white;",
+    "path": "/shortdescription"
+  }
+]

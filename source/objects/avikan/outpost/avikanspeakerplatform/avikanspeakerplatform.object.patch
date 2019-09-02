@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform from which to address the public.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A platform.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akki stand here, talk to Akkimari.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Speaker's Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "He who sspeaksss sstandsss here...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Platform. Used by Speakers to adress the public.",
+    "path": "/drodenDescription"
+  }
+]

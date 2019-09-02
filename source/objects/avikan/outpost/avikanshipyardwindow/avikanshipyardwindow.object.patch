@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "Analysis. Glass.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki look at shipyard through glass.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Shipyard Window",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This window provides an excellent view of the shipyard.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large reinforced window.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran fassscinated by viewsss...",
+    "path": "/floranDescription"
+  }
+]

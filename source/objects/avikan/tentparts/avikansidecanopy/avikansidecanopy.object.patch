@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A canopy that can be attached to the side of a building for additional shade.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Side Canopy",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Canopy-colourful, make shadow during day.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A birght and colourful canopy, it can cast a valuable shade in the desert.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A canopy made of colourful fabric. Well-woven.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A canopy made of decorated fabric.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A canopy, for casting a shade in the warm desert.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A colourful canopy, it provides a cool shadow during the day.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A colourful canopy.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A colourful canopy.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A finely decorated canopy, for keeping the sun out.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bright coloursss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Canopy. Provides a shade in the desert.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I prefer the heat over the cool shade such a canopy can cast.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The pattern is simple, but the fabric is very well crafted.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Useful for blocking out the sun when it gets too hot.",
+    "path": "/jorgasianDescription"
+  }
+]

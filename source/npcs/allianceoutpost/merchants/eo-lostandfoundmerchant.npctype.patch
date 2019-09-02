@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "If you ever lose something important, you know where to find me.",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Lost something important? I may have come across it!",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Lost something? I may be able to get it back for you!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "My supplies are close by. Follow me.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Now, what is it that you've lost?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "  Recover lost unique equipment",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Lost and Found",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  }
+]

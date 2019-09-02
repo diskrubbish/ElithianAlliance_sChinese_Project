@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A single-use projector that temporarily hides the user from view.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akris Cloaking Projector",
+    "path": "/shortdescription"
+  }
+]

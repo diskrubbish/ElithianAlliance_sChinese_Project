@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A long slender blade built for the Harrowing.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Harrowing Blade",
+    "path": "/shortdescription"
+  }
+]

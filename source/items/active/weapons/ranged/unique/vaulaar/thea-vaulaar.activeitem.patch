@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Mayhem",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A dual-barrel assault rifle for causing mayhem.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Vaulaar^white;",
+    "path": "/shortdescription"
+  }
+]

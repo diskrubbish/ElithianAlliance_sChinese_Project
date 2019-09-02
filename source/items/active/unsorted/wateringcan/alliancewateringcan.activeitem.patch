@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A basic watering can, useful for tending to your crops manually.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Allosteel Watering Can",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A powerful flux rifle which shoots molten metal projectiles.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vatha'rak",
+    "path": "/shortdescription"
+  }
+]

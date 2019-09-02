@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Snowstorm",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A devastating cryogenic weapon designed by the Notix.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Snowpiercer^white;",
+    "path": "/shortdescription"
+  }
+]

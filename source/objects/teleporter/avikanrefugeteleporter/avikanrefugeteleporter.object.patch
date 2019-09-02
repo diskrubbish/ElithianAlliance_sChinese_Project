@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alien teleporter makesss Floran sssick...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A teleporter linked to the Starfarer's Refuge. \n^red;Destroyed when broken.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan teleporter, it is linked to a set location.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan teleporter. Might this link to their famous Nomada?",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis. Readings indicate that this teleporter links directly to the Starfarer's Refuge.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This Avikan teleporter is linked directly to their Starfarer's Refuge.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This teleporter is directly linked to a set location.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This teleporter is linked directly to the Starfarer's Refuge.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This teleporter is linked to a set location somewhere in the galaxy.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This teleporter is linked to a set location.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This teleporter is linked to a set location.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This teleporter is linked to a set location.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This teleporter is linked to a set location.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This teleporter is linked to a set location.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This teleporter is linked to a set location. Let's see where it leads.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Starfarer's Teleporter",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teleporter-alien, linked to Refuge-Starfarers.",
+    "path": "/akkimariDescription"
+  }
+]

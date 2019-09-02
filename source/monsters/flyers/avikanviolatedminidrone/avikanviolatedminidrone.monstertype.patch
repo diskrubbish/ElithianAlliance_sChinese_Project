@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An Avikan Drahlid, corrupted by Thelean Vesomeyr.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Violated Drahlid",
+    "path": "/shortdescription"
+  }
+]

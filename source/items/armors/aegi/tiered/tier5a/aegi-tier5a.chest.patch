@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Explorer's Cuirass Type-A",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A segmented metal chestpiece for greater mobility. Energetic version.",
+    "path": "/description"
+  }
+]

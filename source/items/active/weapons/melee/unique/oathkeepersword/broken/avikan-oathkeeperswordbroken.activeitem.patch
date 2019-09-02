@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^#BA66FF;A once-famous sword, now bent and broken.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Broken Sword of Fame^white;",
+    "path": "/shortdescription"
+  }
+]

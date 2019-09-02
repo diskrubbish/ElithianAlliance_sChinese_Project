@@ -1,0 +1,167 @@
+[
+  {
+    "op": "replace",
+    "value": "Greetings, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "A Droden, here? I suppose you're welcome, so long as you cause no trouble.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "A walking plant? We do not get many of your kind in our camp.",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "As the Elder of this camp, I welcome you.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Few Droden visit the Avikan camps. Your kind usually stick to the bunkers.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/1"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, feathered one. What brings you to our camp?",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, soft-skin. What brings you to our camp?",
+    "path": "/scriptConfig/dialog/converse/avikan/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Machines such as you are not welcome in our camp.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/2"
+  },
+  {
+    "op": "replace",
+    "value": "Machines such as you are not welcome in our camp.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/2"
+  },
+  {
+    "op": "replace",
+    "value": "Our camp is humbled to have a Captain visit us.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to our camp, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to our camp, hairy one.",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/2"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to our camp, plant.",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/2"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to our camp, soft-skin.",
+    "path": "/scriptConfig/dialog/converse/avikan/human/1"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to our small camp, feathered one.",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/1"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to our small camp, wet one.",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/1"
+  },
+  {
+    "op": "replace",
+    "value": "What brings you to our camp?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, traveller.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, wet one. What brings you here?",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/2"
+  },
+  {
+    "op": "replace",
+    "value": "Hello there, hairy thing. What brings you here?",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "If you truly are a free Droden, then you are welcome here.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/2"
+  },
+  {
+    "op": "replace",
+    "value": "We are not fond of your kind here, machine.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "We are not fond of your kind here, machine.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/1"
+  },
+  {
+    "op": "replace",
+    "value": "What brings a wet one like you here, might I ask?",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "What brings you here, bird?",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/2"
+  },
+  {
+    "op": "replace",
+    "value": "What brings you here, plant?",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "What brings you here, soft-skin?",
+    "path": "/scriptConfig/dialog/converse/avikan/human/2"
+  },
+  {
+    "op": "replace",
+    "value": "Why are you here, machine?",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Why are you here, machine?",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, hairy one.",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/1"
+  },
+  {
+    "op": "replace",
+    "value": "Hello, stranger.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vas Vha'leih, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/3"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome, stranger.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A broken scathe, a shadow of its former self.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Scathe",
+    "path": "/shortdescription"
+  }
+]

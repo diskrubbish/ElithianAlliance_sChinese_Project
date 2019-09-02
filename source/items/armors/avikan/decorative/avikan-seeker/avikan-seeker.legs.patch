@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Seeker's Skirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A long skirt worn by Avikan Seekers.",
+    "path": "/description"
+  }
+]

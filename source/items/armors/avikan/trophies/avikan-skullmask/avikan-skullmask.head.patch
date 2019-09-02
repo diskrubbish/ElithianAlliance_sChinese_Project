@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Monster Skull Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;The skull of a monster, modified to fit as a mask. A nice trophy.",
+    "path": "/description"
+  }
+]

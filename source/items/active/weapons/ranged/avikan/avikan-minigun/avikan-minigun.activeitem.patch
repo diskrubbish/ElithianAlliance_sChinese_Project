@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A high damage, high recoil weapon of Avikan design.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Minigun",
+    "path": "/shortdescription"
+  }
+]

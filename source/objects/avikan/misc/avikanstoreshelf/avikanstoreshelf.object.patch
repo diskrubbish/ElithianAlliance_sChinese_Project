@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A seemingly random collection of goods. Is this all for sale?",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A shelf full of Avikan goods.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A shelf full of common Avikan goods.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A shelf full of goods, both edible and decorative.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki go shopping here.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An odd collection of goods and supplies.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Store Shelf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "This shelf has all I need to prepare a good meal.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bunch of random goods, it seems to me.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A varied assortments of goods.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "All sorts of goods.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected store shelf. Scanning for nearby merchants.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder what that food will taste like.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssshelf full of goodiess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "There's food here, but also trinkets and materials.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This shelf has an odd combination of goods on it.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This shelf is decently organized, but I could do better.",
+    "path": "/trinkDescription"
+  }
+]

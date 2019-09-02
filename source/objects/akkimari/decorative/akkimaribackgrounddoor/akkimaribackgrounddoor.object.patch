@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "Akris Background Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki curious where door leads...",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran wondersss where door goesss...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder where this door leads...",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Scanning failed. Unable to determine where this door leads.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A closed blast door.",
+    "path": "/description"
+  }
+]

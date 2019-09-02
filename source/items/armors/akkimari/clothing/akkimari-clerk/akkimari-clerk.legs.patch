@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Clerk's Satchel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A silken satchel and belt worn by the clerks of the Justiciary.",
+    "path": "/description"
+  }
+]

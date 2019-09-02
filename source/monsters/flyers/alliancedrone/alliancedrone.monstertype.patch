@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A small multi-purpose drone.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "AAE Drone",
+    "path": "/shortdescription"
+  }
+]

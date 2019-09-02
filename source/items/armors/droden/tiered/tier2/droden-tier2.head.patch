@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Tungsten Head",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A sturdy tungsten head upgrade.",
+    "path": "/description"
+  }
+]

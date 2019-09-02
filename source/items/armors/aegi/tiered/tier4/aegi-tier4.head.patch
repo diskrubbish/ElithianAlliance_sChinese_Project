@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Commando's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A strong metal helmet worn by Aeginian commandos.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A weapon that draws power from the edge of a black hole.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Event Horizon^white;",
+    "path": "/shortdescription"
+  }
+]

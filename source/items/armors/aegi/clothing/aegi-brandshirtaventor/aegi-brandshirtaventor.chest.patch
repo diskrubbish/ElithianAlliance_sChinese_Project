@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Aventor T-Shirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A promotional Aventor shirt.",
+    "path": "/description"
+  }
+]

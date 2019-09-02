@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "Er'Alas",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "Even your robotic kind won't understand fear until you have dwelled in the deepest deserts as I have.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "Even your robotic kind won't understand fear until you have dwelled in the deepest deserts as I have.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Even your robotic kind won't understand fear until you have dwelled in the deepest deserts as I have.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "If you haven't dwelled in the deepest deserts as I have, you have seen nothing yet, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "If you haven't dwelled in the deepest deserts as I have, you have seen nothing yet.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "If you haven't dwelled in the deepest deserts as I have, you have seen nothing yet.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

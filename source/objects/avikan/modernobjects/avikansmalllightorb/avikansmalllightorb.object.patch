@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "Orb-floating, create light.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hovering light. I wonder how this effect was achieved.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hovering light. It seems to be based on Centensian technology.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A levitating light. Provides both light and warmth.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Light Orb",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected light orb.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Impressive. This light hovers using some of our own technologies.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This light is efficient, lightweight and very versatile.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hovering light. A feat of technology, but unnecessary underwater.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hovering light. Built using Centensian technology, no doubt.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hovering light. Don't bump your head!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hovering light. Fancy.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hovering light. I have no idea how it works.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hovering light. Impressive.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pretty, hovering light.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An advanced light that hovers in the air.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An advanced, hovering light.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient light that hovers gently in the air.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran not understand how light floatsss.",
+    "path": "/floranDescription"
+  }
+]

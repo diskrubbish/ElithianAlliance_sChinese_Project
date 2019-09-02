@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A small drone used for patrolling and scouting ahead.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Minidrone",
+    "path": "/shortdescription"
+  }
+]

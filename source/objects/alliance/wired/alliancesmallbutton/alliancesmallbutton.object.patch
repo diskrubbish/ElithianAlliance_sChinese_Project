@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Akki press button, make things happen.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Alliance Button",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis. Button. Used to temporarily activate circuits.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presss it!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small wall button.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Broken Shieldblade",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Once a great Aevis, now broken by time and use.",
+    "path": "/description"
+  }
+]

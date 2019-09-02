@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather tapestry, rolled up for storage.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather tapestry, rolled up neatly.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather tapestry, rolled up to conserve space.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather tapestry.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rolled up leather tapestry.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rolled up leather tapestry.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A rolled up leather tapestry.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rolled up tapestry.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple leather tapestry.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple, rolled up leather tapestry.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple, rolled up tapestry.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Tapestry Roll",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Such a tapestry might look good as home decoration.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tapesstry iss rolled up.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tapestry-leather, all rolled up.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This tapestry would look great in my home.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Scan completed. Material: leather.",
+    "path": "/drodenDescription"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hologram displaying a warning sign.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A hologram displaying some information.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hologram displaying useful information.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hologram. It displays quite a lot of information.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Hologram",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien hologram. The Nomada might glean useful information from it.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien hologram. Attempting translation.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hologram-alien.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Holograms are an elegant replacement for physcial screens.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Holograms can be quite efficient.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I always like holograms.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I'm not sure what this hologram is displaying.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It's a hologram. I can hear it buzzing.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Someone wrote some stuff in the sky.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssky-writing confusess Floran.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This hologram is being projected by a tiny projector not far away.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This hologram is displaying useful information.",
+    "path": "/hymidDescription"
+  }
+]

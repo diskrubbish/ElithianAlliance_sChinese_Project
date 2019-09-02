@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "A fossiled Droden frame. Very little of the wiring remains.",
+    "path": "/completeSetDescriptions/description"
+  },
+  {
+    "op": "replace",
+    "value": "A fossilised Droden head.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Droden Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Droden Head",
+    "path": "/shortdescription"
+  }
+]

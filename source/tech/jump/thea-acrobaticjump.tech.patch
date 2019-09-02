@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Acrobatic Jump",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hold ^green;[S/Down] ^reset; to roll and break falls.",
+    "path": "/description"
+  }
+]

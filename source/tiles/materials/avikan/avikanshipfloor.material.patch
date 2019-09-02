@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Ship Floor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Multi-layer floor panel.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Designed for use in spaceships, this floor panel is highly impact-resistant.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floor-ship, Akki no clean it. Let Nokkimari do it.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal floor panel makess Floran feel sssafe...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This panel has multiple layers of metal stuff in it.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Stairs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sturdy metal stairs.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Stairs-metal.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A set of sturdy metal stairs.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Metal stairs.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssstairss are for climbing. Floran knowsss thiss.",
+    "path": "/floranDescription"
+  }
+]

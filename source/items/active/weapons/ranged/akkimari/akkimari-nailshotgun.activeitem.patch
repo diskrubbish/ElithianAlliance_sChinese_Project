@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A heavy nail cannon cobbled together by the Akkimari.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akris Nailcannon",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Piercing Nails",
+    "path": "/altAbility/name"
+  }
+]

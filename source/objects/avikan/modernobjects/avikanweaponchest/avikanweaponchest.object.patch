@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Vanguard supply crate! Let's see what's inside!",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Vanguard supply crate. It likely contains some for of Avikan-built weaponry.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metal container, likely used by the military. There might be a weapon inside.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chest for weapons.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Vanguard supply crate.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This looks like one of the Vanguard's military supply crates.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Supply Crate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A military-grade chest for storing weapons and other military supplies.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A military-grade supply crate, built to keep its content completely safe.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A military-grade supply crate, certain to hold some armaments.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A weather and war-proof supply crate. It might hold some military equipment.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien weapon chest. Let's have a look inside!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran isss eager to open chesst. Maybe ssstabby weapon insside!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Might be some sorta weapon inside o' this chest!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Presents are most exciting when they're still wrapped.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This chest is likely to contain some military equipment.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This looks like a military supply crate. There could be weapons inside!",
+    "path": "/apexDescription"
+  }
+]

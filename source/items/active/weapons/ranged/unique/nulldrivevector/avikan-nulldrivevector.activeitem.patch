@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Overcharge",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A linerifle using a unique drive for near-instant charging.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Null-Drive Vector^white;",
+    "path": "/shortdescription"
+  }
+]

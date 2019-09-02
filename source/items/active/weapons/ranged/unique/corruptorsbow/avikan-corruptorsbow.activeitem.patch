@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Ion Swarm",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A linerifle corrupted by Thelean vesomeyr.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Corruptor's Bow^white;",
+    "path": "/shortdescription"
+  }
+]

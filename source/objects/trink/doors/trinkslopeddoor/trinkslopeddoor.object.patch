@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran wondersss what is behind metal doorsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Trinkian sloped door.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A fine sloped door made of strong metal. Ain't nothing coming through here.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A heavy sloped metal door. Effective at keeping things out.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A shiny sloped door.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sloped door of Trinkian design.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sloped door.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sloped metal door built by machines.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sloped metal door.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sloped metal door. Not quite a blast door, but still very strong.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sturdy sloped metal door of Trinkian design.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A sturdy sloped metal door.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient way to seal off an entire compartment.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cool sloped door.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected door. Analysis: Sloped model.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Door-sloped, slippery-very.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Sloped Door",
+    "path": "/shortdescription"
+  }
+]

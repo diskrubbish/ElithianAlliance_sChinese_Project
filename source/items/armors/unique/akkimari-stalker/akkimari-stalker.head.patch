@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A tactical helmet that marks enemies on the integrated HUD.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Akris Stalker Helmet^white;",
+    "path": "/shortdescription"
+  }
+]

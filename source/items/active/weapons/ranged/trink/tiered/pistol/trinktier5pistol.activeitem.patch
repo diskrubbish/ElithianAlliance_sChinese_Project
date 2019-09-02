@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A high-grade, standard issue laser pistol built by the Trinks.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Circuit Pistol Mk V",
+    "path": "/shortdescription"
+  }
+]

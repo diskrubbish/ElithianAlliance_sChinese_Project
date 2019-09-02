@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "This upgrade adds cool air generation to your EPP's capabilities. Helpful on ^red;dangerously hot^reset; planets.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Circuit EPP-04",
+    "path": "/shortdescription"
+  }
+]

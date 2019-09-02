@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;An Avikan mask to celebrate the Harrowing!",
+    "path": "/description"
+  }
+]

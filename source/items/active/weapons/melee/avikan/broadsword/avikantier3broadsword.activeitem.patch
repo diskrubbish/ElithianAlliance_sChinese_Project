@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A sharp broadsword made of strong monster bone.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Stalker's Blade",
+    "path": "/shortdescription"
+  }
+]

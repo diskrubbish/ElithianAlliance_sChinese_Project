@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "A strong reinforced rail.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Dark Avikan Rail",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki want to bend rails-metal.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Nomada-built rail.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shiny metal rails.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some sturdy lookin' rails, gettin' the itch to ride 'em.",
+    "path": "/novakidDescription"
+  }
+]

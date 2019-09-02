@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Jumpfire Burst",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A unique weapon built using Centensian and Avikan tech.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Jumpfire Protocol^white;",
+    "path": "/shortdescription"
+  }
+]

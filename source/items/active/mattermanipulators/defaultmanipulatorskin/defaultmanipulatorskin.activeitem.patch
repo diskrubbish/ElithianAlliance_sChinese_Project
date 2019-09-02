@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Protectorate Manipulator",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Changes the appearance of your Matter Manipulator. ^red;Must have unlocked all modes.^reset;",
+    "path": "/description"
+  }
+]

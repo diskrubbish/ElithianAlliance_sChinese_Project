@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Rogue's Scarf",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A dark scarf worn by those who wish to remain anonymous.",
+    "path": "/description"
+  }
+]

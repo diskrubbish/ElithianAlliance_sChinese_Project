@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A lightweight panel.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Horizontal Centensian Panel",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A heavy transport truck.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A standard Alliance truck model, designed by Aeginian engineers.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A truck designed by ASA engineers.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A truck, for transporting heavy goods.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A truck, for truckin' around in.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aeginian ground transport, for moving heavy cargo.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Truck",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien ground vehicle. It looks like a transport vessel.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected unidentified vehicle.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran mussst not get in the way of ground crussher...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Not the most elegant vehicle, but it will transport heavy cargo with ease.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The most common model of Alliance transport trucks.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This truck can easily transport heavy cargo.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This truck has a magnetic bed, so cargo doesn't have to be tied to the vehicle.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This truck reminds me of home.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This vehicle is good for transporting heavy cargo.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vehicle-alien. Wheels-many.",
+    "path": "/akkimariDescription"
+  }
+]

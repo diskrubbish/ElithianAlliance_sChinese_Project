@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small metal container full of water.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Water Case",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Water in small boxesss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Water.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A container containing water. This looks like it'll never leak.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A container full of fresh water.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A container full of water, of vital importance to our people.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metal container full of water.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A properly sealed container, filled with water.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected water supply. Container status: unbreached.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fresh and clean water - how do I get it out?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fresh water!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fresh water! I could use some right now.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pure water, refreshing for the soul.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This water container has unusually thick glass. I guess the Avikan really don't want it to leak.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This water container is unlikely to ever start leaking.",
+    "path": "/trinkDescription"
+  }
+]

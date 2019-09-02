@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "Damage Per Second:",
+    "path": "/dpsTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Energy Per Second:",
+    "path": "/energyPerSecondTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Unique",
+    "path": "/customRarityLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  }
+]

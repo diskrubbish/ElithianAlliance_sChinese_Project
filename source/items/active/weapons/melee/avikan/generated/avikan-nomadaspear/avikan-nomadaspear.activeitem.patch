@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Nomada Spear",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metal spear built by craftsmen of the Nomada.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "value": "Draw Time:",
+    "path": "/drawTimeTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Energy Per Shot:",
+    "path": "/energyPerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Energy To Hold:",
+    "path": "/energyPerSecondTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Unique",
+    "path": "/customRarityLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Max Damage:",
+    "path": "/perfectMaxDamageTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Harvests meat and other goods from monsters.",
+    "path": "/descriptionLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;lvl^reset;",
+    "path": "/levelTitleLabel/value"
+  }
+]

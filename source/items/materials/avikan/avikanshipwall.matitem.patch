@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Strong metal plating, for the best protection.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Ship Wall",
+    "path": "/shortdescription"
+  }
+]

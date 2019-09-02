@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Unique",
+    "path": "/customRarityLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;lvl^reset;",
+    "path": "/levelTitleLabel/value"
+  }
+]

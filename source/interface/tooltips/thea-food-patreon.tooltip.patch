@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Unique",
+    "path": "/customRarityLabel/value"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "A sturdy beam connector piece.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akris Beam Connector",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Connector supports weight-great. Even Akkimari-fat.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It's just a beam connector piece.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small block connectsss beamss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Metal beam. Likely a support structure.",
+    "path": "/drodenDescription"
+  }
+]

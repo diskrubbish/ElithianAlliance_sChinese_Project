@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Protectorate Leggings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A modified Terrene Protectorate uniform, tailored specifically for an Akkimari.",
+    "path": "/description"
+  }
+]

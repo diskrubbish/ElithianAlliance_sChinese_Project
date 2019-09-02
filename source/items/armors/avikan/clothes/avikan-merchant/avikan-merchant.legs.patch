@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Merchant's Skirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A decorated leather skirt, favoured by merchants of the desert.",
+    "path": "/description"
+  }
+]

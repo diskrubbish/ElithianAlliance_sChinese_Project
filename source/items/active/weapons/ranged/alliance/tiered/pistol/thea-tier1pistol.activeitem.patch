@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A ballistic handgun.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "BP-6 Decker",
+    "path": "/shortdescription"
+  }
+]

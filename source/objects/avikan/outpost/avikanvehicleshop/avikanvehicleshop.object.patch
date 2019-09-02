@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "value": "  Nomada-certified vehicles",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "A Nomada-certified vehicle distributor. I'll need a license for most purchases, though.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki get vehicles-new, ride around, fly around.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran can buy vehicless here.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It seems that vehicles can be purchased here.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Jahkar's Licensed Vehicles",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Jahkar's Licensed Vehicles",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Merchant detected. Offers Nomada-certified vehicles.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Seems like the right place to buy me a new metal steed.",
+    "path": "/novakidDescription"
+  }
+]

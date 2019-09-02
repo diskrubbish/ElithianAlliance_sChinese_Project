@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal platformsss",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metal platform, coloured like sand.",
+    "path": "/description"
+  }
+]

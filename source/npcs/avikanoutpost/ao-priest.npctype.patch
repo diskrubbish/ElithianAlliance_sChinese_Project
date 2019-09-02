@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "value": "Rhadeis guide you, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "Rhadeis watches over us all.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "Rhadeis watches over us all.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Rhadeis watches over us all.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Rhadeis will guide us.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "Rhadeis will guide us.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Rhadeis will guide us.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "The Rhaiod greets you, stranger.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "The Rhaiod greets you, stranger.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "The Rhaiod is more than a religion. It is an institute of knowledge.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/4"
+  },
+  {
+    "op": "replace",
+    "value": "The Rhaiod is more than a religion. It is an institute of knowledge.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "The Rhaiod is more than a religion. It is an institute of knowledge.",
+    "path": "/scriptConfig/dialog/converse/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "The Rhaiod seeks for the truth. We do not tell myths.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/3"
+  },
+  {
+    "op": "replace",
+    "value": "The Rhaiod seeks for the truth. We do not tell myths.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "The Rhaiod seeks for the truth. We do not tell myths.",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "The day of reckoning will come for the Thell.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/5"
+  },
+  {
+    "op": "replace",
+    "value": "The day of reckoning will come for the Thell.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "The day of reckoning will come for the Thell.",
+    "path": "/scriptConfig/dialog/converse/default/default/5"
+  }
+]

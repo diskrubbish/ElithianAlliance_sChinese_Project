@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Centlar's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A curiously shaped helmet worn by Avikan Centlars. It is made of Centensian metal.",
+    "path": "/description"
+  }
+]

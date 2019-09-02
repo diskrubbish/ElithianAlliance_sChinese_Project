@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Thick glass from Kadavan.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Borderless Avikan Glass",
+    "path": "/shortdescription"
+  }
+]

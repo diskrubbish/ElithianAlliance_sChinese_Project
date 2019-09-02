@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Mark IV Body Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;LEG SLOT. ^white;A medium-grade durasteel body mod.",
+    "path": "/description"
+  }
+]

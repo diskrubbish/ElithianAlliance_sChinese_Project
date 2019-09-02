@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Open Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;An Avikan helmet with built-in air filters, but no canopy.",
+    "path": "/description"
+  }
+]

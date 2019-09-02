@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Fabric",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fabric wallsss.",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fabric tapestry for wall decoration and insulation.",
+    "path": "/description"
+  }
+]

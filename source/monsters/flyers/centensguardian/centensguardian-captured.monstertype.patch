@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An automated defence system built by the Ce'Tennan.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Oculus",
+    "path": "/shortdescription"
+  }
+]

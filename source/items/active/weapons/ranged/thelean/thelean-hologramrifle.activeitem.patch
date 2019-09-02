@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A holographic rifle.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sol'thass Hologram",
+    "path": "/shortdescription"
+  }
+]

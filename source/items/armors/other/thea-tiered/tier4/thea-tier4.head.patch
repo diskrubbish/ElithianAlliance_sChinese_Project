@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "H-i Head Shield",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Generic. ^white;A high intensity shield generator for protecting the head.",
+    "path": "/description"
+  }
+]

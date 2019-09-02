@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A small drone used for Akkimari law enforcement.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flic",
+    "path": "/shortdescription"
+  }
+]

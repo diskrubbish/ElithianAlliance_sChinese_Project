@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;The helmet of the legendary Thellhunter. The built-in HUD automatically marks potential targets.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Thellhunter's Helmet^white;",
+    "path": "/shortdescription"
+  }
+]

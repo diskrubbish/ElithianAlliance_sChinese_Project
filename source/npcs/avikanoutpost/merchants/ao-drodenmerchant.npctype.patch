@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "  Droden equipment and items.",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Droden Equipment Merchant",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  }
+]

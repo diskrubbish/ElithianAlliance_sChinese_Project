@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Ravager's Helmet r.S",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A combat helmet with a tactical visor. Vigorous version.",
+    "path": "/description"
+  }
+]

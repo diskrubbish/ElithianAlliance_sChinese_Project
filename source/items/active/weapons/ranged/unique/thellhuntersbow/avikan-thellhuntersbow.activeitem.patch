@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Tri-Shot",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A weapon once held by the Thellhunter of legend.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Thellhunter's Bow^white;",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "value": "Fighter",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "<role> <field>",
+    "path": "/scriptConfig/crew/ranks/6"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Combatant",
+    "path": "/scriptConfig/crew/ranks/9"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Sellsword",
+    "path": "/scriptConfig/crew/ranks/8"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Tactician",
+    "path": "/scriptConfig/crew/ranks/7"
+  },
+  {
+    "op": "replace",
+    "value": "Amateur <field>",
+    "path": "/scriptConfig/crew/ranks/1"
+  },
+  {
+    "op": "replace",
+    "value": "Enthusiast <field>",
+    "path": "/scriptConfig/crew/ranks/2"
+  },
+  {
+    "op": "replace",
+    "value": "Mercenary",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Part-time <field>",
+    "path": "/scriptConfig/crew/ranks/3"
+  },
+  {
+    "op": "replace",
+    "value": "Professional <field>",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "Trained <field>",
+    "path": "/scriptConfig/crew/ranks/4"
+  },
+  {
+    "op": "replace",
+    "value": "Trained <role>",
+    "path": "/scriptConfig/crew/ranks/5"
+  }
+]

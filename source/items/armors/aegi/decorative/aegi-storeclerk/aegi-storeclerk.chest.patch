@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;The upper part of a store clerk's outfit.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Store Clerk Apron",
+    "path": "/shortdescription"
+  }
+]

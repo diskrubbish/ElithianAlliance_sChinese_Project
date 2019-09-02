@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An extremely powerful Alliance minigun.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Valkyrie V-2",
+    "path": "/shortdescription"
+  }
+]

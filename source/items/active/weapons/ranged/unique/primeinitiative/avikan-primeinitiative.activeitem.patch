@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Linestream",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A massively powerful linerifle built to rip through enemy lines.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Prime Initiative^white;",
+    "path": "/shortdescription"
+  }
+]

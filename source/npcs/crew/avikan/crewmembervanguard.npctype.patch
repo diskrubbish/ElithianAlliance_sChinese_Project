@@ -1,0 +1,262 @@
+[
+  {
+    "op": "replace",
+    "value": "Soldier",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Captain",
+    "path": "/scriptConfig/crew/ranks/6"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Colonel",
+    "path": "/scriptConfig/crew/ranks/9"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Commander",
+    "path": "/scriptConfig/crew/ranks/1"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Corporal",
+    "path": "/scriptConfig/crew/ranks/7"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Lieutenant",
+    "path": "/scriptConfig/crew/ranks/5"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Officer",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Operator",
+    "path": "/scriptConfig/crew/ranks/4"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Recruit",
+    "path": "/scriptConfig/crew/ranks/2"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Sergeant",
+    "path": "/scriptConfig/crew/ranks/8"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Soldier",
+    "path": "/scriptConfig/crew/ranks/3"
+  },
+  {
+    "op": "replace",
+    "value": "I can't get over there!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I can't reach you!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "Do you need me to stay here, Captain?",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I can hardly believe I'm asking this, but might I join your crew?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/droden/1"
+  },
+  {
+    "op": "replace",
+    "value": "I can hardly believe I'm asking this, but might I join your crew?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "I can hardly believe I'm asking this, but might I join your crew?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/trink/1"
+  },
+  {
+    "op": "replace",
+    "value": "I thought I was done for!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'd like to join your crew! Are you interested?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I'd like to join your crew, and show the world that machines can be meritful. Will you have me?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/droden/3"
+  },
+  {
+    "op": "replace",
+    "value": "I'd like to join your crew, and show the world that machines can be meritful. Will you have me?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/glitch/3"
+  },
+  {
+    "op": "replace",
+    "value": "I'd like to join your crew, and show the world that machines can be meritful. Will you have me?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/trink/3"
+  },
+  {
+    "op": "replace",
+    "value": "I'll be here if you need a fighter, Captain!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I'll be here if you need me, Captain.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'll find a way there, Captain!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I'll follow you into battle any day, Captain!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I'll wait for you, Captain.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I'll wait here, Captain.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I'm <selfname>, and I'd be honoured to join your crew!",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'm <selfname>, and I'm looking to join a ship crew. Are you hiring?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'm ready for combat, Captain!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I'm ready to go, Captain!",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I'm ready, Captain!",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I've always wanted to join a ship crew. Are you hiring, Captain?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "It would be an honour to join your crew, Captain! Will you have me?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/avikan/3"
+  },
+  {
+    "op": "replace",
+    "value": "Let us test our blades in battle, Captain!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Let's go, Captain!",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Rhadeis brought me back!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "That was the strangest thing I've ever felt...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "The emergency teleport saved me again!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vas Vha'leih, Captain. Might I join your crew?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vas Vha'leih, adventurer. Might I join your crew?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Wait for me, Captain!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Yes, Captain!",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "You give machines a better name. Might I join your crew, perhaps?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "You give machines a better name. Might I join your crew, perhaps?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "You give machines a better name. Might I join your crew, perhaps?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "You seem honourable, despite being a machine. Are you hiring crewmembers, perhaps?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/droden/2"
+  },
+  {
+    "op": "replace",
+    "value": "You seem honourable, despite being a machine. Are you hiring crewmembers, perhaps?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/glitch/2"
+  },
+  {
+    "op": "replace",
+    "value": "You seem honourable, despite being a machine. Are you hiring crewmembers, perhaps?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/trink/2"
+  },
+  {
+    "op": "replace",
+    "value": "You seem like a fine captain. Do you need anyone for your crew?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/2"
+  }
+]

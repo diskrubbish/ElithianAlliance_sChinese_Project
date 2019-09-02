@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A security card given to all ambassadors of the Elithian Alliance.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Alliance Ambassador Pass^white;",
+    "path": "/shortdescription"
+  }
+]

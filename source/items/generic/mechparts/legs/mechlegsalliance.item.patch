@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Guardian Mech Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reliable mech legs built by Enerth Engineering.",
+    "path": "/description"
+  }
+]

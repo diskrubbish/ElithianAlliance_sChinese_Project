@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Explorer's Greaves Type-A",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;Segmented metal leggings for greater mobility. Energetic version.",
+    "path": "/description"
+  }
+]

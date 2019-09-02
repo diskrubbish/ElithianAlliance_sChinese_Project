@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "value": "Are you here to see the Commander?",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/4"
+  },
+  {
+    "op": "replace",
+    "value": "Come to deliver a new report?",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/1"
+  },
+  {
+    "op": "replace",
+    "value": "Come to report back to the Commander?",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "Do you have a new report for the Commander?",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/3"
+  },
+  {
+    "op": "replace",
+    "value": "Have you come to see the Commander?",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/2"
+  },
+  {
+    "op": "replace",
+    "value": "How did you get in here?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "How goes your current assignment?",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/3"
+  },
+  {
+    "op": "replace",
+    "value": "May Rhadeis watch over you, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/5"
+  },
+  {
+    "op": "replace",
+    "value": "May Rhadeis watch over you, Droden.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/4"
+  },
+  {
+    "op": "replace",
+    "value": "The Watchers greet you, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "This section of the Refuge is off-limits.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome back, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome back.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "Who let you into the offices?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "You aren't supposed to be in here.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "You aren't supposed to be in here.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "You should leave.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "You'd better get out of these offices.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/5"
+  }
+]

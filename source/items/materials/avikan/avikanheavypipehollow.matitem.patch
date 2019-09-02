@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Thiss pipe is big.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A heavy, thick pipe. Liquids can flow through it.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Heavy Pipe (Hollow)",
+    "path": "/shortdescription"
+  }
+]

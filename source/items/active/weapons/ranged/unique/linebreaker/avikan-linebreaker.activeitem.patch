@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Seeker Bolts",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A heavy weapon housing multiple linecharge systems.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Linebreaker^white;",
+    "path": "/shortdescription"
+  }
+]

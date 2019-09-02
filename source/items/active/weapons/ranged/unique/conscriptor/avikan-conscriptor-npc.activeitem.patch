@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;Conscriptor (NPC)^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;An intimidating revolver once held by the elder of Vathra.",
+    "path": "/description"
+  }
+]

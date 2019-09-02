@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Pumpkin Body",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;LEG SLOT. ^white;A pumpkin body to celebrate the Harrowing!",
+    "path": "/description"
+  }
+]

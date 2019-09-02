@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "value": "A free Droden? Don't go causing trouble here, alright?",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/2"
+  },
+  {
+    "op": "replace",
+    "value": "Don't cause any trouble here.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Don't cause any trouble here.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Don't cause any trouble here.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "Don't cause any trouble here.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Get back to work, you.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "I have my eye on you.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I have my eye on you.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "I have my eye on you.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/1"
+  },
+  {
+    "op": "replace",
+    "value": "I have my eye on you.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'll keep this safe haven secure, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nothing to report, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "The Starfarer's Refuge is a safe haven for all, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "This is a safe haven for all Starfarers.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "This is a safe haven for all Starfarers.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/2"
+  },
+  {
+    "op": "replace",
+    "value": "This is a safe haven for all Starfarers.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/2"
+  },
+  {
+    "op": "replace",
+    "value": "This is a safe haven for all Starfarers.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Why aren't you at work, Droden?",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/1"
+  }
+]

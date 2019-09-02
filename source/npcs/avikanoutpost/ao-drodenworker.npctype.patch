@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "value": "Beginning conversation. Welcome, Captain.",
+    "path": "/scriptConfig/dialog/converse/droden/avikan/3"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Droden unit. Detected civilian status. Error.",
+    "path": "/scriptConfig/dialog/converse/droden/droden/1"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Droden unit. Welcome.",
+    "path": "/scriptConfig/dialog/converse/droden/droden/2"
+  },
+  {
+    "op": "replace",
+    "value": "Detected unknown species. Aborting conversation.",
+    "path": "/scriptConfig/dialog/converse/droden/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Error. Conversation protocol not found. Resuming work.",
+    "path": "/scriptConfig/dialog/converse/droden/avikan/4"
+  },
+  {
+    "op": "replace",
+    "value": "Error. Conversation protocol not found. Resuming work.",
+    "path": "/scriptConfig/dialog/converse/droden/droden/4"
+  },
+  {
+    "op": "replace",
+    "value": "Error. Species unknown. Aborting conversation.",
+    "path": "/scriptConfig/dialog/converse/droden/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "For inquiries about job offers, please contact the Council of Elders Representative.",
+    "path": "/scriptConfig/dialog/converse/droden/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "I am a bug! Please report me. Beep beep.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Please do not interrupt. This unit is busy.",
+    "path": "/scriptConfig/dialog/converse/droden/droden/3"
+  },
+  {
+    "op": "replace",
+    "value": "This unit does not comprehend freedom. Resuming duties.",
+    "path": "/scriptConfig/dialog/converse/droden/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "This unit is at your service, Captain.",
+    "path": "/scriptConfig/dialog/converse/droden/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "Unknown species detected. Ending conversation.",
+    "path": "/scriptConfig/dialog/converse/droden/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to the Starfarer's Refuge, Captain. I am at your service.",
+    "path": "/scriptConfig/dialog/converse/droden/avikan/0"
+  }
+]

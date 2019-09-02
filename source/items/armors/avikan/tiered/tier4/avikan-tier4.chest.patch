@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Stalker's Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A segmented bone plate with shoulderpads made of bone, worn by Avikan Stalkers.",
+    "path": "/description"
+  }
+]

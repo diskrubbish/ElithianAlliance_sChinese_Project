@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Commando's Chestplate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A strong metal chestpiece worn by Aeginian commandos.",
+    "path": "/description"
+  }
+]

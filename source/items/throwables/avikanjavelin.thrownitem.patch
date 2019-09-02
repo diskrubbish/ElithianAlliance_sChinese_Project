@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A sharp javelin made of monster bone. It harvests special hunting materials.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Javelin",
+    "path": "/shortdescription"
+  }
+]

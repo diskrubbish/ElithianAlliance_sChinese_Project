@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": " Vanguard Keypad Lock",
+    "path": "/gui/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": " Programmable keypad",
+    "path": "/gui/windowtitle/subtitle"
+  }
+]

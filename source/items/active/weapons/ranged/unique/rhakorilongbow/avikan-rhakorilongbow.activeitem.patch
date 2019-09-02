@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Nock Explosive Arrow",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A longbow built by the clans of the Rhakori Highlands.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Rhakori Longbow^white;",
+    "path": "/shortdescription"
+  }
+]

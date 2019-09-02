@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "  Medical Supplies",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Creon Embassy Hospital",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Do be careful out there!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I can provide you with some medical supplies if you need them.",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "In need of some medical supplies?",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "My supplies are over there. Please, follow me.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Now, do you have any symptoms?",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  }
+]

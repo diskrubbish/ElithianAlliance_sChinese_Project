@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Vanguard Mech Boosters",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Well-balanced boosters built by the Vanguard military.",
+    "path": "/description"
+  }
+]

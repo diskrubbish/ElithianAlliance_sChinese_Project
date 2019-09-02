@@ -1,0 +1,187 @@
+[
+  {
+    "op": "replace",
+    "value": "Adako",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "Are you a truth-seeker as well, wise one?",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/1"
+  },
+  {
+    "op": "replace",
+    "value": "God or no, your Kluex intrigues me.",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/1"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, Captain. Have you found any Centensian ruins on your journeys?",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, wise one. We Centlars might be able to use someone like you.",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Have you ever considered that your Kluex might be a Centens, like our Rhadeis is?",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/2"
+  },
+  {
+    "op": "replace",
+    "value": "Have you ever met your God?",
+    "path": "/scriptConfig/dialog/converse/avikan/human/2"
+  },
+  {
+    "op": "replace",
+    "value": "I am a Centlar, truth-seeker of the Avikan Nomada.",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/2"
+  },
+  {
+    "op": "replace",
+    "value": "I doubt you even know what a Centlar is.",
+    "path": "/scriptConfig/dialog/converse/avikan/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "In all my studies of the Centens, I have never before seen a species of plants achieve spaceflight.",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/2"
+  },
+  {
+    "op": "replace",
+    "value": "Is your Kluex real, like our Rhadeis is?",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "Machines are part of evolution. They are neither good nor evil.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/1"
+  },
+  {
+    "op": "replace",
+    "value": "Machines are part of evolution. They are neither good nor evil.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Machines are part of evolution. They are neither good nor evil.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/1"
+  },
+  {
+    "op": "replace",
+    "value": "Never in my studies have I come across a creature quite like you.",
+    "path": "/scriptConfig/dialog/converse/avikan/novakid/0"
+  },
+  {
+    "op": "replace",
+    "value": "Of all species I have seen, you are the only that shows no sign of Centensian involvement.",
+    "path": "/scriptConfig/dialog/converse/avikan/novakid/1"
+  },
+  {
+    "op": "replace",
+    "value": "Protect the relics of the Centens, captain. They are our keys to the truth.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "The Centens may have had a hand in your creation, too.",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "The Centlars could use the information you gather during your travels.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "The Centlars seek only the truth.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "The Centlars seek only the truth.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "The only difference between us and your kind is the manner in which we were created.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/2"
+  },
+  {
+    "op": "replace",
+    "value": "The only difference between us and your kind is the manner in which we were created.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/2"
+  },
+  {
+    "op": "replace",
+    "value": "The only difference between us and your kind is the manner in which we were created.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/2"
+  },
+  {
+    "op": "replace",
+    "value": "The truth shall always reveal itself.",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "The truth will always reveal itself to a Centlar.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "The truth will always reveal itself to a Centlar.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "We Centlars are truth-seekers. What are you?",
+    "path": "/scriptConfig/dialog/converse/avikan/human/1"
+  },
+  {
+    "op": "replace",
+    "value": "We Centlars neither hate nor love machines. We see only the truth.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "We Centlars neither hate nor love machines. We see only the truth.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "We Centlars neither hate nor love machines. We see only the truth.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "We Centlars seek the truth. What do you seek?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "We Centlars seek the truth. What do you seek?",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "What do you call researchers of ancient civilizations in your society?",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "You would make for a fine truth-seeker, wise one.",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/2"
+  },
+  {
+    "op": "replace",
+    "value": "Your evolution is full of signs of Centensian involvement.",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/1"
+  },
+  {
+    "op": "replace",
+    "value": "Your kind intrigues me, child of the stars.",
+    "path": "/scriptConfig/dialog/converse/avikan/novakid/2"
+  }
+]

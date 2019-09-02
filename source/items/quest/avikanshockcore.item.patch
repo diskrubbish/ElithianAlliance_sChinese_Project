@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A small electrical generator often found in Avikan machinery.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Avikan Shock Core^white;",
+    "path": "/shortdescription"
+  }
+]

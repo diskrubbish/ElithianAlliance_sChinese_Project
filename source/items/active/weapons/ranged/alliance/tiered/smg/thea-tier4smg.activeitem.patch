@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A standard-issue Alliance SMG.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Zuvi G-5",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Summons a Veronas Sparrow hoverbike from your ship's cargo hold.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Veronas Sparrow Controller",
+    "path": "/shortdescription"
+  }
+]

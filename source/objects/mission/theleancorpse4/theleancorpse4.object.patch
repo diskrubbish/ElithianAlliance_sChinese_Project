@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "A Thelean as he should be: dead.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A dead Thelean.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A dead brother. He was weak.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Thelean. Analysis: dead.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran pokesss dead bodiess with ssstickss...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "God-thief-dead. Akki pleased.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Thelean Corpse",
+    "path": "/shortdescription"
+  }
+]

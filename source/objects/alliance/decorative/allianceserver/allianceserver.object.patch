@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large server rack. The control console can be locked behind a gate.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rack filled with Alliance data servers.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A server rack. I wonder how much storage space it has?",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A server rack. It isn't quite as efficient as Trinkian alternatives, but it does its job well enough.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A server rack. These servers must be brimming with interesting information.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Server Rack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Computers-alien. Akki learn things-many here!",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Server racks like these possess incredible computing power.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This server rack makes a lot of noise. It's quite glorious.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bunch of computers strapped together in a single construction.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A server rack with internal cooling. Awesome!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A server rack. I wonder what sort of data it contains?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A server rack. What sort of fascinating things might it be processing?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A shiny server rack. What might it be processing?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien data server rack. Hacking attempt failed.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran doess not underssstand beepy boxess...",
+    "path": "/floranDescription"
+  }
+]

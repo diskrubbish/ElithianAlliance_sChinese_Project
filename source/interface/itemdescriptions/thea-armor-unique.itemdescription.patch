@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Unique",
+    "path": "/customRarityLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Armour",
+    "path": "/armorLabelTitle/value"
+  }
+]

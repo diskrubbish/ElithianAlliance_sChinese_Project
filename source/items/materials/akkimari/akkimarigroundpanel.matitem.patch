@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Akris Floor Panel",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Scrap metal panels acting as a floorboard.",
+    "path": "/description"
+  }
+]

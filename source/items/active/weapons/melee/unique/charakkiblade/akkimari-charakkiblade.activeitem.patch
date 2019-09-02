@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;An agile scathe used by the ferocious Charakki tribe.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Charakki Blade^white;",
+    "path": "/shortdescription"
+  }
+]

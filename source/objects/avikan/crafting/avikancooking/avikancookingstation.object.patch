@@ -1,0 +1,107 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": " Cooking Station",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "A cooking station, for all my automated cooking needs!",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cooking station. I can program it to prepare any meal imaginable.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A machine which prepares food. Convenient.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akki cook food here.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An automated cooking station - that means no dish washing for me!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An automated cooking station. It is wonderfully efficient.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An automated cooking station. There's nothing it can't prepare.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cooking station detected. This unit can refuel using organic food.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran disslikesss having machine prepare food.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Somehow, this machine manages to automatically prepare food with the skill of a true cooking master.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This 'ere station will prepare my food for me!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This cooking station can prepare a great variety of meals.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This cooking station can prepare almost any meal.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This machine will prepare my food with skill and grace.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This station will automatically prepare whatever food I request - how convenient!",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This station will prepare whatever food I want.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Avikan Cooking Station^white;",
+    "path": "/shortdescription"
+  }
+]

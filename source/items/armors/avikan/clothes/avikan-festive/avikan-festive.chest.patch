@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Festive Robes",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;Colourful robes worn during festive events.",
+    "path": "/description"
+  }
+]

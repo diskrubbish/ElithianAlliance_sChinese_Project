@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "Alliance Guard Beacon v3",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beacon for summoning Alliance guard tenants. I'd love to meet some more desert folk!",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beacon for summoning an armed alien tenant. I'd better be careful.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beacon for summoning armed Alliance tenants.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beacon that can summon an Alliance guard if used in the right place.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Beacon call in tenants, tenants fight for Akki.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected beacon. Use in combination with a colony deed to summon armed Alliance tenants.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This beacon could attract an armed Alliance tenant in combination with a colony deed.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "This beacon summons Alliance guards. I am not sure if it's a good idea to use it.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This beacon will attract armed Alliance tenants.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This beacon will summon an armed tenant. I wonder what sort of primitive weaponry they will use?",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beacon for callin' armed tenants.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beacon of some sort. It only seems to attract tenants.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beacon that calls for armed reinforcements.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beacon that summons an armed lesser one. Hmph.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A beacon. It could attract an armed tenant.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Beacon callss armed tenantss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This beacon attracts armed tenants. How convenient!",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This beacon will attract an alien warrior. Perhaps I might learn some new skills from them.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This beacon will attract armed tenants. I could build my own army!",
+    "path": "/humanDescription"
+  }
+]

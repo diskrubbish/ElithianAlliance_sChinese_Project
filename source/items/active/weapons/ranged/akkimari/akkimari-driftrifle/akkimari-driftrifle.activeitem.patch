@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Akris Drift Rifle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;A powerful Akkimari driftrifle, inspired by Avikan linerifles.",
+    "path": "/description"
+  }
+]

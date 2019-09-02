@@ -1,0 +1,77 @@
+[
+  {
+    "op": "replace",
+    "value": "Legion",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Medical Unit",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis result: potential medical issues. Unit will provide medication.",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis result: potential medical issues. Unit will provide medication.",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Detected potential medical issues. Providing medication.",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Detected potential medical issues. Providing medication.",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Droden Legion Medical Unit available. Requesting permission to board ship.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Medical Unit",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Medical unit <selfname> reporting for duty. Requesting permission to board ship.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Potential health risk detected. Offering medical treatment.",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Potential health risk detected. Offering medical treatment.",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "This unit will offer medical examinations and treatment.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Unit <selfname> reporting in. Medical unit requesting permission to board ship.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Unit offering medical treatment.",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Unit offering medical treatment.",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0"
+  }
+]

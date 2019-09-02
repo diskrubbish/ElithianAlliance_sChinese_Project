@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A powerful nailgun built for construction work.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Briggs Nailgun",
+    "path": "/shortdescription"
+  }
+]

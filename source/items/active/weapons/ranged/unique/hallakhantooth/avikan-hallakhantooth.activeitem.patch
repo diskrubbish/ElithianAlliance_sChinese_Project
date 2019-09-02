@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Triple Draw",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A bow ground down from a tooth of Halla'Khan.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Tooth of Halla'Khan^white;",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Alliance Support Beam",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Heavy structural support beams.",
+    "path": "/description"
+  }
+]

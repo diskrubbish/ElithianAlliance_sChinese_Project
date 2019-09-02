@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Admiral's Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;The official attire of an admiral of the Aeginian Federal Union.",
+    "path": "/description"
+  }
+]

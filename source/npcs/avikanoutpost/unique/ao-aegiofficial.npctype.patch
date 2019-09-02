@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "A friendly face! Are you here on Alliance business, friend?",
+    "path": "/scriptConfig/dialog/converse/aegi/aegi/0"
+  },
+  {
+    "op": "replace",
+    "value": "Denna",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "I hope the Avikan aren't treating you too badly. It seems they aren't fond of AI.",
+    "path": "/scriptConfig/dialog/converse/aegi/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "I hope the Avikan aren't treating you too badly. It seems they aren't fond of AI.",
+    "path": "/scriptConfig/dialog/converse/aegi/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "I was sent here to represent the Aeginian Federal Union. Good meeting you, Captain.",
+    "path": "/scriptConfig/dialog/converse/aegi/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "It's good to see another friendly face here. The Avikan aren't always friendly to aliens.",
+    "path": "/scriptConfig/dialog/converse/aegi/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "It's good to see another friendly face here. The Avikan aren't always friendly to aliens.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

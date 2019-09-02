@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A machinegun perfect for sustained fire.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Homer RS-2",
+    "path": "/shortdescription"
+  }
+]

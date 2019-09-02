@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hologram displaying real-time information about Elithia.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large hologram. Is this the planet Elithia?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large holographic display of Elithia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A large holographic projection of Elithia.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large planetary hologram.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A massive holographic projection of Elithia.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected holographic projection. Analyzing. Reporting findings to Nomada command.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hologram of Elithia",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hologram-great of Elithia. Akki impressed.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Now that's a hologram.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Planet made of lightsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "That's quite the hologram.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "That's quite the holographic display.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Nomada might learn something from this projection.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This hologram buzzes quite loudly.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This hologram instills a sense of serenity in me.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This hologram is updated in real-time.",
+    "path": "/erixianDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A shotgun produced somewhere in the Rim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Breacher RM14",
+    "path": "/shortdescription"
+  }
+]

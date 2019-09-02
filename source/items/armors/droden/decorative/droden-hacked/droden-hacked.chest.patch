@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Violated Chassis",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A Droden frame chassis, hacked by Thelean Vesomeyr.",
+    "path": "/description"
+  }
+]

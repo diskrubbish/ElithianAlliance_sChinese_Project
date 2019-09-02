@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Electric Ammo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Elemental assault rifle ammunition that electrifies targets.",
+    "path": "/description"
+  }
+]

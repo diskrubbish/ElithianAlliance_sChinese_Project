@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "value": "Medic",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "As your medical officer, I'll keep an eye on your health in between adventures.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hold still, I'll treat those wounds for you.",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Hold still, I'll treat those wounds for you.",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I'll tend to those wounds of yours.",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'll tend to those wounds of yours.",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "You look hurt! Let me help!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "You look hurt! Let me help!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "You might need medical assistance. Let me help!",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "You might need medical assistance. Let me help!",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance",
+    "path": "/scriptConfig/crew/role/field"
+  }
+]

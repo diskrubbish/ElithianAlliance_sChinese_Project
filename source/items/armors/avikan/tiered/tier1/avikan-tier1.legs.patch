@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Scavenger's Skirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;Bone padding and a simple leather skirt, worn by Avikan scavengers.",
+    "path": "/description"
+  }
+]

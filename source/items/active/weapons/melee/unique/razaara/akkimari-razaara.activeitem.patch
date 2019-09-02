@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A razor-sharp whirlblade that slices through flesh and bone with ease.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Razaara^white;",
+    "path": "/shortdescription"
+  }
+]

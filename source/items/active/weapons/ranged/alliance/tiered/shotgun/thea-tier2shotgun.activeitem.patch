@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A standard-issue Alliance shotgun.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rophalus S-2",
+    "path": "/shortdescription"
+  }
+]

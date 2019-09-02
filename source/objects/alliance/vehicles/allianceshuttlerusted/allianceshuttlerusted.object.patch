@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A once beautiful shuttle brought low by time and weather.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rusted out ship, it ain't of any use now.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rusted shuttle. It's of no use to anyone but scavengers at this point.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rusted shuttlecraft that's been long out of commission.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A rusted-out alien vessel.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A useless rusted shuttle. Its wings were clipped by time.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki take parts, make new ship. Ship-better!",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien spacecraft. Status: decommissioned.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It takes a lot for a Ranger to start rusting.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Russsted out sshuttle iss worthless.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rusted Alliance Shuttlecraft",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Rusted out Rangers are a rare find. This shuttle has been here for decades.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This ASA-26 Ranger has seen better days. I doubt it'll ever fly again.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This Ranger is in no flying condition.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This shuttle is rusted through. It's little more than scrap metal now.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This shuttle is worn well beyond use.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This shuttle won't ever fly again.",
+    "path": "/jorgasianDescription"
+  }
+]

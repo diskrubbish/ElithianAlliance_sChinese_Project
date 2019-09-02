@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Can't you see it's occupied?",
+    "path": "/scriptConfig/dialog/converse/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "I'm on the toilet here.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "It's taken!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Occupied!",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Sorry, it's taken.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  }
+]

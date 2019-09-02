@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "The label reads, \"An Avikan reconnaissance drone capable of minor combat support.\"",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Drahl Figurine",
+    "path": "/shortdescription"
+  }
+]

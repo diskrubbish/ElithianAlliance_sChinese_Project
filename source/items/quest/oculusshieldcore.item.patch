@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A shield generator stripped from a Ce'Tennan Oculus drone.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Oculus Shield Core^white;",
+    "path": "/shortdescription"
+  }
+]
