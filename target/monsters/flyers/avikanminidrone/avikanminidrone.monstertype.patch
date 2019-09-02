@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A small drone sent out by Avikan soldiers to scout the area ahead.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Drahlid",
+    "path": "/shortdescription"
+  }
+]

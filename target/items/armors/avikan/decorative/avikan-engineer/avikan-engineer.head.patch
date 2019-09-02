@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Engineer's Visor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A simple visor worn by Avikan engineers.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A sturdy metal shield of Trinkian design.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Circuit Shield",
+    "path": "/shortdescription"
+  }
+]

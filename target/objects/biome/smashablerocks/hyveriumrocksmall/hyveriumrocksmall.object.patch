@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "A fragile rock full of Hyverium ore. Maybe I could break it.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akki break rock, get Hyverium.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small Hyverium Rock",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssshiny rock. Sssmash it!",
+    "path": "/floranDescription"
+  }
+]

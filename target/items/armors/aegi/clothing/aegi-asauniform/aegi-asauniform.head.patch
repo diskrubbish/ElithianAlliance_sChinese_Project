@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "ASA Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;The signature hat of ASA officials, it has become a symbol in the Alliance.",
+    "path": "/description"
+  }
+]

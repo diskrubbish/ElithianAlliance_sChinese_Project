@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Triple Shot",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "A high-powered sniper rifle firing explosive rounds.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Harbinger EX-12",
+    "path": "/shortdescription"
+  }
+]

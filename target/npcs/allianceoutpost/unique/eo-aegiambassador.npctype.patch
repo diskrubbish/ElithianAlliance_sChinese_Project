@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Ah, ambassador <entityname>! Welcome to our embassy.",
+    "path": "/scriptConfig/dialog/converse/default/aegi/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nanita",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to the embassy of the Aeginian Federal Union!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

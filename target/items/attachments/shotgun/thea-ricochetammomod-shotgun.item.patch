@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Ricochet Ammo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shotgun ammunition that pierces targets and ricochets off walls.",
+    "path": "/description"
+  }
+]

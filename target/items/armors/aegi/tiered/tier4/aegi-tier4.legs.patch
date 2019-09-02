@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Commando's Leggings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A balistic skirt and metal boots, worn by Aeginian commandos.",
+    "path": "/description"
+  }
+]

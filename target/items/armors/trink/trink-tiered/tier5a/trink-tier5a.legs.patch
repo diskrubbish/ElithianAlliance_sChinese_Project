@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Enforcer Body Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;LEG SLOT. ^white;A high-grade aegisalt body mod.",
+    "path": "/description"
+  }
+]

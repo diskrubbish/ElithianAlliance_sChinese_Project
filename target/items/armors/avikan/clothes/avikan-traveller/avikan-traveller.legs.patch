@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Traveller's Skirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A durable leather skirt, ideal for desert travellers.",
+    "path": "/description"
+  }
+]

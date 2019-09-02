@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Filled Capture Pod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Throw it down to release the creature captured inside!",
+    "path": "/description"
+  }
+]

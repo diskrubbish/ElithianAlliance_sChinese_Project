@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Seeking Shot",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A versatile linerifle worthy of a true Terve leader.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Terveleaders's Bow^white;",
+    "path": "/shortdescription"
+  }
+]

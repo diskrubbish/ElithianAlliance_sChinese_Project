@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Sera",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "The conditions here are perfect for my research!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

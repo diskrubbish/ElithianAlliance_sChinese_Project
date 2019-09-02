@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "value": "Admiral Lyiin",
+    "path": "/scriptConfig/radioMessages/endMessage/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Admiral Lyiin",
+    "path": "/scriptConfig/radioMessages/fourthMessage/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Admiral Lyiin",
+    "path": "/scriptConfig/radioMessages/secondMessage/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Admiral Lyiin",
+    "path": "/scriptConfig/radioMessages/startMessage/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Admiral Lyiin",
+    "path": "/scriptConfig/radioMessages/thirdMessage/senderName"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Story - Starting Messages",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "Ambassador! Are you alright? I've been trying to contact you ever since I learned of what happened to Earth and the Protectorate...",
+    "path": "/scriptConfig/radioMessages/startMessage/text"
+  },
+  {
+    "op": "replace",
+    "value": "For now, I want you to do all you can to figure out who or what was behind the attack on the Protectorate. Our first priority is to prevent this tragedy from happening to any more planets.",
+    "path": "/scriptConfig/radioMessages/fourthMessage/text"
+  },
+  {
+    "op": "replace",
+    "value": "Good luck, ambassador. I will contact you again once I have a new assignment ready for you.",
+    "path": "/scriptConfig/radioMessages/endMessage/text"
+  },
+  {
+    "op": "replace",
+    "value": "I will meet with the other Alliance leaders soon to discuss these recent events, and we will figure out what your next assignment should be.",
+    "path": "/scriptConfig/radioMessages/thirdMessage/text"
+  },
+  {
+    "op": "replace",
+    "value": "It is good to see you have escaped the chaos alive and well. Now more than ever, we need good people like you.",
+    "path": "/scriptConfig/radioMessages/secondMessage/text"
+  },
+  {
+    "op": "replace",
+    "value": "This quest serves as an introduction to the Alliance storyline. You shouldn't be able to see this in your log.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "This quest serves as an introduction to the Alliance storyline. You shouldn't be able to see this in your log.",
+    "path": "/text"
+  }
+]

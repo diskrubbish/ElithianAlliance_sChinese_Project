@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Protectorate Chassis",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A Protectorate-themed Droden chest piece.",
+    "path": "/description"
+  }
+]

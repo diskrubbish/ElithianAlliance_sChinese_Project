@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cube, built by the Centens. It is oddly enthralling...",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple metal cube, but there's something enthralling about it.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simplistic metal cube, but with an enthralling aura.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akki feel calm. Feeling-strange.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Centensian Cube",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Centensian artefact. Error. Error. Error.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sstaress at cube. Floran doess not know why...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I can't say why, but this cube is incredibly enthralling...",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I don't know why, but I'm finding it hard to get my eyes off this cube.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I don't know why, but all I want to do is stare at this cube...",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I feel something odd when near this cube. It is enthralling, somehow.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I'm oddly enthralled by this simple cube... What is this magic?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "My systems are picking up an odd interference around this cube.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Somehow, this cube makes me feel serene. It's enthralling.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "There is something oddly enthralling about this cube.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This artefact of the Old Ones is enthralling. I just keep staring at it.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This relic of the Gods is enthralling. I just want to stare at it.",
+    "path": "/hymidDescription"
+  }
+]

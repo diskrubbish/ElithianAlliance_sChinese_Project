@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Glasss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Borderless Alliance Glass",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Triple-pane glass-like plastic, perfectly insulated.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Multi-pane plastic.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plastic-clear, look like glass.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This glass is clean as a new revolver.",
+    "path": "/novakidDescription"
+  }
+]

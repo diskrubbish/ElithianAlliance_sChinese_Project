@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "The core of an ancient weapon. Strong energies radiate from the mechanism.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Reactivated Weapon Core^white;",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Union Cap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A simple cap for a casual look.",
+    "path": "/description"
+  }
+]

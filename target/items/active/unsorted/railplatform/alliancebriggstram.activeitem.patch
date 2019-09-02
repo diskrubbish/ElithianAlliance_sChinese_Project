@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Briggs Elevator",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Place a user-controlled tram that works with rail tram stops.",
+    "path": "/description"
+  }
+]

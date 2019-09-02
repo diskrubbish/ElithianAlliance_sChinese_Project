@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A standard-issue Alliance assault rifle.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "AC.A-2 Clarity",
+    "path": "/shortdescription"
+  }
+]

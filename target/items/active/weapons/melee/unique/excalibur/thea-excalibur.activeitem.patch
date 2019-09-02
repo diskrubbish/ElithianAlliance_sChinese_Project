@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A grand Aevis crafted in honor of the Taemera family.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Excalibur^white;",
+    "path": "/shortdescription"
+  }
+]

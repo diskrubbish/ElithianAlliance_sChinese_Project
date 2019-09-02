@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "Detected Captain-status Droden unit. Vas Vha'leih.",
+    "path": "/scriptConfig/dialog/converse/default/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Nomada Captain. Vas Vha'leih.",
+    "path": "/scriptConfig/dialog/converse/default/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "Detected unauthorized entity. Alerting security forces.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Lens-88",
+    "path": "/npcname"
+  }
+]

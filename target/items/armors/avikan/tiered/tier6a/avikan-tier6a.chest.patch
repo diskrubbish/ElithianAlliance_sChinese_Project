@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Clanguard Armor Type-A",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A superb-quality chestpiece worn by the Avikan Clanguard. Energetic version.",
+    "path": "/description"
+  }
+]

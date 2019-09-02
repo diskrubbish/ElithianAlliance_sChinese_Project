@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "Dirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dirty lookin' dirt.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dirty looking dirt.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Filthy dirt!",
+    "path": "/floranDescription"
+  }
+]

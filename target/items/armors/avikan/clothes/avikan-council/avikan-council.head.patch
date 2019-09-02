@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Councillor's Cloak",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A leather cloak worn by Nomada officials.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An electric prod used by Union law enforcement.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "P-ASA Impairer",
+    "path": "/shortdescription"
+  }
+]

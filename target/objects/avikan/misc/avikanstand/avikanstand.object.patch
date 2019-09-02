@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metal stand, built to hold some valuable item.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metal stand, built to hold something important.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A simple but effective stand, for displaying something far more valuable.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A stand for displaying some important item.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A stand, to hold something of great value.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ametal stand, build to hold something important.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan-built stand. It is generally used to display some important item.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Stand",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected stand. Purpose: to display a Centensian artefact.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sstand for important itemsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stand-metal.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These stands are generally used to display Centensian artefacts, or other valuable items.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These stands are often used to display the artefacts of the Gods.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This looks like it is made to hold something important.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This stand was built to hold something of great vaue to its creators.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This stand was built to prominently display a valuable item.",
+    "path": "/hylotlDescription"
+  }
+]

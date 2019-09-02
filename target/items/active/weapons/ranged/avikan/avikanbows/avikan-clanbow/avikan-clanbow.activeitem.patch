@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Clan's Greatbow",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;The pride of the clan, used to harvest monster parts.",
+    "path": "/description"
+  }
+]

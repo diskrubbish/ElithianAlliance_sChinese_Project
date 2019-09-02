@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bright red plant.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bright red plant. Is it edible?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A curiously coloured plant.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A tall plant with a bright red colour.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akki collect Vrelli, crush it to powder. Make paste-tasty from it!",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien plant. It looks edible, but I'm not sure if it's safe.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien plant. It's an unusual colour.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected native Akris flora. Vrelli leaves.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran likesss bright red leavess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "One could hide well amongst plants like these.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "One could make a good paste from these leaves when powdered.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Strange, thick leaves with a bright red colour.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Thick red leaves.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Thick red leaves. I'm sure you can make something edible from them.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Thick, bright red leaves. An odd alien plant.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tough red leaves. They look somewhat strange.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vrelli Seed",
+    "path": "/shortdescription"
+  }
+]

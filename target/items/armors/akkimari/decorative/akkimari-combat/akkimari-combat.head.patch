@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Combat Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A heavy helmet offering outstanding protection in combat.",
+    "path": "/description"
+  }
+]

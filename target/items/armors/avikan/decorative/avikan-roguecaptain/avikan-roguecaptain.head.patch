@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Rogue Captain's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A helmet often worn by Captains who have left the Nomada.",
+    "path": "/description"
+  }
+]

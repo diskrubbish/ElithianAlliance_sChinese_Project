@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "A heavy, thick pipe. This isn't going to leak.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Heavy Pipe",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis failed. Unable to scan pipe contents.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Not sure what this 'ere pipe is carrying, but I'm guessin' its dangerous.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pipe isss big, but Floran can't fit through...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pipe-thick, carry liquids.",
+    "path": "/akkimariDescription"
+  }
+]

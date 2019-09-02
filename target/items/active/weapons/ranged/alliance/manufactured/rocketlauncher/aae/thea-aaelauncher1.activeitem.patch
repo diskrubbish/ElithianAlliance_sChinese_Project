@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Bahamur L-2",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A standard-issue Alliance rocket launcher.",
+    "path": "/description"
+  }
+]

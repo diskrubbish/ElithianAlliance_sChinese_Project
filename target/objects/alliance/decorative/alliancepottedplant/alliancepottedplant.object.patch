@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "A plant native to Elithia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Plant-small, strange-very.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Potted Elithian Plant",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien plantlife. Analyzing biochemistry.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran doess not like putting plantss in potsss.",
+    "path": "/floranDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Are you in need of medical attention?",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Avemii",
+    "path": "/npcname"
+  }
+]

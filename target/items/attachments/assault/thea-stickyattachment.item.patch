@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An underbarrel sticky grenade launcher.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sticky Grenade Launcher",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Keffrider's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A lightweight and streamlined helmet worn by the Keffriders.",
+    "path": "/description"
+  }
+]

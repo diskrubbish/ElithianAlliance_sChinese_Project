@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "-Great Monster Bones are a rare find across all types of planets, but become more common in more threatening places.\n\n-On rare occasions, you may also be able to gather trophies from your prey, such as skulls that fit like a helmet. Such skulls will often provide you with useful benefits, but they do not offer much protection.",
+    "path": "/contentPages/3"
+  },
+  {
+    "op": "replace",
+    "value": "-Monster Claws are found on Risky planets, such as Ocean, Savannah and Snow planets.\n\n-Monster Plates can be gathered in Dangerous locations, including Jungle, Toxic and Mutated planets.\n\n-Monster Spines are gathered in Extremely hazardous places, such as Arctic, Tundra or Midnight planets.",
+    "path": "/contentPages/2"
+  },
+  {
+    "op": "replace",
+    "value": "A Guide to Avikan Hunting",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "A guide to the proper use of Avikan hunting equipment.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "There are a variety of materials you can gather by hunting with the right weapon. While meat and hides are generally of similar quality regardless of origin, the bones we use to craft our weapons can often only be gathered from specific prey.\n\n-Monster Bones, Monster Hides and Raw Steak can be gathered from any prey.\n\n-Monster Scales can be gathered from prey on planets offering a Moderate threat, such as Deserts and Forests.",
+    "path": "/contentPages/1"
+  },
+  {
+    "op": "replace",
+    "value": "Vas Vha'leih, young hunter. In this short scroll, you will be taught the basics of the hunt - our oldest tradition, and often a means of survival.\n\n-If you are trying to harvest bones and hides from your prey, you need to use the proper weapons.\n\n-Hunting Knives, Hunting Spears, Bows, Crossbows and Harpoon Guns are all especially suited for hunting purposes.",
+    "path": "/contentPages/0"
+  }
+]

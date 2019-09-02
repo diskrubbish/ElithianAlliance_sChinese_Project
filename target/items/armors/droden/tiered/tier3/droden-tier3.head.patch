@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Titanium Head",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A durable titanium head upgrade.",
+    "path": "/description"
+  }
+]

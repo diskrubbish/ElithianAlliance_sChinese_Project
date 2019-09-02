@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Mark I Arm Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;CHEST SLOT. ^white;A low-grade iron arm mod.",
+    "path": "/description"
+  }
+]

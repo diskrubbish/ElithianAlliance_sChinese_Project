@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A drone which acts to resolve disputes between Akkimari scavengers.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Arbiter",
+    "path": "/shortdescription"
+  }
+]

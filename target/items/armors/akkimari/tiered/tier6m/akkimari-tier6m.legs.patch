@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Vanquisher Greaves r.M",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A high-tech combat suit worn by Akkimari elites. Powerful version.",
+    "path": "/description"
+  }
+]

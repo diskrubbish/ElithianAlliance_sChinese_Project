@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Culinarian's Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A hat worn by chefs of the Union.",
+    "path": "/description"
+  }
+]

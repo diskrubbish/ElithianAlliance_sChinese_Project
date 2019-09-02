@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An underbarrel laser sight with a red colour.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Red Laser Sight",
+    "path": "/shortdescription"
+  }
+]

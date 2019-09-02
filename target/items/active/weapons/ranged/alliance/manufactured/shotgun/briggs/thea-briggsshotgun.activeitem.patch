@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Briggs Guardian",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "One of few weapons ever developed by Briggs Shipbuilding.",
+    "path": "/description"
+  }
+]

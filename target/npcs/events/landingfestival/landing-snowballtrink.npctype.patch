@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Don't you just love snow?",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "SnowROM",
+    "path": "/npcname"
+  }
+]

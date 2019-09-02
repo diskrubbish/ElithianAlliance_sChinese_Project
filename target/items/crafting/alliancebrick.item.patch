@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A heavy and extremely hard stone brick.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Brick",
+    "path": "/shortdescription"
+  }
+]

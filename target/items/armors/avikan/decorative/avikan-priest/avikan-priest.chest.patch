@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Rhaiod Necklace",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A necklace worn by priests of the Rhaiod.",
+    "path": "/description"
+  }
+]

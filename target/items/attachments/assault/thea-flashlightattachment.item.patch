@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An underbarrel flash light.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Flashlight",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Culinarian's Skirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;The lower part of a master chef's outfit.",
+    "path": "/description"
+  }
+]

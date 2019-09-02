@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "A poster promoting Aventor.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aventor Poster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Aventor develops the fastest spaceships in the Alliance.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssshiny.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki not know this. Poster-alien looks colourful.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Scan completed. Promotional material.",
+    "path": "/drodenDescription"
+  }
+]

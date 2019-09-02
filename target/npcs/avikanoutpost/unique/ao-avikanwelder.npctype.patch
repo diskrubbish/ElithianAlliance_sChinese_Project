@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "Can I help you?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Can I help you?",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Are you a repair frame? Or were you built for war?",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/2"
+  },
+  {
+    "op": "replace",
+    "value": "Arthan",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "Do you need anything, Captain?",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "Hmm?",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/2"
+  },
+  {
+    "op": "replace",
+    "value": "Hmm?",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/2"
+  },
+  {
+    "op": "replace",
+    "value": "I'm a tad busy right now.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I'm a tad busy right now.",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I'm busy here, no time to talk.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/1"
+  },
+  {
+    "op": "replace",
+    "value": "Please excuse me, Captain. I have to get to work.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "Valyan as-Nadata can repair your vehicles.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "Valyan as-Nadata can repair your vehicles.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Valyan as-Nadata can repair your vehicles.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "Valyan as-Nadata can repair your vehicles.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Valyan as-Nadata can repair your vehicles.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "Valyan as-Nadata can repair your vehicles.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "What is it, machine?",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "What is it, machine?",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/1"
+  }
+]

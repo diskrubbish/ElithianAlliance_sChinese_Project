@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An elemental arrow that electrifies targets.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Electric Arrow",
+    "path": "/shortdescription"
+  }
+]

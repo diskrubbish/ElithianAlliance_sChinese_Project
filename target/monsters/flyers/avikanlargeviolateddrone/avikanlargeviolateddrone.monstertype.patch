@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An Avikan Elite Drahl, corrupted by Thelean Vesomeyr.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Violated Elite Drahl",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "  Nomada Merchant",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "  Wares from Kadavan.",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  }
+]

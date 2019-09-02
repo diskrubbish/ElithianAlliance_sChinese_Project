@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Centensian Jumpgun",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Uses miniature jump gates to transport solar matter to the magazine.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Mech Operator's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A helmet built for interfacing with a mech's control systems.",
+    "path": "/description"
+  }
+]

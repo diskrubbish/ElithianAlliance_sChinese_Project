@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Scavenger's Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A simple bone plate, worn by Avikan scavengers.",
+    "path": "/description"
+  }
+]

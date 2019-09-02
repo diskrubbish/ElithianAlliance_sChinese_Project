@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Elite Chassis Type-M",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A chassis upgrade for elite combat units. Powerful version.",
+    "path": "/description"
+  }
+]

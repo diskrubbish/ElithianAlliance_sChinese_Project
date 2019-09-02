@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Machinegun ammunition that explodes on impact.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Blast Ammo",
+    "path": "/shortdescription"
+  }
+]

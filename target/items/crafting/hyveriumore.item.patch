@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Hyverium Ore",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "The crystalized deposit of an otherworldy material.",
+    "path": "/description"
+  }
+]

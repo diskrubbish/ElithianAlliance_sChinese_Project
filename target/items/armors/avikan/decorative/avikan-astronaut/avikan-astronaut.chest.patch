@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Astronaut's Suit",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;An old astronaut's suit used by early Avikan astronauts.",
+    "path": "/description"
+  }
+]

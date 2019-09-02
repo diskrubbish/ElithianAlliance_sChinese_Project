@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Watcher Chassis",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A chassis replacement for Droden Watcher units.",
+    "path": "/description"
+  }
+]

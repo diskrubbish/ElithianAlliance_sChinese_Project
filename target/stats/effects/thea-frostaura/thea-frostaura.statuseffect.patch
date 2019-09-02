@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Frost Aura",
+    "path": "/label"
+  }
+]

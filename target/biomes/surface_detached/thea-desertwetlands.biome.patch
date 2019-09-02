@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Wetlands",
+    "path": "/friendlyName"
+  }
+]

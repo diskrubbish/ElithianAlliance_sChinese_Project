@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "I'm no fan of all this metal. Bone is the real deal.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I'm no fan of all this metal. Bone is the real deal.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Makhan",
+    "path": "/npcname"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Cooldown Time:",
+    "path": "/cooldownTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Shield Health:",
+    "path": "/healthTitleLabel/value"
+  }
+]

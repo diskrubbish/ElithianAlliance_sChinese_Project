@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Lanuas Shotgun",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Theledos rifle firing explosive plasma rounds.",
+    "path": "/description"
+  }
+]

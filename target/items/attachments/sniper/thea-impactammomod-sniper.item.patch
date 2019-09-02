@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Impact Ammo",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sniper ammunition that causes significant knockback to targets.",
+    "path": "/description"
+  }
+]

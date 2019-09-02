@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Alliance Circuitry",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Basic, all-purpose circuitry for use in Alliance electronics.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Electrify",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A bone spear built around an electric shock generator.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Bone Coil Spear^white;",
+    "path": "/shortdescription"
+  }
+]

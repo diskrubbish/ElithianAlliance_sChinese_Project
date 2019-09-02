@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pistol built by the Avikan.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small and lightweight pistol, but exceptionally efficient at killing.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan pistol of sorts.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan skiprifle on display.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "An alien pistol. Imagine dual-wielding this beast!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran use thisss to sstab?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It is unfortunate that violence, and with it, weapons, are a necessity in this universe.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pistol-small. Akki find it puny.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Small but deadly, a skiprifle is an essential tool for Avikan explorers.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some sort of alien pistol.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This Avikan skiprifle fires a burst of bullets designed to skip off surfaces.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This burst-fire pistol was designed by the Avikan.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This pistol was designed by aliens.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Unlike many ballistic weapons, this pistol will never jam.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Skiprifle Display",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Skiprifle detected. Ammunition depleted.",
+    "path": "/drodenDescription"
+  }
+]

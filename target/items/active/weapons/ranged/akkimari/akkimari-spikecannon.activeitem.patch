@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A heavy spike cannon cobbled together by the Akkimari.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akris Spike Cannon",
+    "path": "/shortdescription"
+  }
+]

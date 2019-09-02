@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Alliance Explosive Charge",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An explosive for breaching walls. ^red;CAUTION: High damage to objects and tiles!^white;",
+    "path": "/description"
+  }
+]

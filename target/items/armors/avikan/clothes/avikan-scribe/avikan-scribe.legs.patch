@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Scribe's Skirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A leather skirt worn by scribes of the Nomada.",
+    "path": "/description"
+  }
+]

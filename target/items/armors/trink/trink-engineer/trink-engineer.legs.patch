@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Engineer Body Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;LEG SLOT. ^white;A body mod featuring reinforced eyes, for the engineer who wants to work safely.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran isss eager to open chesst. Maybe ssstabby weapon insside!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A high-grade military supply crate.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A machine-built supply crate. It might offer me an advantage.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A military equipment case, built by the Trinks.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sturdy metal supply crate.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A supply crate built for transporting weaponry.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A supply crate built to withstand anything.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A supply crate used by the Circuit's military unit.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Chest-military. Akki find weapons inside?",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Circuit Supply Crate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected machine-built supply crate. Recommend salvaging for parts.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I think there might be weapons inside!",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Let's look inside o' it already!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This Circuit supply crate might hold weapons.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This looks like a military weapons cache. Let's open it!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This seems to be a Circuit supply crate.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This supply crate uses materials of the best quality.",
+    "path": "/avianDescription"
+  }
+]

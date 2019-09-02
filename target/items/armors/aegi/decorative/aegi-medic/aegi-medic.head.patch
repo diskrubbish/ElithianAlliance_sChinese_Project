@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Meditek Hair Cap",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;Hair caps worn by Union medical workers.",
+    "path": "/description"
+  }
+]

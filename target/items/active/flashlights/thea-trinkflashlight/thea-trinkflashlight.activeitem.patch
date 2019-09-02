@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A highly efficient tight-beam flashlight of Trinkian design.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Flashlight",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Titanium Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A durable titanium legs upgrade.",
+    "path": "/description"
+  }
+]

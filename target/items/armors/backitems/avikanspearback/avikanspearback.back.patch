@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Back Spear",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A decorative bone spear, for wearing on your back.",
+    "path": "/description"
+  }
+]

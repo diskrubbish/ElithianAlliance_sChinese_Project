@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Come to inspect my work, scout?",
+    "path": "/scriptConfig/dialog/converse/trink/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Found any interesting blueprints, scout?",
+    "path": "/scriptConfig/dialog/converse/trink/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Found any interesting blueprints, traveller?",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "What do you think of my works, traveller?",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "You seem like a capable craftsman.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "You would make for a fine engineering unit.",
+    "path": "/scriptConfig/dialog/converse/trink/default/1"
+  }
+]

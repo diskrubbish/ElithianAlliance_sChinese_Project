@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A heated axe used by bounty hunters of the Kelraaki.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Kelraaki Axe",
+    "path": "/shortdescription"
+  }
+]

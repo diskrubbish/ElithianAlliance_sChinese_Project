@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Keffrider's Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;Lightweight and streamlined armour worn by the Keffriders.",
+    "path": "/description"
+  }
+]

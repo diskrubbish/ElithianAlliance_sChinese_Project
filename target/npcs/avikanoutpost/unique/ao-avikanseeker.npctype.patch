@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "If you find any ancient ruins on your journeys, please do inform me.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "If you find any ancient ruins on your journeys, please do inform me.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Ruins of the Old Ones are scattered throughout the galaxy. Find them, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vanhas",
+    "path": "/npcname"
+  }
+]

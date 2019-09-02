@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Overload",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Shakkar^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A brutal spear with an electrified blade.",
+    "path": "/description"
+  }
+]

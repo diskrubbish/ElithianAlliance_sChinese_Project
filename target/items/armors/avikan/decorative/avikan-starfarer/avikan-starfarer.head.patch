@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Starfarer's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A common helmet amongst captains and other starfarers.",
+    "path": "/description"
+  }
+]

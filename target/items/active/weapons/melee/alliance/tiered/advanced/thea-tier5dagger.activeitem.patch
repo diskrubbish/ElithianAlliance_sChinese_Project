@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A modern dagger.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Stryker X-03 Dagger",
+    "path": "/shortdescription"
+  }
+]

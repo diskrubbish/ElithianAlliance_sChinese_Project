@@ -1,0 +1,432 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/upgradeStages/0/itemSpawnParameters/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/upgradeStages/0/itemSpawnParameters/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/upgradeStages/0/itemSpawnParameters/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/upgradeStages/1/itemSpawnParameters/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/upgradeStages/1/itemSpawnParameters/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/upgradeStages/1/itemSpawnParameters/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/upgradeStages/2/itemSpawnParameters/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/upgradeStages/2/itemSpawnParameters/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/upgradeStages/2/itemSpawnParameters/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Worktable-alien, Akki craft things here.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Worktable-alien, Akki craft things here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": " Circuit Assembler",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": " Circuit Constructor",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": " Circuit Fabricator",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": " ^#b9b5b2;Trinkian items and equipment",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": " ^#b9b5b2;Trinkian items and equipment",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": " ^#b9b5b2;Trinkian items and equipment",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "A Trinkian worktable. It comes with few tools, but Trinks don't need a lot of tools.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Trinkian worktable. It comes with few tools, but Trinks don't need a lot of tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Trinkian worktable. Simplistic, but of a very high quality.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Trinkian worktable. Simplistic, but of a very high quality.",
+    "path": "/upgradeStages/0/itemSpawnParameters/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A big an' bold machine, surely useful for crafting.",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A big machine for assisting craftsmen.",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A fully automatic Trinkian manufactoring machine.",
+    "path": "/upgradeStages/2/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "A highly advanced printing system allows this machine to construct almost anything.",
+    "path": "/upgradeStages/2/itemSpawnParameters/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A highly efficient 3D printing system.",
+    "path": "/upgradeStages/2/itemSpawnParameters/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A hyper-advanced 3D printer, capable of printing weapons, armour, and much more!",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A machine capable of producing many things.",
+    "path": "/upgradeStages/1/itemSpawnParameters/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A machine that can help produce many items, both large and small.",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A machine-built crafting station. Better be careful with my flaps around that thing...",
+    "path": "/upgradeStages/1/itemSpawnParameters/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A manufactoring machine. It can construct various items.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A partially automated Trinkian manufactoring machine.",
+    "path": "/upgradeStages/1/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "A simple but spacious worktable. Many things could be crafted here.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple but spacious worktable. Many things could be crafted here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple craftin' workshop. It could use a few more tools.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple craftin' workshop. It could use a few more tools.",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A true artisan doesn't need many tools to do their crafting.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A true artisan doesn't need many tools to do their crafting.",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A worktable built by machines.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A worktable built by machines.",
+    "path": "/upgradeStages/0/itemSpawnParameters/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A worktable for crafting Trinkian items.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A worktable for crafting Trinkian items.",
+    "path": "/upgradeStages/0/itemSpawnParameters/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A worktable. Useful for crafting a variety of items.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A worktable. Useful for crafting a variety of items.",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An advanced 3D printing machine. No skill is needed to use this, only blueprints.",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An assembly table for crafting Trinkian items.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "An assembly table for crafting Trinkian items.",
+    "path": "/upgradeStages/0/itemSpawnParameters/description"
+  },
+  {
+    "op": "replace",
+    "value": "An automated crafting station, built by machines.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient crafting station. Built by the Trinks, no doubt.",
+    "path": "/upgradeStages/1/itemSpawnParameters/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient printing system. Insert a blueprint and the necessary materials, and you're good to go.",
+    "path": "/upgradeStages/2/itemSpawnParameters/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Big press, make things flat. Akki use for crafting.",
+    "path": "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected crafting station. Origin: machine-built.",
+    "path": "/upgradeStages/1/itemSpawnParameters/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected machine-built worktable.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected machine-built worktable.",
+    "path": "/upgradeStages/0/itemSpawnParameters/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected printing system. Analysis: machine-built.",
+    "path": "/upgradeStages/2/itemSpawnParameters/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Fabricator-automated, make anything Akki need.",
+    "path": "/upgradeStages/2/itemSpawnParameters/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Given the right blueprints and materials, this machine can print almost anything.",
+    "path": "/upgradeStages/2/itemSpawnParameters/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Insert a compatible blueprint and the required materials, and this station will construct almost anything.",
+    "path": "/upgradeStages/2/itemSpawnParameters/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Like any Trinkian tech, this crafting station is incredibly efficient.",
+    "path": "/upgradeStages/1/itemSpawnParameters/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Machine helpsss Floran with making thingss.",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Machine makesss thingss from blueprintss.",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metalmen make many thingsss here.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metalmen make many thingsss here.",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some sort of 3D printing machine, but far more advanced.",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Trink don't need many tools, as their own bodies are already equipped with so much.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Trink don't need many tools, as their own bodies are already equipped with so much.",
+    "path": "/upgradeStages/0/itemSpawnParameters/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Trinks need few tools. Their bodies are equipped with almost all they need.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Trinks need few tools. Their bodies are equipped with almost all they need.",
+    "path": "/upgradeStages/0/itemSpawnParameters/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This machine can assist in producing many things. The rebels could use it.",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This machine can assist my crafting skills, but it still requires some of my input.",
+    "path": "/upgradeStages/1/itemSpawnParameters/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This machine can print almost anything using the right blueprints.",
+    "path": "/upgradeStages/2/itemSpawnParameters/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This machine can print almost anything, using the right blueprints.",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This machine can print weapons? What magic is this?",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This machine can produce much, yes, but it still requires an artisan to operate it.",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This machine will do much of the crafting for you.",
+    "path": "/upgradeStages/1/itemSpawnParameters/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This worktable is simplistic, but it still has the tools needed to craft a great many things.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This worktable is simplistic, but it still has the tools needed to craft a great many things.",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "We Trinks don't need many tools. Our hands are enough to craft most of what we need.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "We Trinks don't need many tools. Our hands are enough to craft most of what we need.",
+    "path": "/upgradeStages/0/itemSpawnParameters/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Circuit Assembler^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Circuit Assembler^white;",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Circuit Constructor^white;",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Circuit Fabricator^white;",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription"
+  }
+]

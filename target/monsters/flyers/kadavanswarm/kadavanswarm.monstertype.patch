@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Stingwing Swarm",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stingwing swarms operate as a single creature, using specialized feromones to communicate and coordinate.",
+    "path": "/description"
+  }
+]

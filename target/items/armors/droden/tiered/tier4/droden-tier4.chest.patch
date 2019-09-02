@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Durasteel Chassis",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A strong durasteel chassis upgrade.",
+    "path": "/description"
+  }
+]

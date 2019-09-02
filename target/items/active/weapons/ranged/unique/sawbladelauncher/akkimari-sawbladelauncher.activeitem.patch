@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Hard Launch",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A makeshift Akkimari weapon firing razor-sharp sawblades.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Razorrail^white;",
+    "path": "/shortdescription"
+  }
+]

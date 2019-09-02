@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "ATROS AR-M1",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Focused Burst",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "A high rate of fire assault rifle.",
+    "path": "/description"
+  }
+]

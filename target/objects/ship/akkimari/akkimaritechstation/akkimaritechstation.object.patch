@@ -1,0 +1,212 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:talk.0",
+    "path": "/dialog/wakeUp/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:talk.0",
+    "path": "/dialog/wakeUp/2/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:talk.1",
+    "path": "/dialog/wakeUp/3/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:talk.1",
+    "path": "/dialog/wakeUp/4/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/0/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/1/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/2/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/3/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/4/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:unique.1",
+    "path": "/dialog/wakePlayer/5/1"
+  },
+  {
+    "op": "replace",
+    "value": "/ai/portraits/akkimariportrait.png:unique.1",
+    "path": "/dialog/wakeUp/0/1"
+  },
+  {
+    "op": "replace",
+    "value": "Akki talk to SAIL. SAIL like Justicar, AI-good.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Nomada is against the use of AI on any ship.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A console for communicating with SAIL.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A station for interacting with SAIL.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected SAIL interface. Console enables communication with SAIL.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Earth was attacked by an unknown force, and was subsequently annihilated.",
+    "path": "/dialog/wakeUp/3/0"
+  },
+  {
+    "op": "replace",
+    "value": "Floran use thisss magic panel to talk to SAIL!",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I am S.A.I.L, your Ship-based Artificial Intelligence Lattice. I manage the maintainance of your ship.",
+    "path": "/dialog/wakeUp/1/0"
+  },
+  {
+    "op": "replace",
+    "value": "I am also programmed to offer you information and advice.",
+    "path": "/dialog/wakeUp/2/0"
+  },
+  {
+    "op": "replace",
+    "value": "I can speak to SAIL using this console. It's good to have another AI on the ship.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I can talk to SAIL through this console.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I can use this station to talk to SAIL.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Please reboot the system.",
+    "path": "/dialog/wakePlayer/1/0"
+  },
+  {
+    "op": "replace",
+    "value": "Reboot process remains uninitiated.",
+    "path": "/dialog/wakePlayer/2/0"
+  },
+  {
+    "op": "replace",
+    "value": "Rebooting has shown to improve ship interaction satisfaction levels by 73%.",
+    "path": "/dialog/wakePlayer/4/0"
+  },
+  {
+    "op": "replace",
+    "value": "Rebooting requires a conscious entity to interact with the S.A.I.L console.",
+    "path": "/dialog/wakePlayer/5/0"
+  },
+  {
+    "op": "replace",
+    "value": "Rebooting...",
+    "path": "/dialog/wakeUp/0/0"
+  },
+  {
+    "op": "replace",
+    "value": "S.A.I.L",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "SAIL is one companion who will never fail you.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "System is down, please reboot.",
+    "path": "/dialog/wakePlayer/0/0"
+  },
+  {
+    "op": "replace",
+    "value": "The ship's navigation systems were damaged in our escape. Our location is currently unknown.",
+    "path": "/dialog/wakeUp/4/0"
+  },
+  {
+    "op": "replace",
+    "value": "This console allows for interaction with SAIL. It's nice to have someone to talk to.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This console allows me to communicate with SAIL.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This here station let's me talk with SAIL.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This panel allows for interaction with SAIL, the ship-based AI.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This station allows me to communicate with SAIL.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "To make use of your S.A.I.L please reboot.",
+    "path": "/dialog/wakePlayer/3/0"
+  }
+]

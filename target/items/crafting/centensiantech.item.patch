@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Centensian Tech",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Technology used in the creation of Centensian artefacts.",
+    "path": "/description"
+  }
+]

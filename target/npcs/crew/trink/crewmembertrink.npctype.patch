@@ -1,0 +1,182 @@
+[
+  {
+    "op": "replace",
+    "value": "Are you hiring? I would like to join your crew.",
+    "path": "/scriptConfig/dialog/crewmember/offer/trink/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Being uploaded into a new body is bad for my memory...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/trink/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Call me when we're heading out again.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/trink/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Capable <role>",
+    "path": "/scriptConfig/crew/ranks/9"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, adventurer. Might I join your crew?",
+    "path": "/scriptConfig/dialog/crewmember/offer/trink/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I can't find my way there!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/trink/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I can't get over there!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/trink/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I can't reach you!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/trink/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I should be more careful with my hull next time...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/trink/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I think we can help each other. Might I join your crew?",
+    "path": "/scriptConfig/dialog/crewmember/offer/trink/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I will charge into battle with you.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/trink/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I'll stay here, then.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/trink/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I'll wait for you here.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/trink/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I'll wait here.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/trink/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I'm all ready.",
+    "path": "/scriptConfig/dialog/crewmember/follow/trink/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'm certain that my skills will benefit your crew.",
+    "path": "/scriptConfig/dialog/crewmember/offer/trink/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'm glad my database wasn't corrupted when I was reuploaded.",
+    "path": "/scriptConfig/dialog/crewmember/respawned/trink/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I'm good to go.",
+    "path": "/scriptConfig/dialog/crewmember/follow/trink/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I'm ready for combat!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/trink/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "If you need combat support, you know where to find me.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/trink/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Let me know if you require combat support.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/trink/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Let's go, then.",
+    "path": "/scriptConfig/dialog/crewmember/follow/trink/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Ready to go.",
+    "path": "/scriptConfig/dialog/crewmember/follow/trink/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Some of my memories didn't transfer to my new body properly...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/trink/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Wait up!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/trink/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Command Unit",
+    "path": "/scriptConfig/crew/ranks/11"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Unit",
+    "path": "/scriptConfig/crew/ranks/5"
+  },
+  {
+    "op": "replace",
+    "value": "<role> of the Circuit",
+    "path": "/scriptConfig/crew/ranks/6"
+  },
+  {
+    "op": "replace",
+    "value": "Adaptive <role>",
+    "path": "/scriptConfig/crew/ranks/8"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance <role>",
+    "path": "/scriptConfig/crew/ranks/1"
+  },
+  {
+    "op": "replace",
+    "value": "Circuit <role>",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "Efficient <field> Unit",
+    "path": "/scriptConfig/crew/ranks/3"
+  },
+  {
+    "op": "replace",
+    "value": "Heavy <field> Unit",
+    "path": "/scriptConfig/crew/ranks/4"
+  },
+  {
+    "op": "replace",
+    "value": "Master <field> Unit",
+    "path": "/scriptConfig/crew/ranks/10"
+  },
+  {
+    "op": "replace",
+    "value": "Pre-programmed <role>",
+    "path": "/scriptConfig/crew/ranks/7"
+  },
+  {
+    "op": "replace",
+    "value": "Primary <field> Unit",
+    "path": "/scriptConfig/crew/ranks/2"
+  }
+]

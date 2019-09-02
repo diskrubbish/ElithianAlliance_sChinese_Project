@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "A simple light.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light. Ssshiny.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Basic lighting.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light source detected.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A green light strip.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A green light strip.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A green light, of Trink design.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A green light.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A green light.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A green light. How odd.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A green light. It feels unnatural.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple, green light.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient green light.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Green light. How odd.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I've always wondered why the Trink use green light...",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light-green.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Trinkian light strip.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A green light? Sure looks odd to me.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Ship Light",
+    "path": "/shortdescription"
+  }
+]

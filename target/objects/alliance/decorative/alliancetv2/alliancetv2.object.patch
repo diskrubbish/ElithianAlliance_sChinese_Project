@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance TV",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A TV playing a news channel.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A TV showing a news channel, I think.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A TV showing an Alliance Network news channel.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A TV tuned to a news network.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A news channel, boring...",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A news channel, with pictures of beautiful locations.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Alliance Network television.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien monitor showing pictures of various locations. Wait, is that an Avikan colony?",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien monitor. Forwarding information to the Vanguard.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Footage-alien, shows places-alien. Akki want to go there.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I would like to visit the places shown on this channel.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Let's just watch some television!",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Sscreen showss pretty sscenes.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This TV is stuck on a news channel...",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This TV is stuck on a single channel.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This TV is tuned to an Alliance Network news channel.",
+    "path": "/aegiDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Clanguard Skirt Type-A",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A superb-quality metal skirt worn by the Avikan Clanguard. Energetic version.",
+    "path": "/description"
+  }
+]

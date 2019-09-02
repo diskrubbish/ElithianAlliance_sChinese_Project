@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A metal spear with an extremely sharp blade, issued to Avikan military forces.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Spear",
+    "path": "/shortdescription"
+  }
+]

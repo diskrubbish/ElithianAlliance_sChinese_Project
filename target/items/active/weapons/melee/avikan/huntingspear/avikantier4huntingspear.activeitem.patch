@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Elder's Spear",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Harvest special materials from monsters.",
+    "path": "/description"
+  }
+]

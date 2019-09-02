@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Nock Power Arrow",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A powerful bow crafted in tribute to Elithia.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Bow of the Elithian^white;",
+    "path": "/shortdescription"
+  }
+]

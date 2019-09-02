@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A powerful mining laser. Burns through rock and enemies both!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Low-power Laser",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "AAE Mining Laser",
+    "path": "/shortdescription"
+  }
+]

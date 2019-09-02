@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Skoff Controller",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Summons a Skoff from your ship's cargo hold.",
+    "path": "/description"
+  }
+]

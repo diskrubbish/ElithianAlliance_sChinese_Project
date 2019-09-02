@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A small but powerful drone built for carrying cargo.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "AAE Transport Drone",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A radio playing some music.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A radio playing some music.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A radio tuned to a musical channel.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A radio. It's stuck on a single channel.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sleek radio.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small radio built by Enerth Engineering.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small radio.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alien music is quite odd.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Radio",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An elegantly designed radio.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien radio. Analyzing frequencies.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran likesss thiss music.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I always enjoy good music.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I love this song!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Just a music box.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Radio-alien. Make music-nice.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This type of radio is quite popular in the Alliance.",
+    "path": "/hymidDescription"
+  }
+]

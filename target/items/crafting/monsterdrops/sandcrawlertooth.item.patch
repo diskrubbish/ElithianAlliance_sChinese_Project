@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Sandcrawler's Tooth",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "The tooth of a Kadavan Sandcrawler.",
+    "path": "/description"
+  }
+]

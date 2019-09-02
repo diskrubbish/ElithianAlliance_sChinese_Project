@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Astronaut's Helmet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;An old design, this type of helmet was worn by early Avikan astronauts.",
+    "path": "/description"
+  }
+]

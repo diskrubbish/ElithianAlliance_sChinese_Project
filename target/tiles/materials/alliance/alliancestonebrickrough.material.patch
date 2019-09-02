@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Alliance Rough Bricks",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Old stone bricks.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Heavy stone bricks, roughened with age.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Stone bricks, rough and cracked.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran like the feel of sstone under feet.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stone feel good under feet-Akki.",
+    "path": "/akkimariDescription"
+  }
+]

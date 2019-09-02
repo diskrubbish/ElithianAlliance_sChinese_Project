@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Watcher Head",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A head piece replacement for Droden Watcher units.",
+    "path": "/description"
+  }
+]

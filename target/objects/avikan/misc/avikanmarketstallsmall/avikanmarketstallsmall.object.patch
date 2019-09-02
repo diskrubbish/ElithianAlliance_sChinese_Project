@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small market stall.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Small Avikan Stall",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Stall-small-empty.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A market stall. A common sight in Avikan villages.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A market stall. Nicely decorated.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple market stall, like those on Kadavan.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An empty market stall.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An empty market stall. An inefficient use of space.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An empty market stall. How boring.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An empty market stall. I wonder what was sold here.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An empty market stall? Nothing to buy here...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An empty stall. Its owner either sold everything, or not enough.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An empty stall. Was it recently used?",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Market stall. Empty.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Empty stallsss, nothing to buysss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Whatever was sold here either sold very well, or very poorly.",
+    "path": "/erixianDescription"
+  }
+]

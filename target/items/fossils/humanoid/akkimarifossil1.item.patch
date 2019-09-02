@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "Akkimari Skull",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A fossilised Akkimari skull.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akkimari Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "The fossilised remains of an Akkimari who died long ago.",
+    "path": "/completeSetDescriptions/description"
+  }
+]

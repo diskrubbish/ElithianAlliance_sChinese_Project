@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "value": "  Ayurin's Weapon Workshop",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "  Weapon and gear schematics.",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "A gunsmith? Might be gettin' some new rifles here.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki purchase blueprints, make things-new.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ayurin's Weapon Workshop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Vanguard-certified gunsmith. Unit can acquire new schematics for weapons here.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gunssmith craftss new weaponsss for Floran?",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It seems that Ayurin is the local gunsmith. Maybe he could craft me some new weapons.",
+    "path": "/description"
+  }
+]

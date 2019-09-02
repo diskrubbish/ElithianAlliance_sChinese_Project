@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple toilet.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akki do a nasty here!",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Toilet",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A luxurious toilet.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A place for droppings.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A toilet. It looks oddly clean.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A toilet. It smells quite nice, oddly enough.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alien chair detected. Analyzing piping functionality...",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An odd mix between simplicity and luxury.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I don't need toilets.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Shiny place for sssmelly business.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Aegi make oddly comfortable toilets.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This toilet doesn't smell bad, despite the fact that it is always open.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This toilet is amazing! So much better than the ones at home...",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This toilet neutralizes the air inside for a pleasantly unremarkable scent.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This toilet uses special cleaning tech for perfect hygiene.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "What is this thing?",
+    "path": "/avikanDescription"
+  }
+]

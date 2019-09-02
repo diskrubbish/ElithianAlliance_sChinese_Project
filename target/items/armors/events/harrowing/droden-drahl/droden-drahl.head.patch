@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Drahl Mask",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A drahl mask to celebrate the Harrowing!",
+    "path": "/description"
+  }
+]

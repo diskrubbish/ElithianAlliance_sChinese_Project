@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "value": "Charge Time:",
+    "path": "/chargeTimeTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Energy Per Shot:",
+    "path": "/energyPerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Unique",
+    "path": "/customRarityLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Charged Shot Damage:",
+    "path": "/chargedShotDamageTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Regular Shot Damage:",
+    "path": "/damagePerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;lvl^reset;",
+    "path": "/levelTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "I am a bug! Please report me.",
+    "path": "/descriptionLabel/value"
+  }
+]

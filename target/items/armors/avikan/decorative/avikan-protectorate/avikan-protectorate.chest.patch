@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A modified Terrene Protectorate uniform, tailored specifically for an Avikan.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate Top",
+    "path": "/shortdescription"
+  }
+]

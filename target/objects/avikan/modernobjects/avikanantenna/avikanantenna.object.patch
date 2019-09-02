@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Receiving radio signal. Analyzing.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A high antenna, it must have a very long range.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large antenna. I wonder what the leather sheet is for?",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A long antenna. What's that leather sheet for?",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A tall radio antenna. It looks especially cool at night.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An antenna adorned with a leather sheet. Odd.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An antenna like this wouldn't function underwater.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An antenna of sorts.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An antenna, for sending and receiving radio messages.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "An antenna. I wonder what sort of messages it is receiving.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Antenna-strong, receive signals.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Antennas like these allow our colonies to contact the fleet.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Antenna",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Metal antenna makesss for good spearsss...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This antenna has a very large range.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This antenna is jamming my own radio transmitters.",
+    "path": "/trinkDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A broken prod. Its power supply is busted.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Broken Prod",
+    "path": "/shortdescription"
+  }
+]

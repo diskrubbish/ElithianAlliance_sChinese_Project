@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "A fossilised Avikan skull.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Fossil",
+    "path": "/completeSetDescriptions/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Skull",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "The fossilised remains of an Avikan who died long ago.",
+    "path": "/completeSetDescriptions/description"
+  }
+]

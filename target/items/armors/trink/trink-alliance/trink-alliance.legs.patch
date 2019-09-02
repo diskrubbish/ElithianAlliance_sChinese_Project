@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Alliance Body Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;LEG SLOT. ^white;A body mod painted in the Elithian Alliance colours.",
+    "path": "/description"
+  }
+]

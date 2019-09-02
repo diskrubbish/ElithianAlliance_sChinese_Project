@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Makeshift Longsword",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A weapon built from scavenged parts.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Messus I-18",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A high rate of fire assault rifle.",
+    "path": "/description"
+  }
+]

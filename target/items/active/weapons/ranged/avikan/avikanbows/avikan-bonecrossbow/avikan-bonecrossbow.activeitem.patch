@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A crossbow made for hunting. It harvests monsters bones and hides.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Crossbow",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Vaash Resistance",
+    "path": "/label"
+  }
+]

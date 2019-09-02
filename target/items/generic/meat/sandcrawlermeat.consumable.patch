@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Sandcrawler Meat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Slices of Sandcrawler meat. It's better to clean it first...",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Mark II Optics Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;HEAD SLOT. ^white;A low-grade steel optics mod.",
+    "path": "/description"
+  }
+]

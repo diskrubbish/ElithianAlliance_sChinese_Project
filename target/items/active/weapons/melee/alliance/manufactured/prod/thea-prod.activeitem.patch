@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A basic electric prod.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Enerth Shock Rod",
+    "path": "/shortdescription"
+  }
+]

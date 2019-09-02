@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A strange, self-regenerating metal fragment.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Thelean Metal Fragment",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Patroller's Leggings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;Well-fitting boots and comfortable trousers.",
+    "path": "/description"
+  }
+]

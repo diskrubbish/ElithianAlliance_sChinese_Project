@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Recalibrate",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A Centensian weapon which can adapt to any situation.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Voice of Rhadeis^white;",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Double tap ^green;[W] ^white;to vanish from sight! Cooldown: 5.0s",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vanish",
+    "path": "/shortDescription"
+  }
+]

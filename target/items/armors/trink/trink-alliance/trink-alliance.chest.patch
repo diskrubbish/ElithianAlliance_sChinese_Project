@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Alliance Arm Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;CHEST SLOT. ^white;An arm mod painted in the Elithian Alliance colours.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A standard-issue Alliance rocket launcher.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "AC.L-45 Boulder",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Cluster Seekers",
+    "path": "/altAbility/name"
+  }
+]

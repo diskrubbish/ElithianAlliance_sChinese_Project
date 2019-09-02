@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Union Battlehelmet Type-A",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;An extremely durable metal helmet. Energetic version.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Sharp spikes that damage and slow down enemies passing over them.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Tarred Spike Trap",
+    "path": "/shortdescription"
+  }
+]

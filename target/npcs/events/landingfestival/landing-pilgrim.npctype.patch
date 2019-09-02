@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "A happy Landing Festival to you, my friend!",
+    "path": "/scriptConfig/dialog/converse/default/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "Another year has come to pass. It calls for celebration!",
+    "path": "/scriptConfig/dialog/converse/default/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Another year, another Landing Festival! Have you done your holiday shopping yet?",
+    "path": "/scriptConfig/dialog/converse/default/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Happy Landing Festival! It's a time of celebration for all!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "The Landing Festival is upon us again!",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  }
+]

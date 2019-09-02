@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A sturdy metal tent pole.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran makesss ssspear from metal polesss...",
+    "path": "/florandescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Tent Pole",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Ransacker's Cuirass",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A sturdy chestpiece to protect against heavy impacts.",
+    "path": "/description"
+  }
+]

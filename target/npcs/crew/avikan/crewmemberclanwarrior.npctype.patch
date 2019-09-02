@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "value": "Experienced <role>",
+    "path": "/scriptConfig/crew/ranks/9"
+  },
+  {
+    "op": "replace",
+    "value": "Guardian",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "<field> of Bone",
+    "path": "/scriptConfig/crew/ranks/11"
+  },
+  {
+    "op": "replace",
+    "value": "<field> of the Clan",
+    "path": "/scriptConfig/crew/ranks/3"
+  },
+  {
+    "op": "replace",
+    "value": "Bone-blade <role>",
+    "path": "/scriptConfig/crew/ranks/1"
+  },
+  {
+    "op": "replace",
+    "value": "Clan's Primary <role>",
+    "path": "/scriptConfig/crew/ranks/2"
+  },
+  {
+    "op": "replace",
+    "value": "Clan's Secondary <role>",
+    "path": "/scriptConfig/crew/ranks/6"
+  },
+  {
+    "op": "replace",
+    "value": "Elder <field>",
+    "path": "/scriptConfig/crew/ranks/5"
+  },
+  {
+    "op": "replace",
+    "value": "Legendary <role>",
+    "path": "/scriptConfig/crew/ranks/10"
+  },
+  {
+    "op": "replace",
+    "value": "Nomadic <role>",
+    "path": "/scriptConfig/crew/ranks/7"
+  },
+  {
+    "op": "replace",
+    "value": "Warrior",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Youngling <role>",
+    "path": "/scriptConfig/crew/ranks/8"
+  },
+  {
+    "op": "replace",
+    "value": "Clan <role>",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "Elder <role>",
+    "path": "/scriptConfig/crew/ranks/4"
+  }
+]

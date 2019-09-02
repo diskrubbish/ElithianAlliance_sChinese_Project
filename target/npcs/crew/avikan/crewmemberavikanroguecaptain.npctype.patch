@@ -1,0 +1,137 @@
+[
+  {
+    "op": "replace",
+    "value": "I can't get over there!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Let's go, then.",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "<role> Captain",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "I thought I was done for!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Rhadeis brought me back!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "That was the strangest thing I've ever felt...",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "The emergency teleport saved me again!",
+    "path": "/scriptConfig/dialog/crewmember/respawned/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Are we heading out?",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Criminal",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "Don't be long, alright?",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Don't leave me behind!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Don't take too long.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Finally, some action!",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Go on without me. I'll wait.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "How am I supposed to get there?",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I don't want to fight you. Any chance you'll let me join your crew instead?",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I need a place to hide! I'll work for you if you cover for me.",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I was falsely accused! I just need a place to lay low - could I hide on your ship? I'll work for you!",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'll wait here, then.",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I'm eager to test my blade.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "I'm here if you need a fighter.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "I've learned some trick over the years. If you need a fighter, I'm here.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "If you need an experienced fighter, you know where to find me.",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Please don't turn me in! I'll join your crew if you agree to hide me!",
+    "path": "/scriptConfig/dialog/crewmember/offer/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "Rogue",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "What's next?",
+    "path": "/scriptConfig/dialog/crewmember/follow/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "You're out of my reach!",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/avikan/default/0"
+  }
+]

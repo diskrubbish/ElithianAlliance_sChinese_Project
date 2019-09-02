@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Summons a blue Aventor Galliot from your ship's cargo hold.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Aventor Galliot Controller",
+    "path": "/shortdescription"
+  }
+]

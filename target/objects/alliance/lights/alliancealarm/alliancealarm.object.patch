@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Alarm",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alarm installed. It will alert anyone nearby to danger.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien alarm system. Recommend caution.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "If Akki hear alarm, Akki run to safety.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A flashing red alarm light with accompanying siren.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "An alarm accompanied by a loud alarm. It's glorious.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alarm light. It emits red light, as is usually the case.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alarm light. It will also activate a siren when triggered.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alarm. Better not trigger it...",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alarm. Used to alert guards to ruffians.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I'd better not be here if this alarm goes off.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "If this was a movie I bet this would go off just as I left.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These are used as a deterrent, but also as security.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This alarm will alert the guards to any criminal activity.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This flashing light will alert everyone to misdeeds.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This here alarm sure will make getting away with loot hard.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Thisss will alert all the guardsss.",
+    "path": "/floranDescription"
+  }
+]

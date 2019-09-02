@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Hold ^green;[space] ^reset; to hover after jumping the air!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hover Jump",
+    "path": "/shortDescription"
+  }
+]

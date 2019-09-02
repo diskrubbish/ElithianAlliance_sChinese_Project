@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Sandcrawler",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Sandcrawler digs in and strikes with little warning.",
+    "path": "/description"
+  }
+]

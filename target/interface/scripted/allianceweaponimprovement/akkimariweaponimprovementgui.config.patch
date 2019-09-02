@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "value": "Replace Me",
+    "path": "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+  },
+  {
+    "op": "replace",
+    "value": " Improve your weapons here!",
+    "path": "/gui/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": " Weapon Improvement Bench",
+    "path": "/gui/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Insert Upgrade Kit",
+    "path": "/gui/infoLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Upgrade",
+    "path": "/gui/btnUpgrade/caption"
+  },
+  {
+    "op": "replace",
+    "value": "You don't have any weapons that can be upgraded!",
+    "path": "/gui/emptyLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "-",
+    "path": "/gui/currentLevelLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "-",
+    "path": "/gui/newLevelLabel/value"
+  }
+]

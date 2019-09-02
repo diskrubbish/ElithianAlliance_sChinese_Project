@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Pilgrim's Leggings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;The costume of a pilgrim of the Landing Festival!",
+    "path": "/description"
+  }
+]

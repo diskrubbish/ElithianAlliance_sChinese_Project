@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Makeshift Bow",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;A makeshift metal bow, used to harvest meat and materials.",
+    "path": "/description"
+  }
+]

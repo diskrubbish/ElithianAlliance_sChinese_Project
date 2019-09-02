@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Scavenger's Skull",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A simple skull with a leather strap, worn by Avikan scavengers.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A collection of bone spears.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A number of bone spears.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rack of bone spears.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Detected Sandstalker bone.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bone spears, but the rack is made of metal. Odd.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bone spears. They look painful.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bone spearsss. Floran likesss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Hymidian craftsmanship is more advanced, but these bone spears still manage to impress.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spears made of bone. Surprisingly pointy.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spears of bone. How primitive.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Spears-bone, for hunting.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Strong bone spears. Fascinating craftsmanship.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These bone spears are unusually sharp and strong.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "These spears are made of bone. But from what sort of creature?",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Traditional bone spears from home. Stronger than many metal spears.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Spear Rack",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "Leather makesss Floran want to huntsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A basic leather tent door.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bland leather tent door.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather tent door.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather tent door. It provides us with ample protection against the desert winds.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather tent door. Simple, but very useful.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather tent door. Very basic.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather tent door. Very crude.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A primitive leather tent door.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple leather tent door. Not very interesting.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple, but functional, leather tent door.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An unimpressive leather tent door.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Tent Door",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected door. Material: leather.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Door to tent.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Interesting. The Avikan still use primitive materials despite their technological advancements.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple leather tent door.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A simple leather tent door.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple leather tent door.",
+    "path": "/notixDescription"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "A holographic table used to plan mission strategies.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A tactical holographic display.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Tactical Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran cannot ssstab light cubess. Floran iss frussstrated.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Holographic display table detected.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some sorta tiny city made of light.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Table-tactical. Plan mission here.",
+    "path": "/akkimariDescription"
+  }
+]

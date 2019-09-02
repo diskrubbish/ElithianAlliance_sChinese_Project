@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A wrench.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Union Wrench",
+    "path": "/shortdescription"
+  }
+]

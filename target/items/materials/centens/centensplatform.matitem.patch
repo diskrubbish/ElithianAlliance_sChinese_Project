@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Centensian Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An ancient metal platform.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Old metal platformsss",
+    "path": "/floranDescription"
+  }
+]

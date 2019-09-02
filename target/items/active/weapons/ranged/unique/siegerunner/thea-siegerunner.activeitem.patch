@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A hybrid assault rifle utilizing a conventional magazine.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Siegerunner^white;",
+    "path": "/shortdescription"
+  }
+]

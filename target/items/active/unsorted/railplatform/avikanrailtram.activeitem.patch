@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Rail Tram",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Place a user-controlled tram that works with rail tram stops.",
+    "path": "/description"
+  }
+]

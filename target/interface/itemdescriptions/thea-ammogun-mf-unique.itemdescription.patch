@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "value": "Reload",
+    "path": "/reloadAbilityLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Special:",
+    "path": "/reloadAbilityTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Magazine Size:",
+    "path": "/magazineSizeTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Reload Time:",
+    "path": "/reloadTimeTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Damage Per Shot:",
+    "path": "/damagePerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Rate of Fire:",
+    "path": "/speedTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Unique",
+    "path": "/customRarityLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  }
+]

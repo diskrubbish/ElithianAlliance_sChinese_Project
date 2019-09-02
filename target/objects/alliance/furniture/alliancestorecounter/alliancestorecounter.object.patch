@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A standard store counter.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A store counter.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A store counter.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A store counter.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A store counter.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A store counter. I should confirm my purchases here.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A store counter. It also offers space for displaying products.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki not pay. Akki steal!",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Store Counter",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien counter.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Did I get all of my groceries?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Do I have everything I need?",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It appears to be a store counter.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Simply a store counter.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some sort of alien desk. Maybe the merchants sit here?",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Ssstore counter.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This is where purchases are made final.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Welcome to the Festival Hall! Our doors open every year when the Landing Festival returns!",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

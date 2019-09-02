@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "A poster promoting Froza soda.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Floran wantsss to know what Froza iss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Froza Poster",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Froza is probably the most popular soda in the Union.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki not know this. Poster-alien looks colourful.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Scan completed. Promotional material.",
+    "path": "/drodenDescription"
+  }
+]

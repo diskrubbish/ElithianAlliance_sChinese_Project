@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "  Traditional bone weaponry.",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Weapons Merchant",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  }
+]

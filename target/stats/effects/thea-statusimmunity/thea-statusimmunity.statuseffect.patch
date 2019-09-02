@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Status Immunity",
+    "path": "/label"
+  }
+]

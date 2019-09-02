@@ -1,0 +1,122 @@
+[
+  {
+    "op": "replace",
+    "value": "Attack!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "A Captain! Get them!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/4"
+  },
+  {
+    "op": "replace",
+    "value": "A Captain! Get them!",
+    "path": "/scriptConfig/dialog/attack/avikan/droden/4"
+  },
+  {
+    "op": "replace",
+    "value": "Come to drag me back to the Nomada?",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/5"
+  },
+  {
+    "op": "replace",
+    "value": "Come to drag me back to the Nomada?",
+    "path": "/scriptConfig/dialog/attack/avikan/droden/5"
+  },
+  {
+    "op": "replace",
+    "value": "I can't let you report me!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "I can't let you report me!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "I can't let you report me!",
+    "path": "/scriptConfig/dialog/attack/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "I'm never going back to the Nomada!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "I'm never going back to the Nomada!",
+    "path": "/scriptConfig/dialog/attack/avikan/droden/1"
+  },
+  {
+    "op": "replace",
+    "value": "This is the wrong place for you to be!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/5"
+  },
+  {
+    "op": "replace",
+    "value": "You made a mistake coming here!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/7"
+  },
+  {
+    "op": "replace",
+    "value": "You made a mistake coming here!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "You made a mistake coming here!",
+    "path": "/scriptConfig/dialog/attack/avikan/droden/7"
+  },
+  {
+    "op": "replace",
+    "value": "You shouldn't have come here!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "You won't take me back to the Nomada!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "You won't take me back to the Nomada!",
+    "path": "/scriptConfig/dialog/attack/avikan/droden/2"
+  },
+  {
+    "op": "replace",
+    "value": "You've crossed paths with the wrong Avikan!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "You've seen too much!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/6"
+  },
+  {
+    "op": "replace",
+    "value": "I'm done with the Nomada!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/3"
+  },
+  {
+    "op": "replace",
+    "value": "I'm done with the Nomada!",
+    "path": "/scriptConfig/dialog/attack/avikan/droden/3"
+  },
+  {
+    "op": "replace",
+    "value": "You've come to the wrong place!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/6"
+  },
+  {
+    "op": "replace",
+    "value": "You've come to the wrong place!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "You've come to the wrong place!",
+    "path": "/scriptConfig/dialog/attack/avikan/droden/6"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A hand grenade used by Alliance soldiers.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Type 2 Grenade",
+    "path": "/shortdescription"
+  }
+]

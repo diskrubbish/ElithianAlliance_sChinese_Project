@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Engineer",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Engineering",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "The ship's engines weren't very efficient before, but I managed to increase thruster velocity by 25%!",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+  }
+]

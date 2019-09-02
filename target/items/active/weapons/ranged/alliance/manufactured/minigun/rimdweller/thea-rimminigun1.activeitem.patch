@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A minigun that outputs incredible rate of fire.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Terminator RM12",
+    "path": "/shortdescription"
+  }
+]

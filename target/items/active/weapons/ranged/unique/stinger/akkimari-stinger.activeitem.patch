@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Precision Bolt",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A lightweight driftrifle built for tactical incursions.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Stinger^reset;",
+    "path": "/shortdescription"
+  }
+]

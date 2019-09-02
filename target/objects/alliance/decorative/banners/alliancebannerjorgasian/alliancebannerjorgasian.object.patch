@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "A banner adorned with the emblem of the Triple Monarchy.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akki recognize! Symbol for the Monarchy-Triple.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien emblem. Emblem identified as Triple Monarchy iconography.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Triple Monarchy Banner",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran likesss colourful bannersss.",
+    "path": "/floranDescription"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A sturdy metal fence.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sssturdy fence.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Fence",
+    "path": "/shortdescription"
+  }
+]

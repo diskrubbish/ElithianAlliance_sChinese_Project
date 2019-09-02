@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Plutarch RS-6",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A machinegun perfect for sustained fire.",
+    "path": "/description"
+  }
+]

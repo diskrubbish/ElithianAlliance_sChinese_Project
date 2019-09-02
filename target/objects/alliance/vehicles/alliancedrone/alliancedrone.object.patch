@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small drone.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small drone.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A drone. It can hover very quietly.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A lightweight AAE drone.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small AAE drone. It's quite robust.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small drone built by AAE.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A small hoverin' construct.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Drone",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien vehicle. It looks a bit like the Drahl.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient drone design.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Awesome, it's a drone!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien vehicle. Similarities to Vanguard Drahl units noted.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Drone-small, for flying. Akki use to spy?",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran seesss a drone, Floran wantss to fly it.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "That's just a small drone.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This drone was likely manufactured by AAE.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "To others these drones may seem quiet, but I can always clearly hear them.",
+    "path": "/notixDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Nomada Line Rifle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;A high-powered line rifle for long range encounters.",
+    "path": "/description"
+  }
+]

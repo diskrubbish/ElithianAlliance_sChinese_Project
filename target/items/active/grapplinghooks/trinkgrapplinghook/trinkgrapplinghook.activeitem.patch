@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A grappling hook for climbing and swinging across gaps.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Circuit Grappling Hook",
+    "path": "/shortdescription"
+  }
+]

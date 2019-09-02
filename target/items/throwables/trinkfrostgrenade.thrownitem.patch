@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A canister that releases a cloud of freezing gas when broken.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "FROST Canister",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Gad'hur Controller",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Summons a Gad'hur from your ship's cargo hold.",
+    "path": "/description"
+  }
+]

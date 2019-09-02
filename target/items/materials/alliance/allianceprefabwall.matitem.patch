@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Alliance Prefab Wall",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Part of a pre-fabricated wall.",
+    "path": "/description"
+  }
+]

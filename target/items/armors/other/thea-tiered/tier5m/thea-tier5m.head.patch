@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "VH-i Energetic Head Shield",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Generic. ^white;A very high intensity shield generator for protecting the head, it provides high energy.",
+    "path": "/description"
+  }
+]

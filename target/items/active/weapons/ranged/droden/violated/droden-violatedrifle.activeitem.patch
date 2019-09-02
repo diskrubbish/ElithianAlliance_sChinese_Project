@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A hacked Droden Assault Rifle.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Violated Droden Rifle",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Snowball Body",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;LEG SLOT. ^white;A snowball body to celebrate the Landing Festival!",
+    "path": "/description"
+  }
+]

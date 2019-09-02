@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An ancient metal casing, likely part of some broken tool. Perhaps it can be mended.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Broken Ancient Casing^white;",
+    "path": "/shortdescription"
+  }
+]

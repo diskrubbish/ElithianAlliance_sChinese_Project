@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Triple Shot",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A linebow built by the secluded clans of Vhalakis.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Vhalakin Bow^white;",
+    "path": "/shortdescription"
+  }
+]

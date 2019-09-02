@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "A free Droden, and a Starfarer at that. Welcome.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, my fellow Starfarer.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "Nenehki",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "To be a Starfarer is to be free.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "To be a Starfarer is to be free.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

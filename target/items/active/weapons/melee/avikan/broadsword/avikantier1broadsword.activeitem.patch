@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A broadsword made of a giant monster's tooth.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bone Blade",
+    "path": "/shortdescription"
+  }
+]

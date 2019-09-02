@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Cape",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;An Avikan cape, made of two long sheets of leather.",
+    "path": "/description"
+  }
+]

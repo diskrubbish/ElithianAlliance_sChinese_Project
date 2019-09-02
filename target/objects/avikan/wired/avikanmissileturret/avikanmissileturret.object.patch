@@ -1,0 +1,107 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Nomada Missile Turret",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Turret, shoot rockets.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A Nomada-built turret, very useful when there is a shortage of guards.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan-built turret. I hope its targeting system won't see me as a threat.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An automated Nomada Defense Turret. Highly efective.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Nomada-approved Automated Defense Turret.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Such turrets are often used to protect Avikan colonies from attacks.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A fine turret for defending your base!",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A turret that will automatically defend areas. Can only be placed once.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "An automated defense turret.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An automated defense turret. The rebels could use this.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An automated security system.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Automatic Base Defense",
+    "path": "/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "No unconscious machine should ever be given the power to kill.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This automated turret will shred enemies to pieces.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This turret is ever vigilant.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This turret will defend any location from attacks by monsters and bandits.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Turret fightsss for Floran. Floran likesss turret.",
+    "path": "/floranDescription"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "Armahk",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "I've destroyed plenty of machines in my days of service to the Vanguard, but those days are over now.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "I've destroyed plenty of machines in my days of service to the Vanguard, but those days are over now.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "I've served the Vanguard for many, many years. Now it is time for me to rest.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "I've served the Vanguard for many, many years. Now it is time for me to rest.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I've served the Vanguard for many, many years. Now it is time for me to rest.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I've worked with many Droden during my years of service to the Vanguard. Your kind is quite alright.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/0"
+  }
+]

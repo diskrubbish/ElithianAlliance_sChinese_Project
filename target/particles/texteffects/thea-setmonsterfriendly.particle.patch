@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "^shadow;Befriended",
+    "path": "/definition/text"
+  }
+]

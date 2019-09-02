@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;CHEST SLOT. ^white;A very high-grade solarium-enhanced arm mod.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Enforcer Arm Mod v2",
+    "path": "/shortdescription"
+  }
+]

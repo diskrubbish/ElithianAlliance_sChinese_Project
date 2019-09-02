@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A welding torch used for construction in the Rim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Rimrock Welder",
+    "path": "/shortdescription"
+  }
+]

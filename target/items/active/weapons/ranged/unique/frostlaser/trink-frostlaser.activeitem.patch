@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "FROST Cloud",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;An ice-cold laser that freezes its targets solid.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;DS-03 FROST^white;",
+    "path": "/shortdescription"
+  }
+]

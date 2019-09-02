@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Mannequin",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected mannequin. Tailored to Avikan shape.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Display and easily equip your Avikan-themed armour sets!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akki put armour on mannequin, look at armour-pretty.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Mannequin for disssplaying armour.",
+    "path": "/floranDescription"
+  }
+]

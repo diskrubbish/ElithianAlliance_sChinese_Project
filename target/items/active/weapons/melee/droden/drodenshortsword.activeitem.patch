@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A thin and minimalistic shortsword, designed for use by Droden soldiers.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Droden Shortsword",
+    "path": "/shortdescription"
+  }
+]

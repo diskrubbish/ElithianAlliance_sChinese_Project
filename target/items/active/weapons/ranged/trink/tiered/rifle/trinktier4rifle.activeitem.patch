@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Ricochet Laser",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "A medium-grade, standard issue laser rifle built by the Trinks.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Circuit Rifle Mk IV",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A powerful Thelean minigun.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Cre'vath",
+    "path": "/shortdescription"
+  }
+]

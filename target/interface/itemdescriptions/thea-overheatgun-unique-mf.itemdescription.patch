@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Cooldown Time:",
+    "path": "/cooldownTimeTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Damage Per Shot:",
+    "path": "/damagePerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Rate of Fire:",
+    "path": "/speedTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Unique",
+    "path": "/customRarityLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Shots to Overheat:",
+    "path": "/shotsToOverheatTitleLabel/value"
+  }
+]

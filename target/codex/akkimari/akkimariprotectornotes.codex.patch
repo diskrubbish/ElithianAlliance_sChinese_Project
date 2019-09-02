@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "A Protector's Notes",
+    "path": "/title"
+  },
+  {
+    "op": "replace",
+    "value": "A short journal you wrote before your graduation as a Protector.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akki not great writer. But Akki was told to write journal, so Akki writes.\n\nAkki was traveling with Akkimari, scavenging and fighting. Took down large ship, many components. But aliens responded, called for help. Too many ships then, and Akkimari had to flee. Akki was wounded, left behind. Survived for days, but felt weak. Akki call for help then, and help comes.",
+    "path": "/contentPages/0"
+  },
+  {
+    "op": "replace",
+    "value": "Akki tired of writing now, so Akki stop. Journal weird, no need for it.",
+    "path": "/contentPages/2"
+  },
+  {
+    "op": "replace",
+    "value": "Protectorate ship comes, takes Akki on board. Patches Akki up, gives food and water. Akki stayed then. Traveled to Earth, make new friends. Akki become Protector then.\n\nNow almost done, Akki graduate soon. Then Akki get Matter Manipulator, study it. Maybe Akki will return to Akris, show Manipulator to Akkimari. Could help find Kel'chis, drive back Thell.",
+    "path": "/contentPages/1"
+  }
+]

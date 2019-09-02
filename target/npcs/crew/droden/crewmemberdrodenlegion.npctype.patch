@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Legion",
+    "path": "/scriptConfig/crew/role/field"
+  },
+  {
+    "op": "replace",
+    "value": "<field> Combat Unit",
+    "path": "/scriptConfig/crew/ranks/0"
+  },
+  {
+    "op": "replace",
+    "value": "Droden Legion Combat Unit available. Requesting permission to board ship.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Legionnaire",
+    "path": "/scriptConfig/crew/role/name"
+  },
+  {
+    "op": "replace",
+    "value": "Legionnaire unit <selfname> reporting for duty. Requesting permission to board ship.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Unit <selfname> reporting in. Legionnaire unit requesting permission to board ship.",
+    "path": "/scriptConfig/dialog/crewmember/offer/droden/default/1"
+  }
+]

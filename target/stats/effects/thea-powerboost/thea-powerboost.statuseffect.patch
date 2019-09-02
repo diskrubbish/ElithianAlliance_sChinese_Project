@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Rage",
+    "path": "/label"
+  }
+]

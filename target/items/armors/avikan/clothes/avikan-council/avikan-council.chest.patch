@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Councillor's Robes",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;Leather wraps worn by Nomada officials.",
+    "path": "/description"
+  }
+]

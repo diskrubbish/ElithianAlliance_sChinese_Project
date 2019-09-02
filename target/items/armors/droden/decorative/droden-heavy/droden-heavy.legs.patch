@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Heavy War Frame Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A heavy Droden war frame, built for ultimate durability.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Electromagnetic Extractor",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Extracts electric components from mechanical enemies.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A dark metal found inside Centensian structures.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Centensian Reinforcement",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dark metalsss insside old homesss.",
+    "path": "/floranDescription"
+  }
+]

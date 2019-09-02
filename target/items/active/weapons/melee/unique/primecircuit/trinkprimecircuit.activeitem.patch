@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Arc Lightning",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;An eletric prod powered by an overcharged generator.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Prime Circuit^white;",
+    "path": "/shortdescription"
+  }
+]

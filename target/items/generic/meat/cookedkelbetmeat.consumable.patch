@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Cooked Kelbet Venison",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "This delicious venison is illegal in most Union territories.",
+    "path": "/description"
+  }
+]

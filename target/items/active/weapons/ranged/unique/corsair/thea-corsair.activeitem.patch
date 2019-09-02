@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A well-balanced weapon favoured by pirates from the Rim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Corsair Type-2^white;",
+    "path": "/shortdescription"
+  }
+]

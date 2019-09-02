@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A thick and heavy shield of Thelean design.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Thelean Shield",
+    "path": "/shortdescription"
+  }
+]

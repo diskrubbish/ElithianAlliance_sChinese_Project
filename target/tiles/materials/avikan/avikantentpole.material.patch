@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "A metal tent pole.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Tent Pole",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Pole-strong, keep tent standing.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A tent pole, this'll surely hold up a tent.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Structurally vital tent pole.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran make ssspear from metal tent polesss?",
+    "path": "/floranDescription"
+  }
+]

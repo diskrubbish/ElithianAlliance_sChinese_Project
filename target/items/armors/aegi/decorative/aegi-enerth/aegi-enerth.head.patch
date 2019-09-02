@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Enerth Faceplate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A protective faceplate worn by Enerth Engineers.",
+    "path": "/description"
+  }
+]

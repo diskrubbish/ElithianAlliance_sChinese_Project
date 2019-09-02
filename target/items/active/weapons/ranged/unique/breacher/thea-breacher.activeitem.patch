@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A high-power railgun capable of firing through solid walls.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Breacher K-1^white;",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A Trinkian data storage device. It is currently empty.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#BA66FF;Circuit Data Drive^white;",
+    "path": "/shortdescription"
+  }
+]

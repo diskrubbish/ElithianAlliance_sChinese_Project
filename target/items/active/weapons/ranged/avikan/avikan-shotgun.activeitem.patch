@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A powerful shotgun issued to Avikan military forces.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Power Shot",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Shotgun",
+    "path": "/shortdescription"
+  }
+]

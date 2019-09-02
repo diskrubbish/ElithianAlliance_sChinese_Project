@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A clean towel to dry yourself with after taking a shower.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A clean white towel. Useful.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A dry, clean towel.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A rack for hanging your towels on.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A rack with a clean towel.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A towel rack.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A towel rack. Nothing special about it.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A towel rack. One can hang their towels here.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Towel Rack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Clean cloth to dry yourself with.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected cloth hanging rack.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran usesss cloth to dry.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gotta be careful not to burn this towel.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I prefer staying wet. It's better for my skin.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "If Akki wet, Akki dry here.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some sort of cleaning cloth.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This towel was recently washed.",
+    "path": "/hylotlDescription"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "  Auto chips and other parts",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Here we are. Let's see what you need!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I think I have exactly what you need.",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "My supplies are just over there.",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Need some Auto Chips, or any other vehicle parts?",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vehicle Parts Dealer",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  },
+  {
+    "op": "replace",
+    "value": "Come back soon!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  }
+]

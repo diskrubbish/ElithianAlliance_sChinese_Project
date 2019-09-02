@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A common Thelean footsoldier.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Thelean Trooper",
+    "path": "/shortdescription"
+  }
+]

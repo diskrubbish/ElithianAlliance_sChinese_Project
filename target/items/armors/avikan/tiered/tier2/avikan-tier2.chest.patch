@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Hunter's Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A sturdy bone plate with leather sleeves, worn by Avikan hunters.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Striped Body Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;LEG SLOT. ^white;A body mod with coloured stripes. For the fancy robot.",
+    "path": "/description"
+  }
+]

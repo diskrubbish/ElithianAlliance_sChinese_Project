@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Leather makesss Floran want to huntsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather canopy - simple, but effective nonetheless.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather canopy, to provide some shadow out in the desert.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A simple leather canopy, but it's still very effective at creating some shade.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple leather canopy, to provide some shade when the sun is out.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simplistic, but efficient, leather canopy.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Canopy for shade, Akki protected from sun.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected leather canopy. Provides shade during the day.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Out in the desert, a simple canopy like this is a blessing during the day.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This canopy is great against the sun, but I doubt it would last long in a storm.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This canopy looks fragile.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bland leather canopy.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather canopy, simple but effective.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather canopy. Effective, but not very pretty.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A leather canopy. Simple but effective.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Canopy",
+    "path": "/shortdescription"
+  }
+]

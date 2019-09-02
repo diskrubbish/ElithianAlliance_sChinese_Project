@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An outdated Trink laser rifle. Taken out of commission years ago, but it still packs a punch.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Rifle Mk I",
+    "path": "/shortdescription"
+  }
+]

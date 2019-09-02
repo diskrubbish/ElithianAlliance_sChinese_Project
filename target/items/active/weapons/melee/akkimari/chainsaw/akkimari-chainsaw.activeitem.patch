@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A powerful chainsaw that cuts through metal, flesh and rock all.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akris Chainsaw",
+    "path": "/shortdescription"
+  }
+]

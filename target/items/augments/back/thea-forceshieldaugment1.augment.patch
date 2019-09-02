@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Force Shield Augment I",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Force Shield I",
+    "path": "/augment/displayName"
+  },
+  {
+    "op": "replace",
+    "value": "Provides a slowly recharging shield that pushes away enemies and projectiles when broken.",
+    "path": "/description"
+  }
+]

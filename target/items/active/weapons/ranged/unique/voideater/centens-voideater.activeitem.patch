@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Gravity Well",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;An ancient weapon built to bend space-time.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Void Eater^white;",
+    "path": "/shortdescription"
+  }
+]

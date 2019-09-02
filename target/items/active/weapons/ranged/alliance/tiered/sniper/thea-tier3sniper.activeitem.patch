@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A high-impact sniper rifle.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hawk R-5",
+    "path": "/shortdescription"
+  }
+]

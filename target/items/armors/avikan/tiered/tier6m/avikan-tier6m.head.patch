@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Clanguard Helmet Type-M",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A superb-quality helmet worn by the Avikan Clanguard. Powerful version.",
+    "path": "/description"
+  }
+]

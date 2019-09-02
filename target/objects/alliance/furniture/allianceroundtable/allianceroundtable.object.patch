@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A conference table.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large conference table.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large conference table.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large conference table.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large round table.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large rounded conference table.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A large rounded conference table.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A table big enough for a whole crew.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A table fit for meetings between leaders.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki can't steal table-large.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Conference Table",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected large table.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Quite the conference table.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some sort of large table. Perhaps aliens meet here.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "That's quite the table.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This table is used for important meetings.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Tablesss.",
+    "path": "/floranDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A basic shortsword.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bredon Sword",
+    "path": "/shortdescription"
+  }
+]

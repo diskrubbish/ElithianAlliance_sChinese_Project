@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Zaheed's Sword",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;Zaheed wears his sword on his back when not in use.",
+    "path": "/description"
+  }
+]

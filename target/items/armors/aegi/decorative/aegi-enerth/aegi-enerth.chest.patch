@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Enerth Engineer's Shirt",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A working short worn by Enerth Engineers.",
+    "path": "/description"
+  }
+]

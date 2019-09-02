@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Pressure Plate",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Plate-pressure, activate if Akki stand on. Is Akki fat?",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pressure plate that activates when stood on.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis. Pressure plate. Activated when stood upon.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran sstand on platess, thingsss happen!",
+    "path": "/floranDescription"
+  }
+]

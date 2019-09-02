@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "M-ASA Leggings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;The standard leggings of Union military personnel.",
+    "path": "/description"
+  }
+]

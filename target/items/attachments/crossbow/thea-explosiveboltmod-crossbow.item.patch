@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A special bolt that explodes on contact.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Explosive Bolt",
+    "path": "/shortdescription"
+  }
+]

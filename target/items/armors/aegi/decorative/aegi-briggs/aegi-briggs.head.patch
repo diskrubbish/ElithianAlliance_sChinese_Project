@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Briggs Hard Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;A protective helmet worn by Briggs construction workers.",
+    "path": "/description"
+  }
+]

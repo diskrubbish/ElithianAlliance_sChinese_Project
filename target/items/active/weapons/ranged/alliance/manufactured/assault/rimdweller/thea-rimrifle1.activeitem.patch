@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "An assault rifle produced somewhere in the Rim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Focused Ricochet",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "Ripper RM5",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A bayonet that can be mounted underneath some rifles.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bayonet",
+    "path": "/shortdescription"
+  }
+]

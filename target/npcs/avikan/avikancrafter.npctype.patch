@@ -1,0 +1,197 @@
+[
+  {
+    "op": "replace",
+    "value": "Greetings, soft-skin.",
+    "path": "/scriptConfig/dialog/converse/avikan/human/0"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, wet one.",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/1"
+  },
+  {
+    "op": "replace",
+    "value": "I heard your kind likes shiny things.",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/0"
+  },
+  {
+    "op": "replace",
+    "value": "All that hair must be pretty warm if you're wearing armor.",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/3"
+  },
+  {
+    "op": "replace",
+    "value": "Are you a repair frame, or a war frame? I can never tell the difference.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/0"
+  },
+  {
+    "op": "replace",
+    "value": "Are you any good at crafting weapons, hairy one?",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/0"
+  },
+  {
+    "op": "replace",
+    "value": "Are you any good at crafting, Droden?",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/1"
+  },
+  {
+    "op": "replace",
+    "value": "Are you here to craft something, plant?",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/0"
+  },
+  {
+    "op": "replace",
+    "value": "Are you here to craft something?",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/3"
+  },
+  {
+    "op": "replace",
+    "value": "Are you in need of new gear, Captain?",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "Come to craft something, Captain?",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "Come to craft something, hairy one?",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/2"
+  },
+  {
+    "op": "replace",
+    "value": "Come to craft something, soft-skin?",
+    "path": "/scriptConfig/dialog/converse/avikan/human/3"
+  },
+  {
+    "op": "replace",
+    "value": "Come to see a true artisan, have you?",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/2"
+  },
+  {
+    "op": "replace",
+    "value": "Come to see a true craftsman, have you?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Come to see a true craftsman, have you?",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/2"
+  },
+  {
+    "op": "replace",
+    "value": "Come to see a true craftsman, have you?",
+    "path": "/scriptConfig/dialog/converse/avikan/human/1"
+  },
+  {
+    "op": "replace",
+    "value": "Come to see me craft, have you?",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/1"
+  },
+  {
+    "op": "replace",
+    "value": "Doesn't your gear get rusty when you go swimming?",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/0"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, Captain! Do you have any crafting blueprints to share?",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, walking plant.",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/3"
+  },
+  {
+    "op": "replace",
+    "value": "Hello there, metal one.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hello there, metal one.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hello there, odd thing.",
+    "path": "/scriptConfig/dialog/converse/avikan/default/1"
+  },
+  {
+    "op": "replace",
+    "value": "Hello there, soft-skin.",
+    "path": "/scriptConfig/dialog/converse/avikan/human/2"
+  },
+  {
+    "op": "replace",
+    "value": "I'd love to see the blueprints for you Droden some day.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/2"
+  },
+  {
+    "op": "replace",
+    "value": "If you're here for part replacements, you've come to the wrong address.",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/2"
+  },
+  {
+    "op": "replace",
+    "value": "If you're here for part replacements, you've come to the wrong address.",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/2"
+  },
+  {
+    "op": "replace",
+    "value": "My kind could learn a thing or two from your artisans.",
+    "path": "/scriptConfig/dialog/converse/avikan/hylotl/3"
+  },
+  {
+    "op": "replace",
+    "value": "Need me to craft you something, plant?",
+    "path": "/scriptConfig/dialog/converse/avikan/floran/1"
+  },
+  {
+    "op": "replace",
+    "value": "Observe and learn, feathered one.",
+    "path": "/scriptConfig/dialog/converse/avikan/avian/2"
+  },
+  {
+    "op": "replace",
+    "value": "Vas Vha'leih, Droden.",
+    "path": "/scriptConfig/dialog/converse/avikan/droden/3"
+  },
+  {
+    "op": "replace",
+    "value": "What brings you here, traveller?",
+    "path": "/scriptConfig/dialog/converse/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Who built you, exactly?",
+    "path": "/scriptConfig/dialog/converse/avikan/glitch/1"
+  },
+  {
+    "op": "replace",
+    "value": "Who built you, exactly?",
+    "path": "/scriptConfig/dialog/converse/avikan/trink/1"
+  },
+  {
+    "op": "replace",
+    "value": "Greetings, hairy one.",
+    "path": "/scriptConfig/dialog/converse/avikan/apex/1"
+  },
+  {
+    "op": "replace",
+    "value": "Hello, stranger.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Vas Vha'leih, Captain.",
+    "path": "/scriptConfig/dialog/converse/avikan/avikan/3"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome, stranger.",
+    "path": "/scriptConfig/dialog/converse/default/default/1"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "value": "Damage Per Swing:",
+    "path": "/damagePerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Rate of Fire:",
+    "path": "/speedTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "I am a bug. Please report me!",
+    "path": "/descriptionLabel/value"
+  }
+]

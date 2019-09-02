@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Landing Festival Present",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A big present! I wanna open it!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A gift for some lucky recipient.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A gift wrapped in decorative paper. Not very efficient.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A gift! Who is it for?",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A gift. Apparently wrapping these up is an ancient Aeginian tradition.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A nicely wrapped gift, just asking to be unwrapped..,",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A wrapped present for the Landing Festival.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akki want to see inside!",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analyzing. Detected boxed product. Low material value.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Could there be a new revolver inside?",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran want presssent! Floran hopesss it'ss a new knife for ssstabbing.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I think it's a box.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder who this present is for.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It's a box of some sort. I'm not sure what all that decoration is good for.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Aegi love wrapping their gifts. I've never really understood why, but I like getting presents regardless.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The tradition of gift-giving is a very positive one.",
+    "path": "/hylotlDescription"
+  }
+]

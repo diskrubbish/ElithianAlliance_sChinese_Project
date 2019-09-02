@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Dryad B-2",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^gray;Harvests meat and other goods from monsters.",
+    "path": "/description"
+  }
+]

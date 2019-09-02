@@ -1,0 +1,97 @@
+[
+  {
+    "op": "replace",
+    "value": "A light.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple light.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple light.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple light.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A standard light.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A standard light.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light. Ssshiny.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dim Avikan Light",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light. Status: active.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A cold light.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple light strip.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple light strip.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Basic lighting.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A strip of light.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient light.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient light.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A slim, dim light, useful for when there isn't much space.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light-dim.",
+    "path": "/akkimariDescription"
+  }
+]

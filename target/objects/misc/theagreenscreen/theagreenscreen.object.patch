@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Green Screen",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "It isn't green at all!",
+    "path": "/description"
+  }
+]

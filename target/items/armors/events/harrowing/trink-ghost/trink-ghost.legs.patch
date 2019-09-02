@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Ghost Body",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;LEG SLOT. ^white;A ghost body to celebrate the Harrowing!",
+    "path": "/description"
+  }
+]

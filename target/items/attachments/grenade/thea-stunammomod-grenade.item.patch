@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Grenade launcher ammunition that briefly stuns targets on detonation.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Stun Ammo",
+    "path": "/shortdescription"
+  }
+]

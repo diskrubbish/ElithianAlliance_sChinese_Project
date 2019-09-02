@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "P-ASA Leggings",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;Leggings worn by Union law enforcement.",
+    "path": "/description"
+  }
+]

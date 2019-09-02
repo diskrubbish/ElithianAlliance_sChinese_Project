@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Combat Hull Body Mod",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Trink. ^orange;LEG SLOT. ^white;A body mod built for combat situations.",
+    "path": "/description"
+  }
+]

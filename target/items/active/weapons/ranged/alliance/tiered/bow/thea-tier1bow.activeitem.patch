@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^gray;Harvests meat and other goods from monsters.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Bredon Compound Bow",
+    "path": "/shortdescription"
+  }
+]

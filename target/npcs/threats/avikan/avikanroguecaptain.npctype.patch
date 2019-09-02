@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "value": "Attack!",
+    "path": "/scriptConfig/dialog/attack/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I won't deal with the Nomada any longer!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/1"
+  },
+  {
+    "op": "replace",
+    "value": "I won't let you take my freedom!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "I've left the Nomada behind!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/2"
+  },
+  {
+    "op": "replace",
+    "value": "Rhadeis guides my path!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/4"
+  },
+  {
+    "op": "replace",
+    "value": "So, the Nomada finally sent someone after me!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/3"
+  },
+  {
+    "op": "replace",
+    "value": "You'd better turn back!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/3"
+  },
+  {
+    "op": "replace",
+    "value": "You've seen enough!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/2"
+  },
+  {
+    "op": "replace",
+    "value": "Your days are done!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/4"
+  },
+  {
+    "op": "replace",
+    "value": "I'm done with the Nomada!",
+    "path": "/scriptConfig/dialog/attack/avikan/avikan/0"
+  },
+  {
+    "op": "replace",
+    "value": "You've come to the wrong place!",
+    "path": "/scriptConfig/dialog/attack/avikan/default/1"
+  }
+]

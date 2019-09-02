@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large drone, built by the Akkimari.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A large drone. The Akkimari seem to revere them.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sleeping Akkimari-built drone.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A weird drone.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Akkimari Justicar. They enforce the law in Akkimari society.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien drone. It doesn't look as combat-focused as an Elite Drahl.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An elegantly designed drone.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An inactive Akkimari Justicar-type drone.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Big dronesss. Floran impresssed.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien-built drone. Justicar model.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Inactive Justicar",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "It's some kinda large drone.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Justicar-sleeping. Akki better not touch.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some type of large drone. It looks combat-ready.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Akkimari revere drones like these. They have a curious culture.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This drone is sleeping. I'd better not touch it.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This drone may be sleeping, but it still makes a soft noise.",
+    "path": "/notixDescription"
+  }
+]

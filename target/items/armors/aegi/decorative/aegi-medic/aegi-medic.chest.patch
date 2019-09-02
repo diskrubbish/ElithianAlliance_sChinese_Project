@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Meditek Uniform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;The uniform worn by Union medical workers.",
+    "path": "/description"
+  }
+]

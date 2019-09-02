@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Akris Strafer",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Akkimari weapon firing target-seeking plasma bolts.",
+    "path": "/description"
+  }
+]

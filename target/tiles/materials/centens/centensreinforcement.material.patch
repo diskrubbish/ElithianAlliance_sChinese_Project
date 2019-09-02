@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "A dark metal found inside Centensian structures.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Centensian Reinforcement",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Dark metalsss insside old homesss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Centensian metal detected.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Reinforcement-strong, for making buildings stable.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This 'ere metal if oft found sindie those metal structures of old.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Merchant's Pack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A large, decorated backpack used by the merchants of the desert.",
+    "path": "/description"
+  }
+]

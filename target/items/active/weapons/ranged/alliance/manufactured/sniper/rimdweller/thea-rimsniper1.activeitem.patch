@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A sniper rifle produced somewhere in the Rim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Concussion Round",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "Executioner RM2",
+    "path": "/shortdescription"
+  }
+]

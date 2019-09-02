@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Creon Embassy",
+    "path": "/bookmarkName"
+  },
+  {
+    "op": "replace",
+    "value": "Beam to Ship",
+    "path": "/destinations/0/name"
+  }
+]

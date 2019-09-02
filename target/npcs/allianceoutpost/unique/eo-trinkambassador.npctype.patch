@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Greetings, ambassador <entityname>. What brings you to the embassy today?",
+    "path": "/scriptConfig/dialog/converse/default/trink/0"
+  },
+  {
+    "op": "replace",
+    "value": "NivRAM-102",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "Welcome to the embassy of the Trink Circuit.",
+    "path": "/scriptConfig/dialog/converse/default/default/0"
+  }
+]

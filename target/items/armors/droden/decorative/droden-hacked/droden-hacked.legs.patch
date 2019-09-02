@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Violated Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A pair of Droden frame legs, hacked by Thelean Vesomeyr.",
+    "path": "/description"
+  }
+]

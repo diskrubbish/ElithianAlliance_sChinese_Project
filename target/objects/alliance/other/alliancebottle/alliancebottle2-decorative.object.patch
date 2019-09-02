@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Le'mar Bottle",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Drinksss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bottle of soda.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bottle of soda.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bottle of soda.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A full bottle of soda.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A soda bottle from the Union.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Just a bottle of soda from the Union.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bottle of Le'mar.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A surprisingly nutritional soda.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Akki thirsty.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An alien drink. Not sure if I should try it.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. Alien drink.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Drink up.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I love this alien soda!",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "The Aegi make great sodas.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This is quite a popular soda amongst the Aegi.",
+    "path": "/trinkDescription"
+  }
+]

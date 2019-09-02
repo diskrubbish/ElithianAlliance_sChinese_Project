@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A strong reinforced rail.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Dark Avikan Rail",
+    "path": "/shortdescription"
+  }
+]

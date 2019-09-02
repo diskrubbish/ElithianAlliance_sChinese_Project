@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Chaseflight Controller",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Summons an Akkimari Chaseflight from your ship's cargo hold.",
+    "path": "/description"
+  }
+]

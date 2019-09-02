@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Breathing EPP",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Produces breathable air. Helpful in places with ^red;no breathable atmosphere^reset;.",
+    "path": "/description"
+  }
+]

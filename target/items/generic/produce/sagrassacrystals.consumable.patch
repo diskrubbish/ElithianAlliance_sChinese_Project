@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A hard but edible, highly nutritious crystal.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Sagrassa Crystals",
+    "path": "/shortdescription"
+  }
+]

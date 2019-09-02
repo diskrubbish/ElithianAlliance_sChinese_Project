@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A primitive but effective way to water your crops.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Avikan Watering Sack",
+    "path": "/shortdescription"
+  }
+]

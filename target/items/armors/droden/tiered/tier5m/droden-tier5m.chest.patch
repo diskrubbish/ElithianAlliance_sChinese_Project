@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Nomada Chassis Type-M",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A Nomada-approved chassis upgrade. Powerful version.",
+    "path": "/description"
+  }
+]

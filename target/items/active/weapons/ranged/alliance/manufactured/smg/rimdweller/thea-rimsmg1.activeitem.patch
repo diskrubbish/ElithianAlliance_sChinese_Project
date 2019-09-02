@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An SMG produced somewhere in the Rim.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Dealer RM4",
+    "path": "/shortdescription"
+  }
+]

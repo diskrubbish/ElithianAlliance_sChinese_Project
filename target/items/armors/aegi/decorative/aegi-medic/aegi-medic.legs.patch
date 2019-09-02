@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Meditek Trousers",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;Trousers worn by Union medical workers.",
+    "path": "/description"
+  }
+]

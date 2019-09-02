@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;Unique Avikan Cache^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A sealed cache containing a random Unique-quality item. Hold ^green;[LMB] ^white;to open!",
+    "path": "/description"
+  }
+]

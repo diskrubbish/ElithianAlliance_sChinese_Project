@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "NPC-only weapon!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Thelean Bomb",
+    "path": "/shortdescription"
+  }
+]

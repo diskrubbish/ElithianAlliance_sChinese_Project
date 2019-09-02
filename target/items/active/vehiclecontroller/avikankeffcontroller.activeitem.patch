@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Keff Controller",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Summons a Keff from your ship's cargo hold.",
+    "path": "/description"
+  }
+]

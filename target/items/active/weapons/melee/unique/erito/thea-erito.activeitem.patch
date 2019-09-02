@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;A graceful longsword with a near-unbreakable edge.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Erito^white;",
+    "path": "/shortdescription"
+  }
+]

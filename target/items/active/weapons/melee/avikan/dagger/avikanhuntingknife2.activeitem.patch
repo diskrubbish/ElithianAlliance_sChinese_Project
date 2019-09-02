@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A hunting knife designed by the Nomada. Used to cut the highest quality leather from monsters.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nomada Hunting Knife",
+    "path": "/shortdescription"
+  }
+]

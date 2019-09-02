@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Union Battlesuit Type-M",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;An extremely durable metal chestpiece. Powerful version.",
+    "path": "/description"
+  }
+]

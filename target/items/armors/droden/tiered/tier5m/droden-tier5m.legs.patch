@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Nomada Legs Type-M",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A Nomada-approved legs upgrade. Powerful version.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "L-i Legs Shield",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Generic. ^white;A low intensity shield generator for protecting the legs.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Akris Bars",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Incredibly sturdy metal bars.",
+    "path": "/description"
+  }
+]

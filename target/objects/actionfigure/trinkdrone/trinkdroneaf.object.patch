@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "The label reads, \"A utility drone with minor combat capabilities.\"",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Drone Figurine",
+    "path": "/shortdescription"
+  }
+]

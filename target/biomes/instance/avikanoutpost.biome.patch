@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "Starfarer's Refuge",
+    "path": "/friendlyName"
+  }
+]

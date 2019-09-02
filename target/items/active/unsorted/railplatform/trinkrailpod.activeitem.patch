@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Place a user-controlled tram that works with rail tram stops.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Rail Pod",
+    "path": "/shortdescription"
+  }
+]

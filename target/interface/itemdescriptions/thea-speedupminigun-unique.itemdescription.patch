@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "value": "Windup Time:",
+    "path": "/chargeTimeTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Damage Per Shot:",
+    "path": "/damagePerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Energy Per Shot:",
+    "path": "/energyPerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Unique",
+    "path": "/customRarityLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Maximum Rate of Fire:",
+    "path": "/maxSpeedTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Minimum Rate of Fire:",
+    "path": "/minSpeedTitleLabel/value"
+  }
+]

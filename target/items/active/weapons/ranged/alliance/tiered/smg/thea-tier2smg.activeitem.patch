@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A standard-issue Alliance SMG.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Barok P-2",
+    "path": "/shortdescription"
+  }
+]

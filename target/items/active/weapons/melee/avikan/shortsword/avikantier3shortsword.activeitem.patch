@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A sharp sword made of strong monster bone.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Stalker's Sword",
+    "path": "/shortdescription"
+  }
+]

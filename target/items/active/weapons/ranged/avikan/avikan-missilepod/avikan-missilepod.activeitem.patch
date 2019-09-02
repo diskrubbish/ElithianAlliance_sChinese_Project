@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Rocket Barrage",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "A shoulder-mounted missile pod for sustained heavy fire.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Missile Pod",
+    "path": "/shortdescription"
+  }
+]

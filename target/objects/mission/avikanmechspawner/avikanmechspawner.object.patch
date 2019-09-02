@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A decently efficient mech bay.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A mech bay built by the Avikan. I believe they call their mechs 'Krahl'.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A mech bay built for Avikan Krahls.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A mech bay of some kind.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A mech bay.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A station for repairing and maintaining Vanguard Krahls.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A workstation where one can repair and maintain mechs.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An Avikan-built mech bay.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bay-mech-alien. Akki steal mech, scavenge for parts?",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected Vanguard Krahl Bay. Allows for easy maintenance on Krahls.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I reckon it's some kinda mech bay.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I think it's a mech bay.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It's a mech bay, built by the Avikan.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This looks like a mech bay.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This station allows for easy maintenance on Krahls.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Thiss isss a mech bay. Floran Ssmart.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Krahl Bay",
+    "path": "/shortdescription"
+  }
+]

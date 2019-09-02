@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "A small artefact forged in Vhalas Andra'veih, sacred city of the Ce'Tennan.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Soul Burst",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Andra'veihan Heart^white;",
+    "path": "/shortdescription"
+  }
+]

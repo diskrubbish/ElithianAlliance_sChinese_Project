@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A fossilised Trink body.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trink Body",
+    "path": "/shortdescription"
+  }
+]

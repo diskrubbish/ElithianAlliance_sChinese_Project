@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Vandal's Cuirass",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A chestplate and scarf worn by those who scrap alien ships for parts.",
+    "path": "/description"
+  }
+]

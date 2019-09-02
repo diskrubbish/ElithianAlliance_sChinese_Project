@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "An extremely sharp and lightweight shortsword issued to Avikan military forces.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Shortsword",
+    "path": "/shortdescription"
+  }
+]

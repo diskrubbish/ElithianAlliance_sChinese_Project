@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "^#FFDD59;Chraak Cannon^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A re-purposed artillery cannon that doubles as a spiked hammer.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Switch Form",
+    "path": "/altAbility/name"
+  }
+]

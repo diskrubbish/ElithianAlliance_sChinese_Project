@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Shalakka Top",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A top worn by Shalakka shamans.",
+    "path": "/description"
+  }
+]

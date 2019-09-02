@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Gun Bash",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A close-range electric weapon capable of dealing massive sustained damage.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;SDL-05 Arclighter^white;",
+    "path": "/shortdescription"
+  }
+]

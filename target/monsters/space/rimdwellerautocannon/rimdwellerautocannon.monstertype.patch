@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Rim Autocannon",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A powerful automated defense turret produced somewhere in the Rim.",
+    "path": "/description"
+  }
+]

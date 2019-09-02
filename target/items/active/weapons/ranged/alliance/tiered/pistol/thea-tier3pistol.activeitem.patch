@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A standard-issue Alliance handgun.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Python P-5",
+    "path": "/shortdescription"
+  }
+]

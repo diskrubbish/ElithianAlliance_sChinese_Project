@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A bright blinkin' light for guidin' ships.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A light to guide ships to safety.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A light used to guide in incoming ships.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A light used to guide ships safely to the ground.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple light for guiding ships at night. Quite an efficient solution.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Alliance Landing Beacon",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "At night, such a light is very useful for incoming ships.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected blinking light. Expected purpose is to guide incoming ships at night.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I suppose it's a light of some sort.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I think it is a landing beacon.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light for guiding ssshipss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light guides to safety.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light to guide one to safety.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some sort of landing guidance.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "That's a landing beacon.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This beacon will guide incoming ships safely to the ground.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This landing beacon helps ships land during the night.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This landing beacon is very useful in the dark.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This landing beacon serves as a guide for ships landing at night.",
+    "path": "/hymidDescription"
+  }
+]

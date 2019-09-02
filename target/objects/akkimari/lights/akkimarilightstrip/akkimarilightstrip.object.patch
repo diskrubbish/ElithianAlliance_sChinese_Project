@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A gently flickering light strip.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Akris Light Strip",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A light strip. It flickers gently.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pulsating light, it feels alive.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pulsating light. It has a strange hue.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pulsating light. It's strangely calming.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A pulsing light source. It feels quite natural.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A strange light source. It makes me feel odd.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A strange, pulsating alien light.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A strange, pulsating light source.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected pulsating light source.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I can hear this light source humming.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light pulsssatess.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Light-pulsing makes Akkimari feel calm.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This light isn't very efficient.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This light pulsates slowly, almost like it is alive.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This light pulsates slowly, like a breathing star.",
+    "path": "/novakidDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A docile creature native to Elithia. It often lives in large herds.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Kelbet",
+    "path": "/shortdescription"
+  }
+]

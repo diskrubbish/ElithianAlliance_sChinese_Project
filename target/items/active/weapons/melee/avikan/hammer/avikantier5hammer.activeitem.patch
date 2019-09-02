@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A heavy metal hammer designed by the Nomada.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Nomada Hammer",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A giant hammer made of high-quality monster bone.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Predator's Hammer",
+    "path": "/shortdescription"
+  }
+]

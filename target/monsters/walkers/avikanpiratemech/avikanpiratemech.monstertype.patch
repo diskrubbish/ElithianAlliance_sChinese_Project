@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A pirated Krahl.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Pirated Krahl",
+    "path": "/shortdescription"
+  }
+]

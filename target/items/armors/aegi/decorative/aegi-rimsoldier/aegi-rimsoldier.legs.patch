@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Rim Battlelegs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;Armoured leggings and magnetic boots worn by combatants in the Rim.",
+    "path": "/description"
+  }
+]

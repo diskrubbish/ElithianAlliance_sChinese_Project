@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "value": "  For all your Landing Festival needs!",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "Hohoho! Come back soon!",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hohoho! Happy Landing Festival, folks!",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hohoho! I have all the gifts you'll need this Landing Festival!",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Hohoho! Let's see what you need!",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "My gifts are just over there!",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0"
+  },
+  {
+    "op": "replace",
+    "value": "Pathfinder",
+    "path": "/npcname"
+  },
+  {
+    "op": "replace",
+    "value": "The Pathfinder's Gifts",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+  }
+]

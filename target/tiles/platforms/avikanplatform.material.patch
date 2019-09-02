@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "value": "Avikan Platform",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metal platform. The colour is reminiscent of sand.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Platform coloured like sssand.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Platform-metal. Akki no interested.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This 'ere platform has a sand-like texture to it.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis complete. A metal platform.",
+    "path": "/drodenDescription"
+  }
+]

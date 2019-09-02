@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO.",
+    "path": "/hyvonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Emblem for Vanguard, military-alien.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vanguard Tapestry",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bright-red wall decoration. This would look good in a Jorgasian home.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran likesss blood-red clothsss.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Gotta wonder what that icon means.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder what plant the Avikan extract this red dye from.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I wonder what this symbol represents",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I've always thought red looks better with some gold trimmings.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Scan completed. Vanguard wall decoration.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Some type of wall decoration.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This tapestry was decorated for the Vanguard. They are not particularly fond of the Trink.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This tapestry was decorated in the style of the Vanguard.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This wall decoration has a militaristic feel to it.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wall decoration decorated in the style of the Avikan Vanguard.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wall decoration. I don't recognize the symbol.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Wall tapestry decorated in the style of the Vanguard.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Wall tapestry dyed a deep red colour.",
+    "path": "/humanDescription"
+  }
+]

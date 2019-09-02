@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A length of metal cable. Useful for climbing and crafting both.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Cable",
+    "path": "/shortdescription"
+  }
+]

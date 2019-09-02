@@ -1,0 +1,102 @@
+[
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/centensDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/dremetonDescription"
+  },
+  {
+    "op": "replace",
+    "value": "TODO",
+    "path": "/theleanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A basic but very practical storage locker.",
+    "path": "/jorgasianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A basic storage locker.",
+    "path": "/erixianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A locker in the wall.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A locker made from metal.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A metal storage locker.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A nice, spacious, wall-mounted storage solution.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "A place to keep your things.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A simple storage locker.",
+    "path": "/hymidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "A storage locker built into the wall.",
+    "path": "/avikanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "An efficient storage locker. The Trink would enjoy this.",
+    "path": "/notixDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected storage locker.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran can ssstuff things into locker.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "It's an industrial looking storage locker.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Somewhere to store personal belongings.",
+    "path": "/hylotlDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This storage locker is an efficient use of space.",
+    "path": "/trinkDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Storage in wall, Akki like.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Trinkian Storage Locker",
+    "path": "/shortdescription"
+  }
+]

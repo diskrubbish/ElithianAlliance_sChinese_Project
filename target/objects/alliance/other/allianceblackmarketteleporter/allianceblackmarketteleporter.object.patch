@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Alien teleporter makesss Floran sssick...",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Bolter's Teleporter",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Teleporter make Akki feel weird.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "This teleporter makes for a useful shortcut.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Analysis. Teleporter. Hazard levels: medium.",
+    "path": "/drodenDescription"
+  }
+]

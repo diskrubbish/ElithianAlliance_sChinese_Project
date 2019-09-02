@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "Rocket Barrage",
+    "path": "/altAbility/name"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;A Vanguard Missile Pod modified by Ayurin.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Ayurin's Wrath^white;",
+    "path": "/shortdescription"
+  }
+]

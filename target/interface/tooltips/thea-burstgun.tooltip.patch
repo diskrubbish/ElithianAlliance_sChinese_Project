@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "value": "Energy Per Shot:",
+    "path": "/energyPerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Rate of Fire:",
+    "path": "/speedTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "tree",
+    "path": "/priceLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Damage Per Burst:",
+    "path": "/damagePerShotTitleLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "Rounds Per Burst:",
+    "path": "/roundsPerBurstTitleLabel/value"
+  }
+]

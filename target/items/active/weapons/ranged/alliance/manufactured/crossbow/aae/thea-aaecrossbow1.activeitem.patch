@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A powerful crossbow.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Hunter C-2",
+    "path": "/shortdescription"
+  }
+]

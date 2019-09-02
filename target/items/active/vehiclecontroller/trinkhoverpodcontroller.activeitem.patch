@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Hoverpod Controller",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Summons a Hoverpod from your ship's cargo hold.",
+    "path": "/description"
+  }
+]

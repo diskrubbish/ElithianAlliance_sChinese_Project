@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A standard-issue Alliance shotgun.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "AC.S-24 Ravager",
+    "path": "/shortdescription"
+  }
+]

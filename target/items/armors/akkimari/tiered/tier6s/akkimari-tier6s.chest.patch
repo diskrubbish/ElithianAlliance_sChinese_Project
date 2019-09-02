@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Vanquisher Cuirass r.S",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Akkimari. ^white;A high-tech combat suit worn by Akkimari elites. Vigorous version.",
+    "path": "/description"
+  }
+]

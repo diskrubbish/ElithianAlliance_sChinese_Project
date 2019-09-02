@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Iron Legs",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Droden. ^white;A basic iron legs upgrade.",
+    "path": "/description"
+  }
+]

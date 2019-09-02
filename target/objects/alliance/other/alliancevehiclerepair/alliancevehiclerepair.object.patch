@@ -1,0 +1,57 @@
+[
+  {
+    "op": "replace",
+    "value": "Akki bring vehicles-broken to alien. Alien fixes them.",
+    "path": "/akkimariDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Detected alien engineer. Likely offers vehicle reparation services.",
+    "path": "/drodenDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Faro's Vehicle Workshop",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "Faro's a skilled vehicle repairman working for Enerth Engineering. He can fix my vehicles.",
+    "path": "/aegiDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Floran takesss broken vehicle to sstrange man. Ssstrange man fixess vehicle.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "I can rebuild any vehicles you've lost or forgotten. Just need a few Auto Chips!",
+    "path": "/chatOptions/2"
+  },
+  {
+    "op": "replace",
+    "value": "I can take a look at any broken vehicles you have.",
+    "path": "/chatOptions/0"
+  },
+  {
+    "op": "replace",
+    "value": "If you have a few Auto Chips, I can repair your vehicles for you.",
+    "path": "/chatOptions/1"
+  },
+  {
+    "op": "replace",
+    "value": "This engineer should be able to fix my vehicles.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "This fella looks like he could fix up my vehicles.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "Vehicle repairs",
+    "path": "/subtitle"
+  }
+]

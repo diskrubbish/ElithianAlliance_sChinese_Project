@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "A simple but powerful flashlight built by Enerth Engineering.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "Enerth Flashlight",
+    "path": "/shortdescription"
+  }
+]

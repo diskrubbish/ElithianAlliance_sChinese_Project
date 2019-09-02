@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "President's Hat",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Aegi. ^white;The official attire of the president of the Aeginian Federal Union.",
+    "path": "/description"
+  }
+]

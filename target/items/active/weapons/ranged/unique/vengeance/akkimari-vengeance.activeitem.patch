@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^orange;An old Vaash rifle that has avenged many lives.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;Vengeance^white;",
+    "path": "/shortdescription"
+  }
+]

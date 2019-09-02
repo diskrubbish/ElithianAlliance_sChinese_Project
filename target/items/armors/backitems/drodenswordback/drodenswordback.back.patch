@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Droden Longsword",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "^green;Avikan. ^white;A Droden Longsword for wearing on the back.",
+    "path": "/description"
+  }
+]
