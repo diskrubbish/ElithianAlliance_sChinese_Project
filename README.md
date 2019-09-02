@@ -1,0 +1,2 @@
+# ElithianAlliance_sChinese_Project
+Chinese-mod for ElithianAlliance
