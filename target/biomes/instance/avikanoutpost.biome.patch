@@ -1,7 +1,1 @@
-[
-  {
-    "op": "replace",
-    "value": "Starfarer's Refuge",
-    "path": "/friendlyName"
-  }
-]
+[ { "op": "replace", "value": "远行星者庇护所", "path": "/friendlyName" } ]
