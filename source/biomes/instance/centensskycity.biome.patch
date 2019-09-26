@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "value": "Sky",
-    "path": "/friendlyName"
-  }
-]

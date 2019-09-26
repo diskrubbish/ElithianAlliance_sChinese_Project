@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "value": "Energy Cells",
-    "path": "/label"
-  }
-]

@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "value": "^shadow;Already received today's present!",
-    "path": "/list/0/body/0/options/0/specification/text"
-  }
-]
