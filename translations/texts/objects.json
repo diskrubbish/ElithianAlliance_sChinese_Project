@@ -1,0 +1,2776 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/hyvonDescription"
+      ],
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/centensDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/centensDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/hyvonDescription"
+      ],
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/theleanDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/centensDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/hyvonDescription"
+      ],
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallmodern/avikanmarketstallmodern.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvehiclejumpgate/avikanvehiclejumpgate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostteleporter/avikanoutpostteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostteleportersmall/avikanoutpostteleportersmall.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/hyvonDescription"
+      ],
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/decorative/centenscubes/centenscubes.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/events/landingfestival/landingteleporter/landingteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/avikanrefugeteleporter/avikanrefugeteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter-akkimari/creonembassyteleporter-akkimari.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter-trink/creonembassyteleporter-trink.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter/creonembassyteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/theleanDescription"
+      ],
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/centensDescription",
+        "/theleanDescription"
+      ],
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/hyvonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "TODO"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarichest/akkimarichest.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/containers/akkimaricrate/akkimaricrate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/containers/akkimarismallchest/akkimarismallchest.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/crafting/akkimaricrafting/akkimaricrafting.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/erixianDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/erixianDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/2/itemSpawnParameters/centensDescription",
+        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/2/itemSpawnParameters/erixianDescription",
+        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/erixianDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/erixianDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/2/itemSpawnParameters/centensDescription",
+        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/2/itemSpawnParameters/erixianDescription",
+        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/erixianDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/erixianDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/2/itemSpawnParameters/centensDescription",
+        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/2/itemSpawnParameters/erixianDescription",
+        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribountyhologram/akkimaribountyhologram.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/decorative/akkimarihangingstorage/akkimarihangingstorage.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/decorative/akkimarijusticar/akkimarijusticar.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/decorative/akkimaripowercore/akkimaripowercore.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimaribottomplating/akkimaribottomplating.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimaribottomplating2/akkimaribottomplating2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimaribottomplating3/akkimaribottomplating3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating/akkimarisideplating.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating2/akkimarisideplating2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating2/akkimarisideplating2inverted.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating3/akkimarisideplating3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating3/akkimarisideplating3inverted.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimaritopplating/akkimaritopplating.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimaritopplating2/akkimaritopplating2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimaritopplating3/akkimaritopplating3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/decorative/sheets/akkimarisheet/akkimarisheet.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/akkimari/doors/akkimariflightdoor/akkimariflightdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/furniture/akkimariscrapbed/akkimariscrapbed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/containers/alliancespacecontainer/alliancespacecontainer.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/containers/alliancespacecontainerclamped/alliancespacecontainerclamped.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/2/itemSpawnParameters/centensDescription",
+        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/2/itemSpawnParameters/centensDescription",
+        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/2/itemSpawnParameters/centensDescription",
+        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/doors/alliancemanholedoor/alliancemanholedoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancedesk/alliancedesk.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/alliance/other/alliancerecruitmentdesk/alliancerecruitmentdesk.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/boneobjects/avikanspearrack/avikanspearrack.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/crafting/avikanfurnace/avikanfurnace.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/avikan/crafting/avikaninventor/avikaninventor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/crafting/drodenframecrafting/drodenframecrafting.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/2/itemSpawnParameters/centensDescription",
+        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/displays/avikanrifledisplay/avikanrifledisplay.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanegg/avikanegg.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/outpost/avikanwatchertapestry/avikanwatchertapestry.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestryroll/avikantapestryroll.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentobjects/avikanvanguardtapestry/avikanvanguardtapestry.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentobjects/avikanvanguardtapestry1/avikanvanguardtapestry1.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/crafting/uniqueweaponcollection/uniqueweaponcollection.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/crafting/uniqueweaponinfusion/uniqueweaponinfusion.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/centens/decorative/centensjumpconduit/centensjumpconduit.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/centens/doors/centensblastdoor/centensblastdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/farmables/achvass/achvassseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/centensDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/centensDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/hyvonDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/hyvonDescription"
+      ],
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/bolbohn/bolbohnseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/bolbohn/wildbolbohnseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/borato/boratoseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/dunestalk/dunestalkseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/dunestalk/wildedunestalkseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/sagrassa/sagrassaseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/sagrassa/wildsagrassaseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/selvas/selvasseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/centensDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/centensDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/vrelli/vrelliseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/farmables/vrelli/wildvrelliseed.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/flags/flagaegi/flagaegi.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/flags/flagavikan/flagavikan.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/space/akkimarishipantenna/akkimarishipantenna.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/space/akkimarishipantenna2/akkimarishipantenna2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/space/akkimarishipthruster/akkimarishipthruster.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription",
+        "/upgradeStages/0/itemSpawnParameters/centensDescription",
+        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/1/itemSpawnParameters/centensDescription",
+        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
+        "/upgradeStages/2/itemSpawnParameters/centensDescription",
+        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
+        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
+      ],
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/centensDescription"
+      ],
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkprodrack/trinkprodrack.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/theleanDescription"
+      ],
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/centensDescription",
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "TODO."
+    }
+  }
+]

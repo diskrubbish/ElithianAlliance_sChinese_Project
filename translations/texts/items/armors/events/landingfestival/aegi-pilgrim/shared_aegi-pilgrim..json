@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/landingfestival/aegi-pilgrim/aegi-pilgrim.chest": [
+        "/description"
+      ],
+      "items/armors/events/landingfestival/aegi-pilgrim/aegi-pilgrim.head": [
+        "/description"
+      ],
+      "items/armors/events/landingfestival/aegi-pilgrim/aegi-pilgrim.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The costume of a pilgrim of the Landing Festival!"
+    }
+  }
+]

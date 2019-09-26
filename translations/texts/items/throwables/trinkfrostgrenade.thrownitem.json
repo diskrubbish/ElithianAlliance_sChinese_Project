@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/trinkfrostgrenade.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A canister that releases a cloud of freezing gas when broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/trinkfrostgrenade.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "FROST Canister"
+    }
+  }
+]

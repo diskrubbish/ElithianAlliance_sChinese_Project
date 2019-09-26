@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/frostlaser/trink-frostlaser.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "FROST Cloud"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/frostlaser/trink-frostlaser.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;An ice-cold laser that freezes its targets solid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/frostlaser/trink-frostlaser.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;DS-03 FROST^white;"
+    }
+  }
+]

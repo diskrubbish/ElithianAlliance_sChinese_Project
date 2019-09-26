@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceborderlessglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/allianceborderlessglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Borderless Alliance Glass"
+    }
+  }
+]

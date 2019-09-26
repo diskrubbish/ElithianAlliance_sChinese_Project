@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier5s/droden-tier5s.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Legs Type-S"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier5s/droden-tier5s.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A Nomada-approved legs upgrade. Vigorous version."
+    }
+  }
+]

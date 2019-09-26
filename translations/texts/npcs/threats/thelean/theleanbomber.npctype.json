@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/thelean/theleanbomber.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keth!"
+    }
+  }
+]

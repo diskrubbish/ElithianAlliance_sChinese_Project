@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanarmring.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small metal arm ring, its owner is probably looking for it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanarmring.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Avikan Arm Ring^white;"
+    }
+  }
+]

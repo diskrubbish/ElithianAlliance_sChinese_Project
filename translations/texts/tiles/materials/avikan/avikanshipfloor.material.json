@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanshipfloor.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Multi-layer floor panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanshipfloor.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Designed for use in spaceships, this floor panel is highly impact-resistant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanshipfloor.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floor-ship, Akki no clean it. Let Nokkimari do it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanshipfloor.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal floor panel makess Floran feel sssafe..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanshipfloor.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such panels are often used as floors onboard spaceships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanshipfloor.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panel has multiple layers of metal stuff in it."
+    }
+  }
+]

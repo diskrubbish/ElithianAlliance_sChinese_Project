@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/akkimari/chainsaw/akkimari-chainsaw-npc.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Chainsaw (NPC)"
+    }
+  }
+]

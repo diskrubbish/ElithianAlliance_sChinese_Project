@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/avikanmodernpack/avikanmodernpack.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Pack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/avikanmodernpack/avikanmodernpack.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A lightweight but well protected metal chest designed to be worn on the back."
+    }
+  }
+]

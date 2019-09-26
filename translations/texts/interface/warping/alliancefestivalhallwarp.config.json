@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/alliancefestivalhallwarp.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Landing Festival Hall"
+    }
+  }
+]

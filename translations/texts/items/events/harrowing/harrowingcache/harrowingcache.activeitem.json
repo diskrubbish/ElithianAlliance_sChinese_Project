@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/harrowing/harrowingcache/harrowingcache.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sealed cache containing Harrowing event items. Hold ^green;[LMB] ^white;to open!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/harrowing/harrowingcache/harrowingcache.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harrowing Cache"
+    }
+  }
+]

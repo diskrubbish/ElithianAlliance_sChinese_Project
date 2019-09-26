@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/boratochips.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Borato Chips"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/boratochips.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fried borato chips, crunchy and tasty."
+    }
+  }
+]

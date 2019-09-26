@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposter/allianceposter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poster promoting the Elithian Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposter/allianceposter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithian Alliance Poster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposter/allianceposter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hass seen thisss ssymbol before."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposter/allianceposter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scan completed. Alien symbolism."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposter/allianceposter.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Elithian Alliance is an alliance between many different spacefaring nations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposter/allianceposter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What is this Elithian Alliance?"
+    }
+  }
+]

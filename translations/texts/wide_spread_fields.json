@@ -1,0 +1,405 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/default/2"
+      ],
+      "npcs/allianceoutpost/eo-hospitalpatient.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/trink/trinkengineer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1",
+        "/scriptConfig/dialog/converse/trink/default/1"
+      ],
+      "npcs/trink/trinkwelder.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1",
+        "/scriptConfig/dialog/converse/trink/default/1"
+      ],
+      "objects/events/allianceholidaybanner/allianceholidaybanner.object": [
+        "/description"
+      ],
+      "objects/events/allianceholidaylights/allianceholidaylights.object": [
+        "/description"
+      ],
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin-event.object": [
+        "/description"
+      ],
+      "objects/events/landingfestival/landingpresentbig/landingpresentbig.object": [
+        "/description"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium-event.object": [
+        "/description"
+      ],
+      "objects/mission/theacrowdsounds/theacrowdsounds.object": [
+        "/description"
+      ],
+      "objects/mission/theahiddenlight/theahiddenlight.object": [
+        "/description"
+      ],
+      "tiles/materials/other/thea-hiddenmaterial.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centensbeamaxe/description"
+      ],
+      "items/tools/manipulator/centensbeamaxe.beamaxe": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian artefact capable of rapidly deconstructing matter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikandarkplatform.matitem": [
+        "/description"
+      ],
+      "items/materials/trink/trinkplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/avikandarkplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark metal platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancethickplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/alliancethickplatform.material": [
+        "/description"
+      ],
+      "tiles/platforms/avikanthickplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick metal platform. Very sturdy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-fireworkattachment/description"
+      ],
+      "items/attachments/unique/thea-fireworkattachment.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underbarrel fireworks launcher to celebrate the Landing Festival!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/allianceblackmarketteleporter.config": [
+        "/bookmarkName"
+      ],
+      "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bolter's Bazaar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/8",
+        "/converse/avikan/akkimari/8",
+        "/converse/avikan/apex/8",
+        "/converse/avikan/avian/8",
+        "/converse/avikan/floran/8",
+        "/converse/avikan/human/8",
+        "/converse/avikan/hylotl/8",
+        "/converse/avikan/novakid/8"
+      ],
+      "npcs/avikanoutpost/unique/ao-avikanwelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/1",
+        "/scriptConfig/dialog/converse/default/default/1"
+      ],
+      "npcs/trink/trinkengineer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/trink/default/0"
+      ],
+      "npcs/trink/trinkwelder.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0",
+        "/scriptConfig/dialog/converse/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can I help you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/avikanblackmarketteleporter.config": [
+        "/bookmarkName"
+      ],
+      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drifter's Emporium"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/instance/elithia.biome": [
+        "/friendlyName"
+      ],
+      "interface/warping/alliancefestivalhallwarp.config": [
+        "/destinations/0/planetName"
+      ],
+      "interface/warping/allianceoutpostwarp.config": [
+        "/destinations/0/planetName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/lblEngineer/value"
+      ],
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/lblEngineer/value"
+      ],
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/alliance/crewmemberallianceengineer.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/trink/crewmembertrinkengineer.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engineer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/1"
+      ],
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ],
+      "npcs/events/landingfestival/landing-lounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, friend."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/drodenlegion/title"
+      ],
+      "npcs/crew/droden/crewmemberdrodenengineer.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/droden/crewmemberdrodenlegion.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/droden/crewmemberdrodenmechanic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legion"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/lblMechanic/value"
+      ],
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/lblMechanic/value"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/alliance/crewmemberalliancemechanic.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/trink/crewmembertrinkmechanic.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mechanic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/lblMedic/value"
+      ],
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/lblMedic/value"
+      ],
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/alliance/crewmemberalliancemedic.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/trink/crewmembertrinkmedic.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/trink/primecircuit.codex": [
+        "/title"
+      ],
+      "collections/thea_weapons.collection": [
+        "/collectables/trinkprimecircuit/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prime Circuit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/lblCombat/value"
+      ],
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/lblCombat/value"
+      ],
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soldier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancestairsplatform.matitem": [
+        "/description"
+      ],
+      "items/materials/alliance/alliancethickstairsplatform.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanstairsplatform.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanthickstairsplatform.matitem": [
+        "/description"
+      ],
+      "items/materials/rimdweller/rimdwellerstairsplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/alliancestairsplatform.material": [
+        "/description"
+      ],
+      "tiles/platforms/alliancethickstairsplatform.material": [
+        "/description"
+      ],
+      "tiles/platforms/avikanstairsplatform.material": [
+        "/description"
+      ],
+      "tiles/platforms/avikanthickstairsplatform.material": [
+        "/description"
+      ],
+      "tiles/platforms/rimdwellerstairsplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sturdy metal stairs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/lblTailor/value"
+      ],
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/alliance/crewmemberalliancetailor.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tailor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/zaheedsword/title"
+      ],
+      "items/armors/backitems/zaheedswordback/zaheedswordback.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zaheed's Sword"
+    }
+  }
+]

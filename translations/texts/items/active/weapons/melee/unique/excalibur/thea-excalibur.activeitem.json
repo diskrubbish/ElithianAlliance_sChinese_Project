@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/excalibur/thea-excalibur.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A grand Aevis crafted in honor of the Taemera family."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/excalibur/thea-excalibur.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Excalibur^white;"
+    }
+  }
+]

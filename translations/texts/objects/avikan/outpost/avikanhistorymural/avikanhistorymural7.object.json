@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural7.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mural detected. Analysis: depiction of the Great Exodus from Kadavan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural7.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The mural ends with a depiction of our exodus from Kadavan, the darkest day in our history."
+    }
+  }
+]

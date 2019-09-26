@@ -1,0 +1,114 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering light. I wonder how this effect was achieved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering light. It seems to be based on Centensian technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A levitating light. Provides both light and warmth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Light Orb"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected light orb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/centensDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressive. This light hovers using some of our own technologies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hovering light uses an organic battery for levitation and light both."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light is efficient, lightweight and very versatile."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanfarmpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanfarmpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Farming Block"
+    }
+  }
+]

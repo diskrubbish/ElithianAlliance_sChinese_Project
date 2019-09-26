@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bed. I prefer a repair pod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A comfortable bed with clean sheets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A good place to close one's eyes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nice and comfortable bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but comfortable bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Basic bedding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should get some sleep."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi make comfortable beds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bed is quite comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bed looks quite comfortable."
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wrecked Krahl. It looks like it was attacked using Thelean weapons..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan mech, damaged beyond repair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Krahl. Status: irreparable damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hope the pilot made it our alright..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech-alien-wrecked. Akki wonder where pilot is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal sssuit hass been destroyed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mech was attacked and swiftly destroyed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrecked Avikan Mech"
+    }
+  }
+]

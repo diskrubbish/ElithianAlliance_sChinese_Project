@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/sniper/collective/thea-collectivesniper1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/sniper/collective/thea-collectivesniper2.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/sniper/thea-tier1sniper.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/sniper/thea-tier2sniper.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/sniper/thea-tier3sniper.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/sniper/thea-tier4sniper.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/sniper/thea-tier5sniper.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/sniper/thea-tier6sniper.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-impact sniper rifle."
+    }
+  }
+]

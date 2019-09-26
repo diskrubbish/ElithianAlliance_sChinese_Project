@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/description"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large pine tree decorated for the Landing Festival."
+    }
+  }
+]

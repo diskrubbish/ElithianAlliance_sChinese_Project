@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/crossbow/thea-explosiveboltmod-crossbow.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A special bolt that explodes on contact."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/crossbow/thea-explosiveboltmod-crossbow.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explosive Bolt"
+    }
+  }
+]

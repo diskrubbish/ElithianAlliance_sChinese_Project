@@ -1,0 +1,179 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian radar dish, one of the best in the Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian radar dish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big bad radar dish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large radar dish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large radar dish. Looks powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large radar dish. Whoever controls it must have seen my spaceship coming long before I arrived."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful radar dish of Trinkian design. Carefully calibrated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/description",
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A radar dish of Trinkian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A radar dish of Trinkian design. Highly efficient design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis: radar dish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dish-big, Akki intercept signal! Akki want to know what aliens say."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isss thiss a big metal flower?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing gets past this radar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This radar dish can detect spaceships in deep space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This radar dish was designed and built by our Trinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Radar Dish"
+    }
+  }
+]

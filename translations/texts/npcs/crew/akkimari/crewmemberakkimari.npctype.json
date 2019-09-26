@@ -1,0 +1,211 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/akkimari/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> can not die! Ha!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/akkimari/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> feel strange now..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/akkimari/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> follow you. Alright?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/akkimari/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> gonna fight!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/akkimari/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> lives again!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> mad! No go there!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> not go there. Too far."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/akkimari/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> ready for fight!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> want to fight. Not wait."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/akkimari/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> want to join you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> will wait. Not too long."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/akkimari/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Death does not scare <selfname>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/akkimari/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Go! <selfname> follow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/akkimari/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gonna kill!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "No leave <selfname>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not leave <selfname> long."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/akkimari/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong fighter! <selfname> want to follow you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/akkimari/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why leave <selfname> behind?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/akkimari/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why must <selfname> wait?"
+    }
+  }
+]

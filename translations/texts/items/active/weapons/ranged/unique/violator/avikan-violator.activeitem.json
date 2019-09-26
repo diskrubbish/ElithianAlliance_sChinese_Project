@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/violator/avikan-violator.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ion Laser"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/violator/avikan-violator.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;An Ion Cannon enhanced with Thelean technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/violator/avikan-violator.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Violation Protocol^white;"
+    }
+  }
+]

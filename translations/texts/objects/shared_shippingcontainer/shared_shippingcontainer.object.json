@@ -1,0 +1,141 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic shipping container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large metal shipping container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rather large container for shipping large quantities of cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would guess it's meant for shipping very large objects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a huge crate for shipping large cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a really big shipping container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maybe theress food in it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shipping container is extremely sturdy."
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy metal door, and all that stands between me and the endlessness of space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Door is locked until the cargo hold is decompressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Decompression of this room is needed before that door will ever open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran afraid of endlesss sspace behind doorsss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good thing this door won't budge before the room gets decompressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not opening this before this room gets decompressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a scary thing to think that this door is all that stand between me and outer space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sure am glad this door ain't opening anytime soon. I'd be rather annoyed if I got sucked into outer space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is all that stands between me and outer space. Good thing it won't open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door won't open before the cargo hold gets decompressed."
+    }
+  }
+]

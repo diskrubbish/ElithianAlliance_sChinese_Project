@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/jumprifleburn/jumprifleburn.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solar Burn"
+    }
+  }
+]

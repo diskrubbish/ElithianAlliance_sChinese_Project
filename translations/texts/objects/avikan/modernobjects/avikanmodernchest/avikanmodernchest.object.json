@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Container"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chest-small."
+    }
+  }
+]

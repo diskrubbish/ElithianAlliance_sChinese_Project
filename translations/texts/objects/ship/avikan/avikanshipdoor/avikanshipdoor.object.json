@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door. The locking mechanism is new to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mechanical door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong door from home, built for use on ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan door, used primarily on spaceships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan ship door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-ship, special-not."
+    }
+  }
+]

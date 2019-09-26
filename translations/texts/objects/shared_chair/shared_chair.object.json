@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmells of alien butt."
+    }
+  }
+]

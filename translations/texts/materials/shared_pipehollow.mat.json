@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancepipehollow.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanheavypipehollow.matitem": [
+        "/description"
+      ],
+      "items/materials/trink/trinkpipehollow.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancepipehollow.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanheavypipehollow.material": [
+        "/description"
+      ],
+      "tiles/materials/trink/trinkpipehollow.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy, thick pipe. Liquids can flow through it."
+    }
+  }
+]

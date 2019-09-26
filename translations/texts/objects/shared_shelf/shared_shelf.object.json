@@ -1,0 +1,202 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal shelf mounted to the wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal shelf, firmly attached to the wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal shelf."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple metal shelf, mounted to the wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple shelf."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple wall-mounted shelf."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic, but functional, wall shelf."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal shelf."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall-mounted metal shelf."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected wall-mounted shelf. Firmly attached to the wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran putsss trophiess on sshelves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "T'is a shelf."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shelf is firmly attached to the wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shelf is firmly mounted to the wall."
+    }
+  }
+]

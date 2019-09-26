@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancepipe.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/alliance/alliancepipehollow.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikanheavypipe.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikanheavypipehollow.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/trink/trinkpipe.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/trink/trinkpipehollow.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/trink/trinkpipe.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/trink/trinkpipehollow.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pipe."
+    }
+  }
+]

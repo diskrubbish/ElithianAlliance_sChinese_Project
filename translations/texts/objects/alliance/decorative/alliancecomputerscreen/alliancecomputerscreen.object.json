@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic computer and screen in one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer and a screen in one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer and screen in one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A personal computer and screen in one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A screen and computer in one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple computer and screen combo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard computer-and-screen in one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A type of alien computer and screen combo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki not sure what it means. Interface-strange."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Computer Screen"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Enerth Engineering-built computer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Combining a computer and screen in one is quite efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Computers aren't my thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This screen is also a computer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This screen is also a computer. Clever."
+    }
+  }
+]

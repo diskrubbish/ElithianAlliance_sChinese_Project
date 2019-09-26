@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/trink-ghost/trink-ghost.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghost Body"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/trink-ghost/trink-ghost.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A ghost body to celebrate the Harrowing!"
+    }
+  }
+]

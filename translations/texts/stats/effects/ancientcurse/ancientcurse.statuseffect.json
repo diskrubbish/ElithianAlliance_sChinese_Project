@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/ancientcurse/ancientcurse.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harrowing Curse"
+    }
+  }
+]

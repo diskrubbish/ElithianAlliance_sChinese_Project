@@ -1,0 +1,197 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/thea-bow-patreon.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-bow-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-longbow-unique.tooltip": [
+        "/descriptionLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harvests meat and other goods from monsters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/thea-activethrowable.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-patreon.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-ammogunnoreload-patreon.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-patreon.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique-mf.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique-mf.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgunalt-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-mf.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique-mf.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-gun-descriptive.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-gun-patreon.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique-mf.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-minigun-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-overheatgun-unique-mf.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-unique.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-sword-descriptive.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique-mf.tooltip": [
+        "/descriptionLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique.tooltip": [
+        "/descriptionLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am a bug. Please report me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-patreon.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogunnoreload-patreon.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-patreon.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-patreon.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique-mf.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique-mf.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgunalt-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique-mf.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-fistweapon-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-patreon.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique-mf.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-longbow-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-minigun-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-optionalchargegun-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-overheatgun-unique-mf.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sealedcache-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sealedcache.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique-mf.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;lvl^reset;"
+    }
+  }
+]

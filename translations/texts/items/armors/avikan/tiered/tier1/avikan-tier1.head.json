@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier1/avikan-tier1.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scavenger's Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier1/avikan-tier1.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A simple skull with a leather strap, worn by Avikan scavengers."
+    }
+  }
+]

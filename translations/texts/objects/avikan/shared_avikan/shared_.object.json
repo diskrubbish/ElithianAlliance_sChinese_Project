@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/apexDescription",
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/apexDescription",
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/apexDescription",
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanoutpostdoor/avikanoutpostdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal blast door."
+    }
+  }
+]

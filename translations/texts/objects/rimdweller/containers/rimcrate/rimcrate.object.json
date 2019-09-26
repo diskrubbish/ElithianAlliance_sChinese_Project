@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crate of Rimdweller design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple metal container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A storage crate created in the Rim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crate-alien, has goodies inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim Crate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Rim produces very sturdy products."
+    }
+  }
+]

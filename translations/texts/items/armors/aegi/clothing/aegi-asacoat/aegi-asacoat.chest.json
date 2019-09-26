@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-asacoat/aegi-asacoat.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "ASA Coat"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-asacoat/aegi-asacoat.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A high quality coat for high-ranking ASA officials."
+    }
+  }
+]

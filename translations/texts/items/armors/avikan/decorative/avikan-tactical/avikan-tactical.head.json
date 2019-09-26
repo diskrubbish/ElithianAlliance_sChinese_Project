@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-tactical/avikan-tactical.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tactical Visor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-tactical/avikan-tactical.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A high-tech visor displaying tactical information."
+    }
+  }
+]

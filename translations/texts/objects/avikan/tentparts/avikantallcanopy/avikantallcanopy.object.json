@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A canopy, for casting a cooling shadow in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Fabric Canopy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Canopy-colourful."
+    }
+  }
+]

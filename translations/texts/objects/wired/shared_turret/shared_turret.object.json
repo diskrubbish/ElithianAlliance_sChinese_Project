@@ -1,0 +1,298 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fine turret for defending your base!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly efficient automated turret design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/description"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A turret that will automatically defend areas. Can only be placed once."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated defense turret, very useful when there is a shortage of guards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated defense turret."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated defense turret. The rebels could use this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated security system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient, automated defense turret."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/subtitle"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/subtitle"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/subtitle"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Automatic Base Defense"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected machine-built turret. Recommend sabotage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope this turret won't target me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "No unconscious machine should ever be given the power to kill."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This automated turret will shred enemies to pieces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This turret is ever vigilant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This turret will defend any location from attacks by monsters and bandits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Turret fightsss for Floran. Floran likesss turret."
+    }
+  }
+]

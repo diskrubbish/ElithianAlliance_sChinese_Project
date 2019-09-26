@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A market stall full of alien food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A selection of alien food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A varied meal is a blessing to all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki steal food here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien food. It looks delicious, but I'm not sure if I should eat it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien meat, spices and other foods. Looks delicious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Food Stall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan food. I've never liked the taste."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan food. It has no value to non-organics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colourful food. But what does is taste like?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected organic food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good meatsss, but bad greensss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what this would tatse like..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This market stall has a wide array of Avikan food available."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Traditional Avikan food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Traditional Kadavan food. The best there is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What would this food taste like?"
+    }
+  }
+]

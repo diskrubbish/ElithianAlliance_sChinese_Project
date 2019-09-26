@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large cargo door. It was probably designed to let Skoffs in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive cargo door. The Avikan must move some giant cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cargo door. Design officially approved for Skoff hangars."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-large, for vehicles-large."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder why the Avikan need such a large cargo door?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cargo door is large enough even for the bigger types of Skoff."
+    }
+  }
+]

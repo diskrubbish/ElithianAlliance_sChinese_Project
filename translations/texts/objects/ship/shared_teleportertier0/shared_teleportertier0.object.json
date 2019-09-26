@@ -1,0 +1,306 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken teleporter. It isn't taking me anywhere in this state."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/description"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/description"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken teleporter. It's of little use in this state."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken teleporter? Now that won't do at all!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken teleporter? This is won't do at all..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should get this teleporter fixed up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleportation technology detected. Status: broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter broken. Needss repairsss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship needs repairs before this teleporter will function again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The teleporter is broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The teleporter is broken. I need to get it repaired."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The teleporter isn't working. I have to get it fixed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There will be no teleporting until the ship gets fixed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter is broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter isn't taking me anywhere until it gets some repairs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter isn't teleporting anything in this state."
+    }
+  }
+]

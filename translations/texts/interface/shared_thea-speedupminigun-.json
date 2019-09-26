@@ -1,0 +1,54 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-speedupminigun-mf-attachment.itemdescription": [
+        "/maxSpeedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-mf.itemdescription": [
+        "/maxSpeedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-unique.itemdescription": [
+        "/maxSpeedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf-attachment.tooltip": [
+        "/maxSpeedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf.tooltip": [
+        "/maxSpeedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-unique.tooltip": [
+        "/maxSpeedTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Maximum Rate of Fire:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-speedupminigun-mf-attachment.itemdescription": [
+        "/minSpeedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-mf.itemdescription": [
+        "/minSpeedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-unique.itemdescription": [
+        "/minSpeedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf-attachment.tooltip": [
+        "/minSpeedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf.tooltip": [
+        "/minSpeedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-unique.tooltip": [
+        "/minSpeedTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Minimum Rate of Fire:"
+    }
+  }
+]

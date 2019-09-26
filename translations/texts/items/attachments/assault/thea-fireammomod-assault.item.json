@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-fireammomod-assault.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elemental assault rifle ammunition that burns targets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-fireammomod-assault.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire Ammo"
+    }
+  }
+]

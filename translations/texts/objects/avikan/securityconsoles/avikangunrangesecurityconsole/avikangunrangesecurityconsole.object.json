@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/securityconsoles/avikangunrangesecurityconsole/avikangunrangesecurityconsole.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki need pass to access."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/securityconsoles/avikangunrangesecurityconsole/avikangunrangesecurityconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Security Console"
+    }
+  }
+]

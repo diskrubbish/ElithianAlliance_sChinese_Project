@@ -1,0 +1,378 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly nutritional soda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki thirsty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien drink. Not sure if I should try it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Alien drink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drink up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love this alien soda!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi make great sodas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is quite a popular soda amongst the Aegi."
+    }
+  }
+]

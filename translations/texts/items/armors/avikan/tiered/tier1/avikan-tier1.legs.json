@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier1/avikan-tier1.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scavenger's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier1/avikan-tier1.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Bone padding and a simple leather skirt, worn by Avikan scavengers."
+    }
+  }
+]

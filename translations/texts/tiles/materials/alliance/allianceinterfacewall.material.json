@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceinterfacewall.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An integrated screen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceinterfacewall.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Integrated interface panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceinterfacewall.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss why sscreen iss inssside wallss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceinterfacewall.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Screen-clean, built into wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceinterfacewall.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda screen inside a wall. Neat."
+    }
+  }
+]

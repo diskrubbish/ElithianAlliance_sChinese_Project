@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard"
+    }
+  }
+]

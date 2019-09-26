@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarigroundpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/alliance/alliancegroundpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal floorboard... I prefer the sound of boots on wood."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarigroundpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/alliance/alliancegroundpanel.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Metal floorboard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarigroundpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/alliance/alliancegroundpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinksss thiss panel iss for walking on."
+    }
+  }
+]

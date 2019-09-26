@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5a/trink-tier5a.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enforcer Arm Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5a/trink-tier5a.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;A high-grade aegisalt arm mod."
+    }
+  }
+]

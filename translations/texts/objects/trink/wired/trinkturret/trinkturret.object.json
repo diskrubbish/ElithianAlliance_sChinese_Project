@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A turret built to defend a machine colony. The Nomada would want me to sabotage it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki careful. Akki no want turret-angry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Defense Turret"
+    }
+  }
+]

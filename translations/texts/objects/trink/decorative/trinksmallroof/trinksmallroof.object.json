@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small metal pyramid for a roof? Cool!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small metal roof, built by machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small metal roof, built by the Notician robots."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/apexDescription",
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small modular roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small, modular roof decorated with green lights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small, pyramid-shaped roof. For efficient modular buidings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wonderss why roof isss pointy..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roof-alien, has many lights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Trinkian Roof"
+    }
+  }
+]

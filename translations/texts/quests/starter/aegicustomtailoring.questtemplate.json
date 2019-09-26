@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/starter/aegicustomtailoring.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Alliance sent me a classic ASA hat adorned with the Protectorate emblem, to symbolize our newfound friendship. It should be waiting for me in my locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/starter/aegicustomtailoring.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This'll fit my Protectorate uniform nicely. Better not lose it - it's truly one of a kind."
+    }
+  }
+]

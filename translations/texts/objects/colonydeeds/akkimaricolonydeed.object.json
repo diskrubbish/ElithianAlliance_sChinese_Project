@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Akris Colony Deed"
+    }
+  }
+]

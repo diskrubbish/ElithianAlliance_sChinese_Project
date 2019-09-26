@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/lightrunner/thea-lightrunner.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deploy Drone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/lightrunner/thea-lightrunner.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A prototype weapon born from a classified research project."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/lightrunner/thea-lightrunner.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;C42 Lightrunner^white;"
+    }
+  }
+]

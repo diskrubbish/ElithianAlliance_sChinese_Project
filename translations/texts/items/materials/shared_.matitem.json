@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikandarkgroundpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikandarkpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikangroundpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikanpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikanshipfloor.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikanshippanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikansmoothpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikansupportpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/trink/trinkgroundpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/trink/trinkpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/trink/trinksmoothpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/trink/trinksupportpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong metal panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancepipe.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/alliance/alliancepipehollow.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikanheavypipe.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikanheavypipehollow.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/trink/trinkpipe.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/trink/trinkpipehollow.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss pipe is big."
+    }
+  }
+]

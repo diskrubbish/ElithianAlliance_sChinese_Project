@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgradekits/allianceupgradekit4.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrade Kit L.4"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Alliance Workshop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Alliance items and equipment."
+    }
+  }
+]

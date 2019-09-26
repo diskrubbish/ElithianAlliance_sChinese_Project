@@ -1,0 +1,206 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian monitor displaying encoded information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian monitor. I wonder what it displays?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/description"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/description"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monitor displaying some information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess this monitor shows a lot of information, but I don't understand any of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I knew how to decrypt all of this information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what all these lines mean?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mhm. Yeah. I have no idea what all this information means."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Screen-alien, Akki no read..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This monitor displays information in a way I don't understand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This monitor displays over a 128GBs of data per second. Few can decrypt it all at the same rate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian monitors display information in a very curious manner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "We may have built the Trinks, but their data is too difficult to decrypt for me."
+    }
+  }
+]

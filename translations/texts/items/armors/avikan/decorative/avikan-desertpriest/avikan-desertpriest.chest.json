@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desert Rhaiod Poncho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A poncho worn by members followers of the Rhaiod in the deeper deserts."
+    }
+  }
+]

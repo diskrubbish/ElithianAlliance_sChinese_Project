@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/spear/avikantier2spear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sharp spear made of monster bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/spear/avikantier2spear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trapper's Spear"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/thelean/theleansuicidebomb.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "NPC-only weapon!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/thelean/theleansuicidebomb.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Bomb"
+    }
+  }
+]

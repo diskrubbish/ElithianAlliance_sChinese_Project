@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-suit/aegi-suit.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Designer Suit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-suit/aegi-suit.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A stylish suit for the fashionable Aegi."
+    }
+  }
+]

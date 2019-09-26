@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien interface detected. Unable to translate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal box for sssitting?"
+    }
+  }
+]

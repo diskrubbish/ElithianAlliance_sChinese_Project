@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/trinkdatadrive.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian data storage device. It is currently empty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/trinkdatadrive.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Circuit Data Drive^white;"
+    }
+  }
+]

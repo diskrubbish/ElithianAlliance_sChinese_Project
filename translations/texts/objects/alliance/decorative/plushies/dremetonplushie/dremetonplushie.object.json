@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A children's toy, some kind of aquatic alien."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large stuffed Dremeton."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy Dremeton made of soft fabrics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy Dremeton, if I'm not mistaken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy Dremeton."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien plushie. It looks aquatic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien toy. I think it might be based on an aquatic creature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dremeton Plushie"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel like these creatures might also be dwellers of the oceans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always thought that the Dremeton look quite a bit like us Hymid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a toy Dremeton."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This creature looks aquatic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plushie Dremeton is quite popular amongst Aeginian children. Adults too, actually."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toy-alien, soft-very."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What sort of creature might this represent?"
+    }
+  }
+]

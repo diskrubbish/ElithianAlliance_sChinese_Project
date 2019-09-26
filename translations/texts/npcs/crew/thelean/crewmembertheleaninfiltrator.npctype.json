@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Intruder"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Scout"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dominion <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infiltrator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Narvakhan"
+    }
+  }
+]

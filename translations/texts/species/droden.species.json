@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/droden.species": [
+        "/charGenTextLabels/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Accent colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/droden.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "DRODEN"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/droden.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/droden.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Servants of the Avikan"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/droden.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Droden were created by the Avikan as expendable soldiers to use in their war against the Theleans. After their failed uprising during the Droden War, a ban was placed on the creation of new AIs, and nowadays only few true AI remain."
+    }
+  }
+]

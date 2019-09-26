@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "particles/texteffects/karchaafrenzy.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow;Frenzy"
+    }
+  }
+]

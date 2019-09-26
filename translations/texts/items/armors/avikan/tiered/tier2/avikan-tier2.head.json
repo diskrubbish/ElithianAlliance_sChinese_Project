@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier2/avikan-tier2.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunter's Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier2/avikan-tier2.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A sturdy skull with a leather strap, worn by Avikan hunters."
+    }
+  }
+]

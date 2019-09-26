@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/avikanquiver/akkimariquiver.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/avikanquiver/avikanquiver.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/avikanquiver/avikanquiver2.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quiver"
+    }
+  }
+]

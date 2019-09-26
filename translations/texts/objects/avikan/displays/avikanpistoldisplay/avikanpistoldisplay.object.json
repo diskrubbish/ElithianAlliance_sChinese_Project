@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pistol built by the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small and lightweight pistol, but exceptionally efficient at killing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan pistol of sorts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan skiprifle on display."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien pistol. Imagine dual-wielding this beast!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran use thisss to sstab?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is unfortunate that violence, and with it, weapons, are a necessity in this universe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pistol-small. Akki find it puny."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small but deadly, a skiprifle is an essential tool for Avikan explorers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of alien pistol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Avikan skiprifle fires a burst of bullets designed to skip off surfaces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This burst-fire pistol was designed by the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pistol was designed by aliens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weapon is called a skiprifle by its creators, because its rounds skip off hard surfaces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unlike many ballistic weapons, this pistol will never jam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Skiprifle Display"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Skiprifle detected. Ammunition depleted."
+    }
+  }
+]

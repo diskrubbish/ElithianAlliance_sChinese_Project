@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Alliance Recruitment Desk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Recruit crewmembers from the Alliance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/lblTradeItemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Crew Contract"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/lblInformationText/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Use contracts to recruit Alliance crewmembers"
+    }
+  }
+]

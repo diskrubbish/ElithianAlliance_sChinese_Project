@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-hiddenmaterial.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hidden Material"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier5a/avikan-tier5a.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Helmet Type-A"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier5a/avikan-tier5a.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A metal helmet with internal cooling. Energetic version."
+    }
+  }
+]

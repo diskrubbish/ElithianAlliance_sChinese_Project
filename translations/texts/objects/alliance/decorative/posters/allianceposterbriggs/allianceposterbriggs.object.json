@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterbriggs/allianceposterbriggs.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poster promoting Briggs Shipbuilding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterbriggs/allianceposterbriggs.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs Shipbuilding Poster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterbriggs/allianceposterbriggs.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs Shipbuilding is a manufacturer of mining and construction vessels."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterbriggs/allianceposterbriggs.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs Shipbuilding manufactures most of the Union's construction and mining vessels."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterbriggs/allianceposterbriggs.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinksss thiss posster iss boring."
+    }
+  }
+]

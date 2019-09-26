@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaripressureplate/akkimaripressureplate.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki stand on plate, activate nearby mechanism."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaripressureplate/akkimaripressureplate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Pressure Plate"
+    }
+  }
+]

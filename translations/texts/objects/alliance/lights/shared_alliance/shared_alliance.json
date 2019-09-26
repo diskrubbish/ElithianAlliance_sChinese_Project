@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
+        "/description"
+      ],
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/dremetonDescription",
+        "/erixianDescription"
+      ],
+      "objects/alliance/lights/alliancewalllight/alliancewalllight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small light."
+    }
+  }
+]

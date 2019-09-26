@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/allianceshipthruster/allianceshipthruster.object": [
+        "/shortdescription"
+      ],
+      "objects/space/avikanshipthruster/avikanshipthruster.object": [
+        "/shortdescription"
+      ],
+      "objects/space/theashipthruster/theashipthruster.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damaging Small Booster Flame"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop2.object": [
+        "/akkiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki go in here, Akki go out there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tele-2-Go Teleporter"
+    }
+  }
+]

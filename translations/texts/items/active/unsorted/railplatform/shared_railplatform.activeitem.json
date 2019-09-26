@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/railplatform/alliancerailplatform.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/railplatform/avikanrailplatform.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/railplatform/trinkrailplatform.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Place a self-propelled platform that follows rails."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chest-tiny. Akki not store much inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Avikan Container"
+    }
+  }
+]

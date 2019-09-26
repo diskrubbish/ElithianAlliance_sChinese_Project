@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/generic/avikanthickpipetop.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/generic/avikanthickpipetop.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big Pipe Top"
+    }
+  }
+]

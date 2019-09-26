@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancemagazine.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vital part of any Alliance ballistic rifle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancemagazine.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Magazine"
+    }
+  }
+]

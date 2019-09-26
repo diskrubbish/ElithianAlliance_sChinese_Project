@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-trinkambassador.npctype": [
+        "/scriptConfig/dialog/converse/default/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, ambassador <entityname>. What brings you to the embassy today?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-trinkambassador.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "NivRAM-102"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-trinkambassador.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the embassy of the Trink Circuit."
+    }
+  }
+]

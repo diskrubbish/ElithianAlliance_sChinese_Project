@@ -1,0 +1,211 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/leebrenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "> A typical ship defense. High Command has been informed. <"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful Avikan ship turret."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful ship turret, used by Avikan forces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small turret, likely used on spaceships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A turret usually found on Avikan ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A turret."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A turret. Better not stand in front of it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A turret. It is sad that all life appears to be moved towards war."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A turret. It looks powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan ship's turret. It packs quite a punch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Ship Turret"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Vanguard-issue ship turret."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran iss not scared of turretsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a turret of Avikan design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not very efficient, but this Avikan turret is quite effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda turret."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The turret of an Avikan ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This turret should keep the ship safe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Turret-large. Tear through ships."
+    }
+  }
+]

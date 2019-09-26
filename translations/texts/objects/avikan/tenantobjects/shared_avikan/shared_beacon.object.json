@@ -1,0 +1,236 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon for summoning Avikan guard tenants. I'd love to meet some more desert folk!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon for summoning armed Avikan tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon that can summon an Avikan guard if used in the right place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected beacon. Use in combination with a colony deed to summon armed Avikan tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Akki place in house with deed-colony, Akki summon guard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such beacons are used by the Nomada to summon guards and mercenaries for new colonies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/description"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/description"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/description"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/description"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/description"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon could attract an armed Avikan tenant in combination with a colony deed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon summons Avikan guards. I am not sure if it's a good idea to use it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon will attract armed Avikan tenants."
+    }
+  }
+]

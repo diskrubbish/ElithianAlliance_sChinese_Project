@@ -1,0 +1,131 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimariinventorcrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/drodenframecrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Craft"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimaricrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/akkimariinventorcrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/avikanleathercrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/drodenframecrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/jumpgateuplinkstationcrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/lblProduct/value"
+      ],
+      "interface/windowconfig/trinkcrafting.config": [
+        "/paneLayout/lblProduct/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "MATERIALS AVAILABLE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimaricrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/akkimariinventorcrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/avikanleathercrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/drodenframecrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/jumpgateuplinkstationcrafting.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/filter/hint"
+      ],
+      "interface/windowconfig/trinkcrafting.config": [
+        "/paneLayout/filter/hint"
+      ]
+    },
+    "Texts": {
+      "Eng": "Search"
+    }
+  }
+]

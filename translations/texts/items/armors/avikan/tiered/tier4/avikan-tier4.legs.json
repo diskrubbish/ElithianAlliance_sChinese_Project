@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier4/avikan-tier4.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalker's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier4/avikan-tier4.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A skirt made of bone plates, worn by Avikan Stalkers."
+    }
+  }
+]

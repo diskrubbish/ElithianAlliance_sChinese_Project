@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dim Alliance Light Strip"
+    }
+  }
+]

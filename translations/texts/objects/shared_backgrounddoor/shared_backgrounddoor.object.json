@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor.object": [
+        "/description"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A closed blast door."
+    }
+  }
+]

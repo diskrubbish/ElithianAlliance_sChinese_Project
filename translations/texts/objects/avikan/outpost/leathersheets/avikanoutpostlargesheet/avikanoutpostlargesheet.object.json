@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostlargesheet/avikanoutpostlargesheet.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive sheet made o' leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostlargesheet/avikanoutpostlargesheet.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very large sheet of leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostlargesheet/avikanoutpostlargesheet.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected leather sheet. Unusually large size."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostlargesheet/avikanoutpostlargesheet.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran iss impresssed by ssize of leather ssheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostlargesheet/avikanoutpostlargesheet.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Sheet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostlargesheet/avikanoutpostlargesheet.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sheet-large, Akki have shelter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostlargesheet/avikanoutpostlargesheet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This must be the largest sheet of leather I've ever seen."
+    }
+  }
+]

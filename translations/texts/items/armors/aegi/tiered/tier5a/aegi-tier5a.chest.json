@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier5a/aegi-tier5a.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explorer's Cuirass Type-A"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier5a/aegi-tier5a.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A segmented metal chestpiece for greater mobility. Energetic version."
+    }
+  }
+]

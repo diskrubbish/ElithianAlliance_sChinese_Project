@@ -1,0 +1,160 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard store counter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/aegiDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A store counter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A store counter. I should confirm my purchases here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A store counter. It also offers space for displaying products."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki not pay. Akki steal!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Store Counter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien counter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did I get all of my groceries?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do I have everything I need?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears to be a store counter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply a store counter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of alien desk. Maybe the merchants sit here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstore counter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is where purchases are made final."
+    }
+  }
+]

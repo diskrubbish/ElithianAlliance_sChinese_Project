@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-aegiambassador.npctype": [
+        "/scriptConfig/dialog/converse/default/aegi/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, ambassador <entityname>! Welcome to our embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-aegiambassador.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nanita"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-aegiambassador.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the embassy of the Aeginian Federal Union!"
+    }
+  }
+]

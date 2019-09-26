@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/defiant/thea-defiant.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Volatile Beam"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/defiant/thea-defiant.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A high precision laser rifle which ramps up in power over time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/defiant/thea-defiant.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;C56 Defiant^white;"
+    }
+  }
+]

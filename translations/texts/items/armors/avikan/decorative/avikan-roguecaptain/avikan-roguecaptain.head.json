@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-roguecaptain/avikan-roguecaptain.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rogue Captain's Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-roguecaptain/avikan-roguecaptain.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A helmet often worn by Captains who have left the Nomada."
+    }
+  }
+]

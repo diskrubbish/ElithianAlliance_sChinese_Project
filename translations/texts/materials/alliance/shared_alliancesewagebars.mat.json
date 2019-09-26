@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancesewagebars.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancesewagebars.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Sewage Bars"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancesewagebars.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancesewagebars.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal bars."
+    }
+  }
+]

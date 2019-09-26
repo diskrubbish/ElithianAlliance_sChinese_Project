@@ -1,0 +1,159 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A military supply crate like this is sure to hold something of value."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A military-grade chest for storing weapons and other military supplies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A military-grade supply crate, built to keep its content completely safe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A military-grade supply crate, certain to hold some armaments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weather and war-proof supply crate. It might hold some military equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien weapon chest. Let's have a look inside!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss eager to open chesst. Maybe ssstabby weapon insside!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Might be some sorta weapon inside o' this chest!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Presents are most exciting when they're still wrapped."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest is likely to contain some military equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like a military supply crate. There could be weapons inside!"
+    }
+  }
+]

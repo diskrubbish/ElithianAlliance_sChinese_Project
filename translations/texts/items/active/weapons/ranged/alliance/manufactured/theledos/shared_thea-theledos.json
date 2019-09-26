@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/assault/theledos/thea-theledosrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/shotgun/theledos/thea-theledosshotgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/sniper/theledos/thea-theledossniper.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Theledos rifle firing explosive plasma rounds."
+    }
+  }
+]

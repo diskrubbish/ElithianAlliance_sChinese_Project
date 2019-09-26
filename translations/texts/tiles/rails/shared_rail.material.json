@@ -1,0 +1,93 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/avikandarkrail.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/rails/avikanrail.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/rails/trinkrail.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki want to bend rails-metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/avikandarkrail.material": [
+        "/drodenDescription"
+      ],
+      "tiles/rails/avikanrail.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Nomada-built rail."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/alliancerail.material": [
+        "/floranDescription"
+      ],
+      "tiles/rails/avikandarkrail.material": [
+        "/floranDescription"
+      ],
+      "tiles/rails/avikanrail.material": [
+        "/floranDescription"
+      ],
+      "tiles/rails/trinkrail.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny metal rails."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/alliancerail.material": [
+        "/novakidDescription"
+      ],
+      "tiles/rails/avikandarkrail.material": [
+        "/novakidDescription"
+      ],
+      "tiles/rails/avikanrail.material": [
+        "/novakidDescription"
+      ],
+      "tiles/rails/trinkrail.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sturdy lookin' rails, gettin' the itch to ride 'em."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/alliancerail.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/rails/avikandarkrail.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/rails/avikanrail.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/rails/trinkrail.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The material this rail is made from makes it very strong."
+    }
+  }
+]

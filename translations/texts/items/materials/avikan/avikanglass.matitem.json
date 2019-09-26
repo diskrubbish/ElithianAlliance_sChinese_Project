@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanglass.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass"
+    }
+  }
+]

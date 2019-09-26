@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/sniper/thea-explosiveammomod-sniper.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prox Ammo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/sniper/thea-explosiveammomod-sniper.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sniper ammunition that explodes on proximity to enemies."
+    }
+  }
+]

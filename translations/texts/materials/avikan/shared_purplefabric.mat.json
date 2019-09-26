@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanborderlesspurplefabric.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanpurplefabric.matitem": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanborderlesspurplefabric.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanpurplefabric.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric wall sheet decorated in the style of the Rhaiod."
+    }
+  }
+]

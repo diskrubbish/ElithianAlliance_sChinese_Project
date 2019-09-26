@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/heal/jackofkingsheal.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "King's Healing Embrace"
+    }
+  }
+]

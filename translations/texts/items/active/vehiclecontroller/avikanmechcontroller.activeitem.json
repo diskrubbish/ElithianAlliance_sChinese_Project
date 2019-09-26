@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/vehiclecontroller/avikanmechcontroller.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Summons a Vanguard Krahl from your ship's cargo hold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/vehiclecontroller/avikanmechcontroller.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Krahl Controller"
+    }
+  }
+]

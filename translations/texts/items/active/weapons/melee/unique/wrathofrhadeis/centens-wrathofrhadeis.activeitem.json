@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/wrathofrhadeis/centens-wrathofrhadeis.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A hammer wielding the strength of a Centensian god."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/wrathofrhadeis/centens-wrathofrhadeis.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Wrath of Rhadeis^white;"
+    }
+  }
+]

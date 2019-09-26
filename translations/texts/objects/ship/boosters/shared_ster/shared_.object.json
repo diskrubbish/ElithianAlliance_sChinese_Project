@@ -1,0 +1,327 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heat signature detected. Vertical thruster confirmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Booster Flame"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssscary fire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Temperature too high to measure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a big bad flame right there. Oughta keep us in orbit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The exhaust flame of this vertical thruster is incredibly hot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These vertical thrusters will keep the ship in orbit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thruster is a decently efficient tool for keeping the ship in orbit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thruster is like a wing, keeping the ship in orbit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thruster is like an upside-down mountain of fire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thruster keeps the ship in orbit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thruster keeps the ship in orbit. The flame seems excessive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thruster should keep the ship in a nice and smooth orbit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thrusters like these have been known to malfunction and eplode..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vertical propulsion, to keep the ship in orbit. Very useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vertical thrusters like these are essential - they keep the ship from falling out of orbit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Without these vertical thrusters, this ship would quickly fall from orbit."
+    }
+  }
+]

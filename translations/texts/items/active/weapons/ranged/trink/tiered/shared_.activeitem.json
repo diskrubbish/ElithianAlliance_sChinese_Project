@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/tiered/rifle/trinktier1rifle.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/rifle/trinktier2rifle.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/rifle/trinktier3rifle.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/rifle/trinktier4rifle.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/rifle/trinktier5rifle.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/rifle/trinktier6rifle.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier1shotgun.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier2shotgun.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier3shotgun.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier4shotgun.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier5shotgun.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier6shotgun.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ricochet Laser"
+    }
+  }
+]

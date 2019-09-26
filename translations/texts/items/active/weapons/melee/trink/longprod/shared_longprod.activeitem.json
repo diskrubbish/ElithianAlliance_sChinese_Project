@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/trink/longprod/trinktier1longprod.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/melee/trink/longprod/trinktier2longprod.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/melee/trink/longprod/trinktier3longprod.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/melee/trink/longprod/trinktier4longprod.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/melee/trink/longprod/trinktier5longprod.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/melee/trink/longprod/trinktier6longprod.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ground Conductor"
+    }
+  }
+]

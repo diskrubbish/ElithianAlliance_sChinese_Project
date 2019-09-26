@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/environmentprotection/akkimaribreathprotection/akkimaribreathprotection.back": [
+        "/shortdescription"
+      ],
+      "items/armors/backitems/environmentprotection/alliancebreathprotection/alliancebreathprotection.back": [
+        "/shortdescription"
+      ],
+      "items/armors/backitems/environmentprotection/avikanbreathprotection/avikanbreathprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breathing EPP"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/environmentprotection/akkimaribreathprotection/akkimaribreathprotection.back": [
+        "/description"
+      ],
+      "items/armors/backitems/environmentprotection/alliancebreathprotection/alliancebreathprotection.back": [
+        "/description"
+      ],
+      "items/armors/backitems/environmentprotection/avikanbreathprotection/avikanbreathprotection.back": [
+        "/description"
+      ],
+      "items/armors/backitems/environmentprotection/trinkbreathprotection/trinkbreathprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Produces breathable air. Helpful in places with ^red;no breathable atmosphere^reset;."
+    }
+  }
+]

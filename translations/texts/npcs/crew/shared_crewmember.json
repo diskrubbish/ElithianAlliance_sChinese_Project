@@ -1,0 +1,845 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegibriggsguardian.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/crew/ranks/11"
+      ],
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/12"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/12"
+      ],
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ],
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ],
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ],
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ],
+      "npcs/crew/avikan/crewmemberrhaiodhealer.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Assistant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegipolice.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ],
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Captain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Colonel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Commander"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Corporal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ],
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ],
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ],
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ],
+      "npcs/crew/avikan/crewmemberrhaiodhealer.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Enthusiast"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ],
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/avikan/crewmemberrhaiodhealer.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Expert"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ],
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/17"
+      ],
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/17"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/17"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/17"
+      ],
+      "npcs/crew/avikan/crewmemberrhaiodhealer.npctype": [
+        "/scriptConfig/crew/ranks/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Instructor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Lieutenant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ],
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/10"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Master"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegipolice.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/16"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/16"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Officer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Operator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegipolice.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ],
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Recruit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegipolice.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ],
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Sergeant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegisoldier.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Soldier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/trink/default/2"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you hiring? I would like to join your crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/trink/default/0"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Being uploaded into a new body is bad for my memory..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/trink/default/1"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Call me when we're heading out again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Capable <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ],
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ],
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ],
+      "npcs/crew/avikan/crewmemberrhaiodhealer.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Experienced <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/trink/default/0"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, adventurer. Might I join your crew?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegibriggsguardian.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guardian"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/trink/default/2"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't find my way there!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/aegi/default/1"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/aegi/default/1",
+        "/scriptConfig/dialog/crewmember/cantreach/trink/default/1"
+      ],
+      "npcs/crew/avikan/crewmemberavikan.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/1"
+      ],
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/1"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/1"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/1"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't get over there!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/aegi/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/aegi/default/0",
+        "/scriptConfig/dialog/crewmember/cantreach/trink/default/0"
+      ],
+      "npcs/crew/avikan/crewmemberavikan.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/0"
+      ],
+      "npcs/crew/avikan/crewmembervanguard.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/0"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't reach you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/trink/default/1"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should be more careful with my hull next time..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/trink/default/3"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/trink/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think we can help each other. Might I join your crew?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/trink/default/2"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will charge into battle with you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/trink/default/2"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll stay here, then."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/aegi/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/aegi/default/0",
+        "/scriptConfig/dialog/crewmember/unfollow/trink/default/3"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/trink/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll wait for you here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/trink/default/0"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll wait here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/trink/default/1"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm all ready."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/trink/default/1"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm certain that my skills will benefit your crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/trink/default/3"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/trink/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm glad my database wasn't corrupted when I was reuploaded."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/trink/default/3"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/trink/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm good to go."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/trink/default/0"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm ready for combat!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/trink/default/3"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/trink/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need combat support, you know where to find me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/trink/default/1"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let me know if you require combat support."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/trink/default/2"
+      ],
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/avikan/default/2"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/avikan/default/2"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's go, then."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimariscavenger.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ],
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/11"
+      ],
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/11"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/11"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/11"
+      ],
+      "npcs/crew/avikan/crewmemberrhaiodhealer.npctype": [
+        "/scriptConfig/crew/ranks/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Master <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberrhaiodhealer.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/trink/crewmembertrinkmedic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/trink/default/0"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ready to go."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rookie <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ],
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/15"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/15"
+      ],
+      "npcs/crew/avikan/crewmemberrhaiodhealer.npctype": [
+        "/scriptConfig/crew/ranks/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Self-taught <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/trink/default/2"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some of my memories didn't transfer to my new body properly..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/trink/crewmembertrinkmechanic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Technical"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/trink/default/3"
+      ],
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/trink/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wait up!"
+    }
+  }
+]

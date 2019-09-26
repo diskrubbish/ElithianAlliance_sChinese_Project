@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-protectorate/trink-protectorate.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-protectorate/trink-protectorate.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A body mod painted in the Terrane Protectorate colours."
+    }
+  }
+]

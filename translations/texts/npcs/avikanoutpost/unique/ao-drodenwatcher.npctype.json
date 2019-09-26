@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-drodenwatcher.npctype": [
+        "/scriptConfig/dialog/converse/default/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Captain-status Droden unit. Vas Vha'leih."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-drodenwatcher.npctype": [
+        "/scriptConfig/dialog/converse/default/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Nomada Captain. Vas Vha'leih."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-drodenwatcher.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected unauthorized entity. Alerting security forces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-drodenwatcher.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lens-88"
+    }
+  }
+]

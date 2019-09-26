@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fascinating statue indeed! These Centensian relics always have an air of mystery to me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large statue depicting a Centensian warrior."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shining statue of an alien warrior."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue left behind by the Old Ones. It is beautiful, like all of their relics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue of one of the Gods, no doubt, and created by them as well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wonderfully crafted statue of a Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "God-maker statue, sword-large. Akki want to take sword!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Ce'tennan Statue"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large ssstatue is sshiny!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Centens were fond of swords, despite their unparalleled advancements in firearm technologies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This 'ere statue looks right old!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue depicts a Ce'tennan, or Centens - both names apply."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue depicts an alien warrior of sorts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue depicts an ancient Centensian warrior. It's superbly crafted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue is ancient, yet still in pristine condition."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue is beautiful! I wish I had a sword like that..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue is fascinating. The craftsmanship is unparalelled."
+    }
+  }
+]

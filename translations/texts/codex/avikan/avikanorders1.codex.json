@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanorders1.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watcher Agent Orders"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanorders1.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your orders, straight from Commander Zaheed of the Watchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanorders1.codex": [
+        "/contentPages/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;-- CLASSIFIED --^white;\n\nRemember: your identity, and the Nomada's involvement in this mission, must be kept a secret at all costs. After you finish your Protectorate training, you are to fake your own death and return to the Watcher Headquarters. Send reports to HQ as often as you can, but do not risk revealing yourself to anyone.\n\nMay Rhadeis guide you along your path, and may he watch over us all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanorders1.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;-- CLASSIFIED --^white;\n\nThe reports say that this organization was founded several centuries ago by the humans of Earth. The supposed goal of this Protectorate is to \"protect the universe and help those in need\", but we suspect there to be more to its existence.\n\nThe most reliable source for more information is to have an agent on the inside - this is where you come in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanorders1.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;-- CLASSIFIED --^white;\n\nVas Vha'leih, Watcher Agent.\n\nThe mission you are being sent on is highly unusual, but it is also of great importance to our Nomada. Our intelligence reports describe a self-proclaimed peacekeeping organization, the Terrene Protectorate, to have a large presence in this sector of the galaxy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanorders1.codex": [
+        "/contentPages/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^red;-- CLASSIFIED --^white;\n\nYour goal is to infiltrate the Terrene Protectorate by signing up for their ranks. Follow their training programs and learn all you can about its hierarchy, motives and whatever else you judge relevant.\n\nThe mission will also require you to obtain one of the Protectorate's matter manipulators, along with any other technology you can safely obtain."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier1/aegi-tier1.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patroller's Hat"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier1/aegi-tier1.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A nicely tailored hat."
+    }
+  }
+]

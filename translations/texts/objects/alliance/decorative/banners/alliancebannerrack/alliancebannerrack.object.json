@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannerrack/alliancebannerrack.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Banners of all of the members of the Elithian Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannerrack/alliancebannerrack.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Banners-many, for nations-alien."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannerrack/alliancebannerrack.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien banners."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannerrack/alliancebannerrack.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithian Alliance Banners"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannerrack/alliancebannerrack.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These banners are decorated with a plethora of alien emblems."
+    }
+  }
+]

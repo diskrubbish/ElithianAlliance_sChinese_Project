@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanborderlessglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanborderlessglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Borderless Avikan Glass"
+    }
+  }
+]

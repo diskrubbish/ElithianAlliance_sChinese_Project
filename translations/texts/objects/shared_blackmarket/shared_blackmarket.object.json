@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shady lookin' fella. Gotta be a black market of sorts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am not sure if I should be dealing with such shady figures."
+    }
+  }
+]

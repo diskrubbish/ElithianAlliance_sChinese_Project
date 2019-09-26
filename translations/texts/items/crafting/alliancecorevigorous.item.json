@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancecorevigorous.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Alliance armour power core. Increases the user's health reserves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancecorevigorous.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nucleus v2.S"
+    }
+  }
+]

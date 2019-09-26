@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A relatively lightweight metal crate."
+    }
+  }
+]

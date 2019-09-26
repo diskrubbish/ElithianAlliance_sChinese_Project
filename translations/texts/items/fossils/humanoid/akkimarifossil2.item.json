@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/akkimarifossil2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised Akkimari torso."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/akkimarifossil2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akkimari Torso"
+    }
+  }
+]

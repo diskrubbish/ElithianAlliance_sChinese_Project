@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-watcher/droden-watcher.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watcher Head"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-watcher/droden-watcher.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A head piece replacement for Droden Watcher units."
+    }
+  }
+]

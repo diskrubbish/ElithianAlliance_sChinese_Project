@@ -1,0 +1,53 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/apexDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy blast door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/description"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/description"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly resistant blast door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/avikanDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien blast door."
+    }
+  }
+]

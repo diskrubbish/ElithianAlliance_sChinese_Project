@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Trink Ship Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light make dizzy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-broken, make Akki agitated..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light isn't performing optimally."
+    }
+  }
+]

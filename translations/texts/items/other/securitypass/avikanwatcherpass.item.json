@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/securitypass/avikanwatcherpass.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pass unlocks access to the Watcher's offices in the Starfarer's Refuge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/securitypass/avikanwatcherpass.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Watcher's Offices Pass^white;"
+    }
+  }
+]

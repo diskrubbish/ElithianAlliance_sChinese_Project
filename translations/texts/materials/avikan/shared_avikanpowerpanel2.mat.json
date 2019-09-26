@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanpowerpanel2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanpowerpanel2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Power Panel (Glow)"
+    }
+  }
+]

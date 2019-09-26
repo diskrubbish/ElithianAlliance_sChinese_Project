@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here you go, Captain. This shield is starting to come together quite well!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The shield generator is still in pristine condition, but all of the connections were fried, and there's no power source for the shield. ^green;Find me ^orange;8 pieces of Centensian Tech^green; and ^orange;16 pieces of Centensian Metal^reset;, and I should be able to build a functional casing for the generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A Shielded Eye II"
+    }
+  }
+]

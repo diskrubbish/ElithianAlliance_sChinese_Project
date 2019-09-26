@@ -1,0 +1,222 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright blinkin' light for guidin' ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light to guide ships to safety."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light used to guide in incoming ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light used to guide ships safely to the ground."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple light for guiding ships at night. Quite an efficient solution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Landing Beacon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "At night, such a light is very useful for incoming ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected blinking light. Expected purpose is to guide incoming ships at night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I suppose it's a light of some sort."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it is a landing beacon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light for guiding ssshipss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light guides to safety."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light to guide one to safety."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of landing guidance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a landing beacon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon will guide incoming ships safely to the ground."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This landing beacon helps ships land during the night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This landing beacon is very useful in the dark."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This landing beacon serves as a guide for ships landing at night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light will help guide ships safely to the ground."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5s/trink-tier5s.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Arm Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5s/trink-tier5s.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;A high-grade violium arm mod."
+    }
+  }
+]

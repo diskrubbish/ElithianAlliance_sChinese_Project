@@ -1,0 +1,221 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/avikan/crafting/avikaninventor/avikaninventor.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Specialized crafting tools"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+        "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+        "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+      ],
+      "objects/avikan/crafting/avikaninventor/avikaninventor.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A craftin' table for craftin' more craftin' tables. Right."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/humanDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern workstation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/avikanDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien tools and blueprints. What do they craft here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/floranDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Board of light tellsss Floran how to make thingss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "/upgradeStages/1/itemSpawnParameters/floranDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "/upgradeStages/1/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can make new thingsss here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/avianDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can show my crafting skill here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/apexDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder if I can download these blueprints for the rebellion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
+      ],
+      "objects/avikan/crafting/avikaninventor/avikaninventor.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "One can display their crafting prowess here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/apexDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps these blueprints could be used by the rebellion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription",
+        "/upgradeStages/1/itemSpawnParameters/humanDescription"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription",
+        "/upgradeStages/1/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blueprints aren't too complicated. Let's get started!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This display is full of interesting blueprints."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/crafting/avikaninventor/avikaninventor.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table might allow me to craft all new crafting tables."
+    }
+  }
+]

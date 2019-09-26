@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/broadsword/avikantier2broadsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sharp broadsword made of a giant monster's tooth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/broadsword/avikantier2broadsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trapper's Blade"
+    }
+  }
+]

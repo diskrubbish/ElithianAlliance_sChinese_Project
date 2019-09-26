@@ -1,0 +1,308 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/description"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/description"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bunch of loose-hanging wires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bunch of wires. Looks messy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A messy bunch of wires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki no touch the wires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Detected alien wiring. Recommend sabotage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Better not get too close to those wires. I don't want to get zapped."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not touch wiresss. Floran ssmart."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should be craeful not to touch these wires while I'm wet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should tidy up these wires. Having them hang around isn't very efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a bunch 'a wires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just some loose-hanging wires"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just some wires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loose-hanging electrical wires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loose-hanging wires. Someone should fix them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trink don't usually keep wires hanging around like that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Vanguard might want me to sabotage these wires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These wires hum softly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/shortdescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/shortdescription"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Hanging Wires"
+    }
+  }
+]

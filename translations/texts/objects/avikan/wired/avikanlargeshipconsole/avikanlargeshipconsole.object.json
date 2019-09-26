@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large computer console for wiring circuits together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Console-control. Akki not know interface."
+    }
+  }
+]

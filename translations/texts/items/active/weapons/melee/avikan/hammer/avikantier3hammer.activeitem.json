@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/hammer/avikantier3hammer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A giant hammer made of strong monster bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/hammer/avikantier3hammer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalker's Hammer"
+    }
+  }
+]

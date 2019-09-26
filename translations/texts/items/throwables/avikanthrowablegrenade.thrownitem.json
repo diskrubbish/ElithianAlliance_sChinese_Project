@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikanthrowablegrenade.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hand grenade used by Vanguard soldiers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikanthrowablegrenade.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Grenade"
+    }
+  }
+]

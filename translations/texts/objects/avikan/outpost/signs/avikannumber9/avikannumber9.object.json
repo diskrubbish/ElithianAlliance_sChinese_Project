@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien number. I believe it is nine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien symbol for the number nine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nine in some alien script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number Nine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number nine in an alien script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number nine, in the Avikan Script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number nine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number-alien. Nine, Akki thinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number. Nine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems this number means nine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien symbol means nine."
+    }
+  }
+]

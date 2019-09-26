@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/generic/avikanthickpipebottom.matitem": [
+        "/description"
+      ],
+      "items/materials/generic/avikanthickpipeleft.matitem": [
+        "/description"
+      ],
+      "items/materials/generic/avikanthickpiperight.matitem": [
+        "/description"
+      ],
+      "items/materials/generic/avikanthickpipetop.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very thick metal pipe."
+    }
+  }
+]

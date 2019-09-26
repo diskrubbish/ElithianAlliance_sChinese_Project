@@ -1,0 +1,201 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Kitchen Counter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic kitchen counter, complete with pans, dishes and more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic kitchen counter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A kitchen counter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A kitchen counter of Aeginian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A kitchen counter with everything I need to prepare a meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A kitchen counter, pans, dishes - it looks like home!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/apexDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A kitchen counter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected traces of organic food. Analysis: kitchen equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran makess food here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could prepare some food here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't want to do the dishes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I might be able to prepare some food here, even with these alien tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should probably stop for a minute and make myself some food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's do some cookin' already!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pans, dishes, a sink, what more do I need?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tools for cooking, Akki hungry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Alliance Kitchen Counter^white;"
+    }
+  }
+]

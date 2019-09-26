@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-traveller/avikan-traveller.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Traveller's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-traveller/avikan-traveller.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A durable leather skirt, ideal for desert travellers."
+    }
+  }
+]

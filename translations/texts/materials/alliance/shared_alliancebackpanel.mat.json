@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancebackpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancebackpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Backpanel"
+    }
+  }
+]

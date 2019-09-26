@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanvibrocore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vital part of Vanguard vibroblade weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanvibrocore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Vibro Core"
+    }
+  }
+]

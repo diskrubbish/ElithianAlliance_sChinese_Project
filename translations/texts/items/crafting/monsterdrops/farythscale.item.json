@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/farythscale.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Faryth Scales"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/farythscale.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The hard but flexible scales of a Faryth."
+    }
+  }
+]

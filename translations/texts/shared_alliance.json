@@ -1,0 +1,191 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/allianceplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/allianceplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancestairsplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/alliancestairsplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Stairs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodabottle3.consumable": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corus Bottle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodacan3.consumable": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corus Can"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodabottle.consumable": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Froza Bottle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodacan.consumable": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Froza Can"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodabottle2.consumable": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Le'mar Bottle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodacan2.consumable": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Le'mar Can"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancethickplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/alliancethickplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick Alliance Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancethickstairsplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/alliancethickstairsplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick Alliance Stairs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodabottle4.consumable": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valassa Bottle"
+    }
+  }
+]

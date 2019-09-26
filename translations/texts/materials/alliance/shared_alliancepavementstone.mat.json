@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancepavementstone.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancepavementstone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Pavement Slabs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancepavementstone.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancepavementstone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone slabs used as pavement."
+    }
+  }
+]

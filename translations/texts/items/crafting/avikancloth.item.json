@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikancloth.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colourful fabric, used to craft various objects."
+    }
+  }
+]

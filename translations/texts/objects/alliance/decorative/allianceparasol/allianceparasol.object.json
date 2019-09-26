@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful parasol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nice and simple parasol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A parasol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A parasol. A simple but effective way to create some shade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A parasol. I prefer to stay out in the sun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A parasol. It can provide some much-needed comfort on a hot, sunny day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Parasol"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien sun sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien sun sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a parasol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a parasol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Parasssol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Provides a bit o' shade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shelter from sun-burning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply a parasol."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a parasol alright."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This parasol will provide some cool shade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This parasol will provide some much-needed shade."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/clothing/akkimari-clerk/akkimari-clerk.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clerk's Satchel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/clothing/akkimari-clerk/akkimari-clerk.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A silken satchel and belt worn by the clerks of the Justiciary."
+    }
+  }
+]

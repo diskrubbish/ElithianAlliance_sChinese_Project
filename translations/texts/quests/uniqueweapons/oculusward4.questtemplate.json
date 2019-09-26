@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here you go, Captain! One fully functional Centensian shield, ready to be put to the test. Just be careful not to exhaust your energy reserves, or you'll be left defenseless for some time..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The power supply is tricky to fix, but if I link it to your suit's energy reserves, I should be able to get the generator running again. ^green;You will have to find ^orange;50 units of Centensian Liquid^reset;: that will help me link up your suit to the shield generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A Shielded Eye IV"
+    }
+  }
+]

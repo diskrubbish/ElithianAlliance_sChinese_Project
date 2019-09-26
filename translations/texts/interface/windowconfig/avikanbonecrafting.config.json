@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Bone items and equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Bonecarver's Table"
+    }
+  }
+]

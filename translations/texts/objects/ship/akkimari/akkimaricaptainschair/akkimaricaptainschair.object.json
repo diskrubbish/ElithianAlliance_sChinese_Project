@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki sit, control ship. Fly to raid, find Kel'chis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Captain's Chair"
+    }
+  }
+]

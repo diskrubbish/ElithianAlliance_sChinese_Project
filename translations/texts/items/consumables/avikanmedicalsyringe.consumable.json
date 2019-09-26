@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/avikanmedicalsyringe.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong painkiller and healing catalyst. Restores 100 health over 1 second."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/avikanmedicalsyringe.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bolbohn Extract"
+    }
+  }
+]

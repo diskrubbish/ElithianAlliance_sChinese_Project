@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimariglass.matitem": [
+        "/description"
+      ],
+      "tiles/materials/akkimari/akkimariglass.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A transparent multi-coloured crystal."
+    }
+  }
+]

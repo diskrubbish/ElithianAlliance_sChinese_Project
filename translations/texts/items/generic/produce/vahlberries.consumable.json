@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/vahlberries.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Juicy, tasteful berries full of vitamins."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/vahlberries.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vahlberries"
+    }
+  }
+]

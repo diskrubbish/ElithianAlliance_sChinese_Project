@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensplatform.matitem": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient metal platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensplatform.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old metal platformsss"
+    }
+  }
+]

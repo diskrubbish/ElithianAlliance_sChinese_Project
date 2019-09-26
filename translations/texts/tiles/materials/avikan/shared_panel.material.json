@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanshippanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hollow metal panel, perfect for wall insulation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanshippanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hollow metal panel, sure is good for insulation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanshippanel.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Hollow metal panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanshippanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knowsss thiss panel is hollow by knocking on it. Floran iss sssmart."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanshippanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal panel is hollow, making it perfect for insulation."
+    }
+  }
+]

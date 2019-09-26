@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mechanical"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's fuel capacity is hardly optimized. I'll fix that for you, Captain."
+    }
+  }
+]

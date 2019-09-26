@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/sandcannon/avikan-sandcannon.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/throwables/avikansandbomb.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sand Bomb"
+    }
+  }
+]

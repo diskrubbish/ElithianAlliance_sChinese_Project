@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/akrisstalker-chest/akrisstalker-chest.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back-up Cloaker"
+    }
+  }
+]

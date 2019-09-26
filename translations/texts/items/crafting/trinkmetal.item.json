@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkmetal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal cube, easily stored and ready for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkmetal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Metal"
+    }
+  }
+]

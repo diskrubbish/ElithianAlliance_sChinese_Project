@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/zaheedswordback/zaheedswordback.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Zaheed wears his sword on his back when not in use."
+    }
+  }
+]

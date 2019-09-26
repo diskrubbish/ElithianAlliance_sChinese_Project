@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancedoublepanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancedoublepanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Double Alliance Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancedoublepanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancedoublepanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Multi-layered metal panels."
+    }
+  }
+]

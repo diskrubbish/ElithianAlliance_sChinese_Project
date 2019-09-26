@@ -1,0 +1,618 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon for callin' armed tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon of some sort. It only seems to attract tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon that calls for armed reinforcements."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/hyvonDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/hyvonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon that summons an armed lesser one. Hmph."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon. It could attract an armed tenant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beacon callss armed tenantss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The signal coming from this beacon will attract armed tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon attracts armed tenants. How convenient!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon will attract an alien warrior. Perhaps I might learn some new skills from them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon will attract armed tenants. I could build my own army!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/centensDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon will sumon an armed tenant. I wonder what sort of primitive weaponry they will use?"
+    }
+  }
+]

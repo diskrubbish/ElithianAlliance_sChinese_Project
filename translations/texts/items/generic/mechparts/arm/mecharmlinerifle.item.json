@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmlinerifle.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mech arm with a built-in linecharge system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmlinerifle.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Linerifle Mech Arm"
+    }
+  }
+]

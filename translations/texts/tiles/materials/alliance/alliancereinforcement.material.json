@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancereinforcement.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Structural reinforcement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancereinforcement.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like support to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancereinforcement.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reinforcement-strong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancereinforcement.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstrong metal blockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancereinforcement.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This block likely serves to support a large weight."
+    }
+  }
+]

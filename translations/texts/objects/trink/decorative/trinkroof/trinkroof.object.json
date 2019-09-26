@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A grand metal roof. Surprisingly, it is packed with sensors and communication systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large, pyramid-shaped roof. For efficient modular buidings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roof-pointy, like pyramid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Roof"
+    }
+  }
+]

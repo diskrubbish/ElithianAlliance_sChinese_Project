@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/alliancedrone/alliancedrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small multi-purpose drone."
+    }
+  }
+]

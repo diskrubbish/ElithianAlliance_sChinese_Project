@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5s/trink-tier5s.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Optics Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5s/trink-tier5s.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;HEAD SLOT. ^white;A high-grade violium optics mod."
+    }
+  }
+]

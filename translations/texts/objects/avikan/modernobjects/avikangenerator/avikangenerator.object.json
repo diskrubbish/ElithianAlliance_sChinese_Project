@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generator, for generating energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generator. It has to be monitored constantly to prevent explosions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful generator, but not very efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful generator. Can it charge my phone?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful generator. Don't break the glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki not break glass. Akki would burn dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An advanced generator. Powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An impressive generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Generator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss what glowy ssstuff isss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm oddly attracted to this beam..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This generator generates enough power for an entire Avian town."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This generator looks like it could power an entire city."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This generator looks unstable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This generator provides all the energy a Terve needs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This power generator looks unstable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warning. Readings indicate dangerously high temperatures inside."
+    }
+  }
+]

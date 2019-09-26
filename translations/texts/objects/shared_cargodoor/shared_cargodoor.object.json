@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cargo door big enough for some personal spaceships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door large enough for a gentle giant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large cargo door. What cargo could possibly need such a large door?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large, heavily reinforced cargo door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive cargo door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive cargo door. Even a small spaceship might fit through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss why door iss so large..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Most vehicles could fit right through this door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that's a massive door!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That is a very large cargo door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cargo door isn't very space-efficient."
+    }
+  }
+]

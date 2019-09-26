@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/thea-forceshieldaugment2.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Force Shield Augment II"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/thea-forceshieldaugment2.augment": [
+        "/augment/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Force Shield II"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/thea-forceshieldaugment2.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Provides a recharging shield that pushes away enemies and projectiles when broken."
+    }
+  }
+]

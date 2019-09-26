@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright tent sheet. Lovely."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brightly coloured tent side."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bunch of fabric sheets made into a tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A carefully decorated tent piece."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric tent piece."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric tent side. Colourful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sheet of fabric used as a tent side. Far more expensive than simple leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sheet of fabric used as a wall in Avikan tents."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple tent wall, made of sheets of bright fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent wall made using colourful sheets of fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Multiple layers of fabric sheets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Fabric Wall Sheet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bright coloursss make Floran angry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fabric sheets layered on top of each other. A simple but functional tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sheet of fabric made into a tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sheets of fabric layered on top of each other to make a simple tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tent-side-colourful."
+    }
+  }
+]

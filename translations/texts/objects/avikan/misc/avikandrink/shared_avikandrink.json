@@ -1,0 +1,226 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glass of Kadavan Cactus Juice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glass of cactus juice, full of actual cactus spines..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glass of cactus juice. The spines floating in it worry me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glass of delicious cactus juice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki drink juice. Akki thirsty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Kadavan cactus juice. Cactus spines included."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Drink"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cactus juice with actual cactus spines in it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cactus juice, I think. There's some sort of thorns floating in it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cactus juice. I am not sure why the Avikan like these better when there's spines in the juice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cactus juice. It tastes alright, the those spines floating in it are painful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I do not understand why someone would put cactus spines in cactus juice..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I drank Avikan-made cactus juice once. The spines in it hurt. Badly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure I want to drink that..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prickly cactus juice. Are there spines floating in it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are still spines in this cactus juice."
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console designed by the Aegi, but perfectly usable to us Hymid too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard Alliance console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard Alliance interface. Its haptic feedback allows even me to use it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Console"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Akki press button, things explode?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console's interface was built to accommodate for several Alliance species."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This standard Alliance interface allows several Alliance species to operate this console."
+    }
+  }
+]

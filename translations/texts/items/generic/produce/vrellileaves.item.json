@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/vrellileaves.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The bright red leaves of the Vrelli plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/vrellileaves.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vrelli Leaves"
+    }
+  }
+]

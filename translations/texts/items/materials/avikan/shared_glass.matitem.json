@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanborderlessglass.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanglass.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick glass from Kadavan."
+    }
+  }
+]

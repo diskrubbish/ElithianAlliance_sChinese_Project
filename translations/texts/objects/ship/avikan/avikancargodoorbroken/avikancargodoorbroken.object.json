@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A breach of this cargo door would be disastrous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cargo door. If it would open now, I'd probably be dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cargo door. It is all that stands between me and outer space..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong cargo door. Good thing it is locked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal door, used to protect a ship's cargo hold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki glad door won't open. If door open, Akki sucked into space and dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cargo door won't open without prior decompression of the cargo hold."
+    }
+  }
+]

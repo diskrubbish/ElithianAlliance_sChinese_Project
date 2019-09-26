@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard rumours of a Trink with faulty wiring hanging out in a cave nearby. It's probably best to stay away."
+    }
+  }
+]

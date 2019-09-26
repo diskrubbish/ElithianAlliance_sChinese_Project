@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/akkimarishield.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A molded metal shield, rough but durable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/akkimarishield.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Shield"
+    }
+  }
+]

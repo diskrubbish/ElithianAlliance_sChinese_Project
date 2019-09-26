@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/thelean/theleanbroadsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standrad-issue Thelean broadsword. The grip is extremely uncomfortable for non-Theleans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/thelean/theleanbroadsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Blade"
+    }
+  }
+]

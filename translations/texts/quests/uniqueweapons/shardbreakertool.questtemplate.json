@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, Captain, what do you have for me? Hmm, I have seen casings like these before. I think I can repair it for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I found the broken casing of some ancient tool. ^green;If I can find someone who knows Centensian technology, they may be able to repair it.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Tools of the Ancients"
+    }
+  }
+]

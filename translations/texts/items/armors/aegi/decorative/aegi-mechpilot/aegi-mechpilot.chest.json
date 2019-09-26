@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-mechpilot/aegi-mechpilot.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Union Mech Pilot Cuirass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-mechpilot/aegi-mechpilot.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A lightweight cuirass worn by Union mech pilots."
+    }
+  }
+]

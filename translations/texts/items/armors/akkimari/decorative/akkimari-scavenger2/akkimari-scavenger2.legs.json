@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-scavenger2/akkimari-scavenger2.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scavenger's Greaves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-scavenger2/akkimari-scavenger2.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;Scrap metal greaves worn by Akkimari scavengers."
+    }
+  }
+]

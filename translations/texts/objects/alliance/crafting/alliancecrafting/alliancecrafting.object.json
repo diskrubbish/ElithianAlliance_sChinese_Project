@@ -1,0 +1,562 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Alliance 3D Printer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Alliance Multi-fabricator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Alliance Workshop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Alliance items and equipment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A 3D printer capable of printing in various materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A 3D printer designed by Enerth Engineering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic 3D printer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/aegiDescription",
+        "/upgradeStages/0/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic workshop, but it has all the tools I'll ever need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/trinkDescription",
+        "/upgradeStages/0/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact workshop with various tools. Quite an effective use of space and materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device capable of creating various items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabrication unit. It can create many things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly advanced fabrication unit capable of producing a variety of items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly efficient fabricator unit. Enerth should be praised for their ingenuity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A workshop filled with various tools and devices."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A workshop full of tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/jorgasianDescription",
+        "/upgradeStages/0/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A workshop full of tools. Let's craft something!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A workshop with tools for every craft."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki not sure how device construct items. Akki will find out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Enerth Engineering 3D printer. It can produce many things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An advanced 3D printer capable of producing various items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/description",
+        "/upgradeStages/0/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An all-in-one workshop for creating a variety of items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An all-in-one workshop. I can create many things here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/0/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An all-inone workshop. I can create many things here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient 3D printer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+        "/upgradeStages/2/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Crafting device. Automatically produces various items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Device prints item. Akki need no tools!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enerth Engineering designs incredible  units."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enerth Engineering's latest fabricator unit. It can fabricate almost anything out of raw materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/avikanDescription",
+        "/upgradeStages/0/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I still find it odd how carelessly others use wood."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always liked seeing 3D printers in action."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's some type of highly advanced printer, I think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/floranDescription",
+        "/upgradeStages/2/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machine makesss thingss for Floran. Floran iss satissfied."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+        "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machinery takes away the grace of a skilled craftsman."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/avikanDescription",
+        "/upgradeStages/2/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some type of crafting device. I'm not entirely certain how it works."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The most advanced fabrication unit on the market."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device can print many things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device was designed by the Aegi. It can print various items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText",
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device will produce whatever I ask for."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like some kind of 3D printer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+        "/upgradeStages/2/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine will print things for me. It's great."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This printer can print many things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unit can fabricate almost anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/erixianDescription",
+        "/upgradeStages/0/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This workshop has all the tools you'll ever need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/notixDescription",
+        "/upgradeStages/0/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This workshop is equipped with a variety of tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/hymidDescription",
+        "/upgradeStages/0/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tools and enough space to use them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/akkimariDescription",
+        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tools-many. Akki use to craft things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Alliance 3D Printer^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Alliance Multi-fabricator^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/shortdescription",
+        "/upgradeStages/0/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Alliance Workshop^white;"
+    }
+  }
+]

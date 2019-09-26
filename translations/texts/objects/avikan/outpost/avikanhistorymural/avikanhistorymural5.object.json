@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural5.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mural detected. Analysis: depiction of the Era of Vhelin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural5.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This depicts the Era of Vhelin, when we knew naught but peace and prosperity."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/highlightenemies/highlightenemies.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marking"
+    }
+  }
+]

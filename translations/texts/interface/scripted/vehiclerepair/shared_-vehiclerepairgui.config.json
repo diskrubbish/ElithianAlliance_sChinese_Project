@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/alliance-vehiclerepairgui.config": [
+        "/gui/windowtitle/subtitle"
+      ],
+      "interface/scripted/vehiclerepair/avikan-vehiclerepairgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Repair your vehicles here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/alliance-vehiclerepairgui.config": [
+        "/gui/chipCostDescription/value"
+      ],
+      "interface/scripted/vehiclerepair/avikan-vehiclerepairgui.config": [
+        "/gui/chipCostDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRED CHIPS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/alliance-vehiclerepairgui.config": [
+        "/gui/repairButton/caption"
+      ],
+      "interface/scripted/vehiclerepair/avikan-vehiclerepairgui.config": [
+        "/gui/repairButton/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/alliance-vehiclerepairgui.config": [
+        "/gui/emptyLabel/value"
+      ],
+      "interface/scripted/vehiclerepair/avikan-vehiclerepairgui.config": [
+        "/gui/emptyLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't have any vehicles to repair!"
+    }
+  }
+]

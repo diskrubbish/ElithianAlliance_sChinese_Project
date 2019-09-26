@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/environmentprotection/akkimariheatprotection/akkimariheatprotection.back": [
+        "/shortdescription"
+      ],
+      "items/armors/backitems/environmentprotection/allianceheatprotection/allianceheatprotection.back": [
+        "/shortdescription"
+      ],
+      "items/armors/backitems/environmentprotection/avikanheatprotection/avikanheatprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooling EPP Upgrade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/environmentprotection/akkimariheatprotection/akkimariheatprotection.back": [
+        "/description"
+      ],
+      "items/armors/backitems/environmentprotection/allianceheatprotection/allianceheatprotection.back": [
+        "/description"
+      ],
+      "items/armors/backitems/environmentprotection/avikanheatprotection/avikanheatprotection.back": [
+        "/description"
+      ],
+      "items/armors/backitems/environmentprotection/trinkheatprotection/trinkheatprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This upgrade adds cool air generation to your EPP's capabilities. Helpful on ^red;dangerously hot^reset; planets."
+    }
+  }
+]

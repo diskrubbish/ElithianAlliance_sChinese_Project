@@ -1,0 +1,190 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic space heater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small space heater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A space heater of Aeginian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A space heater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A space heater. No need for these on Heragon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard space heater, built by Enerth Engineering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly efficient space heater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Space Heater"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected heating device."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Device make heat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't need no space heater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd rather turn this heater off."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a space heater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal box makesss roomss warm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device emits heat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This should keep a home warm and cozy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will keep a home at a comfortable temperature."
+    }
+  }
+]

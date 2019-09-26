@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/drodenswordback/drodenswordback.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A Droden Longsword for wearing on the back."
+    }
+  }
+]

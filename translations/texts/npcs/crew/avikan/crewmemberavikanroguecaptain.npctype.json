@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> Captain"
+    }
+  }
+]

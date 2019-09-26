@@ -1,0 +1,240 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/notixDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bed hung from the ceiling."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A practical place for sleeping, but not a very luxurious one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/description"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but comfortable hammock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/avianDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple hammock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic but elegant hammock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/aegiDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft, comfortable hammock made of Akkimari silk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki like hammocks. Sleep away from the ground, away from things-nasty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/shortdescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Hammock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hammock iss a sssimple bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/trinkDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hammocks like these make efficient use of the available space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope I won't fall out while I sleep."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've never much liked the idea of a hammock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a simple hammock, made of a very soft material."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a hammock, though the material is soft and silky smooth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/apexDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's not exactly luxurious, but it's a decent place to sleep."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These aliens suspend their beds from the ceiling."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/hymidDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hammock is flexible enough to allow my tail to rest easily."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/akkimarijusticar/akkimarijusticaraf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Justicar Figurine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/akkimarijusticar/akkimarijusticaraf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"A large Akkimari Justicar, the leader of a pack of Akkimari.\""
+    }
+  }
+]

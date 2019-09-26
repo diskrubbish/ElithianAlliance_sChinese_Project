@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-forceshield/thea-forceshield.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thea-forceshield/thea-forceshield2.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thea-forceshield/thea-forceshield3.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Force Shield"
+    }
+  }
+]

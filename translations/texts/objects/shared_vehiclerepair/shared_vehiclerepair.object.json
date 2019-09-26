@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This engineer can fix up any broken vehicle I present him with."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fella looks like he could fix up my vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/subtitle"
+      ],
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vehicle repairs"
+    }
+  }
+]

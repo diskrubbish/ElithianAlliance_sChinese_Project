@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/events/landingfestival/landingpresenttimer.questtemplate": [
+        "/scriptConfig/debugText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Already received a present today!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/events/landingfestival/landingpresenttimer.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Timer"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanmissilepod2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here you go, Captain! Your very own Missile Pod! I'm also giving you the blueprints for the weapon, in case you ever need to craft another one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanmissilepod2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "In order to repair that missile pod of yours, I need some materials. I'll need at least ^orange;8 Superb Kavanite Plates ^white;and a ^orange;Dranite Plate ^white;to craft a new frame, an ^orange;Avikan Magazine ^white;to fix the loading mechanism, and some ^orange;Volatile Liquid ^white;for the ignition system. ^green;Bring me those materials^white;, and I can fix up that missile pod for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanmissilepod2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Explosive Firepower II"
+    }
+  }
+]

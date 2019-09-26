@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/allianceblackmarketteleporter.config": [
+        "/destinations/0/name"
+      ],
+      "interface/warping/allianceoutpostteleporter.config": [
+        "/destinations/0/name"
+      ],
+      "interface/warping/avikanblackmarketteleporter.config": [
+        "/destinations/0/name"
+      ],
+      "interface/warping/avikanoutpostteleporter.config": [
+        "/destinations/0/name"
+      ],
+      "interface/warping/centensworkshopteleporter.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beam to Ship"
+    }
+  }
+]

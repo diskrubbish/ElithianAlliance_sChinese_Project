@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikandarkgroundpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikangroundpanel.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Floor panel."
+    }
+  }
+]

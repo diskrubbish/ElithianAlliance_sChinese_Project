@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/droden/drodenlegion.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected hostile. Engaging."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/droden/drodenlegion.npctype": [
+        "/scriptConfig/dialog/follower/attack/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engaging target."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/droden/drodenlegion.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hostile eliminated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/droden/drodenlegion.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legion unit <selfname> reporting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/droden/drodenlegion.npctype": [
+        "/scriptConfig/dialog/follower/returnFromWait/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legion unit ready for assignment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/droden/drodenlegion.npctype": [
+        "/scriptConfig/dialog/follower/wait/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legion unit will wait."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/droden/drodenlegion.npctype": [
+        "/scriptConfig/dialog/follower/returnFromCombat/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target defeated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/droden/drodenlegion.npctype": [
+        "/scriptConfig/dialog/follower/join/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Legion unit is at your disposal."
+    }
+  }
+]

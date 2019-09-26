@@ -1,0 +1,130 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large metal pyramid for a roof? Cool!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large metal roof, built by machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large metal roof, built by the Notician robots."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/apexDescription",
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/apexDescription",
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/apexDescription",
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/apexDescription",
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large modular roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large, modular roof decorated with green lights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran seesss big roof. Floran wonderss why roof iss so big."
+    }
+  }
+]

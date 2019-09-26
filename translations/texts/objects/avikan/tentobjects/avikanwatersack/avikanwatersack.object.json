@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sack filled with fresh water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sack filled with water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sack full of pure water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sack filled with refreshing water. A life saver in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sack filled with water, of vital importance to desert dwellers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A waterproof leather sack, filled with water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual way to store water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Water Sack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clean, refreshing water! Good thing the leather is waterproof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected water supply. Detected fragile container. Recommend storing in Nomada-approved water container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh water, stored in a leather sack."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh water, stored in a simple leather sack. It's waterproof, of course."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refreshing water, stored in a simple, but waterproof leather sack."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sack-water, Akki careful not getting wet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These sacks full of water are what makes it possible for us to build permanent camps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water in sssack is coldsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water, pure and refreshing. A blessing to desert dwellers."
+    }
+  }
+]

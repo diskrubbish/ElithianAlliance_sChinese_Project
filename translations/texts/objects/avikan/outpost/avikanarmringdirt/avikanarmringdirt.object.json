@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanarmringdirt/avikanarmringdirt.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pile of dirty muck. Perhaps there's something in it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanarmringdirt/avikanarmringdirt.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected sewage waste. Scanning for additional items..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanarmringdirt/avikanarmringdirt.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd rather not touch that muck."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanarmringdirt/avikanarmringdirt.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Floran digss through muck, Floran might find something?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanarmringdirt/avikanarmringdirt.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is it just me, or do I see somethin' shiny in that pile o' muck?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanarmringdirt/avikanarmringdirt.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lost Arm Ring"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanarmringdirt/avikanarmringdirt.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Muck-icky. Akki not want to get hands-dirty."
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  A weapon for every situation"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back whenever you need a new gun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponmerchant.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Faze"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think I have a weapon that fits you just right!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "In need of protection? I've got the best weapons right here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My guns are just over there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now, what kind of weapon are you looking for?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons Dealer"
+    }
+  }
+]

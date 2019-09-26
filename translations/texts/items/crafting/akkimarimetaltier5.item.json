@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimarimetaltier5.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polished Scrap Metal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimarimetaltier5.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polished plates of scrap metal scavenged from high quality sources."
+    }
+  }
+]

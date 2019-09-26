@@ -1,0 +1,45 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/axe/tier6/avikantier6axe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/avikan/broadsword/tier6/avikantier6broadsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/avikan/dagger/tier6/avikantier6dagger.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/avikan/hammer/tier6/avikantier6hammer.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/avikan/shortsword/tier6/avikantier6shortsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/avikan/spear/tier6/avikantier6spear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An energy weapon used by high-ranking members of the Clanguard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/broadsword/tier6/avikantier6broadsword.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/melee/avikan/hammer/tier6/avikantier6hammer.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/melee/avikan/spear/tier6/avikantier6spear.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Discharge"
+    }
+  }
+]

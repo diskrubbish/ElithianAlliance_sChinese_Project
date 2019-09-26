@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Ship Door"
+    }
+  }
+]

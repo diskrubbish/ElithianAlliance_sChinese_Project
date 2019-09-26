@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/other/trinkuniquecache/trinkuniquecache.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Unique Trinkian Cache^white;"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/allianceoutpostteleporter.config": [
+        "/bookmarkName"
+      ],
+      "interface/warping/allianceoutpostwarp.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creon Embassy"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian artefact. Mysterious, as always."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive cube, floating just above the ground. What keeps it in place?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive cube, held aloft by invisible wings. It is... beautiful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive floating cube."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive metal cube, untouched by time. What keeps it aloft?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Floating Cube"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cube-large-floating, Akki wonder how it works."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Centensian artefact. Marking location for Rhaiod investigation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesss not undersstand how masssive cube can fly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "How the Centens managed to build artefacts like these is beyond me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It goes 'round and 'round and 'round... Makes my head spin, it does."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mystery surrounds this cube. It is magnificent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of massive Centensian cube. It hovers above the ground, somehow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Old Ones left behind many mysterious cubes like these. The Rhaiod has yet to show us what their purpose is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cube must weigh more than a house, yet it stays aloft somehow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cube resonates with a strange power. It is comforting, somehow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cube was built by the Gods, for a purpose beyond my ken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whatever mechanism keeps this cube aloft must be extremely efficient."
+    }
+  }
+]

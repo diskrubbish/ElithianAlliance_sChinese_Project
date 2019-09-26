@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-watcher/avikan-watcher.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watcher's Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-watcher/avikan-watcher.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;The helmet of an Avikan Watcher."
+    }
+  }
+]

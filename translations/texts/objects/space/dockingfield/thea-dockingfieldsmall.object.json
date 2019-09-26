@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Docking Field"
+    }
+  }
+]

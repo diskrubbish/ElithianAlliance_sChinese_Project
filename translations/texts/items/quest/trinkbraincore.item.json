@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/trinkbraincore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The brain core of a Trink unit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/trinkbraincore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Brain Core"
+    }
+  }
+]

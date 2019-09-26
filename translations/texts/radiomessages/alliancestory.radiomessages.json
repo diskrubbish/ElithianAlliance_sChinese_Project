@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/alliancestory.radiomessages": [
+        "/alliancestory-intro3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "For now, you are free to roam the galaxy as you will. Once I have more details to share with you, I will contact you again. Good luck out there, ambassador, and be careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/alliancestory.radiomessages": [
+        "/alliancestory-intro2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will meet with the other leaders of the Alliance soon, so we can discuss this tragedy in full. We will also discuss what your next assignment will be."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/alliancestory.radiomessages": [
+        "/alliancestory-intro1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is good to see that you are well, ambassador. I learned about the destruction of Earth and the Protectorate through some of the other ambassadors who escaped, and I had feared you might have perished in the chaos."
+    }
+  }
+]

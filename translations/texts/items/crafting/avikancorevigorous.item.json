@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikancorevigorous.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The power core of an Avikan armour piece. Increases the user's health reserves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikancorevigorous.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vigorous Power Core"
+    }
+  }
+]

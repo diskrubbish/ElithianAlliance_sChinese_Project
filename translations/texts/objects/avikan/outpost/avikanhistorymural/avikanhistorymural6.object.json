@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural6.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even looking at this makes me feel sick. It depicts the nine invasions by the Thell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural6.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mural detected. Analysis: depiction of Thelean invasions."
+    }
+  }
+]

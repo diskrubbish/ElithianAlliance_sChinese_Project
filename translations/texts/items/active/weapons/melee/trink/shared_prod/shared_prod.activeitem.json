@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/trink/longprod/trinktier1longprod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/longprod/trinktier2longprod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/longprod/trinktier3longprod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/longprod/trinktier4longprod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/longprod/trinktier5longprod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/longprod/trinktier6longprod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/prod/trinktier1prod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/prod/trinktier2prod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/prod/trinktier3prod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/prod/trinktier4prod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/prod/trinktier5prod.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/trink/prod/trinktier6prod.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An electric prod built to keep assailants at bay."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/avikan-thelean/avikan-thelean.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thell Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/avikan-thelean/avikan-thelean.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A Thell mask to celebrate the Harrowing!"
+    }
+  }
+]

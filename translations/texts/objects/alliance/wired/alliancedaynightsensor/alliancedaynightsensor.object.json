@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic day/night sensor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A day/night sensor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sensor that changes output depending on the time of day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sensor that detects the current time of day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sensor that detects the time of day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sensor that tells you the time of day. Might as well look at the sun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple day and night sensor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple day/night sensor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki can tell time here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Sensor. Detects time of day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda time-telling device."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssenssor tellss Floran the time of day"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sensor detects the current time of day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sensor senses the time of day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sensor tells day from night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sensor turns on and off depending on the time of day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will tell me the time of day, but only in absolutes."
+    }
+  }
+]

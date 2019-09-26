@@ -1,0 +1,253 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/description"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer console for wiring circuits together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/apexDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console for controlling connected objects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A control panel of some sort."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A control panel, the interface is new to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny console with an even shinier interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien interface. I can't make much sense of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Console. Interface decryption failed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I probably shouldn't touch any of these buttons, but I really want to..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny buttonsss, Floran presss?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console may control nearby mechanisms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This control system is unfamiliar to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/avianDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panel likely controls mechanisms nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What will happen if I touch these buttons?"
+    }
+  }
+]

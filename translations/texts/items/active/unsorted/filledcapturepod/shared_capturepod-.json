@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/filledcapturepod/capturepod-avikandrone.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/unsorted/filledcapturepod/capturepod-ghavorkan.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/unsorted/filledcapturepod/capturepod-trinkdrone.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Filled Capture Pod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/filledcapturepod/capturepod-avikandrone.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/filledcapturepod/capturepod-ghavorkan.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/filledcapturepod/capturepod-trinkdrone.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Throw it down to release the creature captured inside!"
+    }
+  }
+]

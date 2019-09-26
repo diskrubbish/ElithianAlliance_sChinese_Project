@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-aegiweaponforger.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hadaeko"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-aegiweaponforger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a weaponsmith working with Stryker Smithing. Do you need a weapon forged?"
+    }
+  }
+]

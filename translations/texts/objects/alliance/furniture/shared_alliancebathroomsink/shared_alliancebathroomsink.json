@@ -1,0 +1,184 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic sink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bathroom sink. The Aegi use these to wash their hands."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plain ol' sink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple bathroom sink. I should probably wash my hands."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic bathroom sink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sink. Maybe I should wash my hands..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A waste of good water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Bathroom Sink"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can wash my hands here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refreshing water!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of water basin, for washing yourself in?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Splashy sssink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Too small to swim in."
+    }
+  }
+]

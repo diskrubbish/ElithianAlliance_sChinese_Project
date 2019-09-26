@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> Soldier"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elusive <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Master <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Petty <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanted <field>"
+    }
+  }
+]

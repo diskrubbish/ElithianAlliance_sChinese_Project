@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-tiered/tier1/thea-tier1.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "UL-i Head Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-tiered/tier1/thea-tier1.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Generic. ^white;An ultra-low intensity shield generator for protecting the head."
+    }
+  }
+]

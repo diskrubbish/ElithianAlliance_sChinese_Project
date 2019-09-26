@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceprefabwall.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Pre-fabricated wall piece."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceprefabwall.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sturdy metal plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceprefabwall.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is part of a pre-fabricated wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceprefabwall.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall-prefabricated, for houses-modular."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceprefabwall.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wallss were made in factoriess."
+    }
+  }
+]

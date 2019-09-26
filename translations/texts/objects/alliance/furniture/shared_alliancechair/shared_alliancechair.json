@@ -1,0 +1,198 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/description"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic but comfortable chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chair adhering to Alliance standards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A padded metal chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple chair with comfortable padding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki sit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Aeginian-built chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien chair. My tail makes it quite uncomfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comfortable, if a bit simple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likess thiss chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could sit on this all day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I prefer my wooden chairs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simplistic but still comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair is more comfortable than it looks."
+    }
+  }
+]

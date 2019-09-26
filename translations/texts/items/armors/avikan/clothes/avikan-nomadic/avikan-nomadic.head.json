@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomad's Cloak"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A leather cloak, provides ample protection against the desert winds."
+    }
+  }
+]

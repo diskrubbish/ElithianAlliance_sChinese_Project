@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanmacrochip.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A top-of-the-line computing chip, for when you need a lot power in a small package."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanmacrochip.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Macrochip"
+    }
+  }
+]

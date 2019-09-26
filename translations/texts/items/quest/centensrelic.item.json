@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/centensrelic.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian relic. It appears to be a container, but it won't open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/centensrelic.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Centensian Relic^white;"
+    }
+  }
+]

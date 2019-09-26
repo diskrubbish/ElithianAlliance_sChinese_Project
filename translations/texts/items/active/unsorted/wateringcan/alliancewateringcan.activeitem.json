@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/wateringcan/alliancewateringcan.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic watering can, useful for tending to your crops manually."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/wateringcan/alliancewateringcan.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Allosteel Watering Can"
+    }
+  }
+]

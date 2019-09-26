@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimarihullpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/akkimari/akkimariplating.matitem": [
+        "/description"
+      ],
+      "items/materials/akkimari/akkimariplatingfront.matitem": [
+        "/description"
+      ],
+      "items/materials/akkimari/akkimariscrapplating.matitem": [
+        "/description"
+      ],
+      "items/materials/akkimari/akkimariscrapplatingfront.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durable plating made from assorted scrap metal."
+    }
+  }
+]

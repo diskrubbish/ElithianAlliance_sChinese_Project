@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikandarkgroundpanel.material": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A floor panel made of dark metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikandarkgroundpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A floor panel thick as a safe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikandarkgroundpanel.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Panel-floor, Akki walk on it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikandarkgroundpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Panelsss for floor."
+    }
+  }
+]

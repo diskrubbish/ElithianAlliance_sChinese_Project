@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/centensiantech.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Tech"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/centensiantech.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Technology used in the creation of Centensian artefacts."
+    }
+  }
+]

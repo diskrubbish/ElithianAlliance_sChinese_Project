@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet1/avikanoutpostmediumsheet1.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet2/avikanoutpostmediumsheet2.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostsmallsheet1/avikanoutpostsmallsheet1.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet, plain 'n simple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet1/avikanoutpostmediumsheet1.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet2/avikanoutpostmediumsheet2.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostsmallsheet1/avikanoutpostsmallsheet1.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected leather sheet."
+    }
+  }
+]

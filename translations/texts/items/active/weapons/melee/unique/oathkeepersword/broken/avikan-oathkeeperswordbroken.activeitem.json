@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/oathkeepersword/broken/avikan-oathkeeperswordbroken.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;A once-famous sword, now bent and broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/oathkeepersword/broken/avikan-oathkeeperswordbroken.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Broken Sword of Fame^white;"
+    }
+  }
+]

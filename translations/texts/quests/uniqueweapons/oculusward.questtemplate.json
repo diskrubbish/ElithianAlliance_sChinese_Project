@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I recovered a shield generator from an Oculus's wreckage. It still looks functional, but all of the connections have been fried... ^green;Perhaps someone who studies Centensian technology can repair it for me.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this a part from a Ce'Tennan Oculus? Incredible! I think I might know how to get it operational again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A Shielded Eye"
+    }
+  }
+]

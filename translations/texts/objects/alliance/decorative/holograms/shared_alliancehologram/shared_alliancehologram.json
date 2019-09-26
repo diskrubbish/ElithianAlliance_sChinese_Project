@@ -1,0 +1,342 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hologram displaying some information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hologram displaying useful information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hologram."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hologram. It displays quite a lot of information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Hologram"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien hologram. The Nomada might glean useful information from it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien hologram. Attempting translation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hologram-alien."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holograms are an elegant replacement for physcial screens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holograms can be quite efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I always like holograms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure what this hologram is displaying."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a hologram. I can hear it buzzing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone wrote some stuff in the sky."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssky-writing confusess Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hologram is being projected by a tiny projector not far away."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hologram is displaying useful information."
+    }
+  }
+]

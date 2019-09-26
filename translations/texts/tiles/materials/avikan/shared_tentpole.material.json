@@ -1,0 +1,53 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanfabrictentpole.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanpurplefabrictentpole.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikantentpole.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent pole, this'll surely hold up a tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanfabrictentpole.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanpurplefabrictentpole.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikantentpole.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Structurally vital tent pole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanfabrictentpole.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanpurplefabrictentpole.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikantentpole.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran make ssspear from metal tent polesss?"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/centensguardian/centensguardian-space.monstertype": [
+        "/description"
+      ],
+      "monsters/flyers/centensguardian/centensguardian.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated defense construct built by the Ce'Tennan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/centensguardian/centensguardian-space.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/centensguardian/centensguardian.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ce'Tennan Oculus"
+    }
+  }
+]

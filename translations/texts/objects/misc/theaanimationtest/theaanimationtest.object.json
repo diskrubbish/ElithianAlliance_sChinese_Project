@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/misc/theaanimationtest/theaanimationtest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An animation test. Where did you get this?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/misc/theaanimationtest/theaanimationtest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Animation Test"
+    }
+  }
+]

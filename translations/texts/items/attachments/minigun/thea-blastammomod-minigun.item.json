@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/minigun/thea-blastammomod-minigun.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Minigun ammunition that explodes on impact."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/heal/trinkrepairmoduleheal.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Healing"
+    }
+  }
+]

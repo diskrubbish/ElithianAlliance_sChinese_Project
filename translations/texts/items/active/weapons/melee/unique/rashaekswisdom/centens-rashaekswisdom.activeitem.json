@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/rashaekswisdom/centens-rashaekswisdom.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A relic associated with Rashaek, the Thelean uplifter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/rashaekswisdom/centens-rashaekswisdom.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Rashaek's Wisdom^white;"
+    }
+  }
+]

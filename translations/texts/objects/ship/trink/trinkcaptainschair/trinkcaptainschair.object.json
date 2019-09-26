@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian control pod, built for their starships' captains."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian control pod. It allows access to the ship's navigation interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bulky control pod, for the ship's commander."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A control pod for the ship's captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A control pod with an interface for controlling the ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A control pod, used by the robot controlling this ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A control pod. Useful for the Trinks, but incredibly uncomfortable for others."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien technology. Analysis: ship control pod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this supposed to be some sorta seat? Sure ain't looking comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this what the captain uses to control the ship? How odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trink use control pods like these to control their ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The control pod of the machine operating this ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This control pod allows access to the ship's navigation interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trink Commander's Pod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where to next?"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/mellowroot.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft, juicy vegetable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/mellowroot.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mellowroot"
+    }
+  }
+]

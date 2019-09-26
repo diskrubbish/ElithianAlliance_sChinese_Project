@@ -1,0 +1,70 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/oculusward2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/shardbreakertool.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/sundrainer.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/oculusward3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/oculusward4.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find ^orange;Valyakan ^reset;in the ^orange;Creon Embassy^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/sundrainer4.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find ^orange;Vanhas ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/shardbreakertool4.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/sundrainer2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/sundrainer3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  }
+]

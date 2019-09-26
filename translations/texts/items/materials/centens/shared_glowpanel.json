@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensglowpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/centens/centensglowpanel2.matitem": [
+        "/description"
+      ],
+      "items/materials/centens/centensvertglowpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/centens/centensvertglowpanel2.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A glowing panel."
+    }
+  }
+]

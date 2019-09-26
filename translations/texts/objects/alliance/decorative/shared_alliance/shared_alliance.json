@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien interface detected. Translating..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesss not know how to use computer..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could browse the Alliance Network on this computer."
+    }
+  }
+]

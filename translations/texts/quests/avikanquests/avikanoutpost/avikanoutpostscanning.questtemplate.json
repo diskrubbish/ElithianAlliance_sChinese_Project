@@ -1,0 +1,237 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/avikangunsmith/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ayurin is the local weaponsmith. He sells weapon blueprints and assists Starfarers in crafting weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title",
+        "/scriptConfig/radioMessages/complete/senderName",
+        "/scriptConfig/radioMessages/genericProgress/0/senderName",
+        "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+        "/scriptConfig/radioMessages/startWithProgress/senderName",
+        "/scriptConfig/radioMessages/uniqueProgress/avikandrodenshop/senderName",
+        "/scriptConfig/radioMessages/uniqueProgress/avikangunsmith/senderName",
+        "/scriptConfig/radioMessages/uniqueProgress/avikanmaterialmerchant/senderName",
+        "/scriptConfig/radioMessages/uniqueProgress/avikanmeritmerchant/senderName",
+        "/scriptConfig/radioMessages/uniqueProgress/avikanoutpostbar/senderName",
+        "/scriptConfig/radioMessages/uniqueProgress/avikanoutposthologram/senderName",
+        "/scriptConfig/radioMessages/uniqueProgress/avikanteleportshop/senderName",
+        "/scriptConfig/radioMessages/uniqueProgress/avikanvehiclerepair/senderName",
+        "/scriptConfig/radioMessages/uniqueProgress/avikanvehicleshop/senderName",
+        "/scriptConfig/radioMessages/uniqueProgress/avikanwatchersecurityconsole/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Azana"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/avikanoutpostbar/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drinks and food can be purchased from the bar at the Starsight Inn."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/avikanoutposthologram/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am Azana, a Virtual Guide created by Anakhar Systems. I provide newcomers and veterans alike with information about the Starfarer's Refuge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/avikandrodenshop/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "In exchange for Tokens of Merit, the Droden Legion Terminal allows you to recruit Droden crewmembers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/startAlreadyComplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears that you have taken the initiative to explore the Starfarer's Refuge yourself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/avikanvehicleshop/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jahkar sells Nomada-certified vehicles and vehicle components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Azana^reset; in the ^orange;Starfarer's Refuge^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/genericProgress/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning is a great tool for discovery."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for using this Anakhar Systems Virtual Guide. I hope to have provided you with useful information today. Vas Vha'leih."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/complete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "That concludes the tour of the Starfarer's Refuge. Please, ^green;return to me^white; when you're ready for a small reward."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/avikanteleportshop/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Nomada Translocator Store offers personalized teleportation devices. It also features a teleporter for public use."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Starfarer's Refuge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/startWithProgress/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Starfarer's Refuge offers many services. There is still more to be found."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/avikanwatchersecurityconsole/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The offices of the Watchers are found behind these security consoles. The offices are only accessible to members of the organization."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/avikanmeritmerchant/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vendor of the Nomada Token Exchange allows you to purchase a variety of materials using Tokens of Merit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/avikanmaterialmerchant/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vendor of the Nomada Token Exchange allows you to trade leftover materials in exchange for Tokens of Merit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/radioMessages/uniqueProgress/avikanvehiclerepair/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valyan offers vehicle reparation and restoration services."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Starfarer's Refuge, new arrival! I am ^orange;Azana^white;, your virtual guide. Please take the time to familiarize yourself with the many services offered in the ^orange;Starfarer's Refuge^white;. ^green;Scan areas of interest, and I will relay you information about the services provided there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanoutpostscanning.questtemplate": [
+        "/scriptConfig/descriptions/findClues"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Scan objects^reset; to learn more about the ^orange;Starfarer's Refuge^reset;"
+    }
+  }
+]

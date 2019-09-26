@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-tier6linerifle/avikan-tier6linerifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Line Rifle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-tier6linerifle/avikan-tier6linerifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;A high-powered line rifle for long range encounters."
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/starter/akkimaricustomtailoring.questtemplate": [
+        "/text"
+      ],
+      "quests/starter/avikancustomtailoring.questtemplate": [
+        "/text"
+      ],
+      "quests/starter/drodencustomtailoring.questtemplate": [
+        "/text"
+      ],
+      "quests/starter/trinkcustomtailoring.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "My request for a custom Protectorate uniform has been answered, and my new uniform should be waiting for me in my locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/starter/akkimaricustomtailoring.questtemplate": [
+        "/completionText"
+      ],
+      "quests/starter/avikancustomtailoring.questtemplate": [
+        "/completionText"
+      ],
+      "quests/starter/drodencustomtailoring.questtemplate": [
+        "/completionText"
+      ],
+      "quests/starter/trinkcustomtailoring.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This'll fit far better than the standard uniform. Better not lose it - it's truly one of a kind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/starter/aegicustomtailoring.questtemplate": [
+        "/title"
+      ],
+      "quests/starter/akkimaricustomtailoring.questtemplate": [
+        "/title"
+      ],
+      "quests/starter/avikancustomtailoring.questtemplate": [
+        "/title"
+      ],
+      "quests/starter/drodencustomtailoring.questtemplate": [
+        "/title"
+      ],
+      "quests/starter/trinkcustomtailoring.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Custom Tailoring"
+    }
+  }
+]

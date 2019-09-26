@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/alliancestairsplatform.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki walk up stairs, walk down again. Akki exercising!"
+    }
+  }
+]

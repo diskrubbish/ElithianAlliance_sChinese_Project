@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-police.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even the Embassy needs some security."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-police.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Go causing trouble and you'll find P-ASA after you in no time. Just a friendly warning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-police.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here to keep the peace."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-police.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keep to the rules, and you'll do just fine here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-police.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "P-ASA is here to keep the peace. Not that we're needed very often."
+    }
+  }
+]

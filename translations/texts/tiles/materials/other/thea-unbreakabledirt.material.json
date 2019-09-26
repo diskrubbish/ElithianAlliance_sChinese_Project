@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakabledirt.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakabledirt.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirty lookin' dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakabledirt.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirty looking dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakabledirt.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Filthy dirt!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakabledirt.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is basic soil."
+    }
+  }
+]

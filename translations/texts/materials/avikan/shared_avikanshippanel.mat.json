@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanshippanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanshippanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Ship Panel"
+    }
+  }
+]

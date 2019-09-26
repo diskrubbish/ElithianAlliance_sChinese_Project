@@ -1,0 +1,268 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/notixDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big, juicy plant. I imagine desert dwellers have many uses for a plant like this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/avikanDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cactus from home. Vital for life in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/aegiDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cactus originally found on the Avikan homeplanet Kadavan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cactus. Those spines might hurt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A juicy cactus. It looks better than it tastes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plant filled with water. A relief to any who live in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/erixianDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plant full of water. It wouldn't last long back on Heragon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien cacti. I prefer those from Earth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/centensDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cacti are found on many desert planets. A result of the Seeding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/description"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cacti originating from the desert planet of Kadavan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cactus spines make for excellent projectiles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colourful cacti. Not very tasty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/drodenDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected native Kadavan flora. Cactus confirmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Juicccy green plantsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/hymidDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Juicy plants full of water. Similar plants grow on our home planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kadavan Cactus Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/dremetonDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Like the cacti on Elithia, this plant is vital to life in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant full of water. Akki drink?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/trinkDescription"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plant stores a great deal of water, and is vital to organic life in the desert."
+    }
+  }
+]

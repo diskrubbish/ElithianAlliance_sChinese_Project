@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterweapon/thellhunterweapon.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Avikan weapon. Thellhunter's Bow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterweapon/thellhunterweapon.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssscribe will be happy to ssee thisss weapon..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterweapon/thellhunterweapon.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Thellhunter's own weapon - the scribe will be pleased with this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterweapon/thellhunterweapon.object": [
+        "/description",
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Thellhunter's weapon - the scribe will be pleased with this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterweapon/thellhunterweapon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The scribe will be pleased to see this weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterweapon/thellhunterweapon.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thellhunter's Weapon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterweapon/thellhunterweapon.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon-alien, rifle-Thellhunter."
+    }
+  }
+]

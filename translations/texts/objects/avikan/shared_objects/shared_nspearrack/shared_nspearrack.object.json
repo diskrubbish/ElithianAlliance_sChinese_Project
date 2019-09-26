@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanspearrack/avikanspearrack.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Spear Rack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanspearrack/avikanspearrack.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spears."
+    }
+  }
+]

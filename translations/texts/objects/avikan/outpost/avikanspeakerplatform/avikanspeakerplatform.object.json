@@ -1,0 +1,83 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanspeakerplatform/avikanspeakerplatform.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform from which to address the public."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanspeakerplatform/avikanspeakerplatform.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanspeakerplatform/avikanspeakerplatform.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki stand here, talk to Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanspeakerplatform/avikanspeakerplatform.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Speaker's Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanspeakerplatform/avikanspeakerplatform.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "He who sspeaksss sstandsss here..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanspeakerplatform/avikanspeakerplatform.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platform. Used by Speakers to adress the public."
+    }
+  }
+]

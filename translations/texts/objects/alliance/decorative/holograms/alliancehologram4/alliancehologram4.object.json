@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hologram displaying a data sequence."
+    }
+  }
+]

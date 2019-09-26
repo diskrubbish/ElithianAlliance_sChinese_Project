@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/allianceplatform.material": [
+        "/drodenDescription"
+      ],
+      "tiles/platforms/avikanplatform.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. A metal platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/akkimariplatform.material": [
+        "/floranDescription"
+      ],
+      "tiles/platforms/allianceplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal platformsss."
+    }
+  }
+]

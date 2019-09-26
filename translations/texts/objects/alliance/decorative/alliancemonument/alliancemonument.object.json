@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large monument depicting the planet Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large monument to some planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large statue depicting an alien world."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mighty fine piece o' art."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki heard this planet is Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien monument. Database suggests the planet is called Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithia truly is a beautiful world."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithia, my home planet, and the home of the Elithian Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithia, planet of the Aegi, Dremeton, and so many more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithia. Home of the Elithian Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I believe this planet is called Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Monument of Elithia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planet Elithia, beautifully represented in this masterfully crafted globe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planet Elithia. It is where the Elithian Alliance started."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planet of the aliensss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This monument appears to be dedicated to a planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue depicts a planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What planet is this?"
+    }
+  }
+]

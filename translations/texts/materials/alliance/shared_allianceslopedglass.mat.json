@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceslopedglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/allianceslopedglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Sloped Glass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceslopedglass.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/allianceslopedglass.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick and strong glass-like plastic often used on board spaceships."
+    }
+  }
+]

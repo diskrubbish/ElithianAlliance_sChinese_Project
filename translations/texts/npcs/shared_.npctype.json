@@ -1,0 +1,155 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/aegidoctor.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/0"
+      ],
+      "npcs/aegi/aegimedic.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/0"
+      ],
+      "npcs/allianceoutpost/eo-medic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you in need of medical assistance?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/aegidoctor.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/8"
+      ],
+      "npcs/aegi/aegimedic.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/8"
+      ],
+      "npcs/allianceoutpost/eo-medic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you well?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/aegidoctor.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/6"
+      ],
+      "npcs/aegi/aegimedic.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/6"
+      ],
+      "npcs/allianceoutpost/eo-medic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you need someone to look you over?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/aegidoctor.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/5"
+      ],
+      "npcs/aegi/aegimedic.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/5"
+      ],
+      "npcs/allianceoutpost/eo-medic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Helping people has always been my calling."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/aegidoctor.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/1"
+      ],
+      "npcs/aegi/aegimedic.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/1"
+      ],
+      "npcs/allianceoutpost/eo-medic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could offer medical assistance, if you need it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/aegidoctor.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/4"
+      ],
+      "npcs/aegi/aegimedic.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/4"
+      ],
+      "npcs/allianceoutpost/eo-medic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love helping people. It makes me feel like I matter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/aegidoctor.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/2"
+      ],
+      "npcs/aegi/aegimedic.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/2"
+      ],
+      "npcs/allianceoutpost/eo-medic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sorry, I have other patients to attend to."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/aegidoctor.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/3"
+      ],
+      "npcs/aegi/aegimedic.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/3"
+      ],
+      "npcs/allianceoutpost/eo-medic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need medical assistance, let me know."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/aegidoctor.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/7"
+      ],
+      "npcs/aegi/aegimedic.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/7"
+      ],
+      "npcs/allianceoutpost/eo-medic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look hurt. Are you alright?"
+    }
+  }
+]

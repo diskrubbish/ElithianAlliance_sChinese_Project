@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/aegi.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "AEGI"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/aegi.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aegi"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/aegi.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Descendants of Mankind"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/aegi.species": [
+        "/charGenTextLabels/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ear style"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/aegi.species": [
+        "/charGenTextLabels/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hair colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/aegi.species": [
+        "/charGenTextLabels/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hair style"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/aegi.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The descendants of Humans who fled Earth in the face of a natural disaster. Diplomatic, peaceful and technologically advanced, the Aegi have established themselves as the founders of an interstellar, inter-species alliance called the Elithian Alliance."
+    }
+  }
+]

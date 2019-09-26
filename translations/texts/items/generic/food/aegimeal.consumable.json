@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/aegimeal.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A full meal preferred by the Aegi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/aegimeal.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aeginian Meal"
+    }
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal stand, built to hold some valuable item."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal stand, built to hold something important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but effective stand, for displaying something far more valuable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stand for displaying some important item."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stand, to hold something of great value."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ametal stand, build to hold something important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan-built stand. It is generally used to display some important item."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Stand"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected stand. Purpose: to display a Centensian artefact."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sstand for important itemsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stand-metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These stands are generally used to display Centensian artefacts, or other valuable items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These stands are often used to display the artefacts of the Gods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like it is made to hold something important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like it was made to hold something of great value."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stand was built to hold something of great vaue to its creators."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stand was built to prominently display a valuable item."
+    }
+  }
+]

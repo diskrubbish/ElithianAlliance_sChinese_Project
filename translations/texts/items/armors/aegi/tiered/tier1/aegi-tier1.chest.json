@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier1/aegi-tier1.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patroller's Chestplate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier1/aegi-tier1.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A simplistic chestplate attached to a tanktop shirt."
+    }
+  }
+]

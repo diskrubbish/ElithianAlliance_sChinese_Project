@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/drodenantennapack/drodenantennapack.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legion Commpack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/drodenantennapack/drodenantennapack.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A set of long range antennas and communications equipment found on non-sentient Droden units."
+    }
+  }
+]

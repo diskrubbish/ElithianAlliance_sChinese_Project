@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoorlocked/allianceblastdoorlocked.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanautomateddoorlocked/avikanautomateddoorlocked.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected locked door. Unable to force open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoorlocked/allianceblastdoorlocked.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/outpost/avikanautomateddoorlocked/avikanautomateddoorlocked.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-locked. Akki not get through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoorlocked/allianceblastdoorlocked.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanautomateddoorlocked/avikanautomateddoorlocked.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran frussstrated. Thisss door won't open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoorlocked/allianceblastdoorlocked.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanautomateddoorlocked/avikanautomateddoorlocked.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't gonna get through that door anytime soon. It's locked tight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoorlocked/allianceblastdoorlocked.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanautomateddoorlocked/avikanautomateddoorlocked.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door will not open."
+    }
+  }
+]

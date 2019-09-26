@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/axe/avikantier3axe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sharp bone axe made of strong monster bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/axe/avikantier3axe.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalker's Axe"
+    }
+  }
+]

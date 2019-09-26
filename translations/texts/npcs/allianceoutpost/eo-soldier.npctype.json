@@ -1,0 +1,71 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-soldier.npctype": [
+        "/scriptConfig/dialog/converse/default/aegi/1",
+        "/scriptConfig/dialog/converse/default/trink/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you have business with the Admiral?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-soldier.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm gonna have to ask you to leave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-soldier.npctype": [
+        "/scriptConfig/dialog/converse/default/aegi/2",
+        "/scriptConfig/dialog/converse/default/trink/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Make sure to keep your ambassador's pass on you at all times."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-soldier.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "These offices are restricted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-soldier.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This floor is for ambassadors only."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-soldier.npctype": [
+        "/scriptConfig/dialog/converse/default/aegi/0",
+        "/scriptConfig/dialog/converse/default/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Command Center, ambassador."
+    }
+  }
+]

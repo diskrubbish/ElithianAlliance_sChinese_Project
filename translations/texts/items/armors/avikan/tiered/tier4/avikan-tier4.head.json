@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier4/avikan-tier4.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalker's Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier4/avikan-tier4.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A sleek but sturdy skull, worn by Avikan Stalkers."
+    }
+  }
+]

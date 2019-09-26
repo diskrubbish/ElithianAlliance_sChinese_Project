@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cabinet containing some Avikan medicine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cabinet for stayin' healthy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal cabinet, probably for medical supplies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall-mounted cabinet full of medical supplies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An emergency medical kit can be probably be found inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Med-store"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cabinet-medicine. Akki not want healing-alien."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Nomada-approved Med-store. Contains emergency medical supplies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss what iss insside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I suppose this must be a medical cabinet of sorts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's always useful to have some medicine around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical supplies are always a welcome sight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical supplies are always welcome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These Med-stores carry medical supplies for emergency use."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cabinet appears to contain medical supplies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cabinet contains painkillers and other anodynes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This locked contains some medical supplies, for use in emergencies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like a first-aid cabinet."
+    }
+  }
+]

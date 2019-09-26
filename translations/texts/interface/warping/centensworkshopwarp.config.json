@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/centensworkshopwarp.config": [
+        "/destinations/0/planetName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unidentified Planet"
+    }
+  }
+]

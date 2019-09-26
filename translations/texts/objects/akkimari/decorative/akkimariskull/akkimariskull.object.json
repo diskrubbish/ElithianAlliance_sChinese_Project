@@ -1,0 +1,212 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dead Akkimari's skull."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hollow Akkimari skull."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A skull. An Akkimari skull, most likely."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien skull. I'm not sure if I recognize the species."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran make musssic with sskullsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I doubt this alien died well..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope this person died well..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I sure hope that the Akkimari this belonged to is actually dead..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've seen far too many skulls already..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a skull. I think it belonged to an Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning alien bone. Analysis: Akkimari skull. Unable to determine time of death."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skull of Akkimari-dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a skull alright, and a strange one at that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/description",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The skull of a deceased Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The skull of a deceased alien. I feel sorry for them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The skull of an Akkimari. It's a sad sight..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The skull of some alien creature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This skull once belonged to an Akkimari. It's dead now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who would keep such a skull?"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkglass.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick glass."
+    }
+  }
+]

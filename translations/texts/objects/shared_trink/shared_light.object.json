@@ -1,0 +1,148 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/aegiDescription",
+        "/apexDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/aegiDescription",
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A green light strip."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/description"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A green light, of Trink design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/avianDescription",
+        "/dremetonDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/avianDescription",
+        "/dremetonDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A green light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A green light. How odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A green light. It feels unnatural."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple, green light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient green light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green light. How odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always wondered why the Trink use green light..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-green."
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick blast door. It serves its Terve well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan-designed blast door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blast door. Structural integrity: 98 percent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door seals room."
+    }
+  }
+]

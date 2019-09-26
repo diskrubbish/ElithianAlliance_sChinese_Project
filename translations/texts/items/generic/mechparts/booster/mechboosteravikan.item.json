@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboosteravikan.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Mech Boosters"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboosteravikan.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well-balanced boosters built by the Vanguard military."
+    }
+  }
+]

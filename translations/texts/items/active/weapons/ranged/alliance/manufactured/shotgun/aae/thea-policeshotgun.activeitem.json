@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/shotgun/aae/thea-policeshotgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shotgun sometimes employed by P-ASA officers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/shotgun/aae/thea-policeshotgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "P-ASA Disperser S-3"
+    }
+  }
+]

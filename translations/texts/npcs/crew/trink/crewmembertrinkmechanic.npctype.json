@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrinkmechanic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll keep the fuel tank's capacity optimized while I'm here. You can expect a 10% increase to fuel capacity!"
+    }
+  }
+]

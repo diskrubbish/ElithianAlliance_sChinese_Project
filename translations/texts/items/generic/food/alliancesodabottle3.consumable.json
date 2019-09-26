@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodabottle3.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of Corus, brown and bubbly."
+    }
+  }
+]

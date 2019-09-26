@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceslopedpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/centens/centensslopedpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those are metal wall panels alright."
+    }
+  }
+]

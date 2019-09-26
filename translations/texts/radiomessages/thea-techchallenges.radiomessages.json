@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-techchallenges.radiomessages": [
+        "/thea-stealthtech1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "If the camera spots you, the door will close. ^green;Double tap [W] to activate ^orange;stealth ^reset;and keep out of sight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-techchallenges.radiomessages": [
+        "/thea-stealthtech3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stealth will not last forever. Be quick, or you won't reach the end in time!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-techchallenges.radiomessages": [
+        "/thea-stealthtech2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The floor will fall away if you are spotted. Stay out of sight!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-techchallenges.radiomessages": [
+        "/thea-stealthtech4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have completed the test course. Well done!"
+    }
+  }
+]

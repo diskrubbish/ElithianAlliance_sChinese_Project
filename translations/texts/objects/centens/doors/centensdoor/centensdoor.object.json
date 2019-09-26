@@ -1,0 +1,145 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian door. Eons old."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door of Centensian origin, no doubt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door of Centensian origin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong door built by the Old Ones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong metal door built by the Centens. It is eons old."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient metal door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Door. Origin: Centensian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-ancient, built by god-makers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what lies beyond this ancient door..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Centensian door is eons old, yet it is still intact."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ancient door has somehow survived for eons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door was built by the Centens."
+    }
+  }
+]

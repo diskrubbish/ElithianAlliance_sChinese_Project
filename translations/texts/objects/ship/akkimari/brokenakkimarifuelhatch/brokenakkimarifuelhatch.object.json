@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki can't fuel ship yet. Need repairs."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier5a/akkimari-tier5a.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ravager's Greaves r.A"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier5a/akkimari-tier5a.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;Combat greaves made of durable metals. Energetic version."
+    }
+  }
+]

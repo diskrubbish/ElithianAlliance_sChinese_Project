@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/clothing/akkimari-trader/akkimari-trader.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trader's Poncho"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/clothing/akkimari-trader/akkimari-trader.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A silken poncho worn by traders of the Covenant."
+    }
+  }
+]

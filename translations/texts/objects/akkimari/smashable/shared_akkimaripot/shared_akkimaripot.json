@@ -1,0 +1,291 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fragile pot of hardened clay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/hymidDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/hymidDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hard but fragile pot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/description"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/description"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pot made of hardened clay. It'll break easily."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/aegiDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/aegiDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pot made of some type of clay-like substance. I think the design is Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/apexDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/apexDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pot of clay. It looks easy to smash."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple clay pot. At least, I think it's made of clay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/avianDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/avianDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple clay pot. It's very smashable..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki can smash pot if Akki angry. Make Akki less angry!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien pot, made of hardened earth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crumbly pot, Floran sssmassh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien earthenware. ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a pot of some kind. Seems to have been made by the Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just some old pot. Might as well smash it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta old pot, just waiting to be broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This clay pot is easily broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/notixDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/notixDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hollow pot echoes pleasantly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/trinkDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/trinkDescription"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pot is fragile. It seems odd for the violent Akkimari to make something that breaks so easily."
+    }
+  }
+]

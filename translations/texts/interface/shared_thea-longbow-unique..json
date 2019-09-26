@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-longbow-unique.itemdescription": [
+        "/perfectMaxDamageTitleLabel/value"
+      ],
+      "interface/tooltips/thea-longbow-unique.tooltip": [
+        "/perfectMaxDamageTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Max Damage:"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyakkimariproto.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic mech body built by Akkimari scavengers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyakkimariproto.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crusader-00 Mech Body"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikandyes.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Dyes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikandyes.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colourful yellow and orange dyes, used to create Avikan cloth."
+    }
+  }
+]

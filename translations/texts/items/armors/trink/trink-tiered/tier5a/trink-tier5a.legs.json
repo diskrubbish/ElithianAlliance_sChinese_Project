@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5a/trink-tier5a.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enforcer Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5a/trink-tier5a.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A high-grade aegisalt body mod."
+    }
+  }
+]

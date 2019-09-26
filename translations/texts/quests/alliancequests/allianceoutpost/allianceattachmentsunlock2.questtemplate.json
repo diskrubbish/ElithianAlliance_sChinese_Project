@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wasn't sure if you'd beat that one, but I guess I was wrong to doubt you! You've earned yourself access to a few more powerful weapon attachments!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got some more weapon attachments in store for you, if you can beat my next challenge. I want you to ^green;find and kill ^orange;5 Sandspitters^reset;, but it won't be easy! ^green;You can find the large worm-like beasts on desert worlds ^reset;- watch out for the sand they spit at you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Personalized Warfare II"
+    }
+  }
+]

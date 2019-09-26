@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dirty table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavily stained table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A round metal table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rounded table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple round table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic table. The design of tables doesn't change too much between species."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table. It hasn't been cleaned in a while."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki place things on table. Table strong enough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien table. The design isn't very alien, though."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a table."
+    }
+  }
+]

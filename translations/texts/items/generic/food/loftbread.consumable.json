@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/loftbread.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bread made using loftgrain. Very tasty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/loftbread.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loftbread"
+    }
+  }
+]

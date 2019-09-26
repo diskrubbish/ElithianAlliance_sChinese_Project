@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-pilgrimgreeter.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Festival Hall! Our doors open every year when the Landing Festival returns!"
+    }
+  }
+]

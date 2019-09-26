@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/sniper/thea-impactammomod-sniper.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impact Ammo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/sniper/thea-impactammomod-sniper.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sniper ammunition that causes significant knockback to targets."
+    }
+  }
+]

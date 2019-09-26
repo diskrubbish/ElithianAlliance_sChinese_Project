@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancesmallbutton/alliancesmallbutton.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikansmallbutton/avikansmallbutton.object": [
+        "/description"
+      ],
+      "objects/trink/wired/trinksmallbutton/trinksmallbutton.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small wall button."
+    }
+  }
+]

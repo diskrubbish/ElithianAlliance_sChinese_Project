@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A once beautiful shuttle brought low by time and weather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusted out ship, it ain't of any use now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusted shuttle. It's of no use to anyone but scavengers at this point."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusted shuttlecraft that's been long out of commission."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rusted-out alien vessel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A useless rusted shuttle. Its wings were clipped by time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki take parts, make new ship. Ship-better!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien spacecraft. Status: decommissioned."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It takes a lot for a Ranger to start rusting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Russsted out sshuttle iss worthless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusted Alliance Shuttlecraft"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusted out Rangers are a rare find. This shuttle has been here for decades."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ASA-26 Ranger has seen better days. I doubt it'll ever fly again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Ranger is in no flying condition."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shuttle is rusted through. It's little more than scrap metal now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shuttle is worn well beyond use."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shuttle won't ever fly again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vehicle has seen the best of its days."
+    }
+  }
+]

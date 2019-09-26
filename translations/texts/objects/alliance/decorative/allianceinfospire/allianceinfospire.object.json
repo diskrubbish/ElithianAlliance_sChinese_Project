@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large and bulky monitor array."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Infospire"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Infospire, it shows real-time information about the entire Elithian economy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient solution to collecting and displaying economical information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what all of this information really means..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lots of screens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Screens-shiny, Akki steal?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Several monitors attached to a central processing unit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Several monitors mounted to a large central processing unit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny screens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny sscreenss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's quite a few screens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's quite the monitor array."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The CPU on this Infospire is quite powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The buzz from these screens is soothing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a lot of information about the Elithian economy here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These monitors display economical information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Infospire displays all the latest news regarding the Elithian economy."
+    }
+  }
+]

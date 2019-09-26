@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-repairpod/thea-repairpod.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repairing"
+    }
+  }
+]

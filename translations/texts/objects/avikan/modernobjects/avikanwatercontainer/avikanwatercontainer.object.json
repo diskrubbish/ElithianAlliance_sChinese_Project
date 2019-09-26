@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Water Dispenser"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water in big boxesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water, for Akkimari-thirsty."
+    }
+  }
+]

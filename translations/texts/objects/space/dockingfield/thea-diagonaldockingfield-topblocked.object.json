@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Docking Field - Top Blocked"
+    }
+  }
+]

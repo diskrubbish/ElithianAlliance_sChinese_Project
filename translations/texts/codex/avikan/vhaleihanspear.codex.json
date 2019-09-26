@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/vhaleihanspear.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A description of the legendary spears of Vas Vha'leih."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/vhaleihanspear.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spears of Vas Vha'leih"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/vhaleihanspear.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vha'leihan Spears, as they are most often called, are weapons created by those who settled in Vas Vha'leih some 2500 years ago. The spears were made of Kavanite - like most weapons still are today - but had one feature that truly set them apart: they were inlaid with a shard of the Xanafir, which gave the spears unpredictable but incredible powers. How the spears were made, and how exactly they functioned, is unknown - the knowledge was lost in the Vha'leihan War, like so much else."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/vhaleihanspear.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Xanafian shards were far more common back then, as Vas Vha'leih held a vast store of the crystalline artefacts. The Nomada still has many shards stored away in vaults and the like, but to place a shard in nearly every weapon built is well beyond what is possible nowadays. There are, however, still some Vha'leihan Spears in our possession, and they are generally regarded as some of the most precious artefacts of the lost Vha'leihan Era."
+    }
+  }
+]

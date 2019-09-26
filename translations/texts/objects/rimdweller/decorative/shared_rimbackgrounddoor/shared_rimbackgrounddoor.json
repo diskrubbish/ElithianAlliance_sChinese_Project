@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor-wired.object": [
+        "/shortdescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor.object": [
+        "/shortdescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2-wired.object": [
+        "/shortdescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim Background Door"
+    }
+  }
+]

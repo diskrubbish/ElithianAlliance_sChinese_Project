@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine-built shield generator. I should probably disable it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected machine-built shield generator. Recommend sabotage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Shield Generator"
+    }
+  }
+]

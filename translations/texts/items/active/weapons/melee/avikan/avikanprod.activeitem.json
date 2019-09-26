@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/avikanprod.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An electric prod issued to Vanguard peacekeepers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/avikanprod.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Prod"
+    }
+  }
+]

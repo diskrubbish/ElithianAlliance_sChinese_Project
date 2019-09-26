@@ -1,0 +1,810 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/3"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/novakid/3"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/3"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't scan that, it ain't in range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/default/1"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/default/1"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/default/1"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can't seem to get a reading; I should get closer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/description"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/description"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/description"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Describe things in the world and scan objects for printing. ^green;Quick select with [N] key."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/droden/3"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/droden/3"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/droden/3"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/droden/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error. Empty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/droden/0"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/droden/0"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/droden/0"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error. Invalid target."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/droden/1"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/droden/1"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/droden/1"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/droden/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error. Maximum scanner range exceeded."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/droden/1"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/droden/1"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/droden/1"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/droden/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error. No item of interest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/droden/2"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/droden/2"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/droden/2"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/droden/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error. Signal strength insufficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/1"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/novakid/1"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/1"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guess I'm outta range, the scanner ain't scanning that far."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/1/glitchEmotedText"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/glitch/1/glitchEmotedText"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/1/glitchEmotedText"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I cannot seem to get a reading; perhaps I should get closer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/default/3"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/default/3"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/default/3"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "It must be out of range, I can't get a reading."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/3/glitchEmotedText"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/glitch/3/glitchEmotedText"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/3/glitchEmotedText"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It must be out of range, I cannot get a reading."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/floran/3"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/floran/3"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/floran/3"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/floran/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mussst be out of range, Floran can't get a reading."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/droden/3"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/droden/3"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/droden/3"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/droden/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "No signal. Please reduce distance to target."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/novakid/1"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/novakid/1"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/novakid/1"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not a darn thing there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/default/3"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/default/3"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/default/3"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing much to speak of."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/floran/3"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/floran/3"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/floran/3"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/floran/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing much to sspeak of."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/floran/0"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/floran/0"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/floran/0"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing of interessst."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/default/0",
+        "/nothingThereText/glitch/0/glitchEmotedText"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/default/0",
+        "/nothingThereText/glitch/0/glitchEmotedText"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/default/0",
+        "/nothingThereText/glitch/0/glitchEmotedText"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/default/0",
+        "/nothingThereText/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing of interest here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/glitch/2/glitchEmotedText"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/glitch/2/glitchEmotedText"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/glitch/2/glitchEmotedText"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/glitch/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing there to scan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/default/1"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/default/1"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/default/1"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing to see here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/floran/1"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/floran/1"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/floran/1"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing to sscan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/droden/0"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/droden/0"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/droden/0"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanner error. Out of range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/floran/0"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/floran/0"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/floran/0"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanner not ssstrong enough! Floran must move in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/novakid/2"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/novakid/2"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/novakid/2"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanner says ain't nothin' there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/novakid/0"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/novakid/0"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/novakid/0"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanner's drawin' a blank."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning Mode"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/2"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/novakid/2"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/2"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Signal's too faint, better get closer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/floran/2"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/floran/2"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/floran/2"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssignal's too faint to make out, Floran not close enough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/novakid/3"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/novakid/3"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/novakid/3"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's just a whole lotta nothin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/default/0"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/default/0"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/default/0"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's outside my scanner's detection area."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/floran/1"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/floran/1"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/floran/1"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's outsssside scanner's range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/0"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/novakid/0"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/0"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The scanner ain't reachin' - probably oughta get closer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/2/glitchEmotedText"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/glitch/2/glitchEmotedText"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/2/glitchEmotedText"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The signal is too faint to make out, I believe I'm out of range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/default/2"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/default/2"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/default/2"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The signal's too faint to make out - might be out of range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/glitch/1/glitchEmotedText"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/glitch/1/glitchEmotedText"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/glitch/1/glitchEmotedText"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/glitch/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is nothing there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/0/glitchEmotedText"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/glitch/0/glitchEmotedText"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/0/glitchEmotedText"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hardware's sensors are insufficient to analyze that position from here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/default/2",
+        "/nothingThereText/glitch/3/glitchEmotedText"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/default/2",
+        "/nothingThereText/glitch/3/glitchEmotedText"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/default/2",
+        "/nothingThereText/glitch/3/glitchEmotedText"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/default/2",
+        "/nothingThereText/glitch/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This isn't really anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/floran/2"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/floran/2"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/floran/2"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This isssn't anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/droden/2"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/droden/2"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/droden/2"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/droden/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unable to read target."
+    }
+  }
+]

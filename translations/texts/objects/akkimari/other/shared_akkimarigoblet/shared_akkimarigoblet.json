@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/description"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A goblet filled with a nutritious liquid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/apexDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A goblet full of some weird liquid. I'm not sure if it's safe to drink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/shortdescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Goblet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/trinkDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't identify the liquid in this goblet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The liquid in this goblet smells too strongly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/avianDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whatever's in this goblet, I'm not drinking it."
+    }
+  }
+]

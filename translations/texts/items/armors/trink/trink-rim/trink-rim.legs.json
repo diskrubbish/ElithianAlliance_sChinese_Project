@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-rim/trink-rim.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rimdweller Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-rim/trink-rim.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;Body modifications used by Trink of the Rim."
+    }
+  }
+]

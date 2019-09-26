@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/alliancemechparts2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I just received a new batch of mech weapon blueprints! You can have a copy of both, ^green;if you can find me some of that weird ^orange;Vaash liquid ^reset;reportedly found on ^green;mutated planets^reset;. ^orange;50 Units ^green;should be enough^reset;. The Akkimari use it to power their tech - I want to see if I can design some custom weapons with it myself!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/alliancemechparts2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are just the best, thank you! Here, take the blueprints I promised you - they should serve you well!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/alliancemechparts2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Blasting through Space"
+    }
+  }
+]

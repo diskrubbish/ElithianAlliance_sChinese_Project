@@ -1,0 +1,342 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/erixianDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/erixianDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/erixianDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A deed, a door and a light are all I need to attract a tenant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/trinkDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/trinkDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/trinkDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tenant might move into a properly built home with such a colony deed in it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/drodenDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/drodenDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/drodenDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colony deed detected. Universal standards must be met to attract potential tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Combined with a door, a light, and a properly enclosed building, this beacon might attract a tenant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deed-colony, Akki place in house. Also place door and light, tenant come!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/aegiDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/aegiDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/aegiDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could attract a tenant if I place this in an enclosed building with a door and a light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/hymidDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/hymidDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/hymidDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could start a colony with a deed like this!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If hung in an enclosed building with a door and a light, someone will move in and make it their home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/apexDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/apexDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/apexDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If placed in a building with a door and a light it will encourage someone to move in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If placed in a correctly structured building, this colony deed will encourage someone to move in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/description"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/description"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/description"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Place in an enclosed building with at least one door and light source and someone will move in!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/floranDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/floranDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/floranDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssscreen to hang on building wall. Makes sssomeone move into home!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/notixDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/notixDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/notixDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tenants might move into a house with a deed in it. Just make sure there's a door and some light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/humanDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/humanDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/humanDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These are great for expanding a colony. Place it in a building with a door and a light and someone will move in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/avikanDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/avikanDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/avikanDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon will attract a tenant, if I build the house to be comfortable enough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/avianDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/avianDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/avianDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device will invite someone to move into the building. Just make sure there's a door and a light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/novakidDescription"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/novakidDescription"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/novakidDescription"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "With a colony deed someone'll move into the building. Just make sure the building has a door an' a light source."
+    }
+  }
+]

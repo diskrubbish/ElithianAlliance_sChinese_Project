@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterenerth/allianceposterenerth.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poster promoting Enerth Engineering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterenerth/allianceposterenerth.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blue makesss Floran think of the ssky."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterenerth/allianceposterenerth.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enerth Engineering Poster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterenerth/allianceposterenerth.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enerth Engineering produces many of the Union's vehicles, but also its modular homes, and some household equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterenerth/allianceposterenerth.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What does Enerth Engineering manufacture?"
+    }
+  }
+]

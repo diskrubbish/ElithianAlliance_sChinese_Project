@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterart/allianceposterart.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poster promoting the new art exposition by Mehros Avan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterart/allianceposterart.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran only seesss paperss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterart/allianceposterart.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mehros Avan Poster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterart/allianceposterart.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mehros Avan is a famous artist creating large kinetic art pieces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterart/allianceposterart.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who is this Mehros Avan mentioned in the poster?"
+    }
+  }
+]

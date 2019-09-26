@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thruster-small keep ship in orbit."
+    }
+  }
+]

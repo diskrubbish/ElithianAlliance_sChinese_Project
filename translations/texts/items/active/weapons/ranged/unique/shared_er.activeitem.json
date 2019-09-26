@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/sidewinder/thea-sidewinder.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/skylighter/thea-skylighter.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A classic revolver-style sidearm using a conventional magazine."
+    }
+  }
+]

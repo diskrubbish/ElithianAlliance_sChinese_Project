@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/other/thea-briggsnailgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful nailgun built for construction work."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/other/thea-briggsnailgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs Nailgun"
+    }
+  }
+]

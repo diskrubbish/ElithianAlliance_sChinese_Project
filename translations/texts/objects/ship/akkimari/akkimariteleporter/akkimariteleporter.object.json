@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter of Akkimari design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki teleport to places, make Akki feel dizzy."
+    }
+  }
+]

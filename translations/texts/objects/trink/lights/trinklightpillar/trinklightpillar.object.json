@@ -1,0 +1,168 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian light pillar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A green light. Clearly of Trinkian origin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/description",
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pillar embedded with green lights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pillar embedded with green lights. Cool."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pillar emitting a green light. It makes me feel odd..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pillar with green lights. Odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green light makes even the mundane look mysterious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green light. Ssshiny."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pillar-light, make things bright!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pillars like these are primarily used to light areas outside of our buildings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These pillars aren't very useful for the Trinks, but they allow us organics to see in the dark."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Trinkian pillar emits an odd green light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pillar emits a green light when turned on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Light Pillar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why do these Trink use green lights?"
+    }
+  }
+]

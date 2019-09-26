@@ -1,0 +1,145 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cargo crate built by machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cargo crate. What might be inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact cargo crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact cargo crate. Built to be stackable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact metal crate. Ideal for transportation and storage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal cargo crate. I can't but wonder what's inside..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal crate of Trinkian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Our Trinks are excellent at maintaining efficiency, and this compact cargo crate is proof of that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cargo crate is surprisingly sturdy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This standard issue cargo crate is built to fit inside any Trinkian cargo hold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Crate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian crates are built with efficiency in mind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What goods might be within?"
+    }
+  }
+]

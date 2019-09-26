@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-watcher/droden-watcher.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watcher Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-watcher/droden-watcher.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A legs piece replacement for Droden Watcher units."
+    }
+  }
+]

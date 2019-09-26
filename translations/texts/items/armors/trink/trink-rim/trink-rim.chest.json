@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-rim/trink-rim.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rimdweller Arm Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-rim/trink-rim.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;Arm modifications used by Trinks of the Rim."
+    }
+  }
+]

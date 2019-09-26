@@ -1,0 +1,394 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Artificer's Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Designer's Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Planning Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic crafting bench with some blueprints to get me started."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/aegiDescription",
+        "/upgradeStages/0/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic planning table, complete with all the tools I need to get started with crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A designer's table, complete with tools and blueprints."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern workplace with access to advanced blueprints."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A screen displaying blueprints for some alien devices."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/hymidDescription",
+        "/upgradeStages/0/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple wooden planning table. It might rot underwater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek designer's table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slim, lightweight planning table. Quite efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/avianDescription",
+        "/upgradeStages/0/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden crafting bench and some basic tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/avikanDescription",
+        "/upgradeStages/0/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden crafting table. It seems like such a waste of good trees."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/description",
+        "/upgradeStages/0/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wooden workbench with room for blueprints, perfect for planning out new constructs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A workbench and blueprints for the modern designer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/akkimariDescription",
+        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki use blueprint. Craft things-alien."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/drodenDescription",
+        "/upgradeStages/2/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Lightweight crafting table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/drodenDescription",
+        "/upgradeStages/0/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Wooden planning table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can display a variety of blueprints on this screen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/jorgasianDescription",
+        "/upgradeStages/0/itemSpawnParameters/jorgasianDescription",
+        "/upgradeStages/1/itemSpawnParameters/jorgasianDescription",
+        "/upgradeStages/2/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can start crafting some new constructs at this table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/erixianDescription",
+        "/upgradeStages/0/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should be careful around this table, it can easily catch fire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Screen-fancy, show blueprints-alien."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/trinkDescription",
+        "/upgradeStages/0/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The use of wood in crafting is often highly inefficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blueprints are incredibly useful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This screen shows all sorts of blueprints an' such."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sleek workstation will allow me to craft many things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This workstation is perfect for experienced artificers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This workstation uses power quite efficiently."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tools for crafting, blueprint for ideas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/notixDescription",
+        "/upgradeStages/0/itemSpawnParameters/notixDescription",
+        "/upgradeStages/1/itemSpawnParameters/notixDescription",
+        "/upgradeStages/2/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tools, materials and blueprints, everything I need to get started."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "True artificers will love this workstation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Artificer's Table^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Designer's Table^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/shortdescription",
+        "/upgradeStages/0/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Planning Table^white;"
+    }
+  }
+]

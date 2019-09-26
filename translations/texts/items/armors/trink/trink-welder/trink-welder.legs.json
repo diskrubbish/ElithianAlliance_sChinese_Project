@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-welder/trink-welder.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welder Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-welder/trink-welder.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A body mod for Trinkian welder units, featuring oversized and reinforced optics."
+    }
+  }
+]

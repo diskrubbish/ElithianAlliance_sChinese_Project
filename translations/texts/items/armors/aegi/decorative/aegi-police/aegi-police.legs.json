@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-police/aegi-police.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "P-ASA Leggings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-police/aegi-police.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Leggings worn by Union law enforcement."
+    }
+  }
+]

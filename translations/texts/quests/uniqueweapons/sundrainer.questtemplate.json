@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/sundrainer.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I found a ^orange;Mysterious Weapon Core ^reset;in an ancient Centensian ruin. ^green;I should take it to someone who knows more about such ancient relics.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/sundrainer.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a find, Captain! This is the core of an ancient Centensian jumprifle, but far more powerful than the common ones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/sundrainer.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Consuming the Stars"
+    }
+  }
+]

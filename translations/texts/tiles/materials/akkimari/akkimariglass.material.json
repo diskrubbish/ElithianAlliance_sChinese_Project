@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariglass.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki not eat this crystal. Crystal too sharp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariglass.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Crystalline material of unknown origin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariglass.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colourful glasss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariglass.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's no glass, it's some kinda crystal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crystal shines in many colours."
+    }
+  }
+]

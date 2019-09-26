@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier1/akkimari-tier1.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scoundrel's Rags"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier1/akkimari-tier1.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A roughly made chestplate with a belt of silk."
+    }
+  }
+]

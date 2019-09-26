@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancequantumchip.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful quantum processor built according to Alliance standards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancequantumchip.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quantum Processor"
+    }
+  }
+]

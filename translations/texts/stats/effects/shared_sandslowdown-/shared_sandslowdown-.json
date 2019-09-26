@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/sandslowdown-monster/sandslowdown-monster.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/sandslowdown-nodamage/sandslowdown-nodamage.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slowed"
+    }
+  }
+]

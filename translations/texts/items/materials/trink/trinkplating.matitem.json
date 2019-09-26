@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkplating.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong metal plate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkplating.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark metal platesss..."
+    }
+  }
+]

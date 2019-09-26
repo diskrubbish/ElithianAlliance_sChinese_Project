@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/spear/avikantier3spear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sharp spear made of strong monster bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/spear/avikantier3spear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stalker's Spear"
+    }
+  }
+]

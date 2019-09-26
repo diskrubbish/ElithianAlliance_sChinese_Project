@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancefence.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancefence.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Fence"
+    }
+  }
+]

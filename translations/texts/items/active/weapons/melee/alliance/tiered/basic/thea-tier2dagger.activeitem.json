@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/alliance/tiered/basic/thea-tier2dagger.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic dagger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/alliance/tiered/basic/thea-tier2dagger.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bredon Dagger"
+    }
+  }
+]

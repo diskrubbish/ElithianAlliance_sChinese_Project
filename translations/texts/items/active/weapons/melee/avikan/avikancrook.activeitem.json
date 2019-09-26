@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/avikancrook.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone crook used by Gad'hur herders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/avikancrook.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Crook"
+    }
+  }
+]

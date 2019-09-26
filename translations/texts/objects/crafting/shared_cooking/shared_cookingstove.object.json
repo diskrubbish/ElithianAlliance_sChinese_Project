@@ -1,0 +1,115 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Basic cooking"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A multifunctional stove, for cooking and baking."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/hylotlDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A multifunctional stove."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran once climbed insside stove. Wasss not pleassant..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could bake some bread in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could prepare various meals here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's do some bakin'!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This multifunctional stove allows me to prepare a variety of foods."
+    }
+  }
+]

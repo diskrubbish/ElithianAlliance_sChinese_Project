@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "cinematics/respawn/aegi/respawnsurvival.cinematic": [
+        "/panels/2/text"
+      ],
+      "cinematics/respawn/akkimari/respawnsurvival.cinematic": [
+        "/panels/2/text"
+      ],
+      "cinematics/respawn/avikan/respawnsurvival.cinematic": [
+        "/panels/2/text"
+      ],
+      "cinematics/respawn/droden/respawnsurvival.cinematic": [
+        "/panels/2/text"
+      ],
+      "cinematics/respawn/trink/respawnsurvival.cinematic": [
+        "/panels/2/text"
+      ]
+    },
+    "Texts": {
+      "Chs": "30% 的像素损失",
+      "Eng": "30% of Pixels Lost"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier6a/akkimari-tier6a.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanquisher Helmet r.A"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier6a/akkimari-tier6a.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A high-tech combat helmet worn by Akkimari elites. Energetic version."
+    }
+  }
+]

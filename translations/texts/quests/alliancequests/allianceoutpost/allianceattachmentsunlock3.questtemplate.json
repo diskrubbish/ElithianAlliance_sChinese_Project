@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got one final challenge for you! I want you to ^green;find and destroy a ^orange;Ce'Tennan Oculus^reset;, and you'll earn yourself access to the best weapon attachments I have. ^green;I've heard the ancient drones can be found in highly peculiar space anomalies ^reset;- you'd better come prepared, as it'll put up a heck of a fight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a master at fighting alright! You can now access my best weapon attachments - you've more than earned it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Personalized Warfare III"
+    }
+  }
+]

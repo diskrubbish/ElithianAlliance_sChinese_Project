@@ -1,0 +1,141 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestry/avikantapestry.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentobjects/avikanwidetapestry/avikanwidetapestry.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crude leather tapestry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestry/avikantapestry.object": [
+        "/description"
+      ],
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/description"
+      ],
+      "objects/avikan/tentobjects/avikanwidetapestry/avikanwidetapestry.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather tapestry. Common decoration for Avikan homes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestry/avikantapestry.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanwidetapestry/avikanwidetapestry.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather tapestry. Not very colourful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestry/avikantapestry.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentobjects/avikanwidetapestry/avikanwidetapestry.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather tapestry. What creature was this made from?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestry/avikantapestry.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanwidetapestry/avikanwidetapestry.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather tapestry. Not very well crafted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestry/avikantapestry.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanwidetapestry/avikanwidetapestry.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather tapestry would not last long on Heragon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestry/avikantapestry.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentobjects/avikanwidetapestry/avikanwidetapestry.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan kill animals to use their skin as home decoration. Many Aegi don't approve."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestry/avikantapestry.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanwidetapestry/avikanwidetapestry.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This skin once belonged to a great sandstalker from Kadavan. Now, it serves as a sad reminder of days long past."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather bag, for storage."
+    }
+  }
+]

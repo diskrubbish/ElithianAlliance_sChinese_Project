@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/merchants/ao-lostandfoundmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ever lost anything special? I might be able to find it for you, for a small price."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/merchants/ao-lostandfoundmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are. Let's see if I have anything for you..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/merchants/ao-lostandfoundmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please, follow me to my supplies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/merchants/ao-lostandfoundmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to me if you've ever lost something special."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/merchants/ao-lostandfoundmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take a good look around. I'm sure you'll find what you're looking for."
+    }
+  }
+]

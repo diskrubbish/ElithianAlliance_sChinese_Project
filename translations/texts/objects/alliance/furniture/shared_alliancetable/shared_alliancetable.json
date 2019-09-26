@@ -1,0 +1,129 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clean metal table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clean table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/avikanDescription",
+        "/description"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lightweight table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A minimalist table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple metal table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Table-alien."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table was recently cleaned."
+    }
+  }
+]

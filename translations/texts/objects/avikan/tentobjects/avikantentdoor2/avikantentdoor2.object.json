@@ -1,0 +1,147 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic tent door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/apexDescription",
+        "/description",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful tent door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful tent door. Pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric tent door. Bright and colourful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric tent door. Colourful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric tent door. Nicely woven."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fancy tent door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A finely decorated tent door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent door made of fabric. For nomads with resources to spare."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Fabric Tent Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected door. Material: fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-fabric, flimsy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tent door is made of fabric."
+    }
+  }
+]

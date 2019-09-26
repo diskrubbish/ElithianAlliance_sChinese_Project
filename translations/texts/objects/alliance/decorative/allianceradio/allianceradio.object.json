@@ -1,0 +1,190 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/avianDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A radio playing some music."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A radio tuned to a musical channel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A radio. It's stuck on a single channel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek radio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small radio built by Enerth Engineering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small radio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien music is quite odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Radio"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegantly designed radio."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien radio. Analyzing frequencies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likesss thiss music."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I always enjoy good music."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel like dancing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love this song!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a music box."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radio-alien. Make music-nice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This type of radio is quite popular in the Alliance."
+    }
+  }
+]

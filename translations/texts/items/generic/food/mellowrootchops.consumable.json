@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/mellowrootchops.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mellowroot Chops"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/mellowrootchops.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slices of cooked mellowroot. Highly nutritional."
+    }
+  }
+]

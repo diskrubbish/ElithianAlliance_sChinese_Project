@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slim, dim light, useful for when there isn't much space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-dim."
+    }
+  }
+]

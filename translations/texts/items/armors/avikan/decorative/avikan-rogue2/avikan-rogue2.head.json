@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-rogue2/avikan-rogue2.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rogue's Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-rogue2/avikan-rogue2.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A dark mask, worn by those involved in shady businesses."
+    }
+  }
+]

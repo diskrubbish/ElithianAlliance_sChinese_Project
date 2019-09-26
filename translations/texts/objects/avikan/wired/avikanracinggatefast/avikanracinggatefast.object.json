@@ -1,0 +1,190 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gate that speeds up hoverbikes. It sends out a signal whenever a vehicle passes through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/avikanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gate that speeds up passing hoverbikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A marker that allows hoverbikes to speed up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A marker that speeds up hoverbikes that pass by."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A racing gate that speeds up passing hoverbikes. Awesome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A racing gate. It'll speed up any hoverbike that passes by."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A racing marker, it'll speed up any passing hoverbike."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A racing marker. It speeds passing hoverbikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Racing Gate - Fast"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected racing gate. Speeds up passing hoverbikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran excited! Glowing pole ssspeeds up hoverbikess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Akki speeds past on hoverbike, Akki will go faster! Faster, faster!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Riding past this on a hoverbike causes a significant speed up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gate will speed up any passing hoverbike."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This marker speeds up hoverbikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This racing gate speeds up passing hoverbikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will speed up any passing hoverbikes."
+    }
+  }
+]

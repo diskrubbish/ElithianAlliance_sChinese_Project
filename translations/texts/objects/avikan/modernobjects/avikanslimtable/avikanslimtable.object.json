@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal table. It has a small drawer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal table. Not as bulky as most other Avikan-designed tables."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty basic metal table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple stone pillar for a simple desert village."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slim metal table, built by the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slim Avikan Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Table-simple. Akki bored."
+    }
+  }
+]

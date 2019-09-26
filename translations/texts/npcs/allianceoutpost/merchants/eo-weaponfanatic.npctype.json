@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponfanatic.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Unique item caches"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponfanatic.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Barnos"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponfanatic.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I see you're a fan of good weapons too!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponfanatic.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My stores are just over there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponfanatic.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing beats the feel of a good gun in your hands."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponfanatic.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now, let's find you a good weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponfanatic.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Want some real firepower? I've got some great weapons here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-weaponfanatic.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon Fanatic"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/grenadelauncher/rimdweller/thea-rimgrenadelauncher1-npc.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/grenadelauncher/rimdweller/thea-rimgrenadelauncher1.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A grenade launcher produced somewhere in the Rim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/grenadelauncher/rimdweller/thea-rimgrenadelauncher1-npc.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/grenadelauncher/rimdweller/thea-rimgrenadelauncher1.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Incendiary Grenade"
+    }
+  }
+]

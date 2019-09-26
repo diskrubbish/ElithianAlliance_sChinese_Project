@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-silencerattachment-assault.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silencer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-silencerattachment-assault.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Silences shots and allows projectiles to pierce targets."
+    }
+  }
+]

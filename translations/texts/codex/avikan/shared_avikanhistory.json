@@ -1,0 +1,31 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanhistory1.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanhistory2.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanhistory3.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanhistory4.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanhistory5.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanhistory6.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanhistory7.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An account of Avikan history, by Izyati as-Kaladan."
+    }
+  }
+]

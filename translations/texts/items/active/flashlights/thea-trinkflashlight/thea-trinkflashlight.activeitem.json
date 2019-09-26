@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/flashlights/thea-trinkflashlight/thea-trinkflashlight.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly efficient tight-beam flashlight of Trinkian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/flashlights/thea-trinkflashlight/thea-trinkflashlight.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Flashlight"
+    }
+  }
+]

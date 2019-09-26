@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/akkimari/chainsaw/akkimari-chainsaw-npc.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/akkimari/chainsaw/akkimari-chainsaw.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/alliance/manufactured/chainsaw/thea-rimchainsaw-npc.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/alliance/manufactured/chainsaw/thea-rimchainsaw.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful chainsaw that cuts through metal, flesh and rock all."
+    }
+  }
+]

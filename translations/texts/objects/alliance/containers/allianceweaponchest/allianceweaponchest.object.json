@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A container. From the look of it, I think it might hold military supplies"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal container often used by the military. There might be a weapon inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A military supply crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki take supplies, use to support Kelraaki."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Supply Crate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien supply crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crate might contain some military supplies."
+    }
+  }
+]

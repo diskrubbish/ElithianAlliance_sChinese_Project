@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/description"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of Corus."
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/centensplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform built by the mysterious Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/centensplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient platform of sorts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/centensplatform.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Centensian platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/centensplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platform isss old. Very old..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/centensplatform.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platform made by god-makers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/centensplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What ancient being created this?"
+    }
+  }
+]

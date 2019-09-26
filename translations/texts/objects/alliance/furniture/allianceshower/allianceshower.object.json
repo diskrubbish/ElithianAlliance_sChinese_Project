@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shower cabin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic shower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard shower cabin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki wash here. Akki clean again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien water supply detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Shower Cabin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An place to wash yourself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran takess a rain bath here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could probably use a shower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope no-one will hear me sing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love taking showers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I prefer a chemical cleansing over a shower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should wash my feathers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's go take a shower!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device can make it rain. A waste of water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shower cabin isn't exactly private..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shower could use some privacy."
+    }
+  }
+]

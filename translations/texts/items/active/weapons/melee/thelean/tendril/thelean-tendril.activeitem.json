@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/thelean/tendril/thelean-tendril.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Theleans can extend their electric tendrils to attack enemies."
+    }
+  }
+]

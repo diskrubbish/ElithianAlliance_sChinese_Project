@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier6m/droden-tier6m.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elite Legs Type-M"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier6m/droden-tier6m.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A legs upgrade for elite combat units. Powerful version."
+    }
+  }
+]

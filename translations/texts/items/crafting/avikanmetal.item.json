@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanmetal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kavanite Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanmetal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong, sand-coloured metal plating."
+    }
+  }
+]

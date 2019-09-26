@@ -1,0 +1,178 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door covered in crude metal plates. Effective, but not especially elegant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy alien blast door covered in scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy blast door, covered in plates of scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly sturdy blast door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very heavy blast door. The scrappy plating provides additional shielding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki safe behind door. Door can stop anything!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected blast door. Scrap metal plating provides additional shielding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks real shoddy from the outside, but this door is really quite sturdy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal platesss on heavy door isss for extra protection. Floran sssmart!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone welded a couple o' plates to the outside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The outside of this blast door is very rough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The scrappy plating on the outside provides good protection against physical impacts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This blast door is incredibly sturdy. The scrap metal plating provides additional shielding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This blast door uses scrap metal plating as an additional layer of protection."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door looks shoddy from the outside, but inside it's incredibly well-designed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door looks shoddy, but the design is amazingly efficient."
+    }
+  }
+]

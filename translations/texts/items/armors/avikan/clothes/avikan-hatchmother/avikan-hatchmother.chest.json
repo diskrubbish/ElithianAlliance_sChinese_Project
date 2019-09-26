@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatchmother's Robe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;The robes of an Avikan hatchmother."
+    }
+  }
+]

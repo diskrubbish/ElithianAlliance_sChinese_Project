@@ -1,0 +1,128 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/trinkDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering light, built by the Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/aegiDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering light, built by the Centens. Still functional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/description"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A levitating light. Ancient, yet still functional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/shortdescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Hover Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/drodenDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Centensian technology. Hovering light confirmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/akkimariDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "God-maker make light-floating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/centensDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The jumpgates powering this light still work. Our design was flawless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hovering light uses technology beyond ours."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/avikanDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light still burns after eons of use, and will keep burning until the star that fuels it is exhausted."
+    }
+  }
+]

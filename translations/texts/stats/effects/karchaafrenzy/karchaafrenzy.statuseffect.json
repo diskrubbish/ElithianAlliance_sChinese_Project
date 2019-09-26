@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/karchaafrenzy/karchaafrenzy.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blood Frenzy"
+    }
+  }
+]

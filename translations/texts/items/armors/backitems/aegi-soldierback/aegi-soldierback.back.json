@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/aegi-soldierback/aegi-soldierback.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "M-ASA Backpack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/aegi-soldierback/aegi-soldierback.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The standard backpack issued to Union military personnel."
+    }
+  }
+]

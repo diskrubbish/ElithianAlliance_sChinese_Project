@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanglassitem.item": [
+        "/description"
+      ],
+      "items/crafting/trinkglassitem.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong pane of glass used for crafting."
+    }
+  }
+]

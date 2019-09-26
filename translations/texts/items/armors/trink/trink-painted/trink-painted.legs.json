@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-painted/trink-painted.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Painted Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-painted/trink-painted.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A body mod painted in a single colour."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkpipe.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big pipe for transporting liquids."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkpipe.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki no want to know what flows through pipe..."
+    }
+  }
+]

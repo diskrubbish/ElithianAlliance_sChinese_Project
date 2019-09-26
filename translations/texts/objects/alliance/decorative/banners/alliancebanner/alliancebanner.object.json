@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebanner/alliancebanner.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A banner adorned with the emblem of the Elithian Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebanner/alliancebanner.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki know this symbol! Alliance-Elithian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebanner/alliancebanner.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien emblem. Emblem identified as Elithian Alliance iconography."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebanner/alliancebanner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithian Alliance Banner"
+    }
+  }
+]

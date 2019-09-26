@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/drodenlegion/drodenlegion.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/unique/chraakcannon/akkimari-chraakcannon.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/unique/jackofkings/thea-jackofkings.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/unique/lightstalker/avikan-lightstalker.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Switch Form"
+    }
+  }
+]

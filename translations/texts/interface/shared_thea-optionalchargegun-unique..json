@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-optionalchargegun-unique.itemdescription": [
+        "/chargedShotDamageTitleLabel/value"
+      ],
+      "interface/tooltips/thea-optionalchargegun-unique.tooltip": [
+        "/chargedShotDamageTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charged Shot Damage:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-optionalchargegun-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-optionalchargegun-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Regular Shot Damage:"
+    }
+  }
+]

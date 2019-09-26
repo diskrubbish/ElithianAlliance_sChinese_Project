@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier1/trink-tier1.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mark I Optics Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier1/trink-tier1.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;HEAD SLOT. ^white;A low-grade iron optics mod."
+    }
+  }
+]

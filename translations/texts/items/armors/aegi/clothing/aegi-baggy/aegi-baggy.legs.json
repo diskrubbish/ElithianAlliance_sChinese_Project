@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-baggy/aegi-baggy.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baggy Trousers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-baggy/aegi-baggy.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Baggy trousers popular amongst Union citizens."
+    }
+  }
+]

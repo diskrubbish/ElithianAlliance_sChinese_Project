@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationtrink.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "According to the Central Circuit Database, my Broken Prod is actually a prototype weapon designed by NivRAM himself! The blueprints for the weapon are still available, but I need a ^orange;Circuit Data Drive ^white;to download it all. Once I have the drive, I should ^green;return to this terminal to start the download^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationtrink.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The download is complete! Now I can start rebuilding the weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationtrink.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Prime Circuit"
+    }
+  }
+]

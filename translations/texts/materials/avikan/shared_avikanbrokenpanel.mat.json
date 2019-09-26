@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanbrokenpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanbrokenpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Avikan Panel"
+    }
+  }
+]

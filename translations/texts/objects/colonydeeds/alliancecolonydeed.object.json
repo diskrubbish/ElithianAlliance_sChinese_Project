@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;Alliance Colony Deed"
+    }
+  }
+]

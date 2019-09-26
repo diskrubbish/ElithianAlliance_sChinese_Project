@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian statue. That spear looks sharp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue depicting a Centensian guardian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue depicting an alien guardian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A superbly crafted statue, for sure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A truly life-like statue, and with a spear that could easily pierce armour."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A work of art, this statue. The surface is so smooth!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ce'tennan Guardian"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what this guardian is supposed to be guarding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal ssstatue hass a ssharp ssspear!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statue, holding spear-sharp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "T'is a statue alright, but what creature does it depict?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Gods had guardians protecting many things of value. I wonder what this one was guarding..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Old Ones left this statue behind. What was this guardian guarding?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The spear on this statue is sharper than most actual spears used in combat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue leaves me feeling uneasy. It looks as if it could start moving at any time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue looks as if it could start moving at any time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue must be many millenia old, yet it still looks untouched."
+    }
+  }
+]

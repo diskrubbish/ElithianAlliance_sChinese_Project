@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Locker-ship, for storing things-many."
+    }
+  }
+]

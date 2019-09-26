@@ -1,0 +1,179 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crafting station of incredible quality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crafting station. Very advanced!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-tech crafting station. Impressive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An advanced crafting station. Time to craft!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crafting Station. Use blueprints to craft items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran dissslike metal crafting ssstation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/aegiDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trinkian version of the Unified Alliance Crafting Station."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Unified Alliance Crafting Station - a product of our grand alliance, and one I'm proud of."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Unified Alliance Crafting Station is an impressive piece of technology indeed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Unified Alliance Crafting Station is one of the most obvious examples of shared Alliance technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Unified Alliance Crafting Station, for crafting Alliance-issued items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Unified Alliance Crafting Station. A wonderful piece of technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Unified Alliance Crafting Station has all the tech needed to craft Alliance items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crafting station looks impressive, despite the fact it's meant for machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crafting station uses highly advanced technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian UACS"
+    }
+  }
+]

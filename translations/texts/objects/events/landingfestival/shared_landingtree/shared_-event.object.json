@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/shortdescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium-event.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Landing Festival Tree (Event)"
+    }
+  }
+]

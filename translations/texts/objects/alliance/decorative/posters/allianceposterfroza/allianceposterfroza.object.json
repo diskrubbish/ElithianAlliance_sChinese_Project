@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterfroza/allianceposterfroza.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poster promoting Froza soda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterfroza/allianceposterfroza.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wantsss to know what Froza iss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterfroza/allianceposterfroza.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Froza Poster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterfroza/allianceposterfroza.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Froza is probably the most popular soda in the Union."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterfroza/allianceposterfroza.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard Froza makes great soda."
+    }
+  }
+]

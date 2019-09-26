@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curtain-tall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Long Avikan Curtain"
+    }
+  }
+]

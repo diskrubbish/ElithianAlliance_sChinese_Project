@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensglowpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/centens/centensglowpanel2.material": [
+        "/description"
+      ],
+      "tiles/materials/centens/centensvertglowpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/centens/centensvertglowpanel2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient, glowing panel. It has no visible power source."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensglowpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/centens/centensglowpanel2.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/centens/centensvertglowpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/centens/centensvertglowpanel2.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Detected Centensian lighting technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensglowpanel.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/centens/centensglowpanel2.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/centens/centensvertglowpanel.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/centens/centensvertglowpanel2.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Panel-glowing, Akki entranced."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensglowpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/centens/centensglowpanel2.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/centens/centensvertglowpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/centens/centensvertglowpanel2.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somehow this 'ere panel glows, yet there's no source of power connected to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensglowpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/centens/centensglowpanel2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/centens/centensvertglowpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/centens/centensvertglowpanel2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ancient panel still glows bright."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensglowpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/centens/centensglowpanel2.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/centens/centensvertglowpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/centens/centensvertglowpanel2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss panel glowsss."
+    }
+  }
+]

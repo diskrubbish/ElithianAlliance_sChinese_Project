@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship locker"
+    }
+  }
+]

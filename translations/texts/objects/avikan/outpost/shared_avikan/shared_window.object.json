@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanobservatorywindow/avikanobservatorywindow.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanshipyardwindow/avikanshipyardwindow.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large reinforced window."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanobservatorywindow/avikanobservatorywindow.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanshipyardwindow/avikanshipyardwindow.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran fassscinated by viewsss..."
+    }
+  }
+]

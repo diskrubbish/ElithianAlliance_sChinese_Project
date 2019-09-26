@@ -1,0 +1,70 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarilargepressureplate/akkimarilargepressureplate.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/wired/avikanlargepressureplate/avikanlargepressureplate.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Heavy-load pressure plate. Activated by vehicles only."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarilargepressureplate/akkimarilargepressureplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikanlargepressureplate/avikanlargepressureplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something will happen if I place a vehicle on top of this plate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarilargepressureplate/akkimarilargepressureplate.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanlargepressureplate/avikanlargepressureplate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thingsss will happen if vehicle ssstandss on plate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarilargepressureplate/akkimarilargepressureplate.object": [
+        "/description"
+      ],
+      "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikanlargepressureplate/avikanlargepressureplate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This pressure plate will only be activated by vehicles."
+    }
+  }
+]

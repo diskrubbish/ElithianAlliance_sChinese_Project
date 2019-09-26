@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Nomada engineer. Offers repair services for broken and lost vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran takesss broken vehicle to lizard man. Lizard man fixess vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/chatOptions/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forgot to beam up your vehicle? I can have it rebuilt for just a few Auto Chips!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Akki break vehicle, Akki come here. Alien repair vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/chatOptions/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a few Auto Chips and your banged-up Keff will be ready to ride again!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/chatOptions/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Need a vehicle fixed? A few Auto Chips and you'll be ready to go!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The local vehicle engineer. He can easily fix my damaged vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valyan's Vehicle Workshop"
+    }
+  }
+]

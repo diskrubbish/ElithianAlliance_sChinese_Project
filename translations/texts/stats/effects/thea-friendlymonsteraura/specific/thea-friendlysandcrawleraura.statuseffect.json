@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-friendlymonsteraura/specific/thea-friendlysandcrawleraura.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandcrawler Pheromones"
+    }
+  }
+]

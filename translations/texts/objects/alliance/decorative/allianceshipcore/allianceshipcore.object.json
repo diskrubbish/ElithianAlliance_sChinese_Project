@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive drive core for an FTL system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange sphere somehow involved in the ship's FTL systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Hyperdrive Core"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Aeginian-built hyperdrive core. It powers the FTL systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big ballsss make the sship go fasst!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Core-ship. Make Akki feel dizzy..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detecting massive energy signature. Warning: unit electronics picking up interference. Recommend departing the area."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can feel the power inside this device..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some type of massive spaceship core, likely what powers the FTL drive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi build incredibly efficient FTL drive cores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The core of the ship's hyperdrive system. A piece of pure Hydroverium sits in its center."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The humming from this drive core is so strong it nearly causes me a headache."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The massively powerful core of the ship's hyperdrive system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device is powerful enough to destroy an entire city."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This drive core powers the FTL system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is nothing like the Nomada's ship cores. It is fascinating!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is the ship's hyperdrive core. It hums with power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine hums a strangely beautiful tone."
+    }
+  }
+]

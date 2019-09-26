@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanborderlesspurplefabric.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanborderlesspurplefabric.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Borderless Rhaiod Fabric"
+    }
+  }
+]

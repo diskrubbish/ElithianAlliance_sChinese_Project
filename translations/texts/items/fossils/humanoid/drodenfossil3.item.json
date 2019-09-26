@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/drodenfossil3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised pair of Droden legs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/drodenfossil3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden Legs"
+    }
+  }
+]

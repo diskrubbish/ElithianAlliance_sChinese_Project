@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceborderlessglass.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/alliance/allianceglass.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Multi-pane plastic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceborderlessglass.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/alliance/allianceglass.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plastic-clear, look like glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceborderlessglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/alliance/allianceglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This glass is actually a plastic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceborderlessglass.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/alliance/allianceglass.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This glass is clean as a new revolver."
+    }
+  }
+]

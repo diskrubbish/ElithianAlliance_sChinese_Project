@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanbrokenpanel.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cracked metal panel."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/doors/rimthickhatchplatform/rimthickhatchplatform.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatch. Akki stand on platform even when hatch-open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/doors/rimthickhatchplatform/rimthickhatchplatform.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick Rim Platform Hatch"
+    }
+  }
+]

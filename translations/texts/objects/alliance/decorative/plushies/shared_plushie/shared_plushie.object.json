@@ -1,0 +1,82 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien toy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran findsss thiss one cute."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda plushie."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plushie is cute."
+    }
+  }
+]

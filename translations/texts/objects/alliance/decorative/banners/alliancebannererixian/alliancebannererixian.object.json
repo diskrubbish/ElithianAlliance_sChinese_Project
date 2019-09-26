@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannererixian/alliancebannererixian.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A banner adorned with the emblem of the Erixian Republic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannererixian/alliancebannererixian.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki know this is symbol Republic-Erixian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannererixian/alliancebannererixian.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien emblem. Emblem identified as Erixian Republic iconography."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannererixian/alliancebannererixian.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Erixian Republic Banner"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/securityconsoles/avikangunrangesecurityconsole/avikangunrangesecurityconsole.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/securityconsoles/avikankeffridersecurityconsole/avikankeffridersecurityconsole.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/securityconsoles/avikanoutpostsecurityconsole/avikanoutpostsecurityconsole.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/securityconsoles/avikanwatchersecurityconsole/avikanwatchersecurityconsole.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Nomada security terminal. Requires security pass to access."
+    }
+  }
+]

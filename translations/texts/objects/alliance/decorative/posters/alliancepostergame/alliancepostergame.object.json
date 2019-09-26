@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/alliancepostergame/alliancepostergame.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poster promoting the game New Space Inquisition."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/alliancepostergame/alliancepostergame.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doess not know what it meansss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/alliancepostergame/alliancepostergame.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "NSI Poster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/alliancepostergame/alliancepostergame.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This poster is simplistic, but catchy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/alliancepostergame/alliancepostergame.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This was one of the best games of last year."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-scavenger/akkimari-scavenger.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scavenger's Plates"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-scavenger/akkimari-scavenger.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;Scrap metal hip plates worn by Akkimari scavengers."
+    }
+  }
+]

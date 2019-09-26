@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/alliancemanipulator.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Admiral Lyiin ^reset;in the ^orange;Creon Embassy^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/alliancemanipulator.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for retrieving these modules, ambassador. They will prove invaluable to our researchers. Here is the reward I promised you: some new casings for your own Matter Manipulator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/alliancemanipulator.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Alliance would very much like to study the Matter Manipulator you received from the Protectorate. ^green;I want you to retrieve ^orange;20 Manipulator Modules ^green;so that our researchers can start investigating the technology. ^reset;In the mean time, I will ask them to start working on a small reward for you."
+    }
+  }
+]

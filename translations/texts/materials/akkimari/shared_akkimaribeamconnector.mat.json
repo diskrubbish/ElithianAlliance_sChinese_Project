@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimaribeamconnector.matitem": [
+        "/description"
+      ],
+      "tiles/materials/akkimari/akkimaribeamconnector.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy beam connector piece."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimaribeamconnector.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/akkimari/akkimaribeamconnector.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Beam Connector"
+    }
+  }
+]

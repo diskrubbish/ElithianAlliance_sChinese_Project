@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/merchants/ao-foodmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Fresh crops and meats."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/merchants/ao-foodmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Produce Merchant"
+    }
+  }
+]

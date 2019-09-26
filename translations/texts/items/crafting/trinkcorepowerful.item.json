@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkcorepowerful.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A power core for Circuit armour. Increases the user's strength."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkcorepowerful.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Circuit Core-M"
+    }
+  }
+]

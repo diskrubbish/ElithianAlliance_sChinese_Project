@@ -1,0 +1,470 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Bonecarver's Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Boneworking Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Bone items and equipment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/avikanDescription",
+        "/upgradeStages/0/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Bonecarver's table. I can make traditional weapons and equipment here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/avianDescription",
+        "/upgradeStages/0/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone crafting table. Looks a bit primitive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A boneworking station. It can produce bone items of a higher quality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/erixianDescription",
+        "/upgradeStages/0/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bunch of bone carving tools. A skilled crafter could craft some potent bone equipment here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A station for crafting bone? Why use such fancy tech to make simple items?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A step up from simple bonecarving tools. This machine can produce excellent bone equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table full of bone carving equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/trinkDescription",
+        "/upgradeStages/0/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table full of bone carving tools. A primitive, inefficient way to work bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/akkimariDescription",
+        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki carve bones here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan-made Bonecarver's table, useful for, well, bonecarvers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/0/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan-made Bonecarver's table, useful for, well, carving bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated boneworking station. I can program it to produce a variety of things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated boneworking station. The tech is way more adanced than what the thing produces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated crafting solution for creating various items from bones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/drodenDescription",
+        "/upgradeStages/0/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Bonecarver's table. Used to construct equipment and other items made of bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Boneworking station. Used to construct equipment and other items made of bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Automated boneworking. An odd mixture of tradition and technological advancement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/hymidDescription",
+        "/upgradeStages/0/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Bonecarvers can make surpisingly potent equipment here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boneworking stations like these work much faster than any organic being ever could."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran makesss weapon from boness here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How can such simple tools be used to craft bone items of excellent quality?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How can such simple tools can be used to craft bone items of excellent quality?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machine makes tools-bone. Easier for Akki."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machine makess bone weaponss for Floran. Floran isss satissfied."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan Bonecarvers are truly masters of their trade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/aegiDescription",
+        "/upgradeStages/0/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan call those who work bone \"Bonecarvers\". This table has a full set of their tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/description",
+        "/upgradeStages/0/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Bonecarver's table is used for constructing items made of monster bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The art of bonecarving is a graceful one. It is unfortunate that machines now perform this work..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The boneworking station is used for constructing items made of monster bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station can produce bone items of an extraordinary quality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station is used for crafting items made of bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station will automatically craft whatever bone item I request."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/notixDescription",
+        "/upgradeStages/0/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table holds all the tools needed for working bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tools for carving bone. I'm a bit surprised by how effective bone equipment can be!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tools for crafting bone. We're gonna go primitive, eh?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "While Bonecarvers are skilled, machines like these are simply more convenient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/shortdescription",
+        "/upgradeStages/0/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Avikan Bonecarver's Table^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Avikan Boneworking Station^white;"
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancerailhatch/alliancerailhatch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick metal hatch with a rail going through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancerailhatch/alliancerailhatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Rail Hatch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancerailhatch/alliancerailhatch.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien hatch. Detected rail system inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancerailhatch/alliancerailhatch.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail goes through hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancerailhatch/alliancerailhatch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rail goesss through the metal hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancerailhatch/alliancerailhatch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda hatch with a rail goin' through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancerailhatch/alliancerailhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal hatch has a rail going through it."
+    }
+  }
+]

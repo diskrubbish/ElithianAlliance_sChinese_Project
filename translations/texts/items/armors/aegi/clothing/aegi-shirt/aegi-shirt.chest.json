@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-shirt/aegi-shirt.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Belted T-Shirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-shirt/aegi-shirt.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A simple but comfortable shirt."
+    }
+  }
+]

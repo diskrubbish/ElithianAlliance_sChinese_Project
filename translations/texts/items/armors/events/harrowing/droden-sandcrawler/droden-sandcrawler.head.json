@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/droden-sandcrawler/droden-sandcrawler.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandcrawler Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/droden-sandcrawler/droden-sandcrawler.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A sandcrawler mask to celebrate the Harrowing!"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/trinkrail.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected machine-built rail."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceuniform-aegi.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, ambassador! I have your uniform ready for you: here you are."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceuniform-aegi.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I received my official Elithian Alliance uniform. Let's put it on!"
+    }
+  }
+]

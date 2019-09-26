@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier4/trink-tier4.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mark IV Optics Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier4/trink-tier4.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;HEAD SLOT. ^white;A medium-grade durasteel optics mod."
+    }
+  }
+]

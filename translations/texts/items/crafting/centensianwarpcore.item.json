@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/centensianwarpcore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian artefact, part of a teleportation device."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/centensianwarpcore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warp Core"
+    }
+  }
+]

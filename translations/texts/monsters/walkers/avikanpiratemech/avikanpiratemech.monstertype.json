@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/avikanpiratemech/avikanpiratemech.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pirated Krahl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/avikanpiratemech/avikanpiratemech.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pirated Krahl"
+    }
+  }
+]

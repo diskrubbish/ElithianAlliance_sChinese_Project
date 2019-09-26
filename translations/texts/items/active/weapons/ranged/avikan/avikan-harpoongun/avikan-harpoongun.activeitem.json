@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-harpoongun/avikan-harpoongun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harvests monster bones and leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-harpoongun/avikan-harpoongun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Harpoon Gun"
+    }
+  }
+]

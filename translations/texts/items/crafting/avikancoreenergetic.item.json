@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikancoreenergetic.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energetic Power Core"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikancoreenergetic.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The power core of an Avikan armour piece. Increases the user's energy reserves."
+    }
+  }
+]

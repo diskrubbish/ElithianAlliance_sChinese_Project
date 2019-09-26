@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian stasis pod - is anyone inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian stasis pod! Is there anyone inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian stasis pod. I can't see if anyone's inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stasis pod built by the Ce'Tennan. It won't open without the proper access key."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stasis pod like this can keep someone alive for millenia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stasis pod! Is anyone inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stasis pod. It can sustain someone in cryosleep for millenia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient stasis pod - is there anyone inside of it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Stasis Pod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could it be? A Centensian stasis pod!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Centensian stasis pod. Occupant status: unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is anyone inside the stasis pod?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pod-stasis, for sleeping time-long. Is god-maker inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssleeping box lookss old..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stasis pod is locked tight - it won't open without the proper access key."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stasis pod looks ancient - is anyone inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stasis pod was built by the Old Ones! Could it still have someone inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stasis pod was created by the Centens. There doesn't seem to be a way to look inside..."
+    }
+  }
+]

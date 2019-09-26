@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/mattermanipulators/akkimarimanipulatorskin/akkimarimanipulatorskin.activeitem": [
+        "/description"
+      ],
+      "items/active/mattermanipulators/alliancemanipulatorskin/alliancemanipulatorskin.activeitem": [
+        "/description"
+      ],
+      "items/active/mattermanipulators/avikanmanipulatorskin/avikanmanipulatorskin.activeitem": [
+        "/description"
+      ],
+      "items/active/mattermanipulators/defaultmanipulatorskin/defaultmanipulatorskin.activeitem": [
+        "/description"
+      ],
+      "items/active/mattermanipulators/trinkmanipulatorskin/trinkmanipulatorskin.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Changes the appearance of your Matter Manipulator. ^red;Must have unlocked all modes.^reset;"
+    }
+  }
+]

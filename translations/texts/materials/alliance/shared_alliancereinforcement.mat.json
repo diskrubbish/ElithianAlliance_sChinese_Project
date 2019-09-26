@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancereinforcement.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancereinforcement.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong metal block, used to reinforce larger structures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancereinforcement.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancereinforcement.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Reinforcement"
+    }
+  }
+]

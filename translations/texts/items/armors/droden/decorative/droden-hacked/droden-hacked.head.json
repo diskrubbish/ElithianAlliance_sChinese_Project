@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-hacked/droden-hacked.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violated Head"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-hacked/droden-hacked.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A Droden frame head, hacked by Thelean Vesomeyr."
+    }
+  }
+]

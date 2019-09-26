@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/monsterspine.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien monster's spine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/monsterspine.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Monster Spine"
+    }
+  }
+]

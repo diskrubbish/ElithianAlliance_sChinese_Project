@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A prinkler, what a relief!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sprinkler, for watering crops."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sprinkler. Quite a clever way to water crops."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard ceiling sprinkler."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Sprinkler"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien irrigation system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a sprinkler for watering crops! Running through sprinklers makes me feel nostalgic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not the most efficient sprinkler."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply a sprinkler."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sprinkler-alien. Sprays water!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This irrigation system will keep plants well-watered."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a waste of water..."
+    }
+  }
+]

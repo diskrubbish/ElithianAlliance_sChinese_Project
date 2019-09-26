@@ -1,0 +1,172 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door that won't budge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked ship door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal door that won't budge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door. Ship model. Analysis: locked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's no way I'm getting through this door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/avianDescription",
+        "/notixDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/avianDescription",
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is locked tight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is momentarily out of order. Someone should look into fixing it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door won't budge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door won't open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door's locking mechanism is stuck."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here door ain't opening anytime soon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This isn't going to open."
+    }
+  }
+]

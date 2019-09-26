@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/avikan-thellhunter/avikan-thellhunter.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;The helmet of the legendary Thellhunter. The built-in HUD automatically marks potential targets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/avikan-thellhunter/avikan-thellhunter.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Thellhunter's Helmet^white;"
+    }
+  }
+]

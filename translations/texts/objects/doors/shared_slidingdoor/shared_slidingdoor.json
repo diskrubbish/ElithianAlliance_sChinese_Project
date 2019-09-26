@@ -1,0 +1,223 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic sliding door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/hylotlDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A practical sliding door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/apexDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple sliding door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/description"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/description"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek sliding door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/erixianDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sliding door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/avikanDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien sliding door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/trinkDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient sliding door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/drodenDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected sliding door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/novakidDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I always liked these types of sliding doors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/humanDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hate it when these doors don't open quickly enough..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sliding doors save a lot of space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/floranDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssliding door is ssneaky."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/avianDescription"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door will slide into the wall when opened."
+    }
+  }
+]

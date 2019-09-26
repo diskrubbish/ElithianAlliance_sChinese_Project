@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikansmallbutton/avikansmallbutton.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki press button, things happen. Good things? Exploding things!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikansmallbutton/avikansmallbutton.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Avikan Button"
+    }
+  }
+]

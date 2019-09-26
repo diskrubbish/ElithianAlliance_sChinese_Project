@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-lostandfoundmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "npcs/avikanoutpost/merchants/ao-lostandfoundmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Recover lost unique equipment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-lostandfoundmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ],
+      "npcs/avikanoutpost/merchants/ao-lostandfoundmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lost and Found"
+    }
+  }
+]

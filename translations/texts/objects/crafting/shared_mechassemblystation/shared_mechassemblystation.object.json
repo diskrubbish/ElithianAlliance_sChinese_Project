@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected mech assembly station. Used to assemble components into functional mech suits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/description"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Equip and customise your personal mech!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran could make big mech with thisss station."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Assembly Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech assemble here. Akki ready to stomp around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This advanced assembly station is designed to make mech suits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station is for building and outfitting mech suits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station is made for piecing together large mech vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station'll let me put together a mech any way I like."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This terminal is for customizing and outfitting mech vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "With this station I could assemble components into a working mech suit."
+    }
+  }
+]

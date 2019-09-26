@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-rimsoldier/aegi-rimsoldier.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim Battlelegs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-rimsoldier/aegi-rimsoldier.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Armoured leggings and magnetic boots worn by combatants in the Rim."
+    }
+  }
+]

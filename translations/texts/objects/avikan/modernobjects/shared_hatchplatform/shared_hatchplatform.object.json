@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanhatchplatform/avikanhatchplatform.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatchplatform/avikanthickhatchplatform.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Nomada-built hatch. Design incorporates in-built platform."
+    }
+  }
+]

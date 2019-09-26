@@ -1,0 +1,206 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/hymidDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/hymidDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange drink that doesn't smell safe for consumption."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki thirsty. Drink-delicious!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Alien drink. Highly incompatible with Avikan biology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drink looksss odd. Floran ssshould not drink it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I do not think this is safe to drink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I really shouldn't drink that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I shouldn't drink this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's some sort of drink, but it doesn't look safe for consumption."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of alien drink. The smell alone sickens me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of strange drink. It smells horribly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/notixDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/notixDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The smell alone makes me feel sick. I really shouldn't drink this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/aegiDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/aegiDescription"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This does not look safe to drink."
+    }
+  }
+]

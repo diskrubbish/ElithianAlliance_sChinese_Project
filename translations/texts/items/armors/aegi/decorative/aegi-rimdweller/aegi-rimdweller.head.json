@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-rimdweller/aegi-rimdweller.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rimdweller Visor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-rimdweller/aegi-rimdweller.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A visor with a high-tech HUD often worn by inhabitants of the Rim."
+    }
+  }
+]

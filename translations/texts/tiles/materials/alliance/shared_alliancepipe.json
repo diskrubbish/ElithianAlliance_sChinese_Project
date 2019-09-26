@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancepipe.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/alliance/alliancepipehollow.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pipe carry liquids. Akki hope it's not poop."
+    }
+  }
+]

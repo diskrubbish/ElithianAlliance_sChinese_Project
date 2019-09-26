@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatchlocked/avikanoutposthatchlocked.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hatch, locked like a vault. Ain't gettin' in there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatchlocked/avikanoutposthatchlocked.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't open hatch. Floran frussstrated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatchlocked/avikanoutposthatchlocked.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatch-locked, Akki not get in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatchlocked/avikanoutposthatchlocked.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I cannot open this hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatchlocked/avikanoutposthatchlocked.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Locked Nomada Hatch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatchlocked/avikanoutposthatchlocked.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pipeline access hatch. Analysis: locked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatchlocked/avikanoutposthatchlocked.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This access hatch is locked tight."
+    }
+  }
+]

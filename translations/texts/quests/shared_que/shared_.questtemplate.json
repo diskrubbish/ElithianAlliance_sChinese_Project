@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/techquests/thea-stealthtechunlock1.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/techquests/thea-stealthtechunlock2.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/uniqueweapons/ashatok2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Chacharra ^reset;in the ^orange;Creon Embassy^reset;"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanfabrictentpole.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanpurplefabrictentpole.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikantentpole.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal tent pole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanfabrictentpole.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/avikan/avikantentpole.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran makesss ssspear from metal polesss..."
+    }
+  }
+]

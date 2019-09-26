@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariwiretool.wiretool": [
+        "/description"
+      ],
+      "items/tools/manipulator/alliance/alliancewiretool.wiretool": [
+        "/description"
+      ],
+      "items/tools/manipulator/avikan/avikanwiretool.wiretool": [
+        "/description"
+      ],
+      "items/tools/manipulator/trink/trinkwiretool.wiretool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Built to place optical wires between input points. ^green;Quick select with [T] key."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariwiretool.wiretool": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/alliance/alliancewiretool.wiretool": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/avikan/avikanwiretool.wiretool": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/trink/trinkwiretool.wiretool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wire Mode"
+    }
+  }
+]

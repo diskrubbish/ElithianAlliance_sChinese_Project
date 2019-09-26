@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/securitypass/keffriderslicense.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This license is official proof of your status as Keffrider."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/securitypass/keffriderslicense.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Keffrider's License^white;"
+    }
+  }
+]

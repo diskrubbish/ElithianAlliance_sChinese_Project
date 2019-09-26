@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A market stall filled with water containers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Water Stall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal clear water for sale here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal clear water. The Avikan value it more than most."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected water supply. Readings indicate a low level of contamination."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Few people but desert dwellers would sell water at a marketplace."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sees Floran in watersss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh and clean water - how much is it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh water. Odd place to sell it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh water? I could use a drink! Or two!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't imagine what it must be like to live in a place where water is scarce..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could use a drink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan value water over gold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This water might be harmful to robotics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water - a rare resource on Kadavan, but one that is absolutely essential to our survival."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water is scarce on Kadavan, but Heragon has even less of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water. Akki drink up here."
+    }
+  }
+]

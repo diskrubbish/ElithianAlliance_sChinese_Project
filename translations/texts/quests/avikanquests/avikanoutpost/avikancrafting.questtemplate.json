@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrafting.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here you go, Captain. An Avikan Crafting Guide, and a blueprint for a truly unique weapon!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrafting.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "How would you like to learn more about Avikan crafting techniques? ^green;Gather special materials from a ^orange;Sandspitter^green;, ^orange;Sandcrawler^green;, ^orange;Stingwing Swarm^green;, and a ^orange;Valahr^white;, and I will give you an ^orange;Avikan Crafting Guide^white;, plus a ^orange;special blueprint ^white;for a weapon I'm working on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrafting.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan Crafting Techniques"
+    }
+  }
+]

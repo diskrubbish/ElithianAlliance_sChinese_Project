@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/thelean/thelean-light/thelean-light.chest": [
+        "/description"
+      ],
+      "items/armors/thelean/thelean-light/thelean-light.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Thelean. ^white;Part of an exoskeleton built for scouts."
+    }
+  }
+]

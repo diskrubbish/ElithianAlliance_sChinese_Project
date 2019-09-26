@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/dagger/avikanhuntingknife2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hunting knife designed by the Nomada. Used to cut the highest quality leather from monsters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/dagger/avikanhuntingknife2.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Hunting Knife"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimarimetaltier4.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardened Scrap Metal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimarimetaltier4.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardened plates of scrap metal scavenged from medium quality sources."
+    }
+  }
+]

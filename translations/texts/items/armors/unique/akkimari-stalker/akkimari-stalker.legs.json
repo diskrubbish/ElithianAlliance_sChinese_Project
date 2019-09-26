@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/akkimari-stalker/akkimari-stalker.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;Tactical greaves that activate a cloaking field after crouching for a short time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/akkimari-stalker/akkimari-stalker.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Akris Stalker Greaves^white;"
+    }
+  }
+]

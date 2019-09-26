@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/thea-armor-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ],
+      "interface/tooltips/thea-armorwide-unique.tooltip": [
+        "/levelTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;level^reset;"
+    }
+  }
+]

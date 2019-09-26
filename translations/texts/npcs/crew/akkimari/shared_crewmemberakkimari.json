@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/2"
+      ],
+      "npcs/crew/akkimari/crewmemberakkimariscavenger.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> makes blades sharp for you. When fight?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/0"
+      ],
+      "npcs/crew/akkimari/crewmemberakkimariscavenger.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<selfname> scavenges for long time. Strong now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/1"
+      ],
+      "npcs/crew/akkimari/crewmemberakkimariscavenger.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fight for you now, <selfname> will."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/3"
+      ],
+      "npcs/crew/akkimari/crewmemberakkimariscavenger.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/akkimari/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Want to fight for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/akkimari/crewmemberakkimari.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/akkimari/default/3"
+      ],
+      "npcs/crew/akkimari/crewmemberakkimariscavenger.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/akkimari/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You strong! <selfname> follow you!"
+    }
+  }
+]

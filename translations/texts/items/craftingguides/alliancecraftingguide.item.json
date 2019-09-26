@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/craftingguides/alliancecraftingguide.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A guide to Alliance crafting. Unlocks most Alliance crafting recipes, regardless of race."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/craftingguides/alliancecraftingguide.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Alliance Crafting Guide^white;"
+    }
+  }
+]

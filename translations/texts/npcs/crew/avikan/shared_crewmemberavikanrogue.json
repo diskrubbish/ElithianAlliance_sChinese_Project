@@ -1,0 +1,282 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/avikan/default/0"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/avikan/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are we heading out?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Criminal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/avikan/default/1"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/avikan/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't be long, alright?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/2"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't leave me behind!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/avikan/default/3"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/avikan/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't take too long."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/avikan/default/1"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/avikan/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Finally, some action!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/avikan/default/2"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/avikan/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Go on without me. I'll wait."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/3"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "How am I supposed to get there?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avikan/default/2"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avikan/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't want to fight you. Any chance you'll let me join your crew instead?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avikan/default/0"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avikan/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need a place to hide! I'll work for you if you cover for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avikan/default/1"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avikan/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was falsely accused! I just need a place to lay low - could I hide on your ship? I'll work for you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/avikan/default/0"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/avikan/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll wait here, then."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/2"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm eager to test my blade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/3"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here if you need a fighter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/0"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've learned some trick over the years. If you need a fighter, I'm here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/1"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/avikan/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need an experienced fighter, you know where to find me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avikan/default/3"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/avikan/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please don't turn me in! I'll join your crew if you agree to hide me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rogue"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/avikan/default/3"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/avikan/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "What's next?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberavikanrogue.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/0"
+      ],
+      "npcs/crew/avikan/crewmemberavikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/avikan/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're out of my reach!"
+    }
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hard holographic interface built by the Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hard holographic interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hard holographic interface. Centensian in nature, of course."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hard holographic interface. I have no idea how this was achieved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hard holographic screen. Trying to stick my hand through it is like moving through a thick jelly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient console. It is quite remarkable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Pillar Console"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's ancient, yet it shows no signs of age. Is this Kluex's work?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's strange how quiet this console is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now this is one strange device. It's made of light, but I can touch it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pillar-light, interface-strange. Akki touch, pillar change!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssscreen feels hard, but ssscreen is only light... Floran iss confused."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Old Ones built this. It still functions, even after eons of disuse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Centensian interface is a strange kind of hard hologram."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hologram is hard enough to injure you if you run into it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This piece of technology is fascinatingly advanced."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This was built by the Centens. How the hologram manages to grow hard is beyond me."
+    }
+  }
+]

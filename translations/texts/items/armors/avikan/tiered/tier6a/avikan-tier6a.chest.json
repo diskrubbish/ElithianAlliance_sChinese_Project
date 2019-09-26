@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier6a/avikan-tier6a.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clanguard Armor Type-A"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier6a/avikan-tier6a.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A superb-quality chestpiece worn by the Avikan Clanguard. Energetic version."
+    }
+  }
+]

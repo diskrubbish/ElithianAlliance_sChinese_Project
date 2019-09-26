@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-painted/trink-painted.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Painted Arm Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-painted/trink-painted.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;An arm mod painted in a single colour."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/thea-stealthtech.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Double tap ^green;[W] ^white;to vanish from sight! Cooldown: 5.0s"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/thea-stealthtech.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanish"
+    }
+  }
+]

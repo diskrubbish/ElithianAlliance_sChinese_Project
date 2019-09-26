@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent entrance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Awning for tent, Akki go inside."
+    }
+  }
+]

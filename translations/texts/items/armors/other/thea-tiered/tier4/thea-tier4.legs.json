@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-tiered/tier4/thea-tier4.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "H-i Legs Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-tiered/tier4/thea-tier4.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Generic. ^white;A high intensity shield generator for protecting the legs."
+    }
+  }
+]

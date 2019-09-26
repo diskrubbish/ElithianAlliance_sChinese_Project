@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/akkimariacidburn/akkimariacidburn.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vaash Burn"
+    }
+  }
+]

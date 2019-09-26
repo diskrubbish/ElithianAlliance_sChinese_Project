@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/ghavorkanpowercell.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A power cell torn from a Ghavorkan's body."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/ghavorkanpowercell.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghavorkan Power Cell"
+    }
+  }
+]

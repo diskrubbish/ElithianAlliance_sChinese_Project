@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/avikan.species": [
+        "/charGenTextLabels/1"
+      ],
+      "species/droden.species": [
+        "/charGenTextLabels/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pattern"
+    }
+  }
+]

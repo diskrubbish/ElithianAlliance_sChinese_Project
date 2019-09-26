@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/techquests/thea-stealthtechunlock2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Before you get tech, Chacharra make sure you know how tech works. ^green;Go to ^orange;testing course ^green;Chacharra made^reset;, then ^orange;Stealth Tech ^reset;yours forever!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/techquests/thea-stealthtechunlock2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chacharra impressed, you skilled! You keep ^orange;Stealth Tech^reset;, use to sneak past many enemies..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/techquests/thea-stealthtechunlock2.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Complete the ^orange;Stealth Tech testing course^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/techquests/thea-stealthtechunlock2.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Chacharra^reset; to enter the ^orange;testing course^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/techquests/thea-stealthtechunlock2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Chacharra's Stealth Tech II"
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry1/avikanoutpostrhaiodtapestry1.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry2/avikanoutpostrhaiodtapestry2.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry3/avikanoutpostrhaiodtapestry3.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhaiod Tapestry"
+    }
+  }
+]

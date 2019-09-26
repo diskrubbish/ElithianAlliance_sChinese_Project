@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposteraae/allianceposteraae.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poster promoting the AAE."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposteraae/allianceposteraae.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "AAE Poster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposteraae/allianceposteraae.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "AAE stands for Advanced Aeginian Engineering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposteraae/allianceposteraae.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likesss the green."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposteraae/allianceposteraae.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The AAE manufactures many things, from military equipment to household items and city power grids."
+    }
+  }
+]

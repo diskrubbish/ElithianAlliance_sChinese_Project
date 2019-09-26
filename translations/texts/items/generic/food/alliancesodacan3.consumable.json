@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodacan3.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A can of tasty Corus."
+    }
+  }
+]

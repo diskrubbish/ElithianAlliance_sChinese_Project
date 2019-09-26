@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnallianceoutpostteleporter/returnallianceoutpostteleporter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki use teleporter. Akki back at Creon Embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnallianceoutpostteleporter/returnallianceoutpostteleporter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter configuration confirmed. Destination: Creon Embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnallianceoutpostteleporter/returnallianceoutpostteleporter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleportss Floran back to the Creon Embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnallianceoutpostteleporter/returnallianceoutpostteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter should take me back to the Creon Embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnallianceoutpostteleporter/returnallianceoutpostteleporter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter will take me back to the Creon Embassy."
+    }
+  }
+]

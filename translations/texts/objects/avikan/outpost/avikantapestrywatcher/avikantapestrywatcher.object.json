@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrywatcher/avikantapestrywatcher.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A black tapestry displaying the Watchers' emblem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrywatcher/avikantapestrywatcher.object": [
+        "/aegiDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hymidDescription",
+        "/hyvonDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark leather tapestry. It displays the emblem of the Avikan Watchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrywatcher/avikantapestrywatcher.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark leather tapestry. The eye it displays is intriguing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrywatcher/avikantapestrywatcher.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Watchers' Tapestry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrywatcher/avikantapestrywatcher.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Watchers' Eye emblem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrywatcher/avikantapestrywatcher.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran feelsss watched by large eye..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrywatcher/avikantapestrywatcher.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This black tapestry displays the emblem of our Watchers, the forces that protect us from the Thell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrywatcher/avikantapestrywatcher.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watchers watching Akki."
+    }
+  }
+]

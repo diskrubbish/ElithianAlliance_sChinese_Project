@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoorlocked/allianceblastdoorlocked.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked blast door. No way past it."
+    }
+  }
+]

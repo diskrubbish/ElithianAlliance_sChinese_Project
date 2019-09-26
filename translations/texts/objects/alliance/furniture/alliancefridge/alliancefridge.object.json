@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic but functional fridge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clean lookin' fridge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fridge, part of any decent Aeginian kitchen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fridge. I hope there's some breadcrumbs in there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A refrigerator, for keeping food fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard model fridge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Fridge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien refrigerator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient fridge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fridges like these aren't needed back home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I prefer my meals hot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a fridge, nothing special."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refrigerated storage detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storage-cold, for keeping food-fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The perfect place to store some bananas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fridge will keep my food fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fridge will prevent my food from going foul."
+    }
+  }
+]

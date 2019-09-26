@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/akkimari/akkimaricloaker.npctype": [
+        "/scriptConfig/dialog/attack/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You belong to <selfname> now!"
+    }
+  }
+]

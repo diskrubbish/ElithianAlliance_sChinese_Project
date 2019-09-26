@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanhatch/avikanhatch.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/doors/trinkhatch/trinkhatch.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatch-metal."
+    }
+  }
+]

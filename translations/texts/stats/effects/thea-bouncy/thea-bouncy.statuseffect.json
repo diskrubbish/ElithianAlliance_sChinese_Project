@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-bouncy/thea-bouncy.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bouncy"
+    }
+  }
+]

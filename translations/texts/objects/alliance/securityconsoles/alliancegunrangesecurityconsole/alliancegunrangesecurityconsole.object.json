@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/securityconsoles/alliancegunrangesecurityconsole/alliancegunrangesecurityconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gun Range Security Console"
+    }
+  }
+]

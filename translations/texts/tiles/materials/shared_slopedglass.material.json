@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanslopedglass.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/trink/trinkslopedglass.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Thick glass used on spaceships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanslopedglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/trink/trinkslopedglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This glass is strong enough for use on spaceships."
+    }
+  }
+]

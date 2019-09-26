@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/sandcrawlermeat.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandcrawler Meat"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/sandcrawlermeat.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slices of Sandcrawler meat. It's better to clean it first..."
+    }
+  }
+]

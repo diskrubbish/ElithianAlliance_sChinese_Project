@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rimdweller/rimdwellerhullpanel.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Hull plating. Signs of combat damage detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rimdweller/rimdwellerhullpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Busssted metal plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rimdweller/rimdwellerhullpanel.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hull-ship, thick and heavy. Akki no carve through..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rimdweller/rimdwellerhullpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hull's been banged up good, but it still holds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/rimdweller/rimdwellerhullpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What caused all of the damage to this hull?"
+    }
+  }
+]

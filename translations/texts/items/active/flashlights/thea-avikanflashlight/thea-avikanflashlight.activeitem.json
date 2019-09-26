@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/flashlights/thea-avikanflashlight/thea-avikanflashlight.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful flashlight with a broad light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/flashlights/thea-avikanflashlight/thea-avikanflashlight.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Flashlight"
+    }
+  }
+]

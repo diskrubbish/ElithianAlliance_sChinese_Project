@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Workman's Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimariinventorcrafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  ^#b9b5b2;Specialized crafting tools"
+    }
+  }
+]

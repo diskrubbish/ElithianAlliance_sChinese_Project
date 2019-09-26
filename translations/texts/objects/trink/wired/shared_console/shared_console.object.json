@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian console, I believe. How does the interface work?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian console. I wonder what is is linked to?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian control panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/description"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer console for controlling Trink systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console with an odd interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A control panel built by machines. Could I sabotage it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien interface detected. Recommend sabotage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console allows me to interact with various systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console can be linked to a multitude of systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console controls something. But what?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This must be some sort of Trinkian control panel."
+    }
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-contractmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Crew Member Contracts"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-contractmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0",
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking to hire new crew members? I can help you set up a contract."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-contractmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My files are right over there. Follow me, please."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-contractmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now, what are your wishes regarding the crew?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-contractmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return any time you need more crew members!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-contractmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spaceship Crew Agency"
+    }
+  }
+]

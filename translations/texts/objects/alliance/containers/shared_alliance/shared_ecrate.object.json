@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard Alliance crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard metal crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standardized Alliance crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standardized cargo crate. It's used throughout the Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standardized metal crate. Sturdy, but relatively lightweight too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crate. Akki store stuff here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Alliance uses efficiently-designed crates."
+    }
+  }
+]

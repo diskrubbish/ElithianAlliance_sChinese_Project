@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-flashlightattachment.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underbarrel flash light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-flashlightattachment.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flashlight"
+    }
+  }
+]

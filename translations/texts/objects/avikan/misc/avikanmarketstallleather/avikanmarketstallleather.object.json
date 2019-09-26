@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lot of leather and fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A market stall filled with leather items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A market stall full of leather and fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Leather Stall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan leather items. These are surprisingly durable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloth and leather. Akki use for weaving."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder how many animals had to be slain to find this much leather..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what I could craft with all of this?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've never liked the way Avikan clothing feels."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather and fabric, for crafting clothes, tents and so much more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather items detected: Avikan clothing. Rugs. Tapestries. Sheets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather rags and pieces of colourful fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leathersss for Floran?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "So much fabric!."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's much that can be crafted with this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This leather wouldn't last very long on Heragon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This market stall offers various leather items."
+    }
+  }
+]

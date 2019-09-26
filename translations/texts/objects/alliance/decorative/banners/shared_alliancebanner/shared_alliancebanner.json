@@ -1,0 +1,69 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebanner/alliancebanner.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/banners/alliancebanneraegi/alliancebanneraegi.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerdremeton/alliancebannerdremeton.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/banners/alliancebannererixian/alliancebannererixian.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerhymid/alliancebannerhymid.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerjorgasian/alliancebannerjorgasian.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/banners/alliancebannernotix/alliancebannernotix.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerrack/alliancebannerrack.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/banners/alliancebannertrink/alliancebannertrink.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likesss colourful bannersss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebanner/alliancebanner.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/banners/alliancebanneraegi/alliancebanneraegi.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerdremeton/alliancebannerdremeton.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/banners/alliancebannererixian/alliancebannererixian.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerhymid/alliancebannerhymid.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerjorgasian/alliancebannerjorgasian.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/banners/alliancebannernotix/alliancebannernotix.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/banners/alliancebannertrink/alliancebannertrink.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This banner is adorned with some alien emblem."
+    }
+  }
+]

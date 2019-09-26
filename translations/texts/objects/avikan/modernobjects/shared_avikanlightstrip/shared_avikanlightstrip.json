@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-bright."
+    }
+  }
+]

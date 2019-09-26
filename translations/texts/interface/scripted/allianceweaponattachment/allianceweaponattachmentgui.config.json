@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/allianceweaponattachment/allianceweaponattachmentgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Customize your weapons!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/allianceweaponattachment/allianceweaponattachmentgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Weapon Attachment Bench"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/allianceweaponattachment/allianceweaponattachmentgui.config": [
+        "/gui/btnAttach/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assemble"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/allianceweaponattachment/allianceweaponattachmentgui.config": [
+        "/gui/infoLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assemble or dismantle a weapon"
+    }
+  }
+]

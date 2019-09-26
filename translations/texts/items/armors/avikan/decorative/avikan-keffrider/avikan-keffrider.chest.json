@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keffrider's Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Lightweight and streamlined armour worn by the Keffriders."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-mechpilot/avikan-mechpilot.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech Operator's Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-mechpilot/avikan-mechpilot.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A helmet built for interfacing with a mech's control systems."
+    }
+  }
+]

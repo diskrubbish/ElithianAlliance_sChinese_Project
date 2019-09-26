@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Avikan Ship Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-broken, Akki no like."
+    }
+  }
+]

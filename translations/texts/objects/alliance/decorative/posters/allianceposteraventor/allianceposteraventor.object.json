@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposteraventor/allianceposteraventor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poster promoting Aventor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposteraventor/allianceposteraventor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aventor Poster"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposteraventor/allianceposteraventor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aventor develops the fastest spaceships in the Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposteraventor/allianceposteraventor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny."
+    }
+  }
+]

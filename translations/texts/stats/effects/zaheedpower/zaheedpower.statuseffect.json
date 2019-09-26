@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/zaheedpower/zaheedpower.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empowered"
+    }
+  }
+]

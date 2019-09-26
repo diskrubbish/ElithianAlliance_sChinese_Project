@@ -1,0 +1,178 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/thelean/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Death is for the weak."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/thelean/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do not be gone for long. I am eager to fight something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/thelean/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do not leave me behind!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/thelean/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't make me wait long."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/thelean/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even death won't stop me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/thelean/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am eager for a fight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/thelean/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't go there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/thelean/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I failed... I will become stronger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/thelean/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to be stronger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/thelean/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should be your vanguard, not some idle guard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/thelean/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will find a way there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/thelean/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will hold my position. For now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/thelean/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will show you my strength."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/thelean/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's time to hunt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/thelean/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Point me to a target."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/thelean/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are out of my reach."
+    }
+  }
+]

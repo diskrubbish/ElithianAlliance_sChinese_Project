@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/railhook/alliancerailhook.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/railhook/avikanrailhook.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/railhook/trinkrailhook.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rail hook, for sliding along rails."
+    }
+  }
+]

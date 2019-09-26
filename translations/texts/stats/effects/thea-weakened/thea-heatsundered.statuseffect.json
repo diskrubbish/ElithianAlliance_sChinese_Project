@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-weakened/thea-heatsundered.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sundered"
+    }
+  }
+]

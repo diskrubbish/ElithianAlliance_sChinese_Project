@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/craftingguides/trinkcraftingguide.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A guide to Trinkian crafting. Unlocks most Trinkian crafting recipes, regardless of race."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/craftingguides/trinkcraftingguide.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Trinkian Crafting Guide^white;"
+    }
+  }
+]

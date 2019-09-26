@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/thelean/thelean-rocketlauncher-npc.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/thelean/thelean-rocketlauncher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful flux rifle which fires explosive, target-seeking projectiles."
+    }
+  }
+]

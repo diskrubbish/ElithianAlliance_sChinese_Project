@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancekeypad/alliancekeypadgui.config": [
+        "/gui/windowtitle/subtitle"
+      ],
+      "interface/scripted/avikankeypad/avikankeypadgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Programmable keypad"
+    }
+  }
+]

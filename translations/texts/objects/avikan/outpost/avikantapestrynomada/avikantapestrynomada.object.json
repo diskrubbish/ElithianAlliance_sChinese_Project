@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large leather tapestry showing our grand Nomada's emblem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
+        "/aegiDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/hyvonDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large leather tapestry showing the Avikan Nomada's emblem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather tapestry displaying the Nomada's emblem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather tapestry. It has an alien emblem embedded into it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Nomada Tapestry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Banner-large, for Nomada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Avikan Nomada emblem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tapessstry hasss alien mark all over it..."
+    }
+  }
+]

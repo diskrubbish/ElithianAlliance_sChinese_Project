@@ -1,0 +1,142 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/kadavanrock/kadavanrock1.object": [
+        "/avikanDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock2.object": [
+        "/avikanDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock3.object": [
+        "/avikanDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock4.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Kadavan rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/kadavanrock/kadavanrock1.object": [
+        "/description"
+      ],
+      "objects/mission/kadavanrock/kadavanrock2.object": [
+        "/description"
+      ],
+      "objects/mission/kadavanrock/kadavanrock3.object": [
+        "/description"
+      ],
+      "objects/mission/kadavanrock/kadavanrock4.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rock. Plain and simple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/kadavanrock/kadavanrock1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock3.object": [
+        "/akkimariDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock4.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki uninterested. Rock-boring."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/kadavanrock/kadavanrock1.object": [
+        "/drodenDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock2.object": [
+        "/drodenDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock3.object": [
+        "/drodenDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock4.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/kadavanrock/kadavanrock1.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock2.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock3.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kadavan Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/kadavanrock/kadavanrock1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/kadavanrock/kadavanrock2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/kadavanrock/kadavanrock3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/kadavanrock/kadavanrock4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/kadavanrock/kadavanrock1.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock2.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock3.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/kadavanrock/kadavanrock4.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocksss for basshing skullsss!"
+    }
+  }
+]

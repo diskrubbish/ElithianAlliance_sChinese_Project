@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-bannermerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ],
+      "npcs/allianceoutpost/merchants/eo-vehiclepartsmerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come back soon!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-plushiemerchant.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ],
+      "npcs/allianceoutpost/merchants/eo-postermerchant.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "My shop is just over there."
+    }
+  }
+]

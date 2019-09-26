@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-cook/aegi-cook.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Culinarian's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-cook/aegi-cook.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The lower part of a master chef's outfit."
+    }
+  }
+]

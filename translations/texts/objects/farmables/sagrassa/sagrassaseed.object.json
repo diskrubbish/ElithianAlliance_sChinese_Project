@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/sagrassa/sagrassaseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sagrassa Crystal Seed"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-aegiofficial.npctype": [
+        "/scriptConfig/dialog/converse/aegi/aegi/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A friendly face! Are you here on Alliance business, friend?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-aegiofficial.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Denna"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-aegiofficial.npctype": [
+        "/scriptConfig/dialog/converse/aegi/droden/0",
+        "/scriptConfig/dialog/converse/aegi/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope the Avikan aren't treating you too badly. It seems they aren't fond of AI."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-aegiofficial.npctype": [
+        "/scriptConfig/dialog/converse/aegi/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was sent here to represent the Aeginian Federal Union. Good meeting you, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-aegiofficial.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's good to see another friendly face here. The Avikan aren't always friendly to aliens."
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunrangeshop/avikangunrangeshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/avikan/outpost/avikanmeritmerchant/avikanmeritmerchant.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Being meritful has its merits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunrangeshop/avikangunrangeshop.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanmeritmerchant/avikanmeritmerchant.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gotta have some tokens of merit if I wish to trade here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunrangeshop/avikangunrangeshop.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanmeritmerchant/avikanmeritmerchant.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Floran givess robot man tokensss, robot man gives Floran itemsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunrangeshop/avikangunrangeshop.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanmeritmerchant/avikanmeritmerchant.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Merchant detected. Purchases are made using tokens of merit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunrangeshop/avikangunrangeshop.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanmeritmerchant/avikanmeritmerchant.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tokens of merit can be exchanged for various goods here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunrangeshop/avikangunrangeshop.object": [
+        "/avikanDescription",
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanmeritmerchant/avikanmeritmerchant.object": [
+        "/avikanDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tokens of merit can be traded for a variety of goods here."
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/events/landingfestival/landingpresenttimer.questtemplate": [
+        "/completionText",
+        "/text"
+      ],
+      "quests/events/thea-eventhandler.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You shouldn't be seeing this in your log!"
+    }
+  }
+]

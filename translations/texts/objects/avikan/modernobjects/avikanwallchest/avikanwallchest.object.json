@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal wall-mounted container. For storing items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Wall Container"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chest-wall. Akki want to break it off."
+    }
+  }
+]

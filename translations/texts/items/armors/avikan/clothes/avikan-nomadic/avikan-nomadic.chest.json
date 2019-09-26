@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomad's Wraps"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Leather wraps to protect against desert winds. Favoured by the nomads of the Kadavan deserts."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/hats/aegi-hood/aegi-hood.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Union Hood"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/hats/aegi-hood/aegi-hood.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A large waterproof hood, useful in the rain."
+    }
+  }
+]

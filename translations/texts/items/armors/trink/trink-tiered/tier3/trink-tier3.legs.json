@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier3/trink-tier3.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mark III Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier3/trink-tier3.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A medium-grade titanium body mod."
+    }
+  }
+]

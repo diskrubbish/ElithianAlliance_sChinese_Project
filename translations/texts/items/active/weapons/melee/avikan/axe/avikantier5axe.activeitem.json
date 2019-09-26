@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/axe/avikantier5axe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal axe. It uses a vibro-blade design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/axe/avikantier5axe.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Axe"
+    }
+  }
+]

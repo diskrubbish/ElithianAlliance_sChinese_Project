@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/thelean/tendril/thelean-tendril.activeitem": [
+        "/shortdescription"
+      ],
+      "items/crafting/monsterdrops/theleantissue.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Tendril"
+    }
+  }
+]

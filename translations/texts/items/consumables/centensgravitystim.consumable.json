@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/centensgravitystim.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creates a temporary gravity field distortion that pushes away projectiles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/centensgravitystim.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Field Distorter"
+    }
+  }
+]

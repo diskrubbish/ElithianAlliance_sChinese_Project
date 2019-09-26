@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mannequins/drodenmannequin/drodenmannequin.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected mannequin. Tailored to Droden shape."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mannequins/drodenmannequin/drodenmannequin.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Display and easily equip your Droden-themed armour sets!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mannequins/drodenmannequin/drodenmannequin.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden Mannequin"
+    }
+  }
+]

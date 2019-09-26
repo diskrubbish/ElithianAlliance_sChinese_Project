@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanbattery.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact battery packing a lot of power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanbattery.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Battery"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkhull.matitem": [
+        "/description"
+      ],
+      "tiles/materials/trink/trinkhull.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong metal hull for ships and buildings alike."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkhull.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/trink/trinkhull.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Hull"
+    }
+  }
+]

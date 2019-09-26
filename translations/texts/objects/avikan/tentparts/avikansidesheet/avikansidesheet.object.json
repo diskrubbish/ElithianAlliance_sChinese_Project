@@ -1,0 +1,136 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorative leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet attached to the side of buildings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet, plain and simple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet. It is mostly decorative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet. It provides a bit of protection from the sun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet. Rather dull."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple sheet of leather, to be attached to the side of a building."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sheet-leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a leather sheet."
+    }
+  }
+]

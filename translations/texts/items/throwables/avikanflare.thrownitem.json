@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikanflare.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flare often used by the Nomada to signal important locations, or to light an area."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikanflare.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Flare"
+    }
+  }
+]

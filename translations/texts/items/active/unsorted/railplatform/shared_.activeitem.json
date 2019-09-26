@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/railplatform/alliancebriggstram.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/railplatform/allianceelevator.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/railplatform/alliancerailtram.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/railplatform/avikanrailtram.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/railplatform/trinkrailpod.activeitem": [
+        "/description"
+      ],
+      "items/active/unsorted/railplatform/trinkrailtram.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Place a user-controlled tram that works with rail tram stops."
+    }
+  }
+]

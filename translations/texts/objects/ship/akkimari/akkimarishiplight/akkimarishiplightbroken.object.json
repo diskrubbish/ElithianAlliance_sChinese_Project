@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Akris Ship Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-broken make Akki mad..."
+    }
+  }
+]

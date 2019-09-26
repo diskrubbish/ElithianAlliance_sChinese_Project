@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent door made of an unusual fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fabric doorsss can't ssstop Floran."
+    }
+  }
+]

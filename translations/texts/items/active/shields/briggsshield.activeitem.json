@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/briggsshield.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shield designed for Briggs security personnel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/briggsshield.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs Defender"
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakablecobblestone.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ain't uncommon to run across cobblestone rocks like this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakablecobblestone.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cobblestone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakablecobblestone.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard cobblestones, smooth to the touch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakablecobblestone.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssmooth cobblessstone rockss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakablecobblestone.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These cobblestones are naturally smooth."
+    }
+  }
+]

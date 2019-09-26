@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Ship Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light, bright-very."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light is often found on Avikan ships."
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/seekerdronecapture.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm doing research on Ce'Tennan drones for the Seekers, and I could use some help. Can you ^green;capture a ^orange;Ce'Tennan Oculus ^green;and a ^orange;Ce'Tennan Keeper ^reset;for me? I only need the data, so you can keep the drones yourself! I'll give you some newly developed ^orange;prototype weapons ^reset;in exchange."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/seekerdronecapture.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vas Vha'leih, my friend. The data you collected off of those drones will help the Keepers' research immensely. Take these prototype weapons as thanks! I'm sure you'll find them useful on your travels."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/seekerdronecapture.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;The Seekers' Research Project"
+    }
+  }
+]

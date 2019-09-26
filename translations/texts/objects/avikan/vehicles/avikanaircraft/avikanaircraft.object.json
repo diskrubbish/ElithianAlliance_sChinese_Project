@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bulky vehicle, but it flies surprisingly nimbly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flying vehicle? I wish it had wings..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A personal flying vehicle of Avikan origin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A personal flying vehicle. An inefficient means of transporting people."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A personal flying vehicle? No way!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A well balanaced drehk, built for scouting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan Drehk. It is surprisingly nimble once in the air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan flying vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Drehk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big metal fly thingss. Fliesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drehk detected. Status: out of fuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "For a species that often lives underground, the Avikan have an unusual love for flight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I do not know how this vehicle achieves flight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always enjoyed flying."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always wanted to fly one of these."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vehicle can fly in unusual ways."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vehicle-alien, like Chaseflight."
+    }
+  }
+]

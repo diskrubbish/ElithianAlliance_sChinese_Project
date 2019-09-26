@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanmetaltier6.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Specialized metal plating for use in superb-quality equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanmetaltier6.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Superb Kavanite Plate"
+    }
+  }
+]

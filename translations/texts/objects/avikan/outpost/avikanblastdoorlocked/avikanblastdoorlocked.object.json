@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked blast door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked blast door. I wish I could blow it open somehow..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked blast door. It must be protecting something valuable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked blast door. No use trying to get it to open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked blast door. No way past it, it seems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked blast door. There doesn't seem to be any way past it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked door. I wonder what lies beyond it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal blast door. It's locked..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal blast door. It's locked..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal door, locked with an intricate lock system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick blast door, locked with a complex lock system. Nothing gets past this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Locked. Unit is unable to force open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-locked. Akki try to break, Akki fail."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's no way I can get past this door."
+    }
+  }
+]

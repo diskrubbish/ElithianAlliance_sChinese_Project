@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large, pyramid-shaped roof. The flat top allows objects to be attached to the top."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flat Trinkian Roof"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roof-alien, top-flat."
+    }
+  }
+]

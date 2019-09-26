@@ -1,0 +1,218 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A comfortable leather cushion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather cushion, eh?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather cushion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather cushion. More comfortable than it looks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather cushion. Simple, but quite comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple collection of leather sheets piled onto each other."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/description",
+        "/jorgasianDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/description",
+        "/jorgasianDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/description",
+        "/jorgasianDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather cushion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple, comfortable cushion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly comfortable leather cushion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Common leather cushion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cussshionsss for sssitting!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This primitive leather cushion is quite comfortable."
+    }
+  }
+]

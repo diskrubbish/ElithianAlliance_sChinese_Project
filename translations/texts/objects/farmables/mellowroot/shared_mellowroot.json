@@ -1,0 +1,254 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A juicy vegetable. It tastes quite good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/description"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft, juicy vegetable high in nutrients."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/hymidDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft, watery crop from Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/erixianDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft, watery crop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft, watery vegetable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/avikanDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien plant. It's very juicy, unlike anything on Kadavan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/drodenDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien flora. Detected high quantities of water inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinksss thiss plant iss too mushy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I prefer the seeds, but the crop itself is okay too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just some kinda soft herb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mellowroot Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant-wet, juicy-very. Akki not sure what to think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft, juicy vegetables."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/aegiDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The mellowroot is a vital part of a good meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/notixDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The shape of this crop is quite odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crop is far too mushy for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/trinkDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crop is nutrient-rich."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This soft vegetable is high in nutrients."
+    }
+  }
+]

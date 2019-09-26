@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Guard Beacon v4"
+    }
+  }
+]

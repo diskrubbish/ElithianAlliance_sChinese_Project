@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/avikan-rhadeihan/avikan-rhadeihan.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A chestpiece with an integrated regenerative matrix which starts healing its wearer shortly after taking damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/avikan-rhadeihan/avikan-rhadeihan.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Rhadeihan Chestpiece^white;"
+    }
+  }
+]

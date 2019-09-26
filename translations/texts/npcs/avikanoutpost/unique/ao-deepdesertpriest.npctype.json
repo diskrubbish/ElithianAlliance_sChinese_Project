@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-deepdesertpriest.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arravas"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-deepdesertpriest.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Rhaiod reaches all, even those in the deep deserts of Kadavan, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-deepdesertpriest.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Rhaiod reaches all, even those in the deep deserts of Kadavan."
+    }
+  }
+]

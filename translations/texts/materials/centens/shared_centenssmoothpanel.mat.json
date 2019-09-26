@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centenssmoothpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/centens/centenssmoothpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth Centensian Panel"
+    }
+  }
+]

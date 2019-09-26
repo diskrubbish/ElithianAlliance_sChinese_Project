@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki spotted door-blast."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim Blast Door"
+    }
+  }
+]

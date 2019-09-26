@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather canopy - simple, but effective nonetheless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather canopy, to provide some shadow out in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather canopy, but it's still very effective at creating some shade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather canopy, to provide some shade when the sun is out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic, but efficient, leather canopy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Canopy for shade, Akki protected from sun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected leather canopy. Provides shade during the day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Out in the desert, a simple canopy like this is a blessing during the day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This canopy is great against the sun, but I doubt it would last long in a storm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This canopy looks fragile."
+    }
+  }
+]

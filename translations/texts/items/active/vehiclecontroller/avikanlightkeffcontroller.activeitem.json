@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/vehiclecontroller/avikanlightkeffcontroller.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blink Keff Controller"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/vehiclecontroller/avikanlightkeffcontroller.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Summons a Blink Keff from your ship's cargo hold."
+    }
+  }
+]

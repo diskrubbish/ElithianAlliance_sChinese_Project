@@ -1,0 +1,31 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/hymidDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/hymidDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/hymidDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table."
+    }
+  }
+]

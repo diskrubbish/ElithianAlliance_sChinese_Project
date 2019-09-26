@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-scribe/avikan-scribe.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scribe's Goggles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-scribe/avikan-scribe.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A pair of clear goggles worn by scribes of the Nomada."
+    }
+  }
+]

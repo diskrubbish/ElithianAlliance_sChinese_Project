@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/eritosteel.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A special allosteel alloy with a high ferroverium content."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/eritosteel.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Eritosteel Plating^white;"
+    }
+  }
+]

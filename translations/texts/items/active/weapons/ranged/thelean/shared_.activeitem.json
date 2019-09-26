@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/thelean/thelean-assaultrifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/thelean/thelean-pistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/thelean/thelean-sniperrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful flux rifle which shoots molten metal projectiles."
+    }
+  }
+]

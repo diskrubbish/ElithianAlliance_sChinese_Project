@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/akkimari/akkimari-spikecannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy spike cannon cobbled together by the Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/akkimari/akkimari-spikecannon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Spike Cannon"
+    }
+  }
+]

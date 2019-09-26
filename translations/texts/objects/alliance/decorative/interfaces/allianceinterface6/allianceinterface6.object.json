@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interface displaying warning signs."
+    }
+  }
+]

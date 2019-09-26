@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-protectorate/avikan-protectorate.chest": [
+        "/description"
+      ],
+      "items/armors/avikan/decorative/avikan-protectorate/avikan-protectorate.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A modified Terrene Protectorate uniform, tailored specifically for an Avikan."
+    }
+  }
+]

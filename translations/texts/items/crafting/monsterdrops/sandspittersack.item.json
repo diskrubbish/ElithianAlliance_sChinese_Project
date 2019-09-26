@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/sandspittersack.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sack-like organ full of sand, ready for spitting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/sandspittersack.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandspitter's Sack"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier4/trink-tier4.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mark IV Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier4/trink-tier4.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A medium-grade durasteel body mod."
+    }
+  }
+]

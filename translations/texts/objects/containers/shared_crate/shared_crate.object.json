@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/novakidDescription"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crate. Quite basic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/avikanDescription"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal crate of alien design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/apexDescription"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal crate. Not much else to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple metal crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what I'll find inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/avianDescription"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what this crate might hold?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/humanDescription"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is there loot inside?"
+    }
+  }
+]

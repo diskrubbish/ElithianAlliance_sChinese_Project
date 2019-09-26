@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimaribeamaxe.beamaxe": [
+        "/description"
+      ],
+      "items/tools/manipulator/alliance/alliancebeamaxe.beamaxe": [
+        "/description"
+      ],
+      "items/tools/manipulator/avikan/avikanbeamaxe.beamaxe": [
+        "/description"
+      ],
+      "items/tools/manipulator/trink/trinkbeamaxe.beamaxe": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Manipulates anything that matters. ^green;Quick select with [R] key."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimaribeamaxe.beamaxe": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/alliance/alliancebeamaxe.beamaxe": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/avikan/avikanbeamaxe.beamaxe": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/trink/trinkbeamaxe.beamaxe": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Matter Manipulator"
+    }
+  }
+]

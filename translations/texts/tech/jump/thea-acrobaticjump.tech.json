@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/thea-acrobaticjump.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acrobatic Jump"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/thea-acrobaticjump.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hold ^green;[S/Down] ^reset; to roll and break falls."
+    }
+  }
+]

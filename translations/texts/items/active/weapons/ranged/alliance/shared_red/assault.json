@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/assault/aae/thea-aaerifle1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/assault/aae/thea-aaerifle2.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/assault/aae/thea-aaerifle3.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/assault/aae/thea-aaerifle4.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/assault/atros/thea-atrosassault1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/assault/thea-tier2rifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/assault/thea-tier3rifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/assault/thea-tier4rifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high rate of fire assault rifle."
+    }
+  }
+]

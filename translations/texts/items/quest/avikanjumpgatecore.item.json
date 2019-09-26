@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanjumpgatecore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The core of an Avikan jumpgate. A modified piece of Centensian technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanjumpgatecore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Avikan Jumpgate Core^white;"
+    }
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple tapestry for wall decoration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple tapestry. It could use some gold trimmings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tapestry made of an unusually coloured fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall tapestry made of some purple fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall tapestry with Rhaiod decorations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall tapestry. It has an unusual feel to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are those runes at the bottom of this tapestry?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scan completed. Rhaiod wall decoration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The runes on this tapestry looks a bit like the runes of the Gods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall decoration created by the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall decoration used by the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall decoration with a seemingly religious theme."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/description"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall tapestry decorated in the style of the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What might those symbols mean?"
+    }
+  }
+]

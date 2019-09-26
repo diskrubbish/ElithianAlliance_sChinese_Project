@@ -1,0 +1,226 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/description"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A comfortable two-seater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A good old bench. Let's rest for a bit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A minimalistic, but very comfortable, bench."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple, comfortable bench."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic bench."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki sit, Akki relax."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comfortable benches are always a welcome sight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran preferss wooden bench."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could use some rest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't like alien chairs much."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should rest a while."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not the most comfortable bench for a Hymid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simplicity does not exclude comfort, it seems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simplistic, but still comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The padding on this bench looks new."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bench is in good condition."
+    }
+  }
+]

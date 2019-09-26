@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpsepile/theleancorpsepile.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead Theleans were weak Theleans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpsepile/theleancorpsepile.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead Theleans. A lot of them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpsepile/theleancorpsepile.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dead Theleans. The best kind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpsepile/theleancorpsepile.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Theleans. Analysis: dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpsepile/theleancorpsepile.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "God-thieves-dead. Akki pleased."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpsepile/theleancorpsepile.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The one who killed these Theleans must have been incredibly powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpsepile/theleancorpsepile.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Corpses"
+    }
+  }
+]

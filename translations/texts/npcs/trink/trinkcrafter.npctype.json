@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/trink/trinkcrafter.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to inspect my work, scout?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/trink/trinkcrafter.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Found any interesting blueprints, scout?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/trink/trinkcrafter.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Found any interesting blueprints, traveller?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/trink/trinkcrafter.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What do you think of my works, traveller?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/trink/trinkcrafter.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You seem like a capable craftsman."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/trink/trinkcrafter.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You would make for a fine engineering unit."
+    }
+  }
+]

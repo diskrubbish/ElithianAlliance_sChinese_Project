@@ -1,0 +1,302 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright light made to highlight something. Perhaps I should look at that something instead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/description"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/description"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A directional light, for highlighting areas of interest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light made for highlighting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light pointed at something more interesting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bright light shinesss on pretty objects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Directional light. Recommend observing the highlighted area."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should check out what the light is pointing at, it might be more interesting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should probably be more interested in what this light is aimed at."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I suppose this is a light, but I can't be certain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what this light could be pointin' at?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a light, it's sole purpose is to point at that thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps I should be looking at whatever this light is pointing at."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light illuminates something that's probably more interesting to look at."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light is diligently performing it's one purpose."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light is here to illuminate a subject more worthy of my interest than itself."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/trink-dualcannon/trink-dualcannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy, double barrel laser cannon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/trink-dualcannon/trink-dualcannon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Circuit Dual Cannon"
+    }
+  }
+]

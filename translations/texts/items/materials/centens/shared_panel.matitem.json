@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensblockpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/centens/centensgroundpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/centens/centenshoripanel.matitem": [
+        "/description"
+      ],
+      "items/materials/centens/centenssmoothpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/centens/centensvertpanel.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lightweight panel."
+    }
+  }
+]

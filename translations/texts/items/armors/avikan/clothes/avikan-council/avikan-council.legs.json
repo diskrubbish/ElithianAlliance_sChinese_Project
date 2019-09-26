@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-council/avikan-council.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Councillor's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-council/avikan-council.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A leather skirt worn by Nomada officials."
+    }
+  }
+]

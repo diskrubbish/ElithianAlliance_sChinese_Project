@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/trinkfossil2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised Trink body."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/trinkfossil2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trink Body"
+    }
+  }
+]

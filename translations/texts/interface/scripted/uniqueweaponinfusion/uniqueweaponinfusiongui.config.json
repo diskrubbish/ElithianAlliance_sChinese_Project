@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponinfusion/uniqueweaponinfusiongui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Infusion Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponinfusion/uniqueweaponinfusiongui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Strengthen your Unique equipment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponinfusion/uniqueweaponinfusiongui.config": [
+        "/gui/infoLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destroy equipment to upgrade a Unique item"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponinfusion/uniqueweaponinfusiongui.config": [
+        "/gui/btnInfuse/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Infuse"
+    }
+  }
+]

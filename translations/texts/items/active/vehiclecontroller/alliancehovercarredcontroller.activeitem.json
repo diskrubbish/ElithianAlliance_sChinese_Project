@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/vehiclecontroller/alliancehovercarredcontroller.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Summons a red Aventor Galliot from your ship's cargo hold."
+    }
+  }
+]

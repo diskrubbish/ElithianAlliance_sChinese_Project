@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier3/avikan-tier3.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keeper's Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier3/avikan-tier3.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A segmented bone plate with leather sleeves, worn by Avikan Keepers."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/25ksubscribercelebration.questtemplate": [
+        "/completionText"
+      ],
+      "quests/uniqueweapons/50ksubscribercelebration.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I received another gift from an Aeginian friend. Let's open it!"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkplating.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smooth and thick metal plate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkplating.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Thick metal plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkplating.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doess not know how thick plate iss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkplating.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth as silk, this 'ere plate is."
+    }
+  }
+]

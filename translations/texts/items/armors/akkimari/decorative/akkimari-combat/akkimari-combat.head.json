@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-combat/akkimari-combat.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Combat Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-combat/akkimari-combat.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A heavy helmet offering outstanding protection in combat."
+    }
+  }
+]

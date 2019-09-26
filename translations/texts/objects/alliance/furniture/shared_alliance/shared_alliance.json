@@ -1,0 +1,262 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A luxurious toilet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A place for droppings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toilet. It looks oddly clean."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toilet. It smells quite nice, oddly enough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien chair detected. Analyzing piping functionality..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An odd mix between simplicity and luxury."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien water source."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancedesk/alliancedesk.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected desk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't need toilets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oddly enough, this open toilet does not smell at all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny place for sssmelly business."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi make oddly comfortable toilets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This toilet doesn't smell bad, despite the fact that it is always open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This toilet is amazing! So much better than the ones at home..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This toilet neutralizes the air inside for a pleasantly unremarkable scent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This toilet uses special cleaning tech for perfect hygiene."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What is this thing?"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/generated/avikan-harbinger/avikan-harbinger.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-powered sniper rifle firing explosive rounds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/generated/avikan-harbinger/avikan-harbinger.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harbinger EX-12"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-tactical/avikan-tactical.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tactical Belt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-tactical/avikan-tactical.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A belt full of tactical equipment."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theacrowdsounds/theacrowdsounds.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crowd Sounds Source"
+    }
+  }
+]

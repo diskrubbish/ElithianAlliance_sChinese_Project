@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikanpoisonspiketrap.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Spike Trap"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikanpoisonspiketrap.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sharp spikes that damage and poison enemies passing over them."
+    }
+  }
+]

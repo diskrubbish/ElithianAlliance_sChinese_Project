@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lightweight, rounded table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Round Table"
+    }
+  }
+]

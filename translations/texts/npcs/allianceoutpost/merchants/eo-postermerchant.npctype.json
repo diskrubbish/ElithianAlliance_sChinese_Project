@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-postermerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Posters for all!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-postermerchant.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "All the posters you ever need, right here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-postermerchant.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do come back!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-postermerchant.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are. What sort of posters are you looking for?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-postermerchant.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have all the posters you'll ever need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-postermerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poster Merchant"
+    }
+  }
+]

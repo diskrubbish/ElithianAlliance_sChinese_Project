@@ -1,0 +1,54 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikandarkgroundpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikandarkpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikansupportpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/trink/trinkgroundpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/trink/trinksupportpanel.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark metal panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikandarkgroundpanel.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikandarkpanel.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikansupportpanel.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/trink/trinkgroundpanel.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/trink/trinkpanel.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/trink/trinksmoothpanel.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/trink/trinksupportpanel.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark metal panelsss"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dim Avikan Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light. Status: active."
+    }
+  }
+]

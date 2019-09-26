@@ -1,0 +1,113 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large container, built by the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large metal cabinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large metal container, for storing personal belongings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large metal container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal cabinet. Its shape makes for an inefficient use of space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal container. It looks sturdy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki open, look inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Containersss full of goodiesss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Avikan Container"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal cabinet is perfect for storing personal belongings."
+    }
+  }
+]

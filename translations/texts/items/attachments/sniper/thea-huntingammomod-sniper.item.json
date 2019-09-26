@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/sniper/thea-huntingammomod-sniper.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunting Ammo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/sniper/thea-huntingammomod-sniper.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sniper ammunition that allows meat and hides to be harvested from targets."
+    }
+  }
+]

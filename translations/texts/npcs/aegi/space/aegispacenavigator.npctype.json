@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacenavigator.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm navigating the ship. I don't have time to talk, sorry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacenavigator.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sorry, I have to concentrate on my work here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacenavigator.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always loved flying ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacenavigator.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "My calling is as ship navigator, so I'm incredibly happy I got accepted onto this ship!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacenavigator.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Navigating ships is a difficult job sometimes. At other times, it's just boring."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacenavigator.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "We detected your ship approaching us. What brings you here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacenavigator.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "We're on our way to one of the Union colonies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacenavigator.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome, traveler. I saw you approaching our ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacenavigator.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where are your journeys taking you, traveler?"
+    }
+  }
+]

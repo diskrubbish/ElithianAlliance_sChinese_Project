@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariplating.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/akkimari/akkimariplatingfront.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplating.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplatingfront.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Scrap metal hull plating. Exact composition unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariplating.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/akkimari/akkimariplatingfront.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplating.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplatingfront.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssscrap metal plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariplating.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/akkimari/akkimariplatingfront.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplating.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplatingfront.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plating was crafted from scrap metal."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/trinkminidrone/trinkminidrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small drone used for patrolling and scouting ahead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/trinkminidrone/trinkminidrone.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Minidrone"
+    }
+  }
+]

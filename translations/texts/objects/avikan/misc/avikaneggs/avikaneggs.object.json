@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A couple of Avikan eggs. They feels odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien eggs. I don't think they're edible."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien eggs. They feel a bit leathery."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual bunch of eggs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are these eggs? They look... odd..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Eggs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan eggs are easily recognized by their leathery skin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan eggs. Estimated date of hatching: unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan eggs. I wonder who laid these?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan eggs. It'll be a while before they hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan eggs. The spawn of new life."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eggs-alien, for cooking and eating. Akki hungry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These eggs feels completely dry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These eggs might hatch in a few months."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These eggs will spawn new life."
+    }
+  }
+]

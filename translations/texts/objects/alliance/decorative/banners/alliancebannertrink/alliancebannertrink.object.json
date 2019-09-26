@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannertrink/alliancebannertrink.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A banner adorned with the emblem of the Trink Circuit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannertrink/alliancebannertrink.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien emblem. Emblem identified as Trink Circuit iconography."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannertrink/alliancebannertrink.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Symbol means it belongs to Circuit-Trink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannertrink/alliancebannertrink.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trink Circuit Banner"
+    }
+  }
+]

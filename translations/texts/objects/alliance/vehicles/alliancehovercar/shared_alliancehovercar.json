@@ -1,0 +1,240 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fast, streamlined vehicle, the Galliot is an Alliance-favourite."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly advanced hover car."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/description"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A luxury personal transportation vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki ride vehicle-alien-fast!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Hovercar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Aventor Galliot, one of the most popular personal transportation vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegant hover vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aventor creates fascinating vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aventor's hovercars are popular throughout the Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aventor's vehicles are used throughout the Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flies like a charm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doess not undersstand how it fliess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "How does this thing achieve flight?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How does this vehicle achieve lift-off?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like a luxury hovercar. Cool!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Galliot is one of Aventor's most popular products."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien vehicle looks fast."
+    }
+  }
+]

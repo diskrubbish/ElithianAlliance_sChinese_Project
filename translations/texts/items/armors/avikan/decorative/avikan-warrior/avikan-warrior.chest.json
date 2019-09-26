@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-warrior/avikan-warrior.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warrior's Chestpiece"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-warrior/avikan-warrior.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A large bone plate to protect the body."
+    }
+  }
+]

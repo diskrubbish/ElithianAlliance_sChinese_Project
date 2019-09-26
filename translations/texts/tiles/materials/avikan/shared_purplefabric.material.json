@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlesspurplefabric.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanpurplefabric.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple sheet of fabric. Makes a good tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlesspurplefabric.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanpurplefabric.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Rhaiod-decorated tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlesspurplefabric.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/avikan/avikanpurplefabric.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fabric-coloured, Akki like colour."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlesspurplefabric.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanpurplefabric.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am uncertain what to think of this colour."
+    }
+  }
+]

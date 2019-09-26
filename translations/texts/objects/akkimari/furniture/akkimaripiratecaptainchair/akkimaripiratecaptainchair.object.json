@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chair built from scrap. It looks intimidating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chair hung from the ceiling with some strange wires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A scavenger's throne."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A scrap metal chair hung from some ropes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A scrappy chair suspended with strong silken threads."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A scrappy hanging chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange but comfortable chair suspended using some sort of ropes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange chair hung from some ropes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Pirate Captain Chair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chair for chieftain. Respect-great for chieftain-strong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien chair. Silken threads exceed material strength expectations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wonderss why thisss chair iss hanging."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair is comfortable, but it feels strange to not be touching the ground."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair looks like the throne of some scavenger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair looks pretty cool."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This don't look safe to sit in..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like the chair of a commander."
+    }
+  }
+]

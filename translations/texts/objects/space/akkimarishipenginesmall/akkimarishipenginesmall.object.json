@@ -1,0 +1,190 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A propulsion engine for a small ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ship engine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ship's propulsion engine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but elegantly designed propulsion engine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small ship engine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Frigate Engine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien-built propulsion engine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient ship engine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An engine for a small ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An engine. It's likely for a frigate, or some other small ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected ship engine. Calculating thrust capacity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engine for flying ship, make ship go fast!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssship engine. Fire hazzzard..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The engine of an Akkimari frigate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The large propulsion engine of an Akris frigate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This engine will produce quite the roar if it is activated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This propulsion engine is likely for a frigate."
+    }
+  }
+]

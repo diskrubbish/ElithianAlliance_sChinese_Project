@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/monsterhide.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Monster Hide"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/monsterhide.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The hide of some alien monster, cut using an Avikan hunting weapon."
+    }
+  }
+]

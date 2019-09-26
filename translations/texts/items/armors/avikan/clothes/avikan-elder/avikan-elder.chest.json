@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-elder/avikan-elder.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder's Robes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-elder/avikan-elder.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Decorated leather robes, a symbol of the Avikan clan elders."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/alliancecrewcontract.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A contract for hiring the services of Alliance crew members."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/alliancecrewcontract.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Alliance Crew Contract^white;"
+    }
+  }
+]

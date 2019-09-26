@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-overheatgun-unique-mf.itemdescription": [
+        "/shotsToOverheatTitleLabel/value"
+      ],
+      "interface/tooltips/thea-overheatgun-unique-mf.tooltip": [
+        "/shotsToOverheatTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shots to Overheat:"
+    }
+  }
+]

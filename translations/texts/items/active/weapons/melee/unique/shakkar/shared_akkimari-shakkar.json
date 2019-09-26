@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/shakkar/akkimari-shakkar-npc.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/unique/shakkar/akkimari-shakkar.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A brutal spear with an electrified blade."
+    }
+  }
+]

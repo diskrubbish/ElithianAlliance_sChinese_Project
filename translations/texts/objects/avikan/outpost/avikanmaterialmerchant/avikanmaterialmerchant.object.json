@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran give materialss, Floran getsss tokenss here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon this fella will give me tokens of merit for my materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems I can exchange my materials for tokens of merit here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Merchant detected. Offers tokens of merit for exchanged materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Robot give Akki tokens, if Akki give robot materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Droden will exchange my materials for tokens of merit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This merchant will exchange my materials for tokens of merit."
+    }
+  }
+]

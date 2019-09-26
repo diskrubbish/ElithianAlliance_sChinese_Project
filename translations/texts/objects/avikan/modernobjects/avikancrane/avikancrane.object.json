@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crane for moving cargo. Where are the controls?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crane, probably used to load cargo onto ships and the like."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crane."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large crane for moving cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large crane. How would one control this?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mechanical crane of Avikan design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mechanical crane, for moving cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mechanical crane, useful for moving cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mechanical crane. How do the controls work?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mechanical crane. It can carry a lot of weight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Crane"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crane-mechanical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesss not like big metal armsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How does this crane's input interface work?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crane can carry a lot of weight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crane is inefficient. It requires more hinges."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Utility: moving cargo."
+    }
+  }
+]

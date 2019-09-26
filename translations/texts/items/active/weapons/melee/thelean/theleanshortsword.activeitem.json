@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/thelean/theleanshortsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light Thelean blade. The grip is very uncomfortable to non-Theleans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/thelean/theleanshortsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Shortblade"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceuniform-trink.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, ambassador! I have your Alliance body mods ready for you: here you are."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceuniform-trink.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I received my official Elithian Alliance body mods. Let's install them!"
+    }
+  }
+]

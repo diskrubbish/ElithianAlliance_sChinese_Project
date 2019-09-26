@@ -1,0 +1,193 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flickering light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/description"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/description"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A malfunctioning light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underpowered light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken light makesss Floran dizzy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light detected. Status: broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light ain't gettin' enough power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light is malfunctioning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light isn't getting enough power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light isn't working properly. The ship engineer should take a look at it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light's on the blink."
+    }
+  }
+]

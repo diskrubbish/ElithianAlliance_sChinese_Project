@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancepipe.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanheavypipe.matitem": [
+        "/description"
+      ],
+      "items/materials/trink/trinkpipe.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancepipe.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanheavypipe.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy, thick pipe. This isn't going to leak."
+    }
+  }
+]

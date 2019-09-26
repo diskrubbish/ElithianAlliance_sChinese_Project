@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-rogue2/avikan-rogue2.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rogue's Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-rogue2/avikan-rogue2.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A chestplate and robes worn by those who deal in shady business."
+    }
+  }
+]

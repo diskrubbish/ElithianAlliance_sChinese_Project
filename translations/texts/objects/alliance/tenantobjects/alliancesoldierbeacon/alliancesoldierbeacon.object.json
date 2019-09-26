@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Soldier Beacon"
+    }
+  }
+]

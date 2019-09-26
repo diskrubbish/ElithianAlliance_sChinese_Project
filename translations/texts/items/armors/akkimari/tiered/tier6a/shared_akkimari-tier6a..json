@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier6a/akkimari-tier6a.chest": [
+        "/description"
+      ],
+      "items/armors/akkimari/tiered/tier6a/akkimari-tier6a.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A high-tech combat suit worn by Akkimari elites. Energetic version."
+    }
+  }
+]

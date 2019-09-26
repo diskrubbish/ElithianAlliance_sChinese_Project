@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/merchants/eo-hotbrodmerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ],
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hotbröd Stand"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanoathkeeperblade.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The broken blade of a once-famous sword. Its still very sharp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanoathkeeperblade.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Broken Blade of Fame^white;"
+    }
+  }
+]

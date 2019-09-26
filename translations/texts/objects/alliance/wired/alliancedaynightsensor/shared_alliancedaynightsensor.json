@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensorhidden.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Day/Night Sensor"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/lblJanitor/value"
+      ],
+      "npcs/crew/alliance/crewmemberalliancejanitor.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Janitor"
+    }
+  }
+]

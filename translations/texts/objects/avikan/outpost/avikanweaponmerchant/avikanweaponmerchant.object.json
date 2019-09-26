@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanweaponmerchant/avikanweaponmerchant.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Odyin's Weapons Cache"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanweaponmerchant/avikanweaponmerchant.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  The Nomada's best."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanweaponmerchant/avikanweaponmerchant.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Vanguard weapons distributor, Odyin as-Rhadeis offers only the best goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanweaponmerchant/avikanweaponmerchant.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien-tough. Make for fight-good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanweaponmerchant/avikanweaponmerchant.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Vanguard-approved weapons distributor. Name: Odyin as-Rhadeis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanweaponmerchant/avikanweaponmerchant.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Odyin's Weapons Cache"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanweaponmerchant/avikanweaponmerchant.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This merchant offers a variety of weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanweaponmerchant/avikanweaponmerchant.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weaponsss for ssale."
+    }
+  }
+]

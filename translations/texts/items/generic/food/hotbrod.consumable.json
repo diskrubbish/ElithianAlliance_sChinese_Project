@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/hotbrod.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A warm folded piece of bread, with a secret ingredient inside for an amazing taste."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/hotbrod.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hotbröd"
+    }
+  }
+]

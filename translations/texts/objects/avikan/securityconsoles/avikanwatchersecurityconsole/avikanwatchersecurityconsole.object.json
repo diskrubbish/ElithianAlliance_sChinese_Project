@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/securityconsoles/avikanwatchersecurityconsole/avikanwatchersecurityconsole.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki try to hack, Akki fail. Need pass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/securityconsoles/avikanwatchersecurityconsole/avikanwatchersecurityconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watcher Security Console"
+    }
+  }
+]

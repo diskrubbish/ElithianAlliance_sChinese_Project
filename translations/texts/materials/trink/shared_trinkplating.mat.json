@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkplating.matitem": [
+        "/description"
+      ],
+      "tiles/materials/trink/trinkplating.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smooth, dark metal plate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkplating.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/trink/trinkplating.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Plating"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A communications interface, but I have no idea what it connects to."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A communications terminal used by the Trinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A communications terminal, built and used by machines. The Vanguard would want me to destroy it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large communications terminal directly connected to the Circuit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large communications terminal, I think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large, Trinkian-built communications terminal. It is central to any Trinkian settlement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive communications terminal, optimized for use by Trinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A terminal connected to the Circuit. It allows for near-instantaneous communication, regardless of distance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A terminal, for communicating with... something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "COnsole-big, must be important. Akki try to read."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Central Circuit Terminal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected machine-built communications terminal. Recommended action: dismantle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesss not know what thiss isss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta terminal for sure, but I don't know what it does."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The data flowing through this communications terminal is too much for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This terminal allows me to communicate with any other such terminals throughout the galaxy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This terminal looks like it is important to the people here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This terminal uses jumpgates to instantly transmit messages across the galaxy."
+    }
+  }
+]

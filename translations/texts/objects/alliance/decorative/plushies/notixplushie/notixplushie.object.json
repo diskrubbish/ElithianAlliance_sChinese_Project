@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plushie Notix. It is adorable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plushie of some kind of cute alien. I love it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stuffed representation of the Notix. I am uncertain what to think of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stuffed toy. It's actually quite cute."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy Notix made of soft fabrics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy Notix. How... amusing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy for young ones. Not sure what it's supposed to be."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki find it cute."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien toy. It's very soft."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apparantly the Aegi think we Notix are cute."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what the Notix would think of these toys."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Notix Plushie"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These Notix plushies are quite popular."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This toy is rather cute."
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanglass.matitem": [
+        "/florandescription"
+      ],
+      "tiles/materials/alliance/allianceborderlessglass.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/alliance/allianceglass.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glasss."
+    }
+  }
+]

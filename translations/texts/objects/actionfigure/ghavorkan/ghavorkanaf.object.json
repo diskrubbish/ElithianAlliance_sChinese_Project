@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/ghavorkan/ghavorkanaf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ghavorkan Figurine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/ghavorkan/ghavorkanaf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"A twisted creature created by the Theleans.\""
+    }
+  }
+]

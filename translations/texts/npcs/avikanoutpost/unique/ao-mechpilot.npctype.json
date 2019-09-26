@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-mechpilot.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Droden piloting a mech... It must be like a larger body to you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-mechpilot.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you built your own mech yet, Captain?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-mechpilot.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing's more exiciting than piloting a custom-built mech."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-mechpilot.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rehkon"
+    }
+  }
+]

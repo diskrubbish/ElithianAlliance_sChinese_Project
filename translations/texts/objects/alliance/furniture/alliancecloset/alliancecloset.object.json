@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A closet full of clothes and other personal belongings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A closet full of items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A closet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A closet. It has plenty of storage space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large and handy closet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large closet with a built-in wardrobe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large closet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wardrobe, with plenty of space for other items too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aliens collect all sorts of strange items, it seems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Closet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien storage. Scanning items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sshould not be touching other people's sstuff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone filled this closet with all sorts of personal items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Things-many inside. Aliens store items-weird."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This closet contains many personal items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This closet is full of personal items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This spacious closet has room for almost anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What might these items tell about their owner?"
+    }
+  }
+]

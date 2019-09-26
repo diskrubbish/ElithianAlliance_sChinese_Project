@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanegg/avikanegg.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eggsss for eating?"
+    }
+  }
+]

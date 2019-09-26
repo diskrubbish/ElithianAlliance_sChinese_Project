@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5m/trink-tier5m.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Utilitarian Optics Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5m/trink-tier5m.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;HEAD SLOT. ^white;A high-grade rubium optics mod."
+    }
+  }
+]

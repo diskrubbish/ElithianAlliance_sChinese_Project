@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sheet-top, act as roof."
+    }
+  }
+]

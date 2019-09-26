@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A satellite dish for receiving signals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dish-radar goes around, around, around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Satellite Dish"
+    }
+  }
+]

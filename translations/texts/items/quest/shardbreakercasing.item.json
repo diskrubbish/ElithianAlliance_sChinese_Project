@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/shardbreakercasing.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient metal casing, likely part of some broken tool. Perhaps it can be mended."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/shardbreakercasing.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Broken Ancient Casing^white;"
+    }
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A place for upgrading weapons"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A place where I can upgrade my weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A workshop for improving weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/description"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A workshop that allows weapons to be upgraded into more powerful versions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien workshop. Some weapons could be upgraded here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Workshop. Allows specific weapons to be upgraded for greater power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran improvesss weaponss here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can improve certain weapons here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can improve my weapons here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I have some upgrade kits, I can improve my weapons here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "My rifles could use a bit of improvement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This workshop allows me to upgrade certain weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This workshop offers all the tools needed to upgrade my weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons can be upgraded here, so that even weak weapons are never wasted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "With the right tools, weapons can be upgraded here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "With the right upgrade kit, many a weapon could be improved here."
+    }
+  }
+]

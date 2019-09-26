@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shop full of teleporters. A set up for the perfect getaway..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shop sellin' teleporters... If you've got a pot of pixels to spare."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shop selling teleporters. Maybe I should browse it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shop selling teleporters. This could come in handy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vendor selling teleportation devices!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki buy teleporter here. Akki use to infiltrate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can buy teleportersss from this shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh, it's a shop selling teleportation devices! Very useful to know."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tele-2-Go"
+    }
+  }
+]

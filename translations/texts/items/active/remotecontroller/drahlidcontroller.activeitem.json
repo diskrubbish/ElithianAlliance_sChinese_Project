@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/remotecontroller/drahlidcontroller.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Allows you to summon and control a small Drahlid unit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/remotecontroller/drahlidcontroller.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drahlid Remote Controller"
+    }
+  }
+]

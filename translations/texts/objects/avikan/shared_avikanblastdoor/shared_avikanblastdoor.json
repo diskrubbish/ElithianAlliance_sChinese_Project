@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Blast Door"
+    }
+  }
+]

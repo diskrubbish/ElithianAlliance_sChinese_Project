@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Rhaiod tent awning. The Gods are worshipped here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorated tent awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple tent awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple-coloured tent awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent awning decorated in the style of the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent awning made of purple fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An awning for Rhaiod tents."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An oddly coloured tent awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fabric tent awning. Colour suggests this tent belongs to the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purple colourss make Floran feel odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purple is an odd colour for such a tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhaiod Awning"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fabric of this tent awning was woven with great care."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The quality and colour of this awning clearly marks this tent as a Rhaiod temple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The quality of this fabric is unusually high for Avikan tents."
+    }
+  }
+]

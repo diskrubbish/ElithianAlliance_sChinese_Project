@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/allianceexplosivecharge.thrownitem": [
+        "/description"
+      ],
+      "items/throwables/avikanexplosive.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An explosive for breaching walls. ^red;CAUTION: High damage to objects and tiles!^white;"
+    }
+  }
+]

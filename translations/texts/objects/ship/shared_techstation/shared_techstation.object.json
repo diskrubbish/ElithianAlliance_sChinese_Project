@@ -1,0 +1,556 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console for communicating with SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A station for interacting with SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected SAIL interface. Console enables communication with SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakeUp/3/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Earth was attacked by an unknown force, and was subsequently annihilated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran use thisss magic panel to talk to SAIL!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakeUp/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am S.A.I.L, your Ship-based Artificial Intelligence Lattice. I manage the maintainance of your ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakeUp/2/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am also programmed to offer you information and advice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can speak to SAIL using this console. It's good to have another AI on the ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can talk to SAIL through this console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can use this station to talk to SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakePlayer/1/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please reboot the system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakePlayer/2/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reboot process remains uninitiated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakePlayer/4/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebooting has shown to improve ship interaction satisfaction levels by 73%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakePlayer/5/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebooting requires a conscious entity to interact with the S.A.I.L console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakeUp/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebooting..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "S.A.I.L"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "SAIL is one companion who will never fail you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/description"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/description"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakePlayer/0/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "System is down, please reboot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Nomada doesn't like AIs like SAIL, but the Protectorate insisted on installing it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakeUp/4/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's navigation systems were damaged in our escape. Our location is currently unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console allows for interaction with SAIL. It's nice to have someone to talk to."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console allows me to communicate with SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here station let's me talk with SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panel allows for interaction with SAIL, the ship-based AI."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station allows me to communicate with SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station allows me to talk to SAIL."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/dialog/wakePlayer/3/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "To make use of your S.A.I.L please reboot."
+    }
+  }
+]

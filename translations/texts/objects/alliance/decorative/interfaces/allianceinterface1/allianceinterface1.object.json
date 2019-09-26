@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interface displaying tactical information."
+    }
+  }
+]

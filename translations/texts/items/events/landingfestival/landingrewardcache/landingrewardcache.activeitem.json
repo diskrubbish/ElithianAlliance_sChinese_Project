@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/landingfestival/landingrewardcache/landingrewardcache.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wrapped present containing something special. Hold ^green;[LMB] ^white;to open!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/landingfestival/landingrewardcache/landingrewardcache.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Special Present^reset;"
+    }
+  }
+]

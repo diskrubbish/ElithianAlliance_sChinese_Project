@@ -1,0 +1,48 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien bedding detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien chair."
+    }
+  }
+]

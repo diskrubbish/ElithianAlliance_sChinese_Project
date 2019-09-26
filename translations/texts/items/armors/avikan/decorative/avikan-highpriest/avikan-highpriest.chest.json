@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-highpriest/avikan-highpriest.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhaiod Robe"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-highpriest/avikan-highpriest.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A long robe worn by high priests of the Rhaiod."
+    }
+  }
+]

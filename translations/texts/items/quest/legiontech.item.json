@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/legiontech.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A unique switch gear used in rare Droden weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/legiontech.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Legion Switch Gear^white;"
+    }
+  }
+]

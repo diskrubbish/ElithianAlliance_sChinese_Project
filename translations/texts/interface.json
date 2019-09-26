@@ -1,0 +1,168 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-food-patreon.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sealedcache-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sealedcache.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-tool-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/scripted/avikanmaterialmerchant/avikanmaterialmerchantgui.config": [
+        "/gui/lblTokens/value"
+      ],
+      "interface/tooltips/thea-armor-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-armorwide-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-attachment-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-attachment.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-food-patreon.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-sealedcache-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-sealedcache.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-tool-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/windowconfig/akkimaricrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/akkimariinventorcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/avikanleathercrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/drodenframecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/jumpgateuplinkstationcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ],
+      "interface/windowconfig/trinkcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/allianceweaponimprovement/akkimariweaponimprovementgui.config": [
+        "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/scripted/allianceweaponimprovement/allianceweaponimprovementgui.config": [
+        "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/scripted/uniqueweaponcollection/uniqueweaponcollectiongui.config": [
+        "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/scripted/vehiclerepair/alliance-vehiclerepairgui.config": [
+        "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/scripted/vehiclerepair/avikan-vehiclerepairgui.config": [
+        "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/akkimaricrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/akkimariinventorcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avikanleathercrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/drodenframecrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/jumpgateuplinkstationcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ],
+      "interface/windowconfig/trinkcrafting.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Replace Me"
+    }
+  }
+]

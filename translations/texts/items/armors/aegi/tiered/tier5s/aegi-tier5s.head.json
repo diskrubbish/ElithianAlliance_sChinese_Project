@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier5s/aegi-tier5s.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explorer's Helmet Type-S"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier5s/aegi-tier5s.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A helmet with a large visor of durable plastics. Vigorous version."
+    }
+  }
+]

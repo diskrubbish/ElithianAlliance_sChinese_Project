@@ -1,0 +1,82 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaripressureplate/akkimaripressureplate.object": [
+        "/description"
+      ],
+      "objects/alliance/wired/alliancepressureplate/alliancepressureplate.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikanpressureplate/avikanpressureplate.object": [
+        "/description"
+      ],
+      "objects/trink/wired/trinkpressureplate/trinkpressureplate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pressure plate that activates when stood on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaripressureplate/akkimaripressureplate.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/wired/alliancepressureplate/alliancepressureplate.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/wired/avikanpressureplate/avikanpressureplate.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/wired/trinkpressureplate/trinkpressureplate.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Pressure plate. Activated when stood upon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaripressureplate/akkimaripressureplate.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/wired/alliancepressureplate/alliancepressureplate.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanpressureplate/avikanpressureplate.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/wired/trinkpressureplate/trinkpressureplate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sstand on platess, thingsss happen!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaripressureplate/akkimaripressureplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/wired/alliancepressureplate/alliancepressureplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikanpressureplate/avikanpressureplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/wired/trinkpressureplate/trinkpressureplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something might happen if I stand on this pressure plate."
+    }
+  }
+]

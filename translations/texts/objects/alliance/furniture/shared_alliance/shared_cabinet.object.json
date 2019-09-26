@@ -1,0 +1,174 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cabinet, for storage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cabinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cabinet. Little else to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty regular cabinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/apexDescription",
+        "/novakidDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/apexDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple cabinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien storage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knowsss thiss iss a cabinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/avianDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/avianDescription",
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a cabinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply a cabinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kind of cabinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storage. Not sure for what, though."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There isn't much to this cabinet."
+    }
+  }
+]

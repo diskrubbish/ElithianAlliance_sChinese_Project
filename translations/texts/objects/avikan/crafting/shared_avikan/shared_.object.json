@@ -1,0 +1,271 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Tanning Rack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Leather furniture and items"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive tool, but this tanning rack should allow me to craft some nice leather items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple tanning rack. I can craft items made of leather here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tannin' rack? Let's go make me some new boots!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/trinkDescription",
+        "/upgradeStages/0/itemSpawnParameters/trinkDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tanning rack. It does its job, but not very efficiently."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tanning rack. It saddens me to think that this skin once belonged to a living, breathing creature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/erixianDescription",
+        "/upgradeStages/0/itemSpawnParameters/erixianDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tool from ancient times. Who still uses such things these days?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/avikanDescription",
+        "/upgradeStages/0/itemSpawnParameters/avikanDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional tanning rack. I can craft many leather items here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/aegiDescription",
+        "/upgradeStages/0/itemSpawnParameters/aegiDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "All the equipment you need for crafting leather items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/drodenDescription",
+        "/upgradeStages/0/itemSpawnParameters/drodenDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Tanning rack. Used to construct equipment and other items made of leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran use tanning rack to craft leather from monsster sskin..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/notixDescription",
+        "/upgradeStages/0/itemSpawnParameters/notixDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could craft some leather items here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/hymidDescription",
+        "/upgradeStages/0/itemSpawnParameters/hymidDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather isn't the prettiest material, but items crafted from it are certainly tough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tanning leather is a very time consuming practise."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/avianDescription",
+        "/upgradeStages/0/itemSpawnParameters/avianDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tanning racks are primitive tools, but they're still very usable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/jorgasianDescription",
+        "/upgradeStages/0/itemSpawnParameters/jorgasianDescription"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tanning racks are still widely used amongst the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/description",
+        "/upgradeStages/0/itemSpawnParameters/description"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The tanning rack is used for constructing items made of monster leather."
+    }
+  }
+]

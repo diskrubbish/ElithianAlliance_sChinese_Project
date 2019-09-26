@@ -1,0 +1,103 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright tapestry displaying the Vanguard's emblem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful tapestry displaying a bold-looking emblem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Vanguard Tapestry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bold alien mark all over thisss tapessstry..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Vanguard emblem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tapestry with symbol. Symbol for Vanguard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tapestry shows the emblem of our grand military fleet, the Vanguard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
+        "/aegiDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/hyvonDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tapestry shows the emblem of the Vanguard, the Avikian military fleet."
+    }
+  }
+]

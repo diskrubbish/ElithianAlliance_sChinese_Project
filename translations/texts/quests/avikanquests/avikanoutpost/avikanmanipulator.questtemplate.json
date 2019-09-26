@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanmanipulator.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Zaheed ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanmanipulator.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Vanguard are eager to study and replicate the Matter Manipulator you retrieved from the Protectorate, but they need some materials. ^green;I'm assigning you with retrieving ^orange;20 Manipulator Modules ^green;so that the Vanguard can start replicating the device. ^reset;You'll be rewarded for it too, of course."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanmanipulator.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done, Captain. I will have my Watchers bring these to the Vanguard. In the mean time, they built you a new casing for your own Matter Manipulator - one more befitting of a Captain of the Nomada. Enjoy it, Captain."
+    }
+  }
+]

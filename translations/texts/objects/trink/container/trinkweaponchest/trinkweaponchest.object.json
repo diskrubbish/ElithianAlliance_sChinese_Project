@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-grade military supply crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine-built supply crate. It might offer me an advantage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A military equipment case, built by the Trinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal supply crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A supply crate built for transporting weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A supply crate built to withstand anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A supply crate like this is likely to hold valuables."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A supply crate used by the Circuit's military unit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chest-military. Akki find weapons inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Circuit Supply Crate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected machine-built supply crate. Recommend salvaging for parts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think there might be weapons inside!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's look inside o' it already!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Circuit supply crate might hold weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like a military weapons cache. Let's open it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This seems to be a Circuit supply crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This supply crate uses materials of the best quality."
+    }
+  }
+]

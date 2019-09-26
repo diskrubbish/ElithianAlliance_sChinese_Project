@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancehullpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanslopedpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanslopedpanel2.matitem": [
+        "/description"
+      ],
+      "items/materials/trink/trinkslopedpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/akkimari/akkimarihullpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancehullpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel2.material": [
+        "/description"
+      ],
+      "tiles/materials/trink/trinkslopedpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durable metal plating, often used in the construction of spacestations and spaceships."
+    }
+  }
+]

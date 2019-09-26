@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/hats/aegi-fedora/aegi-fedora.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Union Fedora"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/hats/aegi-fedora/aegi-fedora.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A classy fedora."
+    }
+  }
+]

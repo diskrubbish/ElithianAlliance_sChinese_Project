@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-festive/avikan-festive.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Festive Robes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-festive/avikan-festive.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Colourful robes worn during festive events."
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegibriggsguardian.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegibriggsguardian.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Junior <field> <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegibriggsguardian.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Senior <field> <role>"
+    }
+  }
+]

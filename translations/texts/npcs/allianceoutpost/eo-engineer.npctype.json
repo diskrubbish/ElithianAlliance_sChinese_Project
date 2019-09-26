@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-engineer.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are your vehicles in need of repair? You should see Faro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-engineer.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Azurii is a mech specialist, but Faro knows his way around pretty much all other vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-engineer.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Faro can repair your vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-engineer.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Faro's a great mechanic. He's even better than many Trink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-engineer.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I just love working on vehicles and other machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-engineer.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here to help the Aegi keep their machines at peak efficiency."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-engineer.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got a crush on Azurii, but don't tell her!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-engineer.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Need some engineering advice?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-engineer.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Need some vehicles repaired? Talk to Faro."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-engineer.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We Trink are in high demand in engineering facilities."
+    }
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanslopedglass.matitem": [
+        "/description"
+      ],
+      "items/materials/trink/trinkslopedglass.matitem": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanslopedglass.material": [
+        "/description"
+      ],
+      "tiles/materials/trink/trinkslopedglass.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick and strong glass often used on board spaceships."
+    }
+  }
+]

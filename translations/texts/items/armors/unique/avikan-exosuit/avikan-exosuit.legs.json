@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/avikan-exosuit/avikan-exosuit.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;An exosuit built to enhance the agility of Vanguard soldiers. The reinforced spine also reduces fall damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/avikan-exosuit/avikan-exosuit.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Vanguard Exo-suit^white;"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/akkimari-stalker/akkimari-stalker.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A tactical helmet that marks enemies on the integrated HUD."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/akkimari-stalker/akkimari-stalker.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Akris Stalker Helmet^white;"
+    }
+  }
+]

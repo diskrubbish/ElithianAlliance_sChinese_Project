@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flying transport vehicle. It would be better with wings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ground-to-space transport vessel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shuttle, for ground-to-space transportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek transportation vessel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard Alliance shuttle, the ASA-26 Ranger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Shuttlecraft"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ASA-26 Ranger, the standard shuttle used throughout the Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien shuttle. It reminds me a bit of our own dropships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien spacecraft."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even in the Triple Monarchy, the ASA-26 Ranger is a common sight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flying in sssmall sship makess Floran sssick."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure this'll fly like a charm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "No other shuttle is as widely used as the always-reliable ASA-26 Ranger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ASA-26 Ranger is a highly efficient shuttle, and deserves to be so popular."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ASA-26 Ranger, perhaps the most popular vehicle built by ASA."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shuttle can transport people and cargo from the surface to spaceships in orbit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vehicle can easily transport people and cargo from the ground into orbit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vehicle-armoured."
+    }
+  }
+]

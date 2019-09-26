@@ -1,0 +1,260 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity device. It could trigger something if I'm near."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/description"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity scanner which will activate when it senses entities nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/jorgasianDescription",
+        "/notixDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/jorgasianDescription",
+        "/notixDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/jorgasianDescription",
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity scanner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity scanner. Is it watching me right now?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity sensor. It can tell when I'm near."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity sensor. It will activate when I come close."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity sensor. Should I come closer?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A proximity sensor. What will happen when I get close?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected proximity scanner. Activation will occur when this unit is nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a proximity device. It'll sense when I get close to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssscanning eye on the wall. It's looking at me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This proximity scanner might be aware of me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This proximity scanner scans for both organic and synthetic creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This proximity sensor will activate when I come close."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This scanning device can tell when I'm present."
+    }
+  }
+]

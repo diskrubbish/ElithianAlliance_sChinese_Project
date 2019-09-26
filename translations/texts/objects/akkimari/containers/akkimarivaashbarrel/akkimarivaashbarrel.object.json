@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barrel built to hold something fierce."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barrel built to hold something highly acidic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barrel full of some sort of glowing substance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barrel of Vaash. It's not a substance I'd recommend touching."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reinforced container built to hold Vaash."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange substance is found inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akkimari Vaash Barrel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Barrel hold Vaash, so Akki don't burn."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected unidentified substance within. Recommending extreme caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green water in barrelsss. Floran ssshould not drink it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't think I want to touch whatever is inside this reinforced barrel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If there's Vaash in there, I should be careful. That substance is extremely dangerous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Akkimari built this barrel to hold Vaash. A regular metal barrel would just melt away."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The contents of this barrel look dangerous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The strange green liquid inside glows brightly. Better not touch it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a weird glowing liquid inside. I think I shouldn't touch it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This barrel was made to hold Vaash, a substance that burns away flesh and metal both."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This barrel's contents don't look very safe..."
+    }
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brightly coloured sheet of fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful fabric top sheet. Keeps tents cool on the inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful sheet of fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nice fabric sheet, used for making tents."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sheet of colourful fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/description"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sheet of fabric used as a tent roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sheet of fabric used in the construction of tents."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A top sheet made of bright fabric. An essential part of a good tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A top sheet made of fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A top sheet made of fabric. Few nomads can afford tents of such materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Fabric Top Sheet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colourful fabric, used a a tent roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This top sheet is made of fabric."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/unique/thea-fireworkattachment.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Fireworks Launcher^reset;"
+    }
+  }
+]

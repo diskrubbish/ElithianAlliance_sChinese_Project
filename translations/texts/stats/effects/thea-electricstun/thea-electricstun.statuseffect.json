@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-electricstun/thea-electricstun.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stunned"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/clothing/akkimari-weaver/akkimari-weaver.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weaver's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/clothing/akkimari-weaver/akkimari-weaver.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A silken skirt worn by silk-weavers."
+    }
+  }
+]

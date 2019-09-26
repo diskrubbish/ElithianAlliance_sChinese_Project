@@ -1,0 +1,128 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ],
+      "npcs/events/landingfestival/landing-lounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy Landing Festival!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ],
+      "npcs/events/landingfestival/landing-lounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy holidays to you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ],
+      "npcs/events/landingfestival/landing-lounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you been to the Festival Hall before?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/events/landingfestival/landing-lounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ],
+      "npcs/events/landingfestival/landing-lounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey there!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ],
+      "npcs/events/landingfestival/landing-lounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this your first time in the Festival Hall?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/9"
+      ],
+      "npcs/events/landingfestival/landing-lounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's quite cold here, don't you think?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/events/landingfestival/landing-lounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Festival Hall is great again this year!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/landingfestival/landing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ],
+      "npcs/events/landingfestival/landing-lounger.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Festival Hall, stranger!"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanborderlessfabric.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanborderlessfabric.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Borderless Avikan Fabric"
+    }
+  }
+]

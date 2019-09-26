@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A carved pumpkin for celebrating the Harrowing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large pumpkin with a crudely carved face."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pumpkin carved for the Harrowing! I've heard this tradition predates our arrival on Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pumpkin with a face carved into it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange plant with bits cut out of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki want to taste plant-alien! Akki not worried of getting sick."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien plant with a weird face carved into it. Why waste such good food?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An odd tradition. The Aegi carve faces into these plants for their annual Harrowing celebration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Alien plantlife. Detected symmetrical carvings. Purpose unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran carve ssscary facess in pumpkinss to ssspook children!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harrowing Pumpkin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not spooked by this pumpkin!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a Halloween pumpkin! I think..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a Terran plant with a face carved into it. The Aegi have strange traditions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like it's meant to spook folks. It ain't working for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi carve these plants for the Harrowing. It seems like a fun tradition."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plant is oddly shaped. It almost resembles a Trink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yikes!"
+    }
+  }
+]

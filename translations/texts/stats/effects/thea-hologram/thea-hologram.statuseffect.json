@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-hologram/thea-hologram.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holographic"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/avikanbowstaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic combat staff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/avikanbowstaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Combat Staff"
+    }
+  }
+]

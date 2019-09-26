@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-formal/aegi-formal.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/aegi/clothing/aegi-formal/aegi-formal.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Formal Union Attire"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-formal/aegi-formal.chest": [
+        "/description"
+      ],
+      "items/armors/aegi/clothing/aegi-formal/aegi-formal.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The perfect attire for a formal evening."
+    }
+  }
+]

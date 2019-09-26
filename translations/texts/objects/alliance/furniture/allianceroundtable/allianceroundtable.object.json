@@ -1,0 +1,159 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A conference table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large conference table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large round table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/description",
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large rounded conference table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table big enough for a whole crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table fit for meetings between leaders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki can't steal table-large."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Conference Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected large table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quite the conference table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of large table. Perhaps aliens meet here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's quite the table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The size suggests this is a conference table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table is used for important meetings."
+    }
+  }
+]

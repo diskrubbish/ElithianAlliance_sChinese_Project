@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hologram displaying real-time information about Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large hologram. Is this the planet Elithia?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large holographic display of Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large holographic projection of Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large planetary hologram."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive holographic projection of Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected holographic projection. Analyzing. Reporting findings to Nomada command."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hologram of Elithia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hologram-great of Elithia. Akki impressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that's a hologram."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planet made of lightsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's quite the hologram."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's quite the holographic display."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Nomada might learn something from this projection."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hologram buzzes quite loudly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hologram instills a sense of serenity in me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hologram is updated in real-time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What a beautiful planet."
+    }
+  }
+]

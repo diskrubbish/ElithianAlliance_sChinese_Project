@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-openhelmet/avikan-openhelmet.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Open Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-openhelmet/avikan-openhelmet.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;An Avikan helmet with built-in air filters, but no canopy."
+    }
+  }
+]

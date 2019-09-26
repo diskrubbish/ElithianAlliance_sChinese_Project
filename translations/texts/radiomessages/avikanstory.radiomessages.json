@@ -1,0 +1,104 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/avikanstory.radiomessages": [
+        "/avikanmission1-arrival1/senderName",
+        "/avikanmission1-arrival2/senderName",
+        "/avikanmission1-theleanship1/senderName",
+        "/avikanmission1-theleanship2/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Commander Zaheed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/avikanstory.radiomessages": [
+        "/avikanmission1-theleanscout/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am detecting Thelean lifesigns beyond that locked door. I advice you climb into the airducts above and prepare a surprise attack."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/avikanstory.radiomessages": [
+        "/avikanmission1-ghavorkan1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am detecting an unknown lifesign in the next room. Be on your guard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/avikanstory.radiomessages": [
+        "/avikanmission1-arrival1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I see you've arrived at Dhakorin. The colony we lost contact with is just over the rise to the east."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/avikanstory.radiomessages": [
+        "/avikanmission1-breakfloor1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems the way ahead is blocked, but I am detecting a structural weakness in the floor. Perhaps you can break through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/avikanstory.radiomessages": [
+        "/avikanmission1-crashedship/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scans indicate that this ship was recently shot down. The burn marks are consistent with Thelean weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/avikanstory.radiomessages": [
+        "/avikanmission1-theleanship1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean ships... It seems my fears have been confirmed: the colony was attacked by the Thell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/avikanstory.radiomessages": [
+        "/avikanmission1-arrival2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We must know what happened to the colony. Please, hurry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/avikanstory.radiomessages": [
+        "/avikanmission1-theleanship2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You must hurry inside, Captain. If the ships are still outside, there must still be Thell within the colony."
+    }
+  }
+]

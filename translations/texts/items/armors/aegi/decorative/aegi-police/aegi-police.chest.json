@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-police/aegi-police.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "P-ASA Uniform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-police/aegi-police.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The uniform worn by Union law enforcement."
+    }
+  }
+]

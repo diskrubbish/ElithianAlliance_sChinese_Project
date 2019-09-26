@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien number. I believe it is six."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien symbol for the number six."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number Six"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number six in an alien script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number six, in the Avikan Script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number six."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number-alien. Six, Akki thinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number. Six."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems this number means six."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Six in some alien script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien symbol means six."
+    }
+  }
+]

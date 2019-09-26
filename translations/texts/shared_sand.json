@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/quicksand.liqitem": [
+        "/shortdescription"
+      ],
+      "stats/effects/sandslowdown/sandslowdown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quicksand"
+    }
+  }
+]

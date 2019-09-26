@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  For all your semi-legal goods"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine, and a shady one at that. I should be careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien-shady sells stuff-good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected unregistered robotic merchant. Recommending caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshady looking robot can ssell Floran many goodsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Trink looks shady..."
+    }
+  }
+]

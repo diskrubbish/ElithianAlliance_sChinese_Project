@@ -1,0 +1,104 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry1/avikanoutpostrhaiodtapestry1.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry2/avikanoutpostrhaiodtapestry2.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry3/avikanoutpostrhaiodtapestry3.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large Rhaiod tapestry. The Rhaiod's monolith is easily recognizable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry1/avikanoutpostrhaiodtapestry1.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry2/avikanoutpostrhaiodtapestry2.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry3/avikanoutpostrhaiodtapestry3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large sheet of purple fabric. Not sure what those markings mean."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry1/avikanoutpostrhaiodtapestry1.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry2/avikanoutpostrhaiodtapestry2.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry3/avikanoutpostrhaiodtapestry3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large tapestry made of a purple fabric. The markings look religious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry1/avikanoutpostrhaiodtapestry1.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry2/avikanoutpostrhaiodtapestry2.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry3/avikanoutpostrhaiodtapestry3.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Rhaiod-marked tapestry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry1/avikanoutpostrhaiodtapestry1.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry2/avikanoutpostrhaiodtapestry2.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry3/avikanoutpostrhaiodtapestry3.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purple ssheets make Floran sssick."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry1/avikanoutpostrhaiodtapestry1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry2/avikanoutpostrhaiodtapestry2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry3/avikanoutpostrhaiodtapestry3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The markings on these tapestries look religious."
+    }
+  }
+]

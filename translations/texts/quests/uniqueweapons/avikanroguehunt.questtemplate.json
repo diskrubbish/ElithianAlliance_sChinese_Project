@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/avikanroguehunt.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Defeat the ^orange;Bandit Leader^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/avikanroguehunt.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been having issues with thieves intercepting my supplies... I managed to track the thieves to their hideout, but I can't go in there myself. Could you help me out? ^green;Take out their ^orange;leader^reset;, and I'll reward you with one of my latest ^orange;prototype weapons^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/avikanroguehunt.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Ayurin^reset; in the ^orange;Starfarer's Refuge^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/avikanroguehunt.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Ayurin^reset; to warp down to the ^orange;thieves' hideout^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/avikanroguehunt.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vas Vha'leih, my friend! You've done me a great service today. Here's the prototype weapon I promised you: I call it ^orange;Ayurin's Wrath^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/avikanroguehunt.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Ayurin's Supplies"
+    }
+  }
+]

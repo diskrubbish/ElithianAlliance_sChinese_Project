@@ -1,0 +1,88 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/apexDescription",
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/apexDescription",
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy metal table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal table. It doesn't rust."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal table. Solid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Table-metal. Clean-very."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table is rather heavy."
+    }
+  }
+]

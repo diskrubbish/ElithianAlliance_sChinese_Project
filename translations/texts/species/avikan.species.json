@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/avikan.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A race of nomadic spacefarers who fled their homeplanet after multiple invasions by Thelean armies. Despite their high level of technological advancement, their traditional culture often compels them to use gear made of bone and leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/avikan.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "AVIKAN"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/avikan.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/avikan.species": [
+        "/charGenTextLabels/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flap colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/avikan.species": [
+        "/charGenTextLabels/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flap style"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/avikan.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomads of Kadavan"
+    }
+  }
+]

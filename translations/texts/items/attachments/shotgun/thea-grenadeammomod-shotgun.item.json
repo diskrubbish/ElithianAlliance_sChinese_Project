@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/shotgun/thea-grenadeammomod-shotgun.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grenade Ammo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/shotgun/thea-grenadeammomod-shotgun.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shotgun ammunition that acts like a cluster of mini-grenades."
+    }
+  }
+]

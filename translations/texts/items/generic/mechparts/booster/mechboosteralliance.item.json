@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboosteralliance.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guardian Mech Boosters"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/booster/mechboosteralliance.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "State-of-the-art mech boosters built by Enerth Engineering."
+    }
+  }
+]

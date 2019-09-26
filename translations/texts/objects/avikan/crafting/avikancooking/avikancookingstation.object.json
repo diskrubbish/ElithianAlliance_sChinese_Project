@@ -1,0 +1,211 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Cooking Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cooking station, for all my automated cooking needs!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cooking station. I can program it to prepare any meal imaginable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine which prepares food. Convenient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki cook food here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated cooking station - that means no dish washing for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated cooking station. It is wonderfully efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated cooking station. There's nothing it can't prepare."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooking station detected. This unit can refuel using organic food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran disslikesss having machine prepare food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somehow, this machine manages to automatically prepare food with the skill of a true cooking master."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This 'ere station will prepare my food for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cooking station can prepare a great variety of meals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cooking station can prepare almost any meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine will prepare my food with skill and grace."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station will automatically prepare any requested food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station will automatically prepare whatever food I request - how convenient!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station will prepare whatever food I want."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Avikan Cooking Station^white;"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-assaultrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-powered assault rifle issued to Avikan military forces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-assaultrifle.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Focused Fire"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-assaultrifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Assault Rifle"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-captain/avikan-captain.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honoured Captain's Armor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-captain/avikan-captain.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Armour plating worn by Honoured Captains of the Nomada."
+    }
+  }
+]

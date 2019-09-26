@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/akkimariplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal platform made of plates o' scrap metal. Not sure it's safe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/akkimariplatform.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki stands on platform, drops down from platform. Akki pleased."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/akkimariplatform.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Scrap metal platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/akkimariplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal platform was assembled from scrap metal plates."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-assaultrifle2.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/avikan/avikan-sniperrifle.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Laser Sight"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkwiring.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Copper wiring, for use in electronics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkwiring.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Wiring"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/plating/akkimaribottomplating/akkimaribottomplating.object": [
+        "/shortdescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimaribottomplating2/akkimaribottomplating2.object": [
+        "/shortdescription"
+      ],
+      "objects/akkimari/decorative/plating/akkimaribottomplating3/akkimaribottomplating3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Bottom Plate"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/quicksand.liqitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quicksand. Don't get stuck in it!"
+    }
+  }
+]

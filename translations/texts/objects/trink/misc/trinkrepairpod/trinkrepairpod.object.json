@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian repair pod, with that signature Trinkian look."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian repair pod. Efficient, as always."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A repair pod built by the Trinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A repair pod capable of repairing nearly any damage sustained in combat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A repair pod for Trinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A repair pod for machines. I should probably disable it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A repair pod for quickly repairing damaged Trink units."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A repair pod for robots. Oddly enough, it also works for humans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A repair pod of sorts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A repair pod. Originally manufactured by us, but now the Trink can build these themselves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Better not get this repair pod wet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't imagine this being comfortable for anything but machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machines repair here. Akki sabotage, make it break machines!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repair pod detected. Provides automated repair of alien synthetics. Recommend disabling of device."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This repair pod can repair almost all damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This repair pod will repair any damage my frame sustained."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Repair Pod"
+    }
+  }
+]

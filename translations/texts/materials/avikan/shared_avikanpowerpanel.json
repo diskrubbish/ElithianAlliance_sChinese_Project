@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanpowerpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanpowerpanel2.matitem": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanpowerpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanpowerpanel2.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal panel with power cables embedded in its plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanpowerpanel.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikanpowerpanel2.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanpowerpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanpowerpanel2.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal panelsss radiate power..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanpowerpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikanpowerpanel2.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanpowerpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanpowerpanel2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Power runs through the cables hidden inside these panels."
+    }
+  }
+]

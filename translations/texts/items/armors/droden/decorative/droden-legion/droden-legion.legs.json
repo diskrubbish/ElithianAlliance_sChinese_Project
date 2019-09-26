@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-legion/droden-legion.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legion Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-legion/droden-legion.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A legs piece replacement for Droden Legion units."
+    }
+  }
+]

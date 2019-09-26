@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/ferroveriumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An iron deposit fused with an otherwordly material."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/ferroveriumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ferroverium Ore"
+    }
+  }
+]

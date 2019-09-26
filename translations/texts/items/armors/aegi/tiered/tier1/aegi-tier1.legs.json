@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier1/aegi-tier1.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Patroller's Leggings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier1/aegi-tier1.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Well-fitting boots and comfortable trousers."
+    }
+  }
+]

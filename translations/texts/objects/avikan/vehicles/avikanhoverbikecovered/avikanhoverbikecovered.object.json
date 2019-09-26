@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keff that hasn't seen use in a while."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vehicle covered by a large leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vehicle covered by a large sheet of leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vehicle protected by a large leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan vehicle, covered in a large leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Covered Avikan Keff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can only wonder what is below that sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this what I think it is?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather ssheetsss hide big metal thingsss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning. Detected keff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sheet protects vehicle-alien from the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of vehicle is hidden beneath those sheets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of vehicle, covered by a large leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This leather hseet hides some sort of vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This leather sheet protects whatever lies below it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What might this be?."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What wonders might lie hidden here?."
+    }
+  }
+]

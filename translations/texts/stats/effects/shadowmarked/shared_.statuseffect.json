@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/shadowmarked/shadowmarked-healing.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/shadowmarked/shadowmarked-healinglarge.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/shadowmarked/shadowmarked.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow Marked"
+    }
+  }
+]

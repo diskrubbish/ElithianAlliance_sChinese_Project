@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/droden/drodenviolated.npctype": [
+        "/scriptConfig/dialog/attack/droden/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error. Error. Error."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/droden/drodenviolated.npctype": [
+        "/scriptConfig/dialog/attack/droden/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error. System override."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/droden/drodenviolated.npctype": [
+        "/scriptConfig/dialog/attack/droden/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frame breach detected. System integrity violated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/droden/drodenviolated.npctype": [
+        "/scriptConfig/dialog/attack/droden/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "System override detected. Reboot failed. Error."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/droden/drodenviolated.npctype": [
+        "/scriptConfig/dialog/attack/droden/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit malfunction detected. Attempting power down. Error."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/droden/drodenviolated.npctype": [
+        "/scriptConfig/dialog/attack/droden/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit security breach. Attempting safe reboot. Error."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/droden/drodenviolated.npctype": [
+        "/scriptConfig/dialog/attack/droden/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon systems live. Disabling. Error."
+    }
+  }
+]

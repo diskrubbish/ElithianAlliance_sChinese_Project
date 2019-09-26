@@ -1,0 +1,94 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/alliancestairsplatform.material": [
+        "/novakidDescription"
+      ],
+      "tiles/platforms/alliancethickstairsplatform.material": [
+        "/novakidDescription"
+      ],
+      "tiles/platforms/avikanstairsplatform.material": [
+        "/novakidDescription"
+      ],
+      "tiles/platforms/avikanthickstairsplatform.material": [
+        "/novakidDescription"
+      ],
+      "tiles/platforms/rimdwellerstairsplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A set of sturdy metal stairs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/alliancestairsplatform.material": [
+        "/drodenDescription"
+      ],
+      "tiles/platforms/alliancethickstairsplatform.material": [
+        "/drodenDescription"
+      ],
+      "tiles/platforms/avikanstairsplatform.material": [
+        "/drodenDescription"
+      ],
+      "tiles/platforms/avikanthickstairsplatform.material": [
+        "/drodenDescription"
+      ],
+      "tiles/platforms/rimdwellerstairsplatform.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Metal stairs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/alliancestairsplatform.material": [
+        "/floranDescription"
+      ],
+      "tiles/platforms/alliancethickstairsplatform.material": [
+        "/floranDescription"
+      ],
+      "tiles/platforms/avikanstairsplatform.material": [
+        "/floranDescription"
+      ],
+      "tiles/platforms/avikanthickstairsplatform.material": [
+        "/floranDescription"
+      ],
+      "tiles/platforms/rimdwellerstairsplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstairss are for climbing. Floran knowsss thiss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/alliancestairsplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/platforms/alliancethickstairsplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/platforms/avikanstairsplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/platforms/avikanthickstairsplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/platforms/rimdwellerstairsplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These stairs appear to be very sturdy."
+    }
+  }
+]

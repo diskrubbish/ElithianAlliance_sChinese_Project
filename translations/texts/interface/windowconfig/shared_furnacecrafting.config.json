@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/windowtitle/title"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  FURNACE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Melt things!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smelt"
+    }
+  }
+]

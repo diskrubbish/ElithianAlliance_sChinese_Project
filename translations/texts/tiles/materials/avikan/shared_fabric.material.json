@@ -1,0 +1,92 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessfabric.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanfabric.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric wall sheet, for the fashionable nomad."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessfabric.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanfabric.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall sheet made o' some sorta fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessfabric.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanfabric.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. High-quality fabric wall sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessfabric.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/avikan/avikanfabric.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fabric-soft, feels good to skin-Akki."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessfabric.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanborderlesspurplefabric.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanfabric.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanpurplefabric.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss how quickly thisss will burn..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessfabric.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanfabric.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wall sheet has a vibrant colour."
+    }
+  }
+]

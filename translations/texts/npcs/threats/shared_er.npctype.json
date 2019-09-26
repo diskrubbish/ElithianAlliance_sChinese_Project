@@ -1,0 +1,185 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/aegi/aegirimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/3",
+        "/scriptConfig/dialog/attack/default/default/3",
+        "/scriptConfig/dialog/attack/default/trink/3"
+      ],
+      "npcs/threats/aegi/aegirimrailgunner.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/3",
+        "/scriptConfig/dialog/attack/default/default/3",
+        "/scriptConfig/dialog/attack/default/trink/3"
+      ],
+      "npcs/threats/aegi/aegirimrioter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/3",
+        "/scriptConfig/dialog/attack/default/default/3",
+        "/scriptConfig/dialog/attack/default/trink/3"
+      ],
+      "npcs/threats/aegi/aegirimsoldier.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/3",
+        "/scriptConfig/dialog/attack/default/default/3",
+        "/scriptConfig/dialog/attack/default/trink/3"
+      ],
+      "npcs/threats/trink/trinkrimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/3",
+        "/scriptConfig/dialog/attack/default/default/3",
+        "/scriptConfig/dialog/attack/default/trink/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stay out of the Rim!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/aegi/aegirimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/4",
+        "/scriptConfig/dialog/attack/default/default/4",
+        "/scriptConfig/dialog/attack/default/trink/4"
+      ],
+      "npcs/threats/aegi/aegirimrailgunner.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/4",
+        "/scriptConfig/dialog/attack/default/default/4",
+        "/scriptConfig/dialog/attack/default/trink/4"
+      ],
+      "npcs/threats/aegi/aegirimrioter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/4",
+        "/scriptConfig/dialog/attack/default/default/4",
+        "/scriptConfig/dialog/attack/default/trink/4"
+      ],
+      "npcs/threats/aegi/aegirimsoldier.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/4",
+        "/scriptConfig/dialog/attack/default/default/4",
+        "/scriptConfig/dialog/attack/default/trink/4"
+      ],
+      "npcs/threats/trink/trinkrimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/4",
+        "/scriptConfig/dialog/attack/default/default/4",
+        "/scriptConfig/dialog/attack/default/trink/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Rim doesn't want you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/aegi/aegirimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/1",
+        "/scriptConfig/dialog/attack/default/default/1",
+        "/scriptConfig/dialog/attack/default/trink/1"
+      ],
+      "npcs/threats/aegi/aegirimrailgunner.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/1",
+        "/scriptConfig/dialog/attack/default/default/1",
+        "/scriptConfig/dialog/attack/default/trink/1"
+      ],
+      "npcs/threats/aegi/aegirimrioter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/1",
+        "/scriptConfig/dialog/attack/default/default/1",
+        "/scriptConfig/dialog/attack/default/trink/1"
+      ],
+      "npcs/threats/aegi/aegirimsoldier.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/1",
+        "/scriptConfig/dialog/attack/default/default/1",
+        "/scriptConfig/dialog/attack/default/trink/1"
+      ],
+      "npcs/threats/trink/trinkrimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/1",
+        "/scriptConfig/dialog/attack/default/default/1",
+        "/scriptConfig/dialog/attack/default/trink/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Rim is ours!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/aegi/aegirimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ],
+      "npcs/threats/aegi/aegirimrailgunner.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ],
+      "npcs/threats/aegi/aegirimrioter.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ],
+      "npcs/threats/aegi/aegirimsoldier.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ],
+      "npcs/threats/trink/trinkrimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're in trouble now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/aegi/aegirimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/0",
+        "/scriptConfig/dialog/attack/default/default/0",
+        "/scriptConfig/dialog/attack/default/trink/0"
+      ],
+      "npcs/threats/aegi/aegirimrailgunner.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/0",
+        "/scriptConfig/dialog/attack/default/default/0",
+        "/scriptConfig/dialog/attack/default/trink/0"
+      ],
+      "npcs/threats/aegi/aegirimrioter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/0",
+        "/scriptConfig/dialog/attack/default/default/0",
+        "/scriptConfig/dialog/attack/default/trink/0"
+      ],
+      "npcs/threats/aegi/aegirimsoldier.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/0",
+        "/scriptConfig/dialog/attack/default/default/0",
+        "/scriptConfig/dialog/attack/default/trink/0"
+      ],
+      "npcs/threats/trink/trinkrimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/0",
+        "/scriptConfig/dialog/attack/default/default/0",
+        "/scriptConfig/dialog/attack/default/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've come to the wrong neighborhood!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/aegi/aegirimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/2",
+        "/scriptConfig/dialog/attack/default/trink/2"
+      ],
+      "npcs/threats/aegi/aegirimrailgunner.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/2",
+        "/scriptConfig/dialog/attack/default/trink/2"
+      ],
+      "npcs/threats/aegi/aegirimrioter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/2",
+        "/scriptConfig/dialog/attack/default/trink/2"
+      ],
+      "npcs/threats/aegi/aegirimsoldier.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/2",
+        "/scriptConfig/dialog/attack/default/trink/2"
+      ],
+      "npcs/threats/trink/trinkrimfighter.npctype": [
+        "/scriptConfig/dialog/attack/default/aegi/2",
+        "/scriptConfig/dialog/attack/default/trink/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your Alliance has no power in the Rim!"
+    }
+  }
+]

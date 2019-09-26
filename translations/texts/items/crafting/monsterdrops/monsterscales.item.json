@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/monsterscales.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone scales from an alien monster."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/monsterscales.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Monster Scales"
+    }
+  }
+]

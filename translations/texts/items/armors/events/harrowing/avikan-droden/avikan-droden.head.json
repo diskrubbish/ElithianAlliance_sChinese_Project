@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/avikan-droden/avikan-droden.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/avikan-droden/avikan-droden.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A Droden mask to celebrate the Harrowing!"
+    }
+  }
+]

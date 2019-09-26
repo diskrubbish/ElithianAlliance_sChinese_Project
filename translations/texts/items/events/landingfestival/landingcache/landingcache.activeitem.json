@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/landingfestival/landingcache/landingcache.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wrapped present containing items from random events. Hold ^green;[LMB] ^white;to open!"
+    }
+  }
+]

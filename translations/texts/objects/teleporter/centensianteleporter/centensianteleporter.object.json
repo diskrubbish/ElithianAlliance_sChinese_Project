@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The energy emitted by this teleporter hums loudly."
+    }
+  }
+]

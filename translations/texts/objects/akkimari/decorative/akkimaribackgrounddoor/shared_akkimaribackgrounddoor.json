@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor-wired.object": [
+        "/shortdescription"
+      ],
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Background Door"
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien-dead. Look like Thellhunter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Avikan bones. Analysis: DNA traces match Thellhunter's profile."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old boness, boness of the Thellhunter..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Thellhunter... He was stronger than my brethren, but fell nevertheless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The legendary Thellhunter himself..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The skeleton of the great Thellhunter himself..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thellhunter's Skeleton"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This skeleton belonged to the legendary Thellhunter himself."
+    }
+  }
+]

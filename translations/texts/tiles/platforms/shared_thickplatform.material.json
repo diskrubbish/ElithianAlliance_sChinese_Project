@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/alliancethickplatform.material": [
+        "/drodenDescription"
+      ],
+      "tiles/platforms/avikanthickplatform.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Thick metal platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/alliancethickplatform.material": [
+        "/novakidDescription"
+      ],
+      "tiles/platforms/avikanthickplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems like a mighty thick platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/alliancethickplatform.material": [
+        "/floranDescription"
+      ],
+      "tiles/platforms/avikanthickplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick platform, for basshing skulsss into."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/alliancethickplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/platforms/avikanthickplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This platform is thicker than most."
+    }
+  }
+]

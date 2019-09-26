@@ -1,0 +1,32 @@
+[
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/aegimalenamegen.config": [
+        "/names/1/1/22"
+      ],
+      "species/trinknamegen.config": [
+        "/names/1/1/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/centensnamegen.config": [
+        "/names/1/2/6"
+      ],
+      "species/theleannamegen.config": [
+        "/names/1/2/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "han"
+    }
+  }
+]

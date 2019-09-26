@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-randomevents.radiomessages": [
+        "/akkimaridrillcapturecomplete/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have successfully captured the Akkimari drill. The rewards are all yours!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-randomevents.radiomessages": [
+        "/akkimaridrillcapturestart/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've detected a nearby Akkimari drill. If you stay near it, I can capture it and let you reap the rewards."
+    }
+  }
+]

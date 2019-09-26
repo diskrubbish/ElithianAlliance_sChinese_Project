@@ -1,0 +1,115 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancebutton/alliancebutton.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikanbutton/avikanbutton.object": [
+        "/description"
+      ],
+      "objects/trink/wired/trinkbutton/trinkbutton.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large button."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaributton/akkimaributton.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallbutton/akkimarismallbutton.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/wired/alliancebutton/alliancebutton.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/wired/alliancesmallbutton/alliancesmallbutton.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/wired/avikanbutton/avikanbutton.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/wired/avikansmallbutton/avikansmallbutton.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/wired/trinkbutton/trinkbutton.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/wired/trinksmallbutton/trinksmallbutton.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Button. Used to temporarily activate circuits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaributton/akkimaributton.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallbutton/akkimarismallbutton.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/wired/alliancebutton/alliancebutton.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/wired/alliancesmallbutton/alliancesmallbutton.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanbutton/avikanbutton.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikansmallbutton/avikansmallbutton.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/wired/trinkbutton/trinkbutton.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/wired/trinksmallbutton/trinksmallbutton.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Presss it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaributton/akkimaributton.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/wired/akkimarismallbutton/akkimarismallbutton.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/wired/alliancebutton/alliancebutton.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/wired/alliancesmallbutton/alliancesmallbutton.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikanbutton/avikanbutton.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikansmallbutton/avikansmallbutton.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/wired/trinkbutton/trinkbutton.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/wired/trinksmallbutton/trinksmallbutton.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What will happen if I press this button?"
+    }
+  }
+]

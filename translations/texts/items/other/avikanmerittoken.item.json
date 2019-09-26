@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/avikanmerittoken.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A token of merit, to show your worth amongst the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/avikanmerittoken.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#0094FF;Token of Merit^white;"
+    }
+  }
+]

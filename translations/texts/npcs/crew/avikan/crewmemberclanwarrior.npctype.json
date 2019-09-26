@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/ranks/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> of Bone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> of the Clan"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone-blade <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clan's Primary <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clan's Secondary <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/ranks/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legendary <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomadic <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warrior"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanwarrior.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Youngling <role>"
+    }
+  }
+]

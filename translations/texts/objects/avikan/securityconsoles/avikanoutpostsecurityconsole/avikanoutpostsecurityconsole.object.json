@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/securityconsoles/avikanoutpostsecurityconsole/avikanoutpostsecurityconsole.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki want to open, but Akki need pass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/securityconsoles/avikanoutpostsecurityconsole/avikanoutpostsecurityconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Security Console"
+    }
+  }
+]

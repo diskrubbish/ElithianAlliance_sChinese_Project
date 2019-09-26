@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/avikanplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal platform. The colour is reminiscent of sand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/avikanplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platform coloured like sssand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/avikanplatform.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Platform-metal. Akki no interested."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/avikanplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The colour of this platform makes it easy to hide in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/avikanplatform.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This 'ere platform has a sand-like texture to it."
+    }
+  }
+]

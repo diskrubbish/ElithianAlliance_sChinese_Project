@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarifoundation.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Metal inner wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarifoundation.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal plating, likely used as an inner wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarifoundation.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal wallsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarifoundation.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda metal wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarifoundation.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal plating likely serves as an inner wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarifoundation.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wall-plates-inner. Houses-Akkimari need them."
+    }
+  }
+]

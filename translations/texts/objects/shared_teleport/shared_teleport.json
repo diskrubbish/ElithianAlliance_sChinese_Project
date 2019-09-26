@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarketteleporter/allianceblackmarketteleporter.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop2.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanblackmarketteleporter/avikanblackmarketteleporter.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanteleportshop/avikanteleportshop2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Teleporter. Hazard levels: medium."
+    }
+  }
+]

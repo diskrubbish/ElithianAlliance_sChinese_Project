@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier4/droden-tier4.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durasteel Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier4/droden-tier4.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A strong durasteel legs upgrade."
+    }
+  }
+]

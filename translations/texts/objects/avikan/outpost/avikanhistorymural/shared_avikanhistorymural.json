@@ -1,0 +1,176 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural2.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural3.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural4.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural5.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural6.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural7.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan History Mural"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural2.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural3.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural4.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural5.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural6.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural7.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon this mural shows historic events, but I don't recognize any of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural6.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural7.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It would appear that this mural describes historic events."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural2.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural3.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural4.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural5.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural6.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural7.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mural sshowsss hisstory of alienss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural3.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural4.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural5.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural6.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural7.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mural-big. Tell a story, but Akki no care."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural2.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural3.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural4.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural5.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural6.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural7.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Part of a massive mural showing the history of the Avikan people."
+    }
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/avianDescription",
+        "/erixianDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/avianDescription",
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/aegiDescription",
+        "/description"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/aegiDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard Alliance antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Aeginian-built antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna of an unusual design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna, obviously."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antenna-alien. Akki curious what it's sending."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien antenna. Unable to decode signal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal ssticks receive ssignals from far away."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi designed this antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This antenna is reasonably efficient."
+    }
+  }
+]

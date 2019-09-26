@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/avikanlargedrone/avikanlargedroneaf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elite Drahl Figurine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/avikanlargedrone/avikanlargedroneaf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"A massive combat drone for supporting Avikan soldiers on the field.\""
+    }
+  }
+]

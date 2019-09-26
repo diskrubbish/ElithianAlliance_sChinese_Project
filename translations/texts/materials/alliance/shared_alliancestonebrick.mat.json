@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancestonebrick.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancestonebrick.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Stone Bricks"
+    }
+  }
+]

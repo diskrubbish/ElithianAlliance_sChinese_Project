@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-engineer/avikan-engineer.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engineer's Visor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-engineer/avikan-engineer.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A simple visor worn by Avikan engineers."
+    }
+  }
+]

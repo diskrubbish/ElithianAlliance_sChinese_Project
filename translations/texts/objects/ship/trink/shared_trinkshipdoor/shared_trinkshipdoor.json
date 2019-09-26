@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/description"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal door, generally used to seal off individual Trink ship compartments."
+    }
+  }
+]

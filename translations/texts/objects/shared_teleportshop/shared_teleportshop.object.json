@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/avikan/outpost/avikanteleportshop/avikanteleportshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Personalized interstellar travel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanteleportshop/avikanteleportshop.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected merchant. Offers various personal teleporters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanteleportshop/avikanteleportshop.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shop offers personal teleporters in a variety of styles."
+    }
+  }
+]

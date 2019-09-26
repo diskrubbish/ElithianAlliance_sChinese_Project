@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decently efficient mech bay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mech bay built by the Avikan. I believe they call their mechs 'Krahl'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mech bay built for Avikan Krahls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mech bay of some kind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mech bay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A station for repairing and maintaining Vanguard Krahls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A workstation where one can repair and maintain mechs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan-built mech bay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien mech bay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bay-mech-alien. Akki steal mech, scavenge for parts?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Vanguard Krahl Bay. Allows for easy maintenance on Krahls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon it's some kinda mech bay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it's a mech bay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a mech bay, built by the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like a mech bay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station allows for easy maintenance on Krahls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss isss a mech bay. Floran Ssmart."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Krahl Bay"
+    }
+  }
+]

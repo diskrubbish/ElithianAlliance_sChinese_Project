@@ -1,0 +1,226 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;For all your transportation on rails."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crafting station for crafting rails and rail trams."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rail manufacturing station."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki craft rails here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An inefficient rail forging station."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Rail forging station. Used to construct rails and rail vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can craft rails here! Perfect for getting around. And around, and around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can use this station to construct rails for easy transport."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could craft various types of rails here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ridin' the rails - still works as good as it ever did for gettin' around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The high frequency sounds created by this device are beautiful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The rails I can construct here may be primitive, but their efficiency can't be questioned."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The rails crafted here will make movement much more efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device can craft various types of transportation rails."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table will allow me to build rails which I can travel on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss table makes shiny rails for quick travel."
+    }
+  }
+]

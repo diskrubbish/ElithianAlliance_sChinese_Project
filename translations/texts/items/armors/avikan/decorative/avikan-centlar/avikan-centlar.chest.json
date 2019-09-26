@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-centlar/avikan-centlar.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centlar's Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-centlar/avikan-centlar.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;An unusual chest piece worn by Avikan Centlars. It is made of Centensian metal."
+    }
+  }
+]

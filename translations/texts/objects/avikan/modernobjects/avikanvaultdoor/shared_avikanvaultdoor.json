@@ -1,0 +1,142 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door. It looks rather strong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large vault door, for when you really don't want intruders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong vault door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vault door, built to withstand the elements."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vault door. Useful for protecting valuable things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan vault door. What might it be protecting?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Vault door. Protects Terves against potential intruders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Vault Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-vault, keeps room secure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vault door will keep any potential intruders outside of our Terves."
+    }
+  }
+]

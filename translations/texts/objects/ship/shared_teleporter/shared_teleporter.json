@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter"
+    }
+  }
+]

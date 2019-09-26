@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier6a/droden-tier6a.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elite Legs Type-A"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier6a/droden-tier6a.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A legs upgrade for elite combat units. Energetic version."
+    }
+  }
+]

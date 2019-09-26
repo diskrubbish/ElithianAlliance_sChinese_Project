@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-elder/avikan-elder.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elder's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-elder/avikan-elder.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A decorated leather skirt, worn by the Elders of the Avikan clans."
+    }
+  }
+]

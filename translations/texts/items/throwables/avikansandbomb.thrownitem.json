@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikansandbomb.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A makeshift sand bomb, constructed from a Sandspitter's Sack."
+    }
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door made of selected scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door. It looks shoddy, yet sturdy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door. Something about it feels odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crude blast door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A difficult to breach blast door. Looks can be deceiving, it seems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy blast door. Looks poorly made."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A scrap metal blast door. I'm surprised by how sturdy it is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Akkimari-made blast door. Surprisingly effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-thick, keeps Akkimari safe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm surprised by how effective this door is, given its shoddy appearance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like a blast door covered in scrap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It may not look like much, but this door is surprisingly well-made."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda blast door made of scrap. Right..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is unusually efficient for Akkimari standards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why is this blast door covered in plates of scrap metal?"
+    }
+  }
+]

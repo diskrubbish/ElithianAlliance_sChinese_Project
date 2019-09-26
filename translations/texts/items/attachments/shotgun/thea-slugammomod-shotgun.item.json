@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/shotgun/thea-slugammomod-shotgun.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shotgun ammunition that fires a single, powerful projectile."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/shotgun/thea-slugammomod-shotgun.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slug Ammo"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/exosuitboost/exosuitboost.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thea-jumpboost/thea-jumpboost.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exo-suit"
+    }
+  }
+]

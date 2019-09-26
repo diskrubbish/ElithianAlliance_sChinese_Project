@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A closet for my guns."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A collection of alien firearms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked filled with weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked full of awesome guns!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locked full of military-grade weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker for storing weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A military weapons locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weapons locked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki take weapons-alien?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Weapon Locker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Alliance-approved weapons locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien weaponry storage. Scanning items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wantsss these weaponss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storage for alien weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storage for military-grade weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The weapons locker has multiple safety features. It's quite efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These weapons could be dangerous. Better keep the cabinet locked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These weapons would be of great use to the rebels."
+    }
+  }
+]

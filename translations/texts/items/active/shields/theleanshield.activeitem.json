@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/theleanshield.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick and heavy shield of Thelean design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/theleanshield.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Shield"
+    }
+  }
+]

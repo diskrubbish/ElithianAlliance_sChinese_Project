@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/avikanbackpack/avikanbackpack.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomad's Pack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/avikanbackpack/avikanbackpack.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;The backpack of an Avikan Nomad. For storing the essentials."
+    }
+  }
+]

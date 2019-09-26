@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinklaserdiode.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian laser diode, the core of all Trinkian laser weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinklaserdiode.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Laser Diode"
+    }
+  }
+]

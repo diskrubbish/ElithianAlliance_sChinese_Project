@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier3/avikan-tier3.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keeper's Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier3/avikan-tier3.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A thick and bulky skull, worn by Avikan Keepers."
+    }
+  }
+]

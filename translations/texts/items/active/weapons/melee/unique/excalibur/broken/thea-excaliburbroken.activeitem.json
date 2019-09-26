@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/excalibur/broken/thea-excaliburbroken.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Shieldblade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/excalibur/broken/thea-excaliburbroken.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once a great Aevis, now broken by time and use."
+    }
+  }
+]

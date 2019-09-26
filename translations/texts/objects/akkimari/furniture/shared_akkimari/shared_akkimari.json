@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/aegiDescription"
+      ],
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An odd design for sure. It's quite comfortable, though."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual design that is equally unusually comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't even know how to properly sit in this thing."
+    }
+  }
+]

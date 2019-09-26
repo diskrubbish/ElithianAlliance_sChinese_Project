@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hoverbike built for use in the desert. Not for underwater use."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hoverbike of Avikan design, it is incredibly reliable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hoverbike, built by the Avikan. It looks uncomfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hoverbike. It looks fast."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hoverbike. This is so cool!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reliable hoverbike. I believe its makers call it a keff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reliable keff. Like us, it can withstand extreme conditions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vehicle built for crossing the desert at high speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Keff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big metal fly thingss. Fassst."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bike-alien, looks fast."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Driving such hoverbikes makes me feel like I am flying."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keff detected. Owner: unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan build some of the most reliable vehicles there are."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hoverbike can withstand even the harshest of environments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hoverbike features incredibly advanced technologies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hoverbike is incredibly reliable. It can function even inside a sandstorm."
+    }
+  }
+]

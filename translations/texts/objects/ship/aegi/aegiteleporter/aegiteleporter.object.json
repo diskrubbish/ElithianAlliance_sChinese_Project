@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter of Aeginian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki feel strange when teleporting."
+    }
+  }
+]

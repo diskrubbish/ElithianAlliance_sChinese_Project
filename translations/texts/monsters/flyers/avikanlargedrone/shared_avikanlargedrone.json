@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/avikanlargedrone/avikanlargedrone-captured.monstertype": [
+        "/description"
+      ],
+      "monsters/flyers/avikanlargedrone/avikanlargedrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive combat drone for supporting Avikan soldiers on the field."
+    }
+  }
+]

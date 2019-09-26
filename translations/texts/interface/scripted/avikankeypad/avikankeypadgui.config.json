@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/avikankeypad/avikankeypadgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Vanguard Keypad Lock"
+    }
+  }
+]

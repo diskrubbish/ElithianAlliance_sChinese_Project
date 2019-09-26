@@ -1,0 +1,115 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorative standing lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lovely light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A practical light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/aegiDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple standing lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/apexDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standing lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Standing Lamp"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegant standing lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a standing lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply a standing lamp."
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanborderlessleather.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikandecoleather.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanleather.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather tapestry for wall decoration and insulation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikandecoleather.matitem": [
+        "/florandescription"
+      ],
+      "items/materials/avikan/avikanleather.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather wallsss."
+    }
+  }
+]

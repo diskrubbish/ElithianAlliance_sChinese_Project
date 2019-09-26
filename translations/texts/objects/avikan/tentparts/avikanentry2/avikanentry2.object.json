@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful tent awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful tent awning. The fabric is quite well crafted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorated tent awning, made of fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric tent awning, woven with great care."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric tent awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric tent awning. Colourful, but not too sturdy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent awning made of fabric. It features vivid colours."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent awning, decorated with a simple pattern."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent awning, made of colourful fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Fabric Awning"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fabric awning. Provides protection against desert winds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likesss bright coloursss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Functional and nice to look at both, this awning will come in handy in the open desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Made of fabric, this sort of awning is often used in the tents of our Elders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such vivid colours."
+    }
+  }
+]

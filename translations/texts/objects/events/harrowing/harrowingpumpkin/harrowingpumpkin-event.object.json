@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin-event.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harrowing Pumpkin (Event)"
+    }
+  }
+]

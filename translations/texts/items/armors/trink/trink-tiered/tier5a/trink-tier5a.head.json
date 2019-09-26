@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5a/trink-tier5a.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enforcer Optics Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier5a/trink-tier5a.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;HEAD SLOT. ^white;A high-grade aegisalt optics mod."
+    }
+  }
+]

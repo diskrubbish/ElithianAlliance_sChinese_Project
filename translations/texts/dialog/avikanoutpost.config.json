@@ -1,0 +1,1932 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Droden with civilian status. How did you achieve that?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "A captain! It's an honour, sir!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/4",
+        "/converse/avikan/trink/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien Interaction Protocol B1 of the Avikan Common Law demands I ignore you, machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anything to report?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/novakid/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you a god?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you edible? It's been too long since I had vegetables."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you on a mission?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/apex/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you sure YOU aren't Miniknog?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you what they call a human?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/hylotl/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aren't you afraid you might dry up here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aren't you supposed to be cleaning something, machine?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/floran/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "As a plant, do you have blood?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "As per Alien Interaction Proto... Oh right, you're not considered an alien by the Common Law..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "As you're a Droden, I guess the Alien Interaction Protocol doesn't apply here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "At least you're on our side."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avian/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan, Avian... They do sound a bit alike, no?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brother, welcome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "By Rhadeis, you look like you've been through hell!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/hylotl/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "By Rhadeis, you're all wet!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avian/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can you fly?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Caught anything interesting lately?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/hylotl/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could you teach me how to swim one day?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could you vow for me at the Council? I've issued a request for admission as a Fleet captain, and I need all the support I can get!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dismantled any machines recently?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/apex/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you ever shave?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/34"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you have any interesting tales to tell, Captain?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you have your keff-riding license yet?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you need anyone for your crew?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you remember what you did yesterday?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/apex/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doesn't it get warm with all that fur?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/human/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't try anything here. The Watchers will see."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/floran/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't you think breaking things is more fun than stabbing things?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Few Droden are autonomous these days. And that's a good thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Filed any interesting reports lately?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, feathered one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, glowing one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, hairy thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, long-ear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, plant thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/akkimari/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, strange one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, stranger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/apex/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ha! Oh, sorry... I just thought you looked funny."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/12",
+        "/converse/avikan/akkimari/12",
+        "/converse/avikan/apex/12",
+        "/converse/avikan/avian/12",
+        "/converse/avikan/avikan/47",
+        "/converse/avikan/default/10",
+        "/converse/avikan/droden/32",
+        "/converse/avikan/floran/12",
+        "/converse/avikan/human/12",
+        "/converse/avikan/hylotl/12",
+        "/converse/avikan/novakid/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you been to Valyan as-Nadata yet? He can fix up your vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you cleaned your flaps recently?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ever been on a pilgrimage to Vas Vha'leih?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ever been summoned by the Council?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/43"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ever seen the ruins of the Old Ones on your journeys?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/44"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ever slain a Thell?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you found a mate yet?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you heard of these 'Glitch' inhabiting this part of the galaxy? We should eradicate them before it's too late."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/7",
+        "/converse/avikan/akkimari/7",
+        "/converse/avikan/avian/7",
+        "/converse/avikan/floran/7",
+        "/converse/avikan/human/7",
+        "/converse/avikan/hylotl/7",
+        "/converse/avikan/novakid/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hmm? Oh, sorry Captain! I hadn't noticed you there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/default/7",
+        "/converse/avikan/droden/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hmph."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/hylotl/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can only imagine what a world of water must look like..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't believe your owner actually set you free."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't know what you are..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't like machines, but you seem okay. For a machine, that is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/5",
+        "/converse/avikan/glitch/0",
+        "/converse/avikan/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't like you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/11",
+        "/converse/avikan/trink/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "I doubt the Starsight Inn offers anything you can even drink, machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/33"
+      ]
+    },
+    "Texts": {
+      "Eng": "I forgot to file last week's report... I hope that won't get me into too much trouble."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess you don't have any use for a drink, but the Starsight Inn might have other things you can use."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you are doing your part for the Nomada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you treat your pet sandworm well. Those things can get very aggressive if they're ignored."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you're on our side. Otherwise, I'll have to dismantle you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope you're respecting the Avikan Common Law, friend. Otherwise we might have a problem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "I might know some people who'd like to enlist for your crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/8",
+        "/converse/avikan/trink/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I might tolerate your kind, but that doesn't mean I like you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I miss Kadavan..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/novakid/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I saw your spaceship on your way in. It looked a bit odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I see you have gained civilian status. Impressive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/16",
+        "/converse/avikan/akkimari/16",
+        "/converse/avikan/apex/16",
+        "/converse/avikan/avian/16",
+        "/converse/avikan/avikan/51",
+        "/converse/avikan/default/14",
+        "/converse/avikan/droden/36",
+        "/converse/avikan/floran/16",
+        "/converse/avikan/human/16",
+        "/converse/avikan/hylotl/16",
+        "/converse/avikan/novakid/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought I saw someone on those asteroids in the distance..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avian/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought your kind had wings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I could be a captain like you..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I could go on adventures like you, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I could go to Vhalas Andra'veih one day..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/novakid/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd like to have you with me next time I delve underground."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avian/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm impressed that you can speak our language with that beak of yours."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm keeping my eye on you, machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/7",
+        "/converse/avikan/trink/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not fond of machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/5",
+        "/converse/avikan/trink/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not talking to a machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/41"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure you could become a Centlar if you wanted to."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/6",
+        "/converse/avikan/human/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm surprised you can stand the heat here. Many aliens find it unbearable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm telling you, the Council is close to finding Vhalas Andra'veih!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/akkimari/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard your kind are mostly scavengers. Don't try anything here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard your kind can be quite hostile to strangers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/hylotl/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard your kind likes mysteries. You should investigate the Old Ones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/apex/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've never seen someone with that much hair before."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Rhadeis didn't agree to Droden being free, I suppose you wouldn't have been here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/15",
+        "/converse/avikan/akkimari/15",
+        "/converse/avikan/apex/15",
+        "/converse/avikan/avian/15",
+        "/converse/avikan/avikan/50",
+        "/converse/avikan/default/13",
+        "/converse/avikan/droden/35",
+        "/converse/avikan/floran/15",
+        "/converse/avikan/human/15",
+        "/converse/avikan/hylotl/15",
+        "/converse/avikan/novakid/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is your kind really carnivorous? I'd be more inclined to believe you are the ones being eaten."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machine people are people too, but don't tell anyone here I said that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/1",
+        "/converse/avikan/trink/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "My Keff needs repairs. You wouldn't happen to be a repair-frame, would you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/37"
+      ]
+    },
+    "Texts": {
+      "Eng": "Need anything, Captain?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Need anything?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/floran/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "No stabbing here, plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing but respect for a captain of the Fleet. Hail the Nomada!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/13",
+        "/converse/avikan/akkimari/13",
+        "/converse/avikan/apex/13",
+        "/converse/avikan/avian/13",
+        "/converse/avikan/avikan/48",
+        "/converse/avikan/default/11",
+        "/converse/avikan/droden/33",
+        "/converse/avikan/floran/13",
+        "/converse/avikan/human/13",
+        "/converse/avikan/hylotl/13",
+        "/converse/avikan/novakid/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Odyin as-Rhadeis is the best weapons vendor you'll find here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/13",
+        "/converse/avikan/trink/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Odyin as-Rhadeis offers weapons, but I'm not sure what he'll be willing to offer you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/15",
+        "/converse/avikan/trink/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps you could trade in yourself at the material exchange."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/35"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhadeis supports you, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "So, you're an actual AI? I thought you'd be scarier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soulless machine. Get out of here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Nomada could use more people like you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/10",
+        "/converse/avikan/trink/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Starfarer's Refuge welcomes all, even machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/3",
+        "/converse/avikan/trink/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Watchers are watching you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/39"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Watchers could use someone like you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "The council deemed you worthy of your own ship? Well, if they believe you capable, then so will I."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "The role of Fleet captain comes with a great many responsibilities. Are you certain you can handle them?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/14",
+        "/converse/avikan/akkimari/14",
+        "/converse/avikan/apex/14",
+        "/converse/avikan/avian/14",
+        "/converse/avikan/avikan/49",
+        "/converse/avikan/default/12",
+        "/converse/avikan/droden/34",
+        "/converse/avikan/floran/14",
+        "/converse/avikan/human/14",
+        "/converse/avikan/hylotl/14",
+        "/converse/avikan/novakid/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/14",
+        "/converse/avikan/trink/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a teleporter shop near here. Use it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/apex/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's no Miniknog here, if you were wondering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/akkimari/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those ears of yours are very odd. They look like tubes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those ears of yours remind me a bit of our own flaps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avian/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those feathers of yours look a bit like our flaps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/12",
+        "/converse/avikan/trink/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valyan as-Nadata repairs vehicles. Maybe he can repair you too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/hylotl/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vas Vha'leih, creature of the water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vas Vha'leih."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wait, you have your own ship? That must be a dream come true!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wait, your owner set you free?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/45"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Starfarer's Refuge, Captain!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Starfarer's Refuge, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Starfarer's Refuge, Droden."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/42"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Starfarer's Refuge, Starfarer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/10",
+        "/converse/avikan/akkimari/10",
+        "/converse/avikan/apex/10",
+        "/converse/avikan/avian/10",
+        "/converse/avikan/default/5",
+        "/converse/avikan/floran/10",
+        "/converse/avikan/human/10",
+        "/converse/avikan/hylotl/10",
+        "/converse/avikan/novakid/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Starfarer's Refuge, stranger!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/akkimari/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "What are those two smaller eyes of yours for?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/novakid/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "What are you made of, exactly?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "What kind of frame are you? Combat? Repairs?."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What sort of creature might you be?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where did you come from? Oh, right, you must have forgotten."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/9",
+        "/converse/avikan/trink/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who built you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why are your ears so pointy? I've seen creatures very similar to you, but with rounded ears."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/11",
+        "/converse/avikan/akkimari/11",
+        "/converse/avikan/apex/11",
+        "/converse/avikan/avian/11",
+        "/converse/avikan/avikan/46",
+        "/converse/avikan/default/9",
+        "/converse/avikan/floran/11",
+        "/converse/avikan/human/11",
+        "/converse/avikan/hylotl/11",
+        "/converse/avikan/novakid/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why don't you go and get a drink at the Starsight Inn?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/16",
+        "/converse/avikan/trink/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why don't you leave me and go sit on those asteroids in the distance instead?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yeah?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yes?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "You Droden are a dying race."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "You Droden are only good for doing menial labour."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are an example of what machines can be."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/human/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't have any flaps?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/akkimari/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have a furry belly. How odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have no flaps? How do you stay safe in the desert?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/2",
+        "/converse/avikan/trink/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have no soul, machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have rather small eyes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/apex/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "You look a bit like an Aegi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You machines only ever make things worse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/36"
+      ]
+    },
+    "Texts": {
+      "Eng": "You must meet a lot of interesting people on your journeys."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/floran/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "You seem like a capable hunter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avian/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You seem the musical type. Sing me a song, will you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You think you have a soul? You thought wrong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/novakid/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You won't be any good at hide and seek."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/40"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'd be a great fit for the Seekers, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/akkimari/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'd better not be one of those pirates I heard about."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/glitch/6",
+        "/converse/avikan/trink/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'll find few friends here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'll get no love from me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/apex/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a bit smelly..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're in league with the Thell, aren't you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/human/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're no Aegi, are you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're nothing more than a walking scrap bag."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/akkimari/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your belly looks soft."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/human/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your eyes are so small..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/droden/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your head would make for a fine trophy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/akkimari/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your kind are called Akkimari, right?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/aegi/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your kind is well known for its diplomats."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/floran/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your kind makes rather impressive spears."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/hylotl/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your skin is all wet!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/human/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your skin is so soft!"
+    }
+  }
+]

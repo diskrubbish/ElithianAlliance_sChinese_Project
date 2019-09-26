@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/techquests/thea-stealthtechunlock1.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chacharra has tech, useful tech to go invisible. You can have tech, for price... ^green;Bring Chacharra ^orange;5 Diamonds^reset;, then Chacharra show you test course for ^orange;Stealth Tech^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/techquests/thea-stealthtechunlock1.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You make Chacharra happy, happy Akki help you! ^orange;Stealth Tech ^reset;almost yours now..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/techquests/thea-stealthtechunlock1.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Chacharra's Stealth Tech I"
+    }
+  }
+]

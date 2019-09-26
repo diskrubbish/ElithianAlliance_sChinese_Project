@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/thelean/theleansoldier-hologram.npctype": [
+        "/scriptConfig/dialog/lostTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holographic attack module disengaging."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/thelean/theleansoldier-hologram.npctype": [
+        "/scriptConfig/dialog/cantReach/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holographic attack module malfunction. Target out of reach."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/thelean/theleansoldier-hologram.npctype": [
+        "/scriptConfig/dialog/killedTarget/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holographic attack module misfunction. Target eliminated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/thelean/theleansoldier-hologram.npctype": [
+        "/scriptConfig/dialog/cheerOn/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holographic attack module recalibrating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/thelean/theleansoldier-hologram.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Initiating holographic attack module."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/thelean/theleansoldier-hologram.npctype": [
+        "/scriptConfig/dialog/reattack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Re-initiating holographic attack module."
+    }
+  }
+]

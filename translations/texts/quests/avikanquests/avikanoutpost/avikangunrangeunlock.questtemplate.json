@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikangunrangeunlock.questtemplate": [
+        "/scriptConfig/descriptions/findGoal"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destroy the ^orange;Violated Elite Drahl^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikangunrangeunlock.questtemplate": [
+        "/scriptConfig/descriptions/enterInstance"
+      ]
+    },
+    "Texts": {
+      "Eng": "Talk to ^orange;Rokhan^reset; to warp down to the ^orange;planet below^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikangunrangeunlock.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Vanguard is having issues with violated Drahl units on Kharmani. I need you to warp down to the planet's surface and ^green;put an end to the ^orange;Violated Elite Drahl ^green;roaming the grounds^white;. In return, ^green;you will earn yourself access to the Vanguard's shooting range ^white;here in the Starfarer's Refuge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikangunrangeunlock.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done, I hear that the violated Elite Drahl has been eliminated. Please, take this security card; it will allow you to open the door to the shooting range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikangunrangeunlock.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Stopping the Corruption"
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big and round stuffed toy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft Trink plushie."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft alien toy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy Trink made of soft fabrics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy Trink. Why not?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki seen real version. This cute-more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An adorable plushie."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An oddly cute toy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this a stuffed robot toy?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a toy Trink. Unsettling and cute both."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trink Plushie"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trink plushies are always adorable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who doesn't love a Trink plushie?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ït seems the Trink were well designed. The other species quite like them."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaributton/akkimaributton.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/wired/akkimarismallbutton/akkimarismallbutton.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki press, things happen."
+    }
+  }
+]

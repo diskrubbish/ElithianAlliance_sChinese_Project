@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/trink/trinksmoothpanel.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smooth, dark metal panel."
+    }
+  }
+]

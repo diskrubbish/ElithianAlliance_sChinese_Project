@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimariglassitem.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hard crystalline sheet similar to glass."
+    }
+  }
+]

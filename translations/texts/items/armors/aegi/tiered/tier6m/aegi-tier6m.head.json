@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier6m/aegi-tier6m.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Union Battlehelmet Type-M"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier6m/aegi-tier6m.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;An extremely durable metal helmet. Powerful version."
+    }
+  }
+]

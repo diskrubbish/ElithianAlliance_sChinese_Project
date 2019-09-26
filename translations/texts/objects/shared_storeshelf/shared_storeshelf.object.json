@@ -1,0 +1,142 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bunch of random goods, it seems to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A varied assortments of goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "All sorts of goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected store shelf. Scanning for nearby merchants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what that food will taste like."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshelf full of goodiess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's food here, but also trinkets and materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shelf has an odd combination of goods on it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shelf is decently organized, but I could do better."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shelf is filled with various goods."
+    }
+  }
+]

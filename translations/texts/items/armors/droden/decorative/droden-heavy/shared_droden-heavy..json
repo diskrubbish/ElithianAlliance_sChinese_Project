@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-heavy/droden-heavy.chest": [
+        "/description"
+      ],
+      "items/armors/droden/decorative/droden-heavy/droden-heavy.head": [
+        "/description"
+      ],
+      "items/armors/droden/decorative/droden-heavy/droden-heavy.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A heavy Droden war frame, built for ultimate durability."
+    }
+  }
+]

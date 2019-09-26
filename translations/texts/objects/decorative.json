@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/posters/allianceposteraventor/allianceposteraventor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What does this icon represent?"
+    }
+  }
+]

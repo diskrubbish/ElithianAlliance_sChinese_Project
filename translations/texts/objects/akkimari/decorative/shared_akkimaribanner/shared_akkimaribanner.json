@@ -1,0 +1,282 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/avianDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright red banner, it's seen better days."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long cloth banner. I like the colour."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal ring with a torn banner hanging from it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ragged banner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/hymidDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple banner. It looks old."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/description"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slightly torn banner used to decorate Akkimari buildings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/theleanDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A torn Akkimari banner. My people have caused many torn banners..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A torn banner suspended from a metal ring. How quaint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/apexDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A torn banner. I don't recognize the iconography."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/trinkDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A typical display of Akkimari carelessness. The banner is all torn up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki like banners. Make Akki feel connected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/shortdescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Banner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Akkimari banner, typically rugged."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien banner. It's not in the best condition."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/centensDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An imperfect banner for an imperfect species. Beautiful in its own way."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss who tore the bannerss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning iconography database. Zero results. Iconography unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/aegiDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of Akkimari banner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/notixDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ring this banner is hung from clatters softly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/dremetonDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This banner is torn. How unfortunate."
+    }
+  }
+]

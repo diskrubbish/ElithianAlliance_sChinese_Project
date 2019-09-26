@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A number of rolled up leather tapestries."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A number of simple leather tapestries, rolled up to make them easier to store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather tapestries rolled up for storage. Or transport, perhaps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather tapestries. Plain and simple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rolled up leather tapestries."
+    }
+  }
+]

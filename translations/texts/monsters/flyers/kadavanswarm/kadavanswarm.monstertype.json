@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/kadavanswarm/kadavanswarm.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stingwing Swarm"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/kadavanswarm/kadavanswarm.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stingwing swarms operate as a single creature, using specialized feromones to communicate and coordinate."
+    }
+  }
+]

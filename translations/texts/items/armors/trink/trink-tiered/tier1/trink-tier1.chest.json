@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier1/trink-tier1.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mark I Arm Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier1/trink-tier1.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;A low-grade iron arm mod."
+    }
+  }
+]

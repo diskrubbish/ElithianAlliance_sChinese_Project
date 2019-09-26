@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-scavenger/akkimari-scavenger.head": [
+        "/shortdescription"
+      ],
+      "items/armors/akkimari/decorative/akkimari-scavenger2/akkimari-scavenger2.head": [
+        "/shortdescription"
+      ],
+      "items/armors/akkimari/decorative/akkimari-scavenger3/akkimari-scavenger3.head": [
+        "/shortdescription"
+      ],
+      "items/armors/akkimari/decorative/akkimari-scavenger4/akkimari-scavenger4.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scavenger's Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-scavenger/akkimari-scavenger.head": [
+        "/description"
+      ],
+      "items/armors/akkimari/decorative/akkimari-scavenger2/akkimari-scavenger2.head": [
+        "/description"
+      ],
+      "items/armors/akkimari/decorative/akkimari-scavenger3/akkimari-scavenger3.head": [
+        "/description"
+      ],
+      "items/armors/akkimari/decorative/akkimari-scavenger4/akkimari-scavenger4.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A scrap metal helmet worn by Akkimari scavengers."
+    }
+  }
+]

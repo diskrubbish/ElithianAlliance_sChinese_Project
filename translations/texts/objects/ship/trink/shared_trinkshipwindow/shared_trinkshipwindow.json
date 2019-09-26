@@ -1,0 +1,212 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A digital Trinkian window. It's connected to sensors all around the ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A digital window to circumvent the structural weakpoints created by real windows."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A digital window, connected to sensors all around the ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A digital window, readable only to the Trink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A digital window. It's not quite as clear as a real window."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A digital window? How awesome is that?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A digital window? I prefer actual windows."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/description"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monitor used by the Trinks as a replacement for windows."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Digital windows to circumvent the structural weakpoints created by actual windows."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this supposed to be a window?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This monitor srves as a digital window, to replace actual windows."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This seems to be some sort of digital window."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This window-no, just screen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Us Trinks have no need for actual windows. These monitors display all the information we need about our surroundings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What sort of mockery is this? Is this supposed to some sorta window?"
+    }
+  }
+]

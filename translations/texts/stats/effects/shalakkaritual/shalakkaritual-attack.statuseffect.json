@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/shalakkaritual/shalakkaritual-attack.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shamanic Rage"
+    }
+  }
+]

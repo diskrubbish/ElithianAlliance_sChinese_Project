@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/centens/generated/jumpcannon/centens-jumpcannon.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/centens/generated/jumpgun/centens-jumpgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/centens/generated/jumprifle/centens-jumprifle.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/centens/generated/jumpsniper/centens-jumpsniper.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uses miniature jump gates to transport solar matter to the magazine."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/bow/thea-electricarrowmod-bow.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elemental arrow that electrifies targets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/bow/thea-electricarrowmod-bow.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electric Arrow"
+    }
+  }
+]

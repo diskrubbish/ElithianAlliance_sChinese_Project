@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancesupport.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pillarss for ssupporting heavy thingss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancesupport.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta heavy support structure."
+    }
+  }
+]

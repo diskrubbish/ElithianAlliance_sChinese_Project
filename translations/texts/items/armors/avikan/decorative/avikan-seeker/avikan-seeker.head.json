@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-seeker/avikan-seeker.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seeker's Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-seeker/avikan-seeker.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A curiously shaped helmet worn by Avikan Seekers."
+    }
+  }
+]

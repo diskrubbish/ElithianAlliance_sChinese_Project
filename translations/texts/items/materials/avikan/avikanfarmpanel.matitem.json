@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanfarmpanel.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirt captured in a metal container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanfarmpanel.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft dirt for farmingsss."
+    }
+  }
+]

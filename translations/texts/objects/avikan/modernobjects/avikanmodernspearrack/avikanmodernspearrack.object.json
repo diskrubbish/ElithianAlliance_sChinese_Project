@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A collection of metal spears."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A number of finely crafted metal spears."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rack of metal spears."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Vanguard approved weapons detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal spears. Bulky, but strong and sharp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Naught but the best spears for the Vanguard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny metal spears. Would anyone mind if I take one of them?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spears fit for an alien army."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spears make for inefficient weapons in an age where firearms are widely available."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spears of an excellent quality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spearsss for sstabbing. Floran likesss sstabbing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticks-pointy, for killing. Akki like killing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan Vanguard uses spears as their primary close-range weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These spears are sharper than they appear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These spears look quite intimidating."
+    }
+  }
+]

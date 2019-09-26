@@ -1,0 +1,274 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic but very practical storage locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic storage locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker in the wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker made from metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal storage locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metallic storage locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/description"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nice, spacious, wall-mounted storage solution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A place to keep your things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple storage locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A storage locker built into the wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient storage locker. The Trink would enjoy this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected storage locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can ssstuff things into locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's an industrial looking storage locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somewhere to store personal belongings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This storage locker is an efficient use of space."
+    }
+  }
+]

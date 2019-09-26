@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/vehiclecontroller/trinkhoverpodcontroller.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hoverpod Controller"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/vehiclecontroller/trinkhoverpodcontroller.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Summons a Hoverpod from your ship's cargo hold."
+    }
+  }
+]

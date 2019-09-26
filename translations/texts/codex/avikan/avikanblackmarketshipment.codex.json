@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanblackmarketshipment.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "  - Delivery 1 -\n\nElite Drahl Unit - 1 unit\nCommon Drahl Unit - 31 units\nDrahlid Unit - 125 units\nDroden Utility Frame - 12 unit\nDroden War Frame - 13 unit\nGemstone - 42 units\nWorked Leather - 304 units\nKavanite Plate - 1035 units\nKeff - 2 units"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanblackmarketshipment.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "  - Delivery 2 -\n\nSandspitter's Sack - 9 units\nSandcrawler's Tooth - 24 units\nSandstalker's Gut - 3 units\nForged Merit Token - 35120 units\nThelean Tendril - 1 unit\nThelean Eye - 1 unit\nJumpgate Core - 1 unit\nHyverium Plate - 4 units\nThat Thing - 1 unit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanblackmarketshipment.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A manifest for a shipment of goods to the 'Drifter'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanblackmarketshipment.codex": [
+        "/contentPages/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attached Note:\n\nGood doing business with you again, Drifter. You always come up with the most unusual orders. Enjoy your new stock.\n\n- Black Hand"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanblackmarketshipment.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shipment Manifest B208-E"
+    }
+  }
+]

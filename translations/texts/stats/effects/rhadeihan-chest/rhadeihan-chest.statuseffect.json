@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/rhadeihan-chest/rhadeihan-chest.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Regenerative Matrix"
+    }
+  }
+]

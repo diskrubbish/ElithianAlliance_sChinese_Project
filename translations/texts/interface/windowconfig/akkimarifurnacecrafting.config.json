@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Stone Forge"
+    }
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apparently the Harrowing is some kind of ancient Aeginian festival."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you enjoying the Harrowing?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I just saw some Aegi wearing masks and through I'd join in. How do I look?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I read in a history book that the Harrowing was once called Halloween. What a weird name!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I was hoping more people would be wearing masks this year."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm still not sure what the Harrowing is all about, but the masks are fun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It may be old, but the Harrowing is still a fun event!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Masks are silly, but a little fun as well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Harrowing is so much fun!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The masks are great, but the candy is the best part about the Harrowing!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/events/harrowing/harrowing-civilian.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What do you think of my costume? That Aegi wearing a pumpkin mask made it for me!"
+    }
+  }
+]

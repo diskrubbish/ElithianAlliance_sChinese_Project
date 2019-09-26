@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancesmoothpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancesmoothpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancesmoothpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancesmoothpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polished metal panels."
+    }
+  }
+]

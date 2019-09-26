@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-frostaura/thea-frostaura.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frost Aura"
+    }
+  }
+]

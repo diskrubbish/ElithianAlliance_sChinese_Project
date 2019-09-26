@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceborderlessglass.matitem": [
+        "/description"
+      ],
+      "items/materials/alliance/allianceglass.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/allianceborderlessglass.material": [
+        "/description"
+      ],
+      "tiles/materials/alliance/allianceglass.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Triple-pane glass-like plastic, perfectly insulated."
+    }
+  }
+]

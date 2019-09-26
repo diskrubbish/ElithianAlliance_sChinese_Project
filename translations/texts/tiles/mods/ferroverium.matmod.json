@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/ferroverium.matmod": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki mine ferroverium, make materials-new."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/ferroverium.matmod": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected ferroverium ore deposit. Recommend immediate extraction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/ferroverium.matmod": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ferroverium, if I ain't mistaken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/ferroverium.matmod": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss fasscinated by sshiny oress."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/ferroverium.matmod": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some Ferroverium ore. Quite a find!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/mods/ferroverium.matmod": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like Ferroverium ore."
+    }
+  }
+]

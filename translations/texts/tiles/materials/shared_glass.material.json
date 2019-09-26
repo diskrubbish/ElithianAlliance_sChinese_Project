@@ -1,0 +1,105 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessglass.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanglass.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/trink/trinkglass.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Thick glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceslopedglass.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanborderlessglass.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanglass.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanslopedglass.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/trink/trinkglass.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/trink/trinkslopedglass.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran look pretty in glasssss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/trink/trinkglass.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/allianceslopedglass.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanborderlessglass.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanglass.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanslopedglass.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/trink/trinkglass.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/trink/trinkslopedglass.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick glass for sure, but I can still see right through to th'other side."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessglass.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanglass.material": [
+        "/description"
+      ],
+      "tiles/materials/trink/trinkglass.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick, strong glass."
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanswitch/avikanswitch.object": [
+        "/description"
+      ],
+      "objects/trink/wired/trinkswitch/trinkswitch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small switch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariwallswitch/akkimariwallswitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/wired/alliancewallswitch/alliancewallswitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikanswitch/avikanswitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikanwallswitch/avikanwallswitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/wired/trinkswitch/trinkswitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/wired/trinkwallswitch/trinkwallswitch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A switch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariwallswitch/akkimariwallswitch.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/wired/alliancewallswitch/alliancewallswitch.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/wired/avikanswitch/avikanswitch.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/wired/avikanwallswitch/avikanwallswitch.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/wired/trinkswitch/trinkswitch.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/wired/trinkwallswitch/trinkwallswitch.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Switch. Used to power on and off various objects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariwallswitch/akkimariwallswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/wired/alliancewallswitch/alliancewallswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanswitch/avikanswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanwallswitch/avikanwallswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/wired/trinkswitch/trinkswitch.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/wired/trinkwallswitch/trinkwallswitch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssswitch!"
+    }
+  }
+]

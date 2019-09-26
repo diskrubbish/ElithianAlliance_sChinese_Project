@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/avikanlargedrone/avikanlargedrone.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elite Drahl"
+    }
+  }
+]

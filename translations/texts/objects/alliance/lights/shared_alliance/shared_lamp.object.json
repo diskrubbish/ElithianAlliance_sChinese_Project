@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/centensDescription"
+      ],
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light source."
+    }
+  }
+]

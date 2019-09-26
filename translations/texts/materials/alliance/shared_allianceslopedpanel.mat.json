@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceslopedpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/allianceslopedpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sloped metal panel, perfect for buildings walls with."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceslopedpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/allianceslopedpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Sloped Panel"
+    }
+  }
+]

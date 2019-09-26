@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien number. I believe it is eight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien symbol for the number eight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eight in some alien script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number Eight"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number eight in an alien script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number eight, in the Avikan Script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number eight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number-alien. Eight, Akki thinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number. Eight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems this number means eight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien symbol means eight."
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big, heavy generator. Powerful, but not exactly eco-friendly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generator of some kind. The design is unfamiliar to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generator, likely built by the Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generator. It looks odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy generator that can power other objects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very inefficient generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very polluting generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akkimari Generator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien generator. Fuel source unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not recognize thisss generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Generator makes power. Power makes light. Light makes life."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what sort of fuel this generator uses."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this a generator? It looks strange."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just some kinda generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not a very elegant generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of weird alien generator. It's very hot to the touch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This generator is very polluting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This generator rumbles loudly, almost unpleasantly."
+    }
+  }
+]

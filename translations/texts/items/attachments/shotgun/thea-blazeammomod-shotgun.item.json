@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/shotgun/thea-blazeammomod-shotgun.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blaze Ammo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/shotgun/thea-blazeammomod-shotgun.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shotgun ammunition that ignites shortly after being fired."
+    }
+  }
+]

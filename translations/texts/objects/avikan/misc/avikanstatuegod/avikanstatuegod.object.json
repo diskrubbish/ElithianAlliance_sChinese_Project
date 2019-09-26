@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beautifully crafted statue. I believe it depicts Rhadeis greeting the Avikan people."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big statue dedicated to some god."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue depicting Rhadeis, the deity of Avikan religion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue depicting a god. It's quite detailed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue of one of the Gods! We Hymid aren't alone in worshiping the Ce'Tennan, it seems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big sstatue of alien godsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected statue of Rhadeis. This unit is reverent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that's a mighty fine piece of art right there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhadeis, god of the Avikan. The statue's quality shows how much the Avikan honour him."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhadeis, our Uplifter. This grand statue honours him."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statue of Rhadeis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statue of god-maker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Centens have been elevated to divine creatures in many cultures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Miniknog won't approve of a statue such as this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue depicts Rhadeis, the god of the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue is beautiful. I believe it depicts Rhadeis, the Avikan god."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue looks an awful lot like an actual creature, not some metaphysical being."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This statue seems to be dedicated to an alien god of sorts."
+    }
+  }
+]

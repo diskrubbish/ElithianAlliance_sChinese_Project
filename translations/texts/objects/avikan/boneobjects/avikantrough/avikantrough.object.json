@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone trough full of food and water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone trough, for feeding livestock and mounts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A perfect place to feed a mighty steed. Or just livestock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive bone trough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple bone trough, full of raw food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional Avikan-made trough. They use it to feed their Gad'hur."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A trough for feeding mounts and livestock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A trough full of raw food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Bone Trough"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected trough. Contains food for mounts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ssmell food. Floran eatsss food?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Livestock and mounts come to eat and drink here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Gad'hur kept by our clans are fed using these troughs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bone trough is used to feed mounts. Livestock too, probably."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trough is full of raw food. Great for livestock, but bad for people."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This trough is used to feed livestock and mounts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trough for feeding animals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why is this trough made of bone?"
+    }
+  }
+]

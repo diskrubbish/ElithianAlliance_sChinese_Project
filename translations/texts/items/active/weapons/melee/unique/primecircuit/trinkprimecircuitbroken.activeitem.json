@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/primecircuit/trinkprimecircuitbroken.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken prod. Its power supply is busted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/primecircuit/trinkprimecircuitbroken.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Prod"
+    }
+  }
+]

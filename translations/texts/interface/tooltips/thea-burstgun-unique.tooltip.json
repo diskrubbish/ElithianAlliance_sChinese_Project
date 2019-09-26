@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/thea-burstgun-unique.tooltip": [
+        "/roundsPerBurstTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rounds per Burst:"
+    }
+  }
+]

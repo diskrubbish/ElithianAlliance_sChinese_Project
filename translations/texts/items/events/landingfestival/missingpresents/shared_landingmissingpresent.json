@@ -1,0 +1,40 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/landingfestival/missingpresents/landingmissingpresent1.item": [
+        "/description"
+      ],
+      "items/events/landingfestival/missingpresents/landingmissingpresent10.item": [
+        "/description"
+      ],
+      "items/events/landingfestival/missingpresents/landingmissingpresent2.item": [
+        "/description"
+      ],
+      "items/events/landingfestival/missingpresents/landingmissingpresent3.item": [
+        "/description"
+      ],
+      "items/events/landingfestival/missingpresents/landingmissingpresent4.item": [
+        "/description"
+      ],
+      "items/events/landingfestival/missingpresents/landingmissingpresent5.item": [
+        "/description"
+      ],
+      "items/events/landingfestival/missingpresents/landingmissingpresent6.item": [
+        "/description"
+      ],
+      "items/events/landingfestival/missingpresents/landingmissingpresent7.item": [
+        "/description"
+      ],
+      "items/events/landingfestival/missingpresents/landingmissingpresent8.item": [
+        "/description"
+      ],
+      "items/events/landingfestival/missingpresents/landingmissingpresent9.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Landing Festival present that went missing. Return it to the Pathfinder!"
+    }
+  }
+]

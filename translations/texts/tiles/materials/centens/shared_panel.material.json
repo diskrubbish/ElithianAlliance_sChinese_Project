@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensblockpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/centens/centensgroundpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/centens/centenshoripanel.material": [
+        "/description"
+      ],
+      "tiles/materials/centens/centenssmoothpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/centens/centensvertpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lightweight but incredibly strong metal panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensblockpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/centens/centensgroundpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/centens/centenshoripanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/centens/centenssmoothpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/centens/centensvertpanel.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Centensian metal panel detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensblockpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/centens/centensgroundpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/centens/centenshoripanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/centens/centensslopedpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/centens/centenssmoothpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/centens/centensvertpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is confused. Metal isss light and so sstrong Floran can't scratch it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensgroundpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/centens/centenshoripanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/centens/centenssmoothpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/centens/centensvertpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm baffled by how light and strong this 'ere metal here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centenshoripanel.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/centens/centensvertpanel.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Panel-strong, made by god-makers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensblockpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/centens/centensgroundpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/centens/centenshoripanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/centens/centensslopedpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/centens/centenssmoothpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/centens/centensvertpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal panel is stronger and lighter than anything I've encountered before."
+    }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I won't deal with the Nomada any longer!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/avikan/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I won't let you take my freedom!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've left the Nomada behind!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhadeis guides my path!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "So, the Nomada finally sent someone after me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/avikan/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'd better turn back!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/avikan/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've seen enough!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/avikan/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your days are done!"
+    }
+  }
+]

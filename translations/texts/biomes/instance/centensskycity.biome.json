@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/instance/centensskycity.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sky"
+    }
+  }
+]

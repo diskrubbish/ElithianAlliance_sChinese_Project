@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/instance/elithia-snowy.biome": [
+        "/friendlyName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowy Elithia"
+    }
+  }
+]

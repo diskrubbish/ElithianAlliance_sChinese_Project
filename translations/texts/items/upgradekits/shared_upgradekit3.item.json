@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/upgradekits/akkimariupgradekit3.item": [
+        "/description"
+      ],
+      "items/upgradekits/allianceupgradekit3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An improved weapon upgrade kit. Upgrades weapons to level 3."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/avikanviolatedminidrone/avikanviolatedminidrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan Drahlid, corrupted by Thelean Vesomeyr."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/avikanviolatedminidrone/avikanviolatedminidrone.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violated Drahlid"
+    }
+  }
+]

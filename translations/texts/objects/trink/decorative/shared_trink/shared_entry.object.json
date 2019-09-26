@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An inverted metal pyramid? Strangely cool!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran seesss upside down roof. Floran wonderss why upside down."
+    }
+  }
+]

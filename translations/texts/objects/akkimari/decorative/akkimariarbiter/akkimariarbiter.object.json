@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone. It looks funny, and somehow cute."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A law enforcement drone of Akkimari design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A medium-sized, rounded drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleeping drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki not disturb Arbiter-dreaming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Akkimari law enforcement drone, I think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An inactive Akkimari Arbiter-type drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien-built drone. Arbiter model."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dronesss for combat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inactive Arbiter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien drone looks a bit sturdier than a Drahl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This drone has an elegant design to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This drone is sleeping. Better not wake it up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This drone looks ready for combat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This drone was designed by the Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is an Akkimari law enforcement drone."
+    }
+  }
+]

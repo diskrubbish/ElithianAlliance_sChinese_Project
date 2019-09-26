@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A market stall selling Avikan firearms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien weaponry. War is found everywhere, it seems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien weapons. Not as exotic as I would have expected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An assortment of Avikan weapons are for sale here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Firearms Stall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan weapons are sold here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan weapons can be purchased here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran buyss gunsss here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I always have use for more weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could use a new rifle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope these weapons won't be used against me or my kind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rifles, sidearms and other weapons are sold here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan build decent ballistic rifles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The rebels could use these weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place selss several types of Avikan weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Various Avikan weapons can be purchased here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons-alien, for fighting."
+    }
+  }
+]

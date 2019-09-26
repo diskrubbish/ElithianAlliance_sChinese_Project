@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss curiousss. What'ss insside?"
+    }
+  }
+]

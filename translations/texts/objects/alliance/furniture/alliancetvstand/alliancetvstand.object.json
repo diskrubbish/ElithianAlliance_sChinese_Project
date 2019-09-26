@@ -1,0 +1,178 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A TV stand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A TV stand. What's inside the small storage compartment?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cabinet often used as a TV stand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple stand for a large screen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small cabinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A space-efficient TV stand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stand for a television."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stand for the TV."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki place screen here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance TV Stand"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien table of some kind. It has some storage space too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient use of space. This TV stand has a small but useful storage compartment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran place TV on topsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a TV stand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "T'is just a stand for a television screen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stand was built for a TV."
+    }
+  }
+]

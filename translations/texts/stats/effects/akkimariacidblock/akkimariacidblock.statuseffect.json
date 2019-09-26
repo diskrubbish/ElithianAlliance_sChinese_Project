@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/akkimariacidblock/akkimariacidblock.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vaash Resistance"
+    }
+  }
+]

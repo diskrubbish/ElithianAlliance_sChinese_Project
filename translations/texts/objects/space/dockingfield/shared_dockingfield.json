@@ -1,0 +1,342 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/aegiDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/aegiDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/aegiDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A docking field. It acts as a barrier between the void of space, and the inside of a ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A docking field. It will keep the air inside the ship, but still allow me to pass through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/trinkDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/trinkDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/trinkDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly efficient airlock solution. It keeps air inside, whole solid objects can still pass through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/apexDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/apexDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/apexDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A space docking field, this energy contains the atmosphere inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/hymidDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/hymidDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/hymidDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An energy field for seperating a ship's atmosphere from the void of space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/erixianDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/erixianDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/erixianDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An energy field that seperates space from a ship's atmosphere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/drodenDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/drodenDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/drodenDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Docking field detected. Creates a barrier between space and a ship's atmosphere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/hylotlDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/hylotlDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/hylotlDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Docking fields like this are common in space, they make quite effective airlocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/akkimariDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/akkimariDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/akkimariDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Field-blocking, keep air in ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/avianDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/avianDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/avianDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The energy in this docking field contains air and gravity inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/floranDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/floranDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/floranDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crackling energy containsss air inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/description"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/description"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/description"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This energy field can contain both atmosphere and artificial gravity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/notixDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/notixDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/notixDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This energy field hums pleasently."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/avikanDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/avikanDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/avikanDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This energy field will keep the air inside, while still allowing ships to pass through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This field is a special energy type meant to contain atmosphere and artificial gravity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/novakidDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/novakidDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/novakidDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here energy field keeps air and gravity inside and space outside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/humanDescription"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/humanDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/humanDescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This type of energy field can contain atmosphere and gravity inside space structures."
+    }
+  }
+]

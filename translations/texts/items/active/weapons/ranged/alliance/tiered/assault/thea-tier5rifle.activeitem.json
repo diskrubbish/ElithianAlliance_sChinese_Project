@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/tiered/assault/thea-tier5rifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard-issue Alliance assault rifle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/tiered/assault/thea-tier5rifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "AC.A-2 Clarity"
+    }
+  }
+]

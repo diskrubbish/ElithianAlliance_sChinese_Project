@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-suit/aegi-suit.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Designer Pants"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-suit/aegi-suit.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Stylish pants for the fashionable Aegi."
+    }
+  }
+]

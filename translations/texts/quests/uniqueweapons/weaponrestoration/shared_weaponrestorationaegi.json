@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi4.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Hadaeko ^reset;in the ^orange;Creon Embassy^reset;"
+    }
+  }
+]

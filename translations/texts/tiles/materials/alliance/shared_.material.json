@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancepavementstone.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/alliance/alliancestonebrick.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/alliance/alliancestonebrickrough.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like the feel of sstone under feet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancepavementstone.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/alliance/alliancestonebrick.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/alliance/alliancestonebrickrough.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone feel good under feet-Akki."
+    }
+  }
+]

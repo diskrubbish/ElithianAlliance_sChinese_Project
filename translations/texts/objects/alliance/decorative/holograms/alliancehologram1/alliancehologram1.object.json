@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hologram displaying a great deal of information."
+    }
+  }
+]

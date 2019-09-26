@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crafting ssstation for making mech parts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki build parts-new here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected mech crafting station. Used to produce new mech parts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can assemble modular mech components at this station."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This industrial looking table produces modular mech components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station is designed to assemble modular mech components"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table can be used to produce modular mech components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/description"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Used to produce modular mech components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "With this here table I could build some mech parts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "With this table I can assemble modular mech components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Mech Part Crafting Table^white;"
+    }
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A container containing water. This looks like it'll never leak."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A container full of fresh water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A container full of water, of vital importance to our people."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal container filled with water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/apexDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal container full of water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A properly sealed container, filled with water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected water supply. Container status: unbreached."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh and clean water - how do I get it out?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh water!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh water! I could use some right now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pure water, refreshing for the soul."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This water container has unusually thick glass. I guess the Avikan really don't want it to leak."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This water container is unlikely to ever start leaking."
+    }
+  }
+]

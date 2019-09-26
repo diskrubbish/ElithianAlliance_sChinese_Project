@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large leather tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A temporary house."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent used by Avikan nomads."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional nomad's tent. Easy to set up and break down again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan tent, made of leather. Very durable, even in harsh environments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Tent. Mobile home. Material: leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Tent"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big brown house..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am not too proud to sleep in a tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ooh, a tent! Is anyone inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tent-leather, Akki sleep here for the night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tent has plenty of room."
+    }
+  }
+]

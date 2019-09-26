@@ -1,0 +1,244 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/droden/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Entering rest mode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/droden/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error. Unable to reach location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/droden/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Replacement for unit <selfname> has arrived."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/droden/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Replacement unit has arrived."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/droden/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Requesting permission to join ship crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/droden/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Resuming combat mode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/droden/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unit can offer combat support."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/droden/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unit is at your service."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/droden/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unit is at your service. Requesting permission to join ship crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/droden/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unit will assist you in combat, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/droden/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unit will remain here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/droden/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unable to reach target location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/droden/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit <selfname> requests permission to join ship crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/droden/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit is falling behind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/droden/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit is ready for combat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/droden/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit is ready to venture on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/droden/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit is unable to reach that location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/droden/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit replacement delivery completed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/droden/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit replacement reporting for duty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/droden/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit reporting for duty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/droden/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit will guard this location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdroden.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/droden/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit will wait."
+    }
+  }
+]

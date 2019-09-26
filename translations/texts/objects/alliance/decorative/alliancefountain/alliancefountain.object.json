@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beautiful water fountain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fountain. The sound of it always managed to calm me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large fountain of Aeginian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large fountain. Reminds me of a birdbath."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty fountain. The sound of the water is soothing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A water fountain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aliens waste water in many ways..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Fountain"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beautiful clear water. Sometimes I miss the ocean."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected water source. Recommend extraction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can always relax when there's flowing water nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hear water flowing. It's soothing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I had a penny I'd throw it in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda splashy statue spoutin' water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The sounds of this water is calming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fountain wastes almost no water. It's quite efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water flows. Akki grows thirsty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Water is bringer of life for Floran."
+    }
+  }
+]

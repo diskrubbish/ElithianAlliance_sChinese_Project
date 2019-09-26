@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Nomada is against the use of AI on any ship."
+    }
+  }
+]

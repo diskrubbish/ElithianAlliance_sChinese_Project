@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "particles/texteffects/thea-setmonsterfriendly.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow;Befriended"
+    }
+  }
+]

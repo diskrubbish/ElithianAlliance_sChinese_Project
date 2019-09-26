@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallmodern/avikanmarketstallmodern.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected market stall. Scanning for nearby merchants..."
+    }
+  }
+]

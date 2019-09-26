@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-engineer/trink-engineer.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engineer Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-engineer/trink-engineer.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A body mod featuring reinforced eyes, for the engineer who wants to work safely."
+    }
+  }
+]

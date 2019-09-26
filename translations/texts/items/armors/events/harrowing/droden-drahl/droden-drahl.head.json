@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/droden-drahl/droden-drahl.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drahl Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/droden-drahl/droden-drahl.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A drahl mask to celebrate the Harrowing!"
+    }
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console for controlling parts of a ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console for interfacing with various systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console sporting a fancy interface. I don't understand any of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console. How does the interface work?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan-designed console. Its interface is too complicated for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Console. Used for interfacing with various systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Ship Console"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I knew how this interface works."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The interface on this console was designed for the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console's interface was designed for Avikan hands."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panel controls certain parts of the ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What might all these buttons do?"
+    }
+  }
+]

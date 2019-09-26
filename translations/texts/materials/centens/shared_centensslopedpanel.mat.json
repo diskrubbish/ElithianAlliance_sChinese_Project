@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensslopedpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/centens/centensslopedpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sloped panel built with a lightweight but incredibly strong metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensslopedpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/centens/centensslopedpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Sloped Panel"
+    }
+  }
+]

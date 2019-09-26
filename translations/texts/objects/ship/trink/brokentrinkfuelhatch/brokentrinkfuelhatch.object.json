@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken fuel hatch. This won't do!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki no fuel ship while panel-broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Fuel Hatch"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/alliancethrowablegrenade.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hand grenade used by Alliance soldiers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/alliancethrowablegrenade.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Type 2 Grenade"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber0/avikannumber0.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/signs/avikannumber1/avikannumber1.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/signs/avikannumber2/avikannumber2.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/signs/avikannumber4/avikannumber4.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/signs/avikannumber7/avikannumber7.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doess not know what alien ssymbol meansss."
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/landingfestival/aegi-pathfinder/aegi-pathfinder.chest": [
+        "/description"
+      ],
+      "items/armors/events/landingfestival/aegi-pathfinder/aegi-pathfinder.head": [
+        "/description"
+      ],
+      "items/armors/events/landingfestival/aegi-pathfinder/aegi-pathfinder.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The costume of the Pathfinder, paragon of the Landing Festival!"
+    }
+  }
+]

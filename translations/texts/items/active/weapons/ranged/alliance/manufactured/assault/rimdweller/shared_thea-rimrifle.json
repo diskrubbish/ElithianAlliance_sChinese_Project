@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/assault/rimdweller/thea-rimrifle1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/assault/rimdweller/thea-rimrifle2.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An assault rifle produced somewhere in the Rim."
+    }
+  }
+]

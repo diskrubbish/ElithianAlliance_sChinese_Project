@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanoathbreakershard.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shard of the Xanafir, somehow broken and corrupted. It was once part of an infamous weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanoathbreakershard.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Broken Shard of Infamy^white;"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.chest": [
+        "/description"
+      ],
+      "items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;An old astronaut's suit used by early Avikan astronauts."
+    }
+  }
+]

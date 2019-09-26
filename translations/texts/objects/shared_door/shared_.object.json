@@ -1,0 +1,111 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/description"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/description"
+      ],
+      "objects/avikan/tentobjects/avikantentdoor/avikantentdoor.object": [
+        "/description",
+        "/hylotlDescription",
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather tent door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/drodenDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blast door detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/floranDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss what is behind metal doorsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door is locked."
+    }
+  }
+]

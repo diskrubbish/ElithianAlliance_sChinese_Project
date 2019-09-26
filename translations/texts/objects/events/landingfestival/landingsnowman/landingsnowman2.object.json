@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple snowman."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A snowman."
+    }
+  }
+]

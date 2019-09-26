@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki wonder what is beneath."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Covered Avikan Crate"
+    }
+  }
+]

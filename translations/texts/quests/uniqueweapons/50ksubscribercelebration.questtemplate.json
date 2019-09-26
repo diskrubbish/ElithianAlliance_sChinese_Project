@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/50ksubscribercelebration.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yet another delivery from your mysterious Aeginian friend. They must really appreciate your continued patience and support! Enjoy your gift!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/50ksubscribercelebration.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A Special Gift III"
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacemerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "npcs/avikan/space/avikanspacemerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ],
+      "npcs/trink/space/trinkspacemerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Sells items for Spacefarers!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacemerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ],
+      "npcs/avikan/space/avikanspacemerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ],
+      "npcs/trink/space/trinkspacemerchant.npctype": [
+        "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Spacefaring Merchant"
+    }
+  }
+]

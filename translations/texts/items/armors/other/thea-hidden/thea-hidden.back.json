@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-hidden/thea-hidden.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small device that hides armour in your backwear slot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-hidden/thea-hidden.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Backwear Cloaker"
+    }
+  }
+]

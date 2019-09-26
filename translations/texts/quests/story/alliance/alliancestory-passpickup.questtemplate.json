@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/scriptConfig/radioMessages/1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "A new embassy was recently opened near Creon, and I'd like to invite you to join me there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/scriptConfig/radioMessages/0/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, it is good to hear from you again, ambassador!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/scriptConfig/radioMessages/2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Any Alliance vessels you find out in space should be equipped with a teleporter that can bring you to the Creon Embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Check in with ^orange;Dayleid ^reset;in the ^orange;Creon Embassy^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/scriptConfig/radioMessages/4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come visit Creon soon, ambassador. I'll be waiting for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here you are, ambassador. Your very own ^orange;Ambassador's Pass^reset;: it'll allow you to ^green;visit the ^orange;Command Center ^green;at the very top of the Creon Embassy^reset;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have received a transmission from ^orange;Admiral Lyiin ^reset;while you were out exploring. ^green;I can patch it through to you now, if you have time.^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/scriptConfig/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Listen to ^orange;Admiral Lyiin^reset;'s transmission"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/scriptConfig/radioMessages/3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once you're there, report to the secretary desk in the Embassy's lobby. The secretary will give you your ^orange;Ambassador's Pass^reset;, which you'll need to access the Embassy's upper levels."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to the Elithian Alliance"
+    }
+  }
+]

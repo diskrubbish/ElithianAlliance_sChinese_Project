@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-briggs/aegi-briggs.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs Work Pants"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-briggs/aegi-briggs.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Rugged working trousers often worn by Briggs construction workers."
+    }
+  }
+]

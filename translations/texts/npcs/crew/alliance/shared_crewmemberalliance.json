@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliancecombat.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/alliance/crewmemberallianceengineer.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/alliance/crewmemberalliancejanitor.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/alliance/crewmemberalliancemechanic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/alliance/crewmemberalliancemedic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/alliance/crewmemberalliancetailor.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance"
+    }
+  }
+]

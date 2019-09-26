@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrossbow2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Makhan gave you the schematics for that Bone Crossbow, I guess? He means well, but his bone weaponry is simply outdated. I have the ^orange;blueprints for an improved crossbow^white;, but I can't give them away for free. I need some ^orange;Thelean Metal ^white;for my research - ^green;find me a piece, and the blueprints are yours^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrossbow2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you, Captain. With this metal fragment, I can finally finish my research! Perhaps I'll have need of you again soon... Either way, here are the blueprints I promised you. Put them to good use."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrossbow2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Metal Ballistics"
+    }
+  }
+]

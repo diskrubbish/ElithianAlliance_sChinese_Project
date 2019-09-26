@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanshippanel.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal panel with sharp edges, for use on ships."
+    }
+  }
+]

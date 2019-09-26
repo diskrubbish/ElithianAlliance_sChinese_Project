@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Repairing this tool isn't too hard, but the materials we need may be difficult to obtain. ^green;Find me ^orange;12 pieces of Centensian Tech^green; and ^orange;12 pieces of Centensian Metal^reset;, and I think I can repair the casing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done, Captain. I'll get to repairing the tool casing now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Tools of the Ancients II"
+    }
+  }
+]

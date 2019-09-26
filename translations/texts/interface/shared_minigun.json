@@ -1,0 +1,40 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-minigun-unique.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-minigun.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-mf-attachment.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-mf.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-unique.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-minigun-unique.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-minigun.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf-attachment.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-unique.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Windup Time:"
+    }
+  }
+]

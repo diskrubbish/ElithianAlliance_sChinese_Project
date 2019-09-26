@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor-wired.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor-wired.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor-wired.object": [
+        "/description"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor-wired.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door. It can be linked to other background doors."
+    }
+  }
+]

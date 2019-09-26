@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancerailfield/alliancerailfield.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki can pass through. Others can not."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancerailfield/alliancerailfield.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Blocking Field"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancerailfield/alliancerailfield.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected blocking field. Prevents specific entities from passing through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancerailfield/alliancerailfield.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some entitiesss can not passs through here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancerailfield/alliancerailfield.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This blocking field will prevent certain entities from passing through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancerailfield/alliancerailfield.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This energy field will prevent certain entities from passing through."
+    }
+  }
+]

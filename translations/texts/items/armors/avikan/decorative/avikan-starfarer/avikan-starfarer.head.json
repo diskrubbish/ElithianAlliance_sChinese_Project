@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-starfarer/avikan-starfarer.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Starfarer's Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-starfarer/avikan-starfarer.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A common helmet amongst captains and other starfarers."
+    }
+  }
+]

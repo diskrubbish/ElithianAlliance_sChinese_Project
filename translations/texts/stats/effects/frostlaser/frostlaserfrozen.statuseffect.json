@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/frostlaser/frostlaserfrozen.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frozen"
+    }
+  }
+]

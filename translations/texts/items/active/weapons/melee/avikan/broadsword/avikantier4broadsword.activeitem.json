@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/broadsword/avikantier4broadsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sharp broadsword made of high-quality monster bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/broadsword/avikantier4broadsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Predator's Blade"
+    }
+  }
+]

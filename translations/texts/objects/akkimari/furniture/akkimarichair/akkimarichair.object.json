@@ -1,0 +1,145 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A comfortable open-backed chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange but comfortable chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange chair with an open back."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange chair. It's also strangely comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly comfortable alien-built chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki need to sit down. Akki rest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Chair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual Akkimari-built chair. It seems inefficient with those side plates."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinksss thiss chair is ssstrange."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's some sort of chair, but the design isn't familiar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien chair is quite comfortable. The open back is great for my tail."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair is comfortable, but the back is missing for some reason."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why does this chair have supports on the sides but not the back?"
+    }
+  }
+]

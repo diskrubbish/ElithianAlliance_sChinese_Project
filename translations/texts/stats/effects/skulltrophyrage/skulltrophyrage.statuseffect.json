@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/skulltrophyrage/skulltrophyrage.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feral"
+    }
+  }
+]

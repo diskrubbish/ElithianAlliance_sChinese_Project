@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple Trinkian Ship Window"
+    }
+  }
+]

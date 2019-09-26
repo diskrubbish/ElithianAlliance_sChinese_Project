@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/generated/avikan-harbinger/avikan-harbinger.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/unique/vhalakinbow/avikan-vhalakinbow.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Triple Shot"
+    }
+  }
+]

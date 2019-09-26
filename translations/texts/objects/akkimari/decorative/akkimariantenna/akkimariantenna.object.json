@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange antenna built by some alien."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy antenna, though it looks like it was made from scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Antenna"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien antenna. It makes me feel somewhat uncomfortable..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna array."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna. For some reason, it's making me feel sick."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antenna sends messages to Akris, to home. Akkimari will claim Kel'chis bounty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big antenna. Floran make big ssspear from it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what signal this thing is receiving and sending."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "My systems are encountering interference from this antenna. I shouldn't stay here for too long."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Receiving alien radio signal. Analyzing failed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda weird-lookin' antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Something about this antenna makes me feel uneasy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Akkimari build powerful antennae from scrap metal. They are quite ingenious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This antenna emits a strange energy field."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This antenna looks a bit like our own."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This antenna makes my head hurt..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This strange antenna may be receiving equally strange transmissions."
+    }
+  }
+]

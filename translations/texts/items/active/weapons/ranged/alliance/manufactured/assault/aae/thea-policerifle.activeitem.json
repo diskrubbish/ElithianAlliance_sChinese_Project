@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/assault/aae/thea-policerifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An assault rifle sometimes issued to P-ASA law enforcement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/assault/aae/thea-policerifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "P-ASA Suppressor I-17"
+    }
+  }
+]

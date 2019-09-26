@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanstring.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard and tough, this string is perfect for sewing together pieces of leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanstring.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tough String"
+    }
+  }
+]

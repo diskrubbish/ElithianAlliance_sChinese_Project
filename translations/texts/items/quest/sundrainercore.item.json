@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/sundrainercore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious weapon core. An unusual energy pulsates deep within the mechanism."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/sundrainercore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Mysterious Weapon Core^white;"
+    }
+  }
+]

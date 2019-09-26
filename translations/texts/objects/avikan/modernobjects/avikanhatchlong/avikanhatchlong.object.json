@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanhatchlong/avikanhatchlong.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatch-large. Akki go through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanhatchlong/avikanhatchlong.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Long Avikan Hatch"
+    }
+  }
+]

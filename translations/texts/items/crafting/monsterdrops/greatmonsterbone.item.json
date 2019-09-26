@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/greatmonsterbone.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great Monster Bone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/greatmonsterbone.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "High quality bones from an alien monster."
+    }
+  }
+]

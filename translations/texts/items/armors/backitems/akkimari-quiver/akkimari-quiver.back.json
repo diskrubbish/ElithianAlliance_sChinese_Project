@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/akkimari-quiver/akkimari-quiver.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Quiver"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/akkimari-quiver/akkimari-quiver.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A simple but effective quiver. Increases damage dealt using bows."
+    }
+  }
+]

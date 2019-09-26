@@ -1,0 +1,190 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to see the Commander?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to deliver a new report?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to report back to the Commander?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you have a new report for the Commander?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you come to see the Commander?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "How did you get in here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "How goes your current assignment?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "May Rhadeis watch over you, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "May Rhadeis watch over you, Droden."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Watchers greet you, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "This section of the Refuge is off-limits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome back, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome back."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who let you into the offices?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You aren't supposed to be in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You should leave."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-avikanwatcher.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'd better get out of these offices."
+    }
+  }
+]

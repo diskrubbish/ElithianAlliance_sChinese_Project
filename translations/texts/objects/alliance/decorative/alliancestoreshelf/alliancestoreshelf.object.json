@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A selection of Elithian goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shelf full of Elithian goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shelf full of alien goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shelf full of common goods from Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shelf full of goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki steal food?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "All sorts of goods, mostly from Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Store Shelf"
+    }
+  }
+]

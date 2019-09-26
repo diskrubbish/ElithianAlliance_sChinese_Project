@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-grenadeattachment.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underbarrel grenade launcher."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-grenadeattachment.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grenade Launcher"
+    }
+  }
+]

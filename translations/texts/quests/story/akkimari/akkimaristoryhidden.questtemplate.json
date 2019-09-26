@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/akkimari/akkimaristoryhidden.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akkimari Story - Initial Setup"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/akkimari/akkimaristoryhidden.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This quest acts as a prerequisite to the Akkimari storyline. You shouldn't be able to see this in your log."
+    }
+  }
+]

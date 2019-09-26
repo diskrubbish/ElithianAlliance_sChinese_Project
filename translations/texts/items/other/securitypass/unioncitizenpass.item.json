@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/securitypass/unioncitizenpass.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An official Union Citizen Identification Card."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/securitypass/unioncitizenpass.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Union Citizen Pass^white;"
+    }
+  }
+]

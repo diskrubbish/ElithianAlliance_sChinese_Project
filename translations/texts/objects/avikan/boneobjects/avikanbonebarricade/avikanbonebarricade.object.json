@@ -1,0 +1,180 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/avianDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barricade made of sharpened bones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A deadly barricade built from the bones of the dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive but effective barricade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/aegiDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple barricade made of sharpened bones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but effective bone barricade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Barricade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bones-sharpened make for barricade-good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected barricade. Recommended action: go around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss careful around sstabby bonesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sharp-looking bones arranged into a simple barricade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sharpened bones made into a simple barricade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone could easily get hurt trying to get past this barricade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "T'is a simple barricade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bones are unusually sharp. Better be careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This barricade may be primitive, but it is still quite effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This should keep out intruders."
+    }
+  }
+]

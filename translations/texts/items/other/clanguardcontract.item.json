@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/clanguardcontract.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A contract for hiring the services of the Clanguard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/clanguardcontract.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Clanguard Contract^white;"
+    }
+  }
+]

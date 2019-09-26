@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/shortdescription"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Docking Field"
+    }
+  }
+]

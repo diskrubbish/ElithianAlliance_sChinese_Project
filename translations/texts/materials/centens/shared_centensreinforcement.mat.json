@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensreinforcement.matitem": [
+        "/description"
+      ],
+      "tiles/materials/centens/centensreinforcement.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dark metal found inside Centensian structures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensreinforcement.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/centens/centensreinforcement.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Reinforcement"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensreinforcement.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/centens/centensreinforcement.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark metalsss insside old homesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensreinforcement.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/centens/centensreinforcement.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal is often found inside ancient metallic structures."
+    }
+  }
+]

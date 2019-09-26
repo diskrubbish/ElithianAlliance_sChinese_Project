@@ -1,0 +1,179 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plushie Centens. I've always admired ancient civilizations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plushie of some strange alien. How cute!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple toy Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stuffed Centens, a toy for children."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/apexDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stuffed toy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy Centens made of soft fabrics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy Centens. It's strange, but cute too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centens Plushie"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien toy. Representation of Old One detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even the Gods make for adorable toys."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it is a toy Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm... Not even sure how to take this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is that an... Old One?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plushie is rather odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This stuffed toy looks a bit weird."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toy-alien. Is that god-maker?"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bland leather canopy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather canopy, simple but effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather canopy. Effective, but not very pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather canopy. Simple but effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather canopy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Canopy"
+    }
+  }
+]

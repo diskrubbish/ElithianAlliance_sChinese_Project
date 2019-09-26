@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/trinkdatadrive-primecircuit.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A storage device containing the blueprints for the Prime Circuit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/trinkdatadrive-primecircuit.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Prime Circuit Blueprints^white;"
+    }
+  }
+]

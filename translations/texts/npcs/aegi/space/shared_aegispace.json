@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacecaptain.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/aegi/space/aegispacenavigator.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to our ship, traveler."
+    }
+  }
+]

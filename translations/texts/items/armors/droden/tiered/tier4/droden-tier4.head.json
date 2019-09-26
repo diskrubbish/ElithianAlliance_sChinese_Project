@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier4/droden-tier4.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durasteel Head"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier4/droden-tier4.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A strong durasteel head upgrade."
+    }
+  }
+]

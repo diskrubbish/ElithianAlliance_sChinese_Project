@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliancejanitor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "As janitor, I'll make sure you always have a clean ship to come back to."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliancejanitor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm <selfname>, janitor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliancejanitor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm <selfname>, your proud janitor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/alliance/crewmemberalliancejanitor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm the janitor. I'll keep your ship nice and clean."
+    }
+  }
+]

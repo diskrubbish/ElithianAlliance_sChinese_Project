@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/securitypass/alliancegunrangepass.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A security pass granting access to the Creon Embassy's gun range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/securitypass/alliancegunrangepass.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Embassy Gun Range Pass^white;"
+    }
+  }
+]

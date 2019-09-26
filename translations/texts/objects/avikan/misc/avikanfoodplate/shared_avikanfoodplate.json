@@ -1,0 +1,114 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan food. It smells good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glitch are not interested in such organic food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plate-food, tasty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This food is nothing like what we have on Hyzolia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This food is too spicey for my liking."
+    }
+  }
+]

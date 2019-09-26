@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/landingfestival/trink-snowball/trink-snowball.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pine Tree Antenna"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/landingfestival/trink-snowball/trink-snowball.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;HEAD SLOT. ^white;A small Landing Festival tree to be worn as an antenna!"
+    }
+  }
+]

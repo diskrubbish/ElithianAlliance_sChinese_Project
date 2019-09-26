@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keypad built by AAE. It uses a simple five digit passcode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keypad, highly effective at locking things away securely."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keypad, useful for locking precious gems in a vault."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keypad. Highly effective and efficient at locking doors securely."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keypad. I can use it to lock a door with a passcode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keypad. The symbols on it are strange."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki need code... Akki want to break!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Keypad"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien security keypad."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a keypad. I should try some combinations!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This keypad will securely lock any door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What might this unlock?"
+    }
+  }
+]

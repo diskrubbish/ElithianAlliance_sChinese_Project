@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/description"
+      ],
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal door, oft found on Avikan ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Ship Door"
+    }
+  }
+]

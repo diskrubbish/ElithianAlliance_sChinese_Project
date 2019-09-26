@@ -1,0 +1,198 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flashing red alarm light with accompanying siren."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alarm accompanied by a loud alarm. It's glorious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alarm light. It emits red light, as is usually the case."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alarm light. It will also activate a siren when triggered."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alarm. Better not trigger it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alarm. Used to alert guards to ruffians."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd better not be here if this alarm goes off."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If this was a movie I bet this would go off just as I left."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These are used as a deterrent, but also as security."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alarm will alert the guards to any criminal activity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This flashing light will alert everyone to misdeeds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here alarm sure will make getting away with loot hard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will alert many, I should be careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss will alert all the guardsss."
+    }
+  }
+]

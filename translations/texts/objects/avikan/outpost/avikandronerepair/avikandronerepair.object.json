@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki repair drones here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Drahl repair station. Capable of repairing Drahl units damaged in combat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drahl Repair Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
+        "/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drahl repairs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran placess broken drone on table, table repairss drone!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I ever have a damaged drone, I can repair it here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Might be able to repair drones here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station can repair drones damaged in combat."
+    }
+  }
+]

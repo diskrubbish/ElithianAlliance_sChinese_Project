@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/trinkquests/trinkcrafting.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/trinkquests/trinkcrafting2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationtrink.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to a ^orange;Central Circuit Terminal ^reset;in a ^orange;Trinkian Settlement^reset;"
+    }
+  }
+]

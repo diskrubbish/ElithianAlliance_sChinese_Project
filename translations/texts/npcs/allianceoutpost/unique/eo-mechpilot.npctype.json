@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-mechpilot.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Azurii"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-mechpilot.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't you just love mechs? They're so awesome to pilot!"
+    }
+  }
+]

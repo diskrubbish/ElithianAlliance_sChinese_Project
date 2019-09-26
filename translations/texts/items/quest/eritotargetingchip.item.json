@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/eritotargetingchip.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A targeting chip for small missiles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/eritotargetingchip.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Erito Targeting Chip^white;"
+    }
+  }
+]

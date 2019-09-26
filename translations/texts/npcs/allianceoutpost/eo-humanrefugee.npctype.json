@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope the Aegi can offer us a real place to stay soon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I lost everything when Earth was destroyed..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "I miss my home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I could go back to Earth..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's hard to believe that the Aegi fled Earth so many hundreds of years ago, too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's quite incredible that we wound up on the same planet as our ancestors who fled Earth before us."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's strange to see a species that's descended from us humans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's so many more intelligent species than we had in the Protectorate. It's fascinating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place is much like home, but it can never replace Earth..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place reminds me of the Protectorate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-humanrefugee.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We came here looking for refuge, and the Aegi have been providing for us well."
+    }
+  }
+]

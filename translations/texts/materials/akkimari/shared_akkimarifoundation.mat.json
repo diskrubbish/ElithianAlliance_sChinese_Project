@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimarifoundation.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/akkimari/akkimarifoundation.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Inner Wall"
+    }
+  }
+]

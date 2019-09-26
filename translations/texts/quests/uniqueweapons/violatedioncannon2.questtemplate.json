@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/violatedioncannon2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I am to build a weapon from this Ion Core, I'm going to need some materials. Could you fetch me about ^orange;12 Superb Kavanite Plates ^white; and ^orange;5 Dranite Plates^white;? I'll work on some plans for the weapon in the mean time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/violatedioncannon2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those are perfect, Captain! Lucky for you, I just finished drawing the blueprints for the weapon I intend to build. I'll need some more materials, however."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/violatedioncannon2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Harnessing the Corruption II"
+    }
+  }
+]

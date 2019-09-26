@@ -1,0 +1,254 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki enjoy tasting tastes-new. Berries look tasty!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien berries, they look delicious!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/avikanDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien fruit. I'm not sure if I should try to eat them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/erixianDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Berries from Elithia. The Aegi love these."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Berries. Tiny balls of sugar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bright fruit from another world. Is it safe to eat?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Brightly coloured berries grow from this plant. They look delicious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crushing these berries can create a sticky mess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delicious berries!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/drodenDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien plantlife. Analysis: fruit-bearing plant. Rich in vitamins."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likesss ssoft berriess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/notixDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I believe these are vahlberries. The Aegi love them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/description"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Juicy berries full of vitamins."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tasteful berries, and rich in vitamins too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/aegiDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vahlberries are an Aeginian favourite."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/trinkDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vahlberries are popular amongst the Aegi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/hymidDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vahlberries, one of many Elithian exports highly valued by the Hymid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vahlberry Seed"
+    }
+  }
+]

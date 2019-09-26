@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Nomada-certified vehicles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Nomada-certified vehicle distributor. I'll need a license for most purchases, though."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki get vehicles-new, ride around, fly around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can buy vehicless here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems that vehicles can be purchased here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jahkar's Licensed Vehicles"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Merchant detected. Offers Nomada-certified vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems like the right place to buy me a new metal steed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This merchant appears to be selling vehicles."
+    }
+  }
+]

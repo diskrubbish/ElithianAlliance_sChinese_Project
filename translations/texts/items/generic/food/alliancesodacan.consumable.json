@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodacan.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A can of refreshing Froza."
+    }
+  }
+]

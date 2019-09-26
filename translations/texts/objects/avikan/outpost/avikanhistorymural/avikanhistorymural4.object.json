@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural4.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sad part of our history. It depicts the Vha'leihan war, and the exodus from Vas Vha'leih."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural4.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mural detected. Analysis: depiction of Vha'leihan war."
+    }
+  }
+]

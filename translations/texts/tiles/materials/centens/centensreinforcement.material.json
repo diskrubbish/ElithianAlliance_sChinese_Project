@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensreinforcement.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Centensian metal detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensreinforcement.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reinforcement-strong, for making buildings stable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/centens/centensreinforcement.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This 'ere metal if oft found sindie those metal structures of old."
+    }
+  }
+]

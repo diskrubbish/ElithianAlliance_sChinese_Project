@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhiddenvehicle/avikanhiddenvehicle.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki wonder what vehicle is beneath sheet-leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhiddenvehicle/avikanhiddenvehicle.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Covered Vehicle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhiddenvehicle/avikanhiddenvehicle.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Nomada vehicle. Type unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhiddenvehicle/avikanhiddenvehicle.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss what thiss sheet iss hiding?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhiddenvehicle/avikanhiddenvehicle.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what sort of vehicle is hidden underneath this sheet of leather?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhiddenvehicle/avikanhiddenvehicle.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta vehicle hidden from view by a large sheet o' leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhiddenvehicle/avikanhiddenvehicle.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What sort of vehicle might this be?"
+    }
+  }
+]

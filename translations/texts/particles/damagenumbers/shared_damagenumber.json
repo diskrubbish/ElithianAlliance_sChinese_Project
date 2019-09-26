@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "particles/damagenumbers/akkimariacid/akkimariaciddamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/akkimariacid/akkimariaciddamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/akkimariacid/akkimariaciddamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/akkimariscrapper/akkimariscrapperdamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/akkimariscrapper/akkimariscrapperdamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/akkimariscrapper/akkimariscrapperdamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/ancientcurse/ancientcursedamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/ancientcurse/ancientcursedamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/ancientcurse/ancientcursedamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/avikanhunting/avikanhuntingdamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/avikanhunting/avikanhuntingdamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/avikanhunting/avikanhuntingdamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/centensian/centensiandamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/centensian/centensiandamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/centensian/centensiandamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/jumpweapon/jumpweapondamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/jumpweapon/jumpweapondamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/jumpweapon/jumpweapondamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/linerifle/linerifledamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/linerifle/linerifledamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/linerifle/linerifledamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/linerifle/violatedlinerifledamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/linerifle/violatedlinerifledamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/linerifle/violatedlinerifledamagenumberweak.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/xanafian/xanafiandamagenumber.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/xanafian/xanafiandamagenumberstrong.particle": [
+        "/definition/text"
+      ],
+      "particles/damagenumbers/xanafian/xanafiandamagenumberweak.particle": [
+        "/definition/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow;$dmg$"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancefence.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanfence.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancefence.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanfence.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal fence."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanfence.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/alliance/alliancefence.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanfence.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssturdy fence."
+    }
+  }
+]

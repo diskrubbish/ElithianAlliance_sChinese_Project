@@ -1,0 +1,222 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Metalworking Station"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Metal items and equipment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-tech metalworking station. I could craft some proper equipment here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal arm that's shootin' lasers. Better be careful 'round that thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metalworking station. It can craft items of a very high quality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern metalworking solution. It almost matches the Protectorate's Replicators."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An advanced metalworking solution. I wonder what supplies the power to this station?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Metalworking station. Used to construct equipment and other items made of metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran issn't ssure what to think of big metal arm. It firess lasersss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machine makes things for Akki. Akki happy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not the most efficient metalworking solution. That laser requires too much energy for the work it does."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That laser can cut through flesh as easily as it cuts through metal. Better be careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That laser is extremely potent. It'll cut right through any common metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The laser this machine produces could easily cut off one of my arms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The metalworking station is used for constructing items and equipment made of metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The technology behind this metalworking station is rather impressive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These machines produce the bulk of the Vanguard's armoury."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This laser makes for a beautiful lightshow, and is useful for crafting on top of that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine will automatically cut and weld metal to make crafting a bit easier."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Avikan Metalworking Station^white;"
+    }
+  }
+]

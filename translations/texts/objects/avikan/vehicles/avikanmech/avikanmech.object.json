@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Vanguard vehicle built for combat purposes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy mech, it looks incredibly durable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mech built for combat. A tool for violence, or defence?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mech built for use in the harshest of environments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mech! Can it fly?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reliable combat mech, it has thick armour and decent weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan combat mech! I wonder if it is waterproof?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien mech! Let's hijack it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big metal man... Metal man ssmash!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Few mechs are as weather-proof as this one, though it is a bit lacking in weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would not like to be on the receiving end of this mech's weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mech-alien, Akki control! Akki stomp around, step on puny aliens!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Vanguard only dispatches mechs like this one in truly dire situations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mech looks durable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This mech might not have the best weaponry, but its armour is superb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Krahl"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Mech detected. Status: Inactive."
+    }
+  }
+]

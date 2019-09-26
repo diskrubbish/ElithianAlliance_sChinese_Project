@@ -1,0 +1,105 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacecaptain.npctype": [
+        "/scriptConfig/dialog/converse/aegi/aegi/6",
+        "/scriptConfig/dialog/converse/aegi/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ah, hello there! Are you here to do business? We should have some additional cargo you can buy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacecaptain.npctype": [
+        "/scriptConfig/dialog/converse/aegi/aegi/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here on official Union business, my friend?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacecaptain.npctype": [
+        "/scriptConfig/dialog/converse/aegi/aegi/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Being in command of a ship can be a tedious job, as you must know, but I love it still."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacecaptain.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Being in command of a ship can be a tedious job, but I love it still."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacecaptain.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I see you have your own ship too. Welcome, my fellow captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacecaptain.npctype": [
+        "/scriptConfig/dialog/converse/aegi/aegi/4",
+        "/scriptConfig/dialog/converse/aegi/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "My navigators detected your approaching ship. What brings you to us in this vast emptiness of space?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacecaptain.npctype": [
+        "/scriptConfig/dialog/converse/aegi/aegi/5",
+        "/scriptConfig/dialog/converse/aegi/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please do not distract my navigators too much. They are quite busy managing the ship's navigation systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacecaptain.npctype": [
+        "/scriptConfig/dialog/converse/aegi/aegi/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to our ship, my fellow captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/space/aegispacecaptain.npctype": [
+        "/scriptConfig/dialog/converse/aegi/aegi/2",
+        "/scriptConfig/dialog/converse/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What brings you to our ship?"
+    }
+  }
+]

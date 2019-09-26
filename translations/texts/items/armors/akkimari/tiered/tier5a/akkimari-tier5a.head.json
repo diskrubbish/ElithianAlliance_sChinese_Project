@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier5a/akkimari-tier5a.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ravager's Helmet r.A"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier5a/akkimari-tier5a.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A combat helmet with a tactical visor. Energetic version."
+    }
+  }
+]

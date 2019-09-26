@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-missilepod/avikan-missilepod.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shoulder-mounted missile pod for sustained heavy fire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-missilepod/avikan-missilepod.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Missile Pod"
+    }
+  }
+]

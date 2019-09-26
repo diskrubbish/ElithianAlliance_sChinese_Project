@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceinterfacewall.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/allianceinterfacewall.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Interface Wall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceinterfacewall.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/allianceinterfacewall.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interface screen integrated into a wall panel."
+    }
+  }
+]

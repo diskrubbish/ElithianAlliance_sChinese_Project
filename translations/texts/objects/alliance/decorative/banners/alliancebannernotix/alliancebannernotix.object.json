@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannernotix/alliancebannernotix.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A banner adorned with the emblem of the Notician Federation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannernotix/alliancebannernotix.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien emblem. Emblem identified as Notician Federation iconography."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannernotix/alliancebannernotix.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Icon for Federation-Notix."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannernotix/alliancebannernotix.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Notician Federation Banner"
+    }
+  }
+]

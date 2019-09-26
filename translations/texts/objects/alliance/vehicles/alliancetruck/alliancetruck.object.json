@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy transport truck."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard Alliance truck model, designed by Aeginian engineers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A truck designed by ASA engineers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A truck, for transporting heavy goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A truck, for truckin' around in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aeginian ground transport, for moving heavy cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Truck"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien ground vehicle. It looks like a transport vessel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected unidentified vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran mussst not get in the way of ground crussher..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not the most elegant vehicle, but it will transport heavy cargo with ease."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The most common model of Alliance transport trucks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This truck can easily move heavy cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This truck can easily transport heavy cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This truck has a magnetic bed, so cargo doesn't have to be tied to the vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This truck reminds me of home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vehicle is good for transporting heavy cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vehicle-alien. Wheels-many."
+    }
+  }
+]

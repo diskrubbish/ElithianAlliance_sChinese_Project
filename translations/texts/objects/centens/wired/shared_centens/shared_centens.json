@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/avianDescription"
+      ],
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient computer terminal, still functional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/drodenDescription"
+      ],
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/drodenDescription"
+      ],
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Detected Centensian interface."
+    }
+  }
+]

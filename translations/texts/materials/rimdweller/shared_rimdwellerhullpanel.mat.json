@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rimdweller/rimdwellerhullpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rimdweller/rimdwellerhullpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim Hull Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rimdweller/rimdwellerhullpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/rimdweller/rimdwellerhullpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worn metal plating found on the exterior of spaceships from the Rim."
+    }
+  }
+]

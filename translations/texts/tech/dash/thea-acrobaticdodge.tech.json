@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/thea-acrobaticdodge.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Acrobatic Dodge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/dash/thea-acrobaticdodge.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Double tap ^green;[A]^white; or ^green;[D] ^white;to dodge attacks! Cooldown: 0.4s"
+    }
+  }
+]

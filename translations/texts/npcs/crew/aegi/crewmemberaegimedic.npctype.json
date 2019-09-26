@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Doctor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Healer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Medic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Nurse"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Physician"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Practitioner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Therapist"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meditek"
+    }
+  }
+]

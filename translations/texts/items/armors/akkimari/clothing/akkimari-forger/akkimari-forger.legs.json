@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/clothing/akkimari-forger/akkimari-forger.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forger's Loincloth"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/clothing/akkimari-forger/akkimari-forger.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A silken loincloth worn by those who work the forges."
+    }
+  }
+]

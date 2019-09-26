@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-shaman/akkimari-shaman.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shalakka Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-shaman/akkimari-shaman.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A mask worn by Shalakka shamans."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/trink-soniccannon/trink-soniccannon.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fires a powerful blast of air which knocks enemies back."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/trink-soniccannon/trink-soniccannon.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Sonic Cannon"
+    }
+  }
+]

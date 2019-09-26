@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/alliance/generated/thea-wrench/thea-wrench.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wrench."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/alliance/generated/thea-wrench/thea-wrench.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Union Wrench"
+    }
+  }
+]

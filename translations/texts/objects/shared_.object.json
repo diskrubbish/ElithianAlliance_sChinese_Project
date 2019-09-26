@@ -1,0 +1,416 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
+        "/avianDescription",
+        "/avikanDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
+        "/hymidDescription",
+        "/notixDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/centensDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/centensDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/centensDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription",
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/centensDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription",
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/centensDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription",
+        "/hymidDescription"
+      ],
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/centensDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/notixDescription"
+      ],
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/apexDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/erixianDescription",
+        "/humanDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/erixianDescription",
+        "/humanDescription"
+      ],
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/erixianDescription",
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/erixianDescription",
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/erixianDescription",
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceglassroof/allianceglassroof.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanobservatorywindow/avikanobservatorywindow.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanshipyardwindow/avikanshipyardwindow.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarichest/akkimarichest.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/containers/akkimaricrate/akkimaricrate.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/containers/akkimarismallchest/akkimarismallchest.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/containers/alliancespacecontainer/alliancespacecontainer.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/containers/alliancespacecontainerclamped/alliancespacecontainerclamped.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/drodenDescription"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyzing content."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drinksss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancerecruitmentdesk/alliancerecruitmentdesk.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran buysss friendss here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesn't underssstand ssshiny ssscreen..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-small."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
+        "/centensDescription",
+        "/drodenDescription",
+        "/erixianDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/drodenDescription",
+        "/trinkDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/drodenDescription",
+        "/trinkDescription"
+      ],
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/akkimariDescription",
+        "/drodenDescription",
+        "/theleanDescription"
+      ],
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/drodenDescription",
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/avikanDescription",
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light. Ssshiny."
+    }
+  }
+]

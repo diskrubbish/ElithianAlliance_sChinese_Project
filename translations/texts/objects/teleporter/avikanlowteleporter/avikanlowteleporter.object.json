@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Avikan Teleporter"
+    }
+  }
+]

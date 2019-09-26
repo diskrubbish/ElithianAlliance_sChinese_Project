@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian jumprifle on display."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian jumprifle! It no longer fires, unfortunately..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian jumprifle. Out of order, unfortunately."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A jumprifle, built by the Old Ones. Seems it no longer fires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient jumprifle. In mint condition, but it no longer fires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient rifle of some sort. No longer fires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient rifle. Its firing mechanism is broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient weapon! Doesn't seem to fire any longer..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient weapon, seems it no longer fires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Centensian jumpgate technology. Status: inactive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jumprifle Display"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old gunsss shootsss no more..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Centens built grand weapons, but many stopped after eons of disuse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Centensian weapon no longer fires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ancient jumprifle no longer fires."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weapon is ancient, and no longer functional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon-solar, fire plasma. Akki melt enemies!"
+    }
+  }
+]

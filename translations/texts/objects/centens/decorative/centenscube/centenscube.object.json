@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cube, built by the Centens. It is oddly enthralling..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple metal cube, but there's something enthralling about it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic metal cube, but with an enthralling aura."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki feel calm. Feeling-strange."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Cube"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Centensian artefact. Error. Error. Error."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sstaress at cube. Floran doess not know why..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't say why, but this cube is incredibly enthralling..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't know why, but I'm finding it hard to get my eyes off this cube."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't know why, but all I want to do is stare at this cube..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel something odd when near this cube. It is enthralling, somehow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm oddly enthralled by this simple cube... What is this magic?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "My systems are picking up an odd interference around this cube."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Somehow, this cube makes me feel serene. It's enthralling."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is something oddly enthralling about this cube."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This artefact of the Old Ones is enthralling. I just keep staring at it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This cube has something mysterious to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This relic of the Gods is enthralling. I just want to stare at it."
+    }
+  }
+]

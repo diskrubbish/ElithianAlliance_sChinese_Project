@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceplanter/allianceplanter1.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter2.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter3.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter4.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long planter filled with native Elithian flora."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceplanter/allianceplanter1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long planter full of plantlife."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceplanter/allianceplanter1.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter2.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter3.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Planter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceplanter/allianceplanter1.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter2.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter3.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter4.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is opposed to putting plantsss in boxess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceplanter/allianceplanter1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter3.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter4.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plants-alien."
+    }
+  }
+]

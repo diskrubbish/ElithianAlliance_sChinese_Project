@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/droden/drodenlongsword.activeitem": [
+        "/shortdescription"
+      ],
+      "items/armors/backitems/drodenswordback/drodenswordback.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden Longsword"
+    }
+  }
+]

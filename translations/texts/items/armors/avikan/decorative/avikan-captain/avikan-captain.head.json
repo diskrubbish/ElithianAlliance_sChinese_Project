@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-captain/avikan-captain.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Honoured Captain's Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-captain/avikan-captain.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A helmet worn by Honoured Captains of the Nomada."
+    }
+  }
+]

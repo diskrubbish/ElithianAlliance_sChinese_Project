@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancepottedplant/alliancepottedplant.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/alliancepottedshrub/alliancepottedshrub.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancepottedplant/alliancepottedplant.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/alliancepottedshrub/alliancepottedshrub.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doess not like putting plantss in potsss."
+    }
+  }
+]

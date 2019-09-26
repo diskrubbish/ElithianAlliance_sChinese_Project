@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock4.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Aberos ^reset;in the ^orange;Creon Embassy^reset;"
+    }
+  }
+]

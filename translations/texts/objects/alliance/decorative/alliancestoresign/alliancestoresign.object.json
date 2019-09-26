@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sign advertising a place to go shopping."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sign for a store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sign that indicates a store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A store sign."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A store, clearly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki know bit of alien language. Store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Store Sign"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien sign. Indicates the presence of a marketplace."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't read, but I believe such signs indicate the presence of a store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this an alien market?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It says \"store\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like the sign for a store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Must be a store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssign for a store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is a store here, judging by the sign."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a store here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is the sign for a store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sign can be seen from far away. It's quite effective."
+    }
+  }
+]

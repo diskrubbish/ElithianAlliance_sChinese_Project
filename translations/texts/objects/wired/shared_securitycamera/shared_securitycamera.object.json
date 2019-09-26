@@ -1,0 +1,339 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/description"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/description"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A camera that sends out a signal when it detects nearby entities."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A camera. It'll send out a signal if it detects movement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A camera. Who's watching?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A security camera. I hope the Miniknog isn't watching..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vigilant camera."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien-built camera. Are there aliens watching me?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated camera system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficiently designed camera. It can detect movement and filter out useless targets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ever-vigilant security camera."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Camera followsss Floran. Floran isss freaked out!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Camera tracks targets. Akki is target..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected camera system. Recommend caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hear the camera swiveling. It'll detect any movement nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure who's watching through that camera."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a camera! It'll follow targets autonomously."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Security at its finest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This camera will send out a signal if it sees me. Better be careful."
+    }
+  }
+]

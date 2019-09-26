@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/3",
+        "/scriptConfig/dialog/attack/avikan/droden/3"
+      ],
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm done with the Nomada!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/6",
+        "/scriptConfig/dialog/attack/avikan/default/0",
+        "/scriptConfig/dialog/attack/avikan/droden/6"
+      ],
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/avikan/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've come to the wrong place!"
+    }
+  }
+]

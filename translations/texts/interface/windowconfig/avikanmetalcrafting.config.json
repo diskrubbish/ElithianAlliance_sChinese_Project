@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Metal items and equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Metalworking Station"
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorative table lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but beautiful table lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple table lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small light, easy to move around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Table Lamp"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I like this table lamp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a table lamp."
+    }
+  }
+]

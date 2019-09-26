@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/akkimarijusticar/akkimarijusticar-captured.monstertype": [
+        "/description"
+      ],
+      "monsters/flyers/akkimarijusticar/akkimarijusticar-miniboss.monstertype": [
+        "/description"
+      ],
+      "monsters/flyers/akkimarijusticar/akkimarijusticar.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large Akkimari Justicar, the leader of a pack of Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/akkimarijusticar/akkimarijusticar-captured.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/akkimarijusticar/akkimarijusticar-miniboss.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/akkimarijusticar/akkimarijusticar.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Justicar"
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/notixDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/humanDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy metal blast door. Cool."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostdoor/avikanoutpostdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal blast door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/avianDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny blast door."
+    }
+  }
+]

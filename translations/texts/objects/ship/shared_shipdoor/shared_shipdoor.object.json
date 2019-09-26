@@ -1,0 +1,128 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A door built for use on spaceships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fine door made of strong metal. Ain't nothing coming through here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy metal door. Effective at keeping things out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal door. Not quite a blast door, but still very strong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cool door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected door. Analysis: Ship model."
+    }
+  }
+]

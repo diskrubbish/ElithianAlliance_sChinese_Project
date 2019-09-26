@@ -1,0 +1,187 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A market stall. A common sight in Avikan villages."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A market stall. Nicely decorated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple market stall, like those on Kadavan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty market stall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty market stall. An inefficient use of space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty market stall. How boring."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty market stall. I wonder what was sold here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty market stall? Nothing to buy here..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty stall. Its owner either sold everything, or not enough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty stall. Was it recently used?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Market stall. Empty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty stallsss, nothing to buysss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whatever was sold here either sold very well, or very poorly."
+    }
+  }
+]

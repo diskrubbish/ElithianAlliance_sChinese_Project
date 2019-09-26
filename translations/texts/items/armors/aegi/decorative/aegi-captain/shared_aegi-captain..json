@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-captain/aegi-captain.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/aegi/decorative/aegi-captain/aegi-captain.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain's Attire"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-captain/aegi-captain.chest": [
+        "/description"
+      ],
+      "items/armors/aegi/decorative/aegi-captain/aegi-captain.head": [
+        "/description"
+      ],
+      "items/armors/aegi/decorative/aegi-captain/aegi-captain.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Attire often worn by ship captains of the Union."
+    }
+  }
+]

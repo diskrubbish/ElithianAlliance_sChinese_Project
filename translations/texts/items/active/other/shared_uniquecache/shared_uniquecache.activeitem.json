@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/other/allianceuniquecache/allianceuniquecache.activeitem": [
+        "/description"
+      ],
+      "items/active/other/avikanuniquecache/avikanuniquecache.activeitem": [
+        "/description"
+      ],
+      "items/active/other/rimdwelleruniquecache/rimdwelleruniquecache.activeitem": [
+        "/description"
+      ],
+      "items/active/other/trinkuniquecache/trinkuniquecache.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sealed cache containing a random Unique-quality item. Hold ^green;[LMB] ^white;to open!"
+    }
+  }
+]

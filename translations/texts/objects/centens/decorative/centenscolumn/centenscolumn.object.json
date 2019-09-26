@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian-built column. It's quite massive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large column. It can support a heavy weight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large column. These are often used for support, but given that the Centens built it, it likely only serves as decoration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large metal column. Or is it a pillar?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive column fit for the gods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive column."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive, ancient column. It's incredible that it's still standing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Column"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Column-great, supports weight-great."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Columns almost always look good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Columns are common in many forms of alien architecture. They present an image of strength and serenity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Centensian column."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't break thisss metal. Floran mad."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have always loved columns in architecture."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My readings indicate that this column has stood here for tens of thousands of years, maybe more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now THAT's a column!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's quite the column."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Old Ones built many impressive structures."
+    }
+  }
+]

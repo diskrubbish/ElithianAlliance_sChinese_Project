@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poorly assembled table. It's sturdy, but the top isn't even flat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poorly built table. It's not even completely flat!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poorly made table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic and poorly built table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table made of scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table made of various scrap metal plates."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki could make table-better, but Akki not have time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Scrap Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien table. Structural sturdiness exceeds initial expectations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just plates of scrap metal assembled like a table..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's not much of a table, really..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plates of scrap metal assembled like a table. It's not very good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda really poorly made table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sscrappy table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The surface of this table isn't even fully flat..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These are just a few plates of scrap metal on a pole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table is just a few plates of scrap metal!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This table is surprisingly sturdy for just being a couple of plates of scrap metal."
+    }
+  }
+]

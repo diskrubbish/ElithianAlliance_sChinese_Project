@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier2/droden-tier2.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Chassis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier2/droden-tier2.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A sturdy tungsten chassis upgrade."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier2/aegi-tier2.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Navigator's Chestplate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier2/aegi-tier2.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A durable chestplate often worn by Aeginian navigators."
+    }
+  }
+]

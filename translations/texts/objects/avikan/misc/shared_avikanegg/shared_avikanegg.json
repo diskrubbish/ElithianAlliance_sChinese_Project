@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanegg/avikanegg.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is beauty in creating new life."
+    }
+  }
+]

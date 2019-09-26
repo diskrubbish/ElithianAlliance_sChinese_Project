@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancesmoothpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikansmoothpanel.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Metal panel."
+    }
+  }
+]

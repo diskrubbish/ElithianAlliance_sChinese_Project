@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/securitypass/allianceambassadorpass.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A security card given to all ambassadors of the Elithian Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/other/securitypass/allianceambassadorpass.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Alliance Ambassador Pass^white;"
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/hyveriumrocksmall/hyveriumrocksmall.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fragile rock full of Hyverium ore. Maybe I could break it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/hyveriumrocksmall/hyveriumrocksmall.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki break rock, get Hyverium."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/hyveriumrocksmall/hyveriumrocksmall.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small Hyverium Rock"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/hyveriumrocksmall/hyveriumrocksmall.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny rock. Sssmash it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/biome/smashablerocks/hyveriumrocksmall/hyveriumrocksmall.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rock contains Hyverium, and is covered in cracks. It should be easy to break."
+    }
+  }
+]

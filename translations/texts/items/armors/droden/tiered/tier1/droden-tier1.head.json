@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier1/droden-tier1.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Head"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier1/droden-tier1.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A basic iron head upgrade."
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariscrapplating.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplatingfront.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plating-scrappy. Cheap and strong, not pretty-very."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariscrapplating.material": [
+        "/description"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplatingfront.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprisingly durable plating made from assorted scrap metal."
+    }
+  }
+]

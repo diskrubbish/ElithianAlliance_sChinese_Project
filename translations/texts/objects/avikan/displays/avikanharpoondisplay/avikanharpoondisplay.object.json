@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A harpoon gun. What is it meant to hunt?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very capable harpoon gun. I imagine it can impale enemies with ease."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan harpoon gun on display."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan-designed harpoon gun. Rather impressive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An intimidating harpoon gun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Few weapons can pierce a Sandstalker's skin. This weapon does it with ease."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harpoon, for killing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wouldn't want to meet whatever creature this harpoongun is meant to hunt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now THAT is a harpoon gun!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan must have hunted massive creatures on their homeplanet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The creatures the Avikan hunt with this weapon must be enormous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The size of this harpoon makes me wonder what its creators hunt..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This harpoon gun was built to hunt massive creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss sstick fires metal sspearsss? Floran likesss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Harpoon Display"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warning. Harpoon guns can cause lethal damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would this harpoon gun work underwater?"
+    }
+  }
+]

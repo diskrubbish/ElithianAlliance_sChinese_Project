@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/vaashcontainer.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A container full of highly volatile Vaash, taken from a Justicar's wreckage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/vaashcontainer.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Vaash Container^white;"
+    }
+  }
+]

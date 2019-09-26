@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-protectorate/droden-protectorate.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Head"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-protectorate/droden-protectorate.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A Protectorate-themed Droden head piece."
+    }
+  }
+]

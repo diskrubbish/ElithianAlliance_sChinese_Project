@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatchmother's Cloak"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;The cloak of an Avikan hatchmother."
+    }
+  }
+]

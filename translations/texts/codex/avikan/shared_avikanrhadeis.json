@@ -1,0 +1,31 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/avikan/avikanrhadeis1.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanrhadeis2.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanrhadeis3.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanrhadeis4.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanrhadeis5.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanrhadeis6.codex": [
+        "/description"
+      ],
+      "codex/avikan/avikanrhadeis7.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Notes on Rhadeis, by Izyati as-Kaladan."
+    }
+  }
+]

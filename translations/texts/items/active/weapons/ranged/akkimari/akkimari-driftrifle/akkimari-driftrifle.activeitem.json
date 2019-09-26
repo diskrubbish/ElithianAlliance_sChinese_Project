@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/akkimari/akkimari-driftrifle/akkimari-driftrifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Drift Rifle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/akkimari/akkimari-driftrifle/akkimari-driftrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;A powerful Akkimari driftrifle, inspired by Avikan linerifles."
+    }
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanplating.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanplating.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanshipwall.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big platesss for making placess sssafe..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanplating.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanplating.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanshipwall.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick and heavy plating. Very reliable protection."
+    }
+  }
+]

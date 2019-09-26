@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> Combatant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> Sellsword"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> Tactician"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amateur <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enthusiast <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mercenary"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Part-time <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Professional <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trained <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trained <role>"
+    }
+  }
+]

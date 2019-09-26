@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberallianceengineer.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll make sure your engines run smoothly. Thrust velocity is up by 25%!"
+    }
+  }
+]

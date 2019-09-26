@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/thelean/thelean-hologram/thelean-hologram.chest": [
+        "/description"
+      ],
+      "items/armors/thelean/thelean-hologram/thelean-hologram.head": [
+        "/description"
+      ],
+      "items/armors/thelean/thelean-hologram/thelean-hologram.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Thelean. ^white;Makes you appear like an Avikan hologram."
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine-built container. The Vanguard would want me to plunder it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive Trinkian shipping container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very large shipping container used by the Trink Circuit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An standard shipping container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Circuit Shipping Container"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Container-shipping, Akki store things-many inside."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An inefficient way of drawing attention to some object or area."
+    }
+  }
+]

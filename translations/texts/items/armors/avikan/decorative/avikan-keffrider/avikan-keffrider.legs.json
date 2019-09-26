@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keffrider's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A metal skirt and woven leggings worn by the Keffriders."
+    }
+  }
+]

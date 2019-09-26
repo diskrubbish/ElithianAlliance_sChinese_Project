@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/droden/drodenlongsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thin and minimalistic longsword, designed for use by Droden soldiers."
+    }
+  }
+]

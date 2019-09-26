@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyaegi.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guardian Mech Body"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyaegi.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This heavily armoured mech body was manufactured by Enerth Engineering."
+    }
+  }
+]

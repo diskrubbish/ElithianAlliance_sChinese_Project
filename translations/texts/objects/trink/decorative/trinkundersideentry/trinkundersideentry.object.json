@@ -1,0 +1,125 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal underside entrance, built by machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal underside entrance, built by the Notician robots."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal underside entrance. Surpisingly, it is packed with sensors and communication systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/apexDescription",
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modular underside entrance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki enter building here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underside entrance decorated with green lights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underside entrance piece of modular Trinkian buildings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trinks are big fans of modular buildings. This underside entrance will fit on pretty much every suitable Trinkian construction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This modular underside entrance piece is packed with sensors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Underside Entry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian underside entrances are modular, and fit beneath of almost any suitable Trinkian structure."
+    }
+  }
+]

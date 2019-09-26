@@ -1,0 +1,114 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/2"
+      ],
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Death will come for your enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/thelean/default/3"
+      ],
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/thelean/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't care for the Dominion. I will fight for you, instead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/thelean/default/2"
+      ],
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/thelean/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I never believed in Creaton. Perhaps you will be a better leader."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/0"
+      ],
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I will fight anything and anyone. I have no fear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/1"
+      ],
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Point me to a target and I will kill it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/thelean/default/0"
+      ],
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/thelean/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are stronger than I anticipated. I will join you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/3"
+      ],
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/thelean/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your enemies will die by my hand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/thelean/crewmemberthelean.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/thelean/default/1"
+      ],
+      "npcs/crew/thelean/crewmembertheleaninfiltrator.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/thelean/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your strength is admirable. I will fight for you."
+    }
+  }
+]

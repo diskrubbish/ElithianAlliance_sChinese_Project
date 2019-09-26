@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier3/akkimari-tier3.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ransacker's Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier3/akkimari-tier3.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A cloth mask with metal plates built to protect against debris."
+    }
+  }
+]

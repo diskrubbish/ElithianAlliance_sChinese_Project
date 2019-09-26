@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkpipe.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/trink/trinkpipehollow.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big pipe for moving about liquids. Hope there isn't any poop in there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkpipe.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/trink/trinkpipehollow.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wonderss what iss inside pipes?"
+    }
+  }
+]

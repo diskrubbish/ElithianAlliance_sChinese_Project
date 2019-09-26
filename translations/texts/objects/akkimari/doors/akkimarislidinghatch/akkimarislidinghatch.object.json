@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crude sliding hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hatch that slides in and out of the background."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple sliding hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sliding hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sliding hatch. It makes for a good retractable platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki careful. Hatch can slide away."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Sliding Hatch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected hatch. Slides into back wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks quite scrappy, but it's actually very sturdily built."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a hatch that can slide into the wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssslides into the wall, Floran sssaw it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch can slide away. It's an odd kind of door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch can slide back into the wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch can slide into the wall, making the platform disappear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch can slide into the wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch makes a pleasant sound when it slides away."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch slides surprisingly smoothly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This'll slide into the wall if I ain't careful."
+    }
+  }
+]

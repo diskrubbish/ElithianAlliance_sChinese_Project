@@ -1,0 +1,144 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A can of soda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A full can of soda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soda can from the Union."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soda can."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a can of soda from the Union."
+    }
+  }
+]

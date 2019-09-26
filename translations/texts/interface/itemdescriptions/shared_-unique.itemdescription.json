@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-armor-unique.itemdescription": [
+        "/armorLabelTitle/value"
+      ],
+      "interface/itemdescriptions/thea-armorwide-unique.itemdescription": [
+        "/armorLabelTitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Armour"
+    }
+  }
+]

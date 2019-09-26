@@ -1,0 +1,18 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/trink/trinkengineer.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2",
+        "/scriptConfig/dialog/converse/trink/default/2"
+      ],
+      "npcs/trink/trinkwelder.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2",
+        "/scriptConfig/dialog/converse/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm busy, can't talk right now."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimarimetal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Scrap Metal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimarimetal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Low-grade scrap metal scavenged from various sources."
+    }
+  }
+]

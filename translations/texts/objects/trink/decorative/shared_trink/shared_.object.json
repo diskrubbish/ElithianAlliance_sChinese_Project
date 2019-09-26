@@ -1,0 +1,149 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A grand metal roof. Surpisingly, it is packed with sensors and communication systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Our Trinks are excellent at building modular structures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Readings indicate high amounts of sensors inside this structure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trinks are big fans of modular buildings. This roof will fit on pretty much every Trinkian home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This modular roof piece is packed with sensors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian roofs are modular, and fit on top of almost any Trinkian structure."
+    }
+  }
+]

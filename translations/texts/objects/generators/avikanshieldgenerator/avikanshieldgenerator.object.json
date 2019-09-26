@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Shield Generator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shield generator will protect the Terve from damage."
+    }
+  }
+]

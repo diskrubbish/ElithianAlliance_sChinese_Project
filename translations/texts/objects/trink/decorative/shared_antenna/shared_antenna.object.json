@@ -1,0 +1,198 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian antenna. It can boost communication signals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian antenna. Why is it so sharp?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large antenna of Trinkian design. Those robots make for great engineers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern antenna, built for efficiency."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A signal-boosting antenna."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/notixDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna built by the Trinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna of sorts. I am not sure what the box below it does."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna, for boosting radio signals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna. I wouldn't want to be poked with something this sharp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna. It seems unnecessarily large."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can use thiss as metal spearsss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radio signal detected. Failed to decode message."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This antenna is jamming some of my sensors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This antenna was designed and built by Trinks."
+    }
+  }
+]

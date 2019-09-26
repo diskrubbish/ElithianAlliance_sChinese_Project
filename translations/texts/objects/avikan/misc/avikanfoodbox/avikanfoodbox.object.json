@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien food. I doubt it'll taste good..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien foodstuffs. Can't remember if I tasted this before."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "All the ingredients need to prepare a traditional Avikan meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "All the ingredients needed for preparing a traditional meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Ingredients"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boxes full of Avikan food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boxes full of alien food. I wonder how it tastes?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Boxes full of ingredients."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected ingredients. Combined nutritional value: sufficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesss not like alien foodsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food of an alien nature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food-alien, Akki eat everything!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could prepare a good meal with these ingredients"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ingredients for preparing a traditional Avikan meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ingredients for preparing an Avikan meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Three boxes filled with various types of food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Various traditional Avikan ingredients."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What sort of food is this?"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-elder/avikan-elder.head": [
+        "/description"
+      ],
+      "items/armors/avikan/clothes/avikan-merchant/avikan-merchant.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A decorated leather cloak, a favourite amongst desert merchants."
+    }
+  }
+]

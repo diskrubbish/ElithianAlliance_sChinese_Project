@@ -1,0 +1,656 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/description"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken FTL fuel hatch. This won't do!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken fuel hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken fuel hatch. I need to fix it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken fuel hatch. Repairs are in order."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fuel panel. Broken, but not beyond repair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hatch for inserting FTL fuel. Handy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/description"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/description"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Accepts Liquid Erchius as fuel for the ship's FTL drive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken FTL Fuel Hatch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL Fuel Hatch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL fuel goes in here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "FTL fuel hatch detected. Please refuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fuel hatch for FTL drive. Let'ss fill it up!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fuel hatch isss broken..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fuel input station detected. Status: broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fuelfor the FTL drive goes in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's refuel the ship and get back to exploring!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once fixed, this fuel hatch will acccept fuel again and I'll be off to the stars!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once repaired, this station will accept fuel once more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The FTL drive fuel hatch. Converts fuel into freedom."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The FTL fuel hatch. Let's load it up and take to the stars!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fuel input station is broken. Let's repair it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The humble FTL fuel hatch. Fuel is the lifeblood of exploration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship isn't going anywhere before this fuel hatch gets fixed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's FTL fuel reserves can be resupplied using this hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's fuel hatch. With fuel for the FTL drive I can explore outside this system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fuel hatch is broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fuel hatch is of no use until it gets fixed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch fuels the FTL drive so that I may visit planets outside of this system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch grants access to the ship's supply of FTL fuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch is connected to the ship's main FTL fuel container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This needs repairs before the ship will move anywhere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shipis going to need some FTL fuel if we're to go anywhere beyond this system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will have to be fixed before we can go anywhere with this ship."
+    }
+  }
+]

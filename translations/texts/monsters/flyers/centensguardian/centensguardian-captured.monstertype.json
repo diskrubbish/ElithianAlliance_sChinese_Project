@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/centensguardian/centensguardian-captured.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated defence system built by the Ce'Tennan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/centensguardian/centensguardian-captured.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oculus"
+    }
+  }
+]

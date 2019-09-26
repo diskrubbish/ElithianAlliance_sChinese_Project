@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/machinegun/aae/thea-aaemachinegun1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/machinegun/rimdweller/thea-rimmachinegun1-npc.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/manufactured/machinegun/rimdweller/thea-rimmachinegun1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/machinegun/thea-tier4machinegun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machinegun perfect for sustained fire."
+    }
+  }
+]

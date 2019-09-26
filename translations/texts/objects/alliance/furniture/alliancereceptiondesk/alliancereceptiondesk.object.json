@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A desk often seen in corporate lobbies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reception desk, I think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reception desk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reception desk. Am I supposed to check in here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reception desk. I may learn something here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reception desk. It's often the first place new visitors go to."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reception desk. Perhaps I can learn something here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A receptionist's desk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple reception desk. From the looks of it, it was recently cleaned."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard reception desk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki ask questions here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Reception Desk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien desk. Is this just for greeting people?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dessk for greeting people."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien desk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a reception desk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Might be I can get some info here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This reception desk looks incredibly well-cleaned."
+    }
+  }
+]

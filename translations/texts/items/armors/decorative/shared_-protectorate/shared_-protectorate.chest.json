@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-protectorate/akkimari-protectorate.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/avikan/decorative/avikan-protectorate/avikan-protectorate.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Top"
+    }
+  }
+]

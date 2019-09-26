@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hatch that opens to vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large metal hatch used in Akkimari flight bays. It only opens for vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rather crude metal hatch. I should be careful not to cut myself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal hatch. It'll open for vehicles only."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly sturdy hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Flight Hatch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Akkimari flight bay hatch. It'll open only for vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien-built hatch. I'll need a vehicle to open it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected flight bay hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like a hatch for a flight bay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not very efficient, but this scrap metal hatch is quite effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch was very crudely made."
+    }
+  }
+]

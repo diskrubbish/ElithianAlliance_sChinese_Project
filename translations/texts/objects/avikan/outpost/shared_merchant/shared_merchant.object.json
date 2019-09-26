@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanmeritmerchant/avikanmeritmerchant.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Token Exchange"
+    }
+  }
+]

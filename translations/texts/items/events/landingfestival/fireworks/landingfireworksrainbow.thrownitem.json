@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/landingfestival/fireworks/landingfireworksrainbow.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rainbow Fireworks"
+    }
+  }
+]

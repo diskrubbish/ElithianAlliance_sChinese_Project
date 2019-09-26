@@ -1,0 +1,3728 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adoring."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimarihammock/akkimarihammock.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/furniture/akkimarihammock2/akkimarihammock2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Afraid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/akkimaripowercore/akkimaripowercore.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/crashedavikanship/crashedavikanship.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alarmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/sheets/akkimarisheet/akkimarisheet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceglassroof/allianceglassroof.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/crafting/uniqueweaponcollection/uniqueweaponcollection.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amazement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Amused."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/smallboosterflamethea/smallboosterflamethea.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/displays/avikanrifledisplay/avikanrifledisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutpostteleporter/avikanoutpostteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanoutpostteleportersmall/avikanoutpostteleportersmall.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/events/landingfestival/landingteleporter/landingteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/theleancorpse1/theleancorpse1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/theleancorpse2/theleancorpse2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/theleancorpse3/theleancorpse3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/theleancorpse4/theleancorpse4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/teleporter/avikanrefugeteleporter/avikanrefugeteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/teleporter/creonembassyteleporter-akkimari/creonembassyteleporter-akkimari.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/teleporter/creonembassyteleporter-trink/creonembassyteleporter-trink.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/teleporter/creonembassyteleporter/creonembassyteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/doors/allianceblastdoorlocked/allianceblastdoorlocked.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanautomateddoorlocked/avikanautomateddoorlocked.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Annoyed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anticipation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/akkimariskulls/akkimariskulls.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/furniture/akkimariscrapbed/akkimariscrapbed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/furniture/akkimariscraptable/akkimariscraptable.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appalled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebench/alliancebench.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Appreciative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apreciative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshower/allianceshower.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ashamed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancemechassemblystation/alliancemechassemblystation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikanmechassemblystation/avikanmechassemblystation.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astonished."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostlargesheet/avikanoutpostlargesheet.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astonishment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Awed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribountyhologram/akkimaribountyhologram.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baffled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole1/avikanoutpostpole1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole2/avikanoutpostpole2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bored."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponcabinet/allianceweaponcabinet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/allianceshipbooster/allianceshipbooster.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/allianceshipthruster/allianceshipthruster.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/avikanshipbooster/avikanshipbooster.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/avikanshipthruster/avikanshipthruster.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/theashipbooster/theashipbooster.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/theashipthruster/theashipthruster.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkantenna/trinkantenna.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/wired/akkimaripressureplate/akkimaripressureplate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/wired/alliancepressureplate/alliancepressureplate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanoutpostuniquemerchant/avikanoutpostuniquemerchant.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanvanguardtapestry/avikanvanguardtapestry.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanvanguardtapestry1/avikanvanguardtapestry1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanpressureplate/avikanpressureplate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centensjumpconduit/centensjumpconduit.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/wired/trinkpressureplate/trinkpressureplate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/wired/trinkturret/trinkturret.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanborderlessleather.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanleather.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cautious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancestoresign/alliancestoresign.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Comforted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/uniqueweaponinfusion/uniqueweaponinfusion.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Compelled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandrink/avikandrink.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplightbroken.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplightbroken.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/rails/akkimarirail.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concerned."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/furniture/akkimarichair/akkimarichair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/posters/allianceposterenerth/allianceposterenerth.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry/avikanpurpletapestry.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanpurpletapestry1/avikanpurpletapestry1.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Confused."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/allianceshelf/allianceshelf.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikantent/avikantent.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Content."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor-wired.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/akkimaribanner2/akkimaribanner2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/doors/akkimariblastdoor/akkimariblastdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/wired/akkimaributton/akkimaributton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/wired/akkimarilargepressureplate/akkimarilargepressureplate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/wired/akkimarismallbutton/akkimarismallbutton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/containers/alliancespacecontainer/alliancespacecontainer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/containers/alliancespacecontainerclamped/alliancespacecontainerclamped.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor-wired.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2-wired.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancemonument/alliancemonument.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/posters/allianceposter/allianceposter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/posters/allianceposterart/allianceposterart.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/posters/allianceposteraventor/allianceposteraventor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/wired/alliancebutton/alliancebutton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/wired/alliancesmallbutton/alliancesmallbutton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor-wired.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanoutpostbar/avikanoutpostbar.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikantacticaltable/avikantacticaltable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/vehicles/avikanhiddenvehicle/avikanhiddenvehicle.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanbutton/avikanbutton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanlargepressureplate/avikanlargepressureplate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikansmallbutton/avikansmallbutton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/dunestalk/dunestalkseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/dunestalk/wildedunestalkseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor-wired.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2-wired.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/akkimarishipdoor/akkimarishipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/wired/trinkbutton/trinkbutton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/wired/trinksmallbutton/trinksmallbutton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikansmoothpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/rimdweller/rimdwellerhullpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/centensplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delighted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanbrokenpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Destructive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/glitch/2/glitchEmote",
+        "/outOfRangeText/glitch/0/glitchEmote"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/glitch/2/glitchEmote",
+        "/outOfRangeText/glitch/0/glitchEmote"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/glitch/2/glitchEmote",
+        "/outOfRangeText/glitch/0/glitchEmote"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/glitch/2/glitchEmote",
+        "/outOfRangeText/glitch/0/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disappointed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarimountedskeleton/akkimarimountedskeleton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/other/akkimarichalice/akkimarichalice.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/other/akkimarigoblet/akkimarigoblet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/other/akkimarigoblet2/akkimarigoblet2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanarmringdirt/avikanarmringdirt.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/achvass/achvassseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disgusted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/glitch/3/glitchEmote"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/glitch/3/glitchEmote"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/glitch/3/glitchEmote"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/glitch/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Disinterested."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanoutposthatchlocked/avikanoutposthatchlocked.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/rimdweller/rimdwellerpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Displeased."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Distressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eager."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceradio/allianceradio.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energetic."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenscube/centenscube.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centenscubes/centenscubes.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enthralled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunrangeshop/avikangunrangeshop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanmeritmerchant/avikanmeritmerchant.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enticed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikantapestry/avikantapestry.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanwidetapestry/avikanwidetapestry.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimaricrafting/akkimaricrafting.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/crafting/alliancemechcraftingtable/alliancemechcraftingtable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikanmechcraftingtable/avikanmechcraftingtable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanteleportshop/avikanteleportshop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/aegi/aegifuelhatch/aegifuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/aegi/brokenaegifuelhatch/brokenaegifuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/akkimarifuelhatch/akkimarifuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/brokenakkimarifuelhatch/brokenakkimarifuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikanfuelhatch/avikanfuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/brokenavikanfuelhatch/brokenavikanfuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/brokentrinkfuelhatch/brokentrinkfuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkfuelhatch/trinkfuelhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "tiles/mods/ferroverium.matmod": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excited."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakablecobblestone.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Facinated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanvehiclejumpgate/avikanvehiclejumpgate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural6.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural7.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centenscolumn/centenscolumn.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkroofside/trinkroofside.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centensblockpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centensglowpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centensglowpanel2.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centensgroundpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centenshoripanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centensslopedpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centenssmoothpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centensvertglowpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centensvertglowpanel2.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centensvertpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinkgroundpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanegg/avikanegg.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascination."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frightened."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/2/glitchEmote"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/glitch/2/glitchEmote"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/2/glitchEmote"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/2/glitchEmote"
+      ],
+      "objects/alliance/securityconsoles/alliancegunrangesecurityconsole/alliancegunrangesecurityconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/securityconsoles/allianceoutpostsecurityconsole/allianceoutpostsecurityconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/securityconsoles/avikangunrangesecurityconsole/avikangunrangesecurityconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/securityconsoles/avikankeffridersecurityconsole/avikankeffridersecurityconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/securityconsoles/avikanoutpostsecurityconsole/avikanoutpostsecurityconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/securityconsoles/avikanwatchersecurityconsole/avikanwatchersecurityconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frustrated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glad."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggatefast/avikanracinggatefast.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gleeful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greedy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/akkimaritechstation/akkimaritechstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinktechstation/trinktechstation.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Happy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hesitant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancespotlight/alliancespotlight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanspotlight/avikanspotlight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Humbled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimaricrafting/akkimaricrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/akkimarijusticar/akkimarijusticar.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikanfurnace/avikanfurnace.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/allianceslopedglass.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanslopedglass.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinkslopedglass.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinksupportpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Impressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Incapability."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/other/thea-unbreakabledirt.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indifferent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflightdoor/akkimariflightdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/posters/allianceposteraae/allianceposteraae.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/posters/allianceposterbriggs/allianceposterbriggs.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancerailfield/alliancerailfield.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanblockingfield/avikanblockingfield.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/signs/avikannumber0/avikannumber0.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/signs/avikannumber1/avikannumber1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/signs/avikannumber2/avikannumber2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/signs/avikannumber4/avikannumber4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/signs/avikannumber6/avikannumber6.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/signs/avikannumber7/avikannumber7.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/signs/avikannumber8/avikannumber8.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/signs/avikannumber9/avikannumber9.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/dockingfield/thea-dockingfield.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancegroundpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanshipfloor.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanshippanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/avikanplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/theagreenscreenplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Informed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/wired/alliancesecuritycamera/alliancesecuritycamera.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/wired/trinksecuritycamera/trinksecuritycamera.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insecure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote",
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote",
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikaninventor/avikaninventor.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote",
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inspired."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanlargeshipconsole/avikanlargeshipconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanshipconsole/avikanshipconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/wired/trinkconsole/trinkconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/wired/trinklargeconsole/trinklargeconsole.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/trinkplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interested."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/theleancorpsepile/theleancorpsepile.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intimidated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarichest/akkimarichest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/containers/akkimarismallchest/akkimarismallchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote",
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/posters/alliancepostergame/alliancepostergame.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/drodenframecrafting/drodenframecrafting.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanmarketstallmodern/avikanmarketstallmodern.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Intrigued."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/3/glitchEmote"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/glitch/3/glitchEmote"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/3/glitchEmote"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/3/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Joyful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Judgmental."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Knowledgable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Knowledgeable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariglass.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marveled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/platforms/alliancethickplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/avikanthickplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Measuring."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/drodenframecrafting/drodenframecrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Motivated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimaricrate/akkimaricrate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/sagrassa/sagrassaseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/sagrassa/wildsagrassaseed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mystified."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/glitch/1/glitchEmote"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/glitch/1/glitchEmote"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/glitch/1/glitchEmote"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/glitch/1/glitchEmote"
+      ],
+      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/container/trinkstoragelocker/trinkstoragelocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanborderlesspurplefabric.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanpurplefabric.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neutral."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/smashable/akkimaripotsmall/akkimaripotsmall.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/smashable/akkimaripottall/akkimaripottall.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/biome/smashablerocks/hyveriumrocksmall/hyveriumrocksmall.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/colonydeeds/akkimaricolonydeed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/colonydeeds/alliancecolonydeed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/colonydeeds/avikancolonydeed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/colonydeeds/trinkcolonydeed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/flags/flagaegi/flagaegi.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/flags/flagavikan/flagavikan.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimarihullpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancehullpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel2.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinkslopedpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikandecoleather.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanfabric.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanfabrictentpole.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanleather.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanplating.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanpowerpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanpowerpanel2.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikantentpole.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/centens/centensreinforcement.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/generic/avikanthickpipebottom.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/generic/avikanthickpipeleft.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/generic/avikanthickpiperight.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/generic/avikanthickpipetop.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/akkimarihangingstorage/akkimarihangingstorage.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimaribottomplating/akkimaribottomplating.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimaribottomplating2/akkimaribottomplating2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimaribottomplating3/akkimaribottomplating3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating/akkimarisideplating.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating2/akkimarisideplating2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating2/akkimarisideplating2inverted.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating3/akkimarisideplating3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimarisideplating3/akkimarisideplating3inverted.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimaritopplating/akkimaritopplating.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimaritopplating2/akkimaritopplating2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/decorative/plating/akkimaritopplating3/akkimaritopplating3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancecomputerscreen/alliancecomputerscreen.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceinfospire/allianceinfospire.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancepottedplant/alliancepottedplant.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancepottedshrub/alliancepottedshrub.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/banners/alliancebanner/alliancebanner.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/banners/alliancebanneraegi/alliancebanneraegi.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerdremeton/alliancebannerdremeton.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/banners/alliancebannererixian/alliancebannererixian.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerhymid/alliancebannerhymid.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerjorgasian/alliancebannerjorgasian.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/banners/alliancebannernotix/alliancebannernotix.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/banners/alliancebannerrack/alliancebannerrack.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/banners/alliancebannertrink/alliancebannertrink.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancereceptiondesk/alliancereceptiondesk.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/lights/alliancewalllight/alliancewalllight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/allianceblackmarketteleporter/allianceblackmarketteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1-decorative.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/allianceweaponshop/allianceweaponshop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandroden/avikandroden.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandrodenheavy/avikandrodenheavy.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandrodenlegion1/avikandrodenlegion1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandrodenlegion2/avikandrodenlegion2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandrodenlegion3/avikandrodenlegion3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandrodenlegion4/avikandrodenlegion4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanautomateddoor/avikanautomateddoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanblackmarketteleporter/avikanblackmarketteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanoutpostdoor/avikanoutpostdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanspeakerplatform/avikanspeakerplatform.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikantapestrywatcher/avikantapestrywatcher.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanteleportshop/avikanteleportshop2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanweaponmerchant/avikanweaponmerchant.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry1/avikanoutpostrhaiodtapestry1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry2/avikanoutpostrhaiodtapestry2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostrhaiodtapestry3/avikanoutpostrhaiodtapestry3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanclothtapestry/avikanclothtapestry.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikantapestryroll/avikantapestryroll.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikantentdoor/avikantentdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikanentry2/avikanentry2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikanentry3/avikanentry3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/doors/centensblastdoor/centensblastdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/bolbohn/bolbohnseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/bolbohn/wildbolbohnseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/vrelli/vrelliseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/vrelli/wildvrelliseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mannequins/akkimarimannequin/akkimarimannequin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mannequins/avikanmannequin/avikanmannequin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mannequins/drodenmannequin/drodenmannequin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mannequins/trinkmannequin/trinkmannequin.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/kadavanrock/kadavanrock1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/kadavanrock/kadavanrock2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/kadavanrock/kadavanrock3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/kadavanrock/kadavanrock4.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/aegi/aegiteleportertier0/aegiteleportertier0.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/akkimariteleportertier0/akkimariteleportertier0.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikanshipdoorbroken/avikanshipdoorbroken.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikanteleportertier0/avikanteleportertier0.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkshipdoorbroken/trinkshipdoorbroken.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/akkimarishipantenna/akkimarishipantenna.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/akkimarishipantenna2/akkimarishipantenna2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/space/akkimarishipthruster/akkimarishipthruster.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkhangingwires2/trinkhangingwires2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkhangingwires3/trinkhangingwires3.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinkprodrack/trinkprodrack.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimaribeam.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimaribeamconnector.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimaribeamvert.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancebackpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/allianceborderlessglass.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/allianceglass.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/allianceinterfacewall.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancepavementstone.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancereinforcement.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancesewagebars.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/allianceslopedpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancestonebrick.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancestonebrickrough.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancesupport.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancethinsupport.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanfabrictentpole.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanplating.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanpowerpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanpowerpanel2.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanpurplefabrictentpole.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanshipwall.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikantentpole.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/centens/centensreinforcement.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/generic/avikanthickpipebottom.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/generic/avikanthickpipeleft.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/generic/avikanthickpiperight.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/generic/avikanthickpipetop.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinkhull.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/mods/akrisgrass.matmod": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/akkimariplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/allianceplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/alliancestairsplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/alliancestoneplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/alliancethickstairsplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/avikanstairsplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/avikanthickstairsplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/rimdwellerstairsplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatch/alliancethickhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanhatch/avikanhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanhatchlong/avikanhatchlong.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatch/avikanthickhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/rimdweller/doors/rimthickhatch/rimthickhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/doors/trinkhatch/trinkhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikandecoleather.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ominous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanobservatorywindow/avikanobservatorywindow.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanshipyardwindow/avikanshipyardwindow.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Opinion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/misc/trinkterminal/trinkterminal.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Overwhelmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/drodenframecrafting/drodenframecrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Philosophical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceraildoor/allianceraildoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/doors/alliancerailhatch/alliancerailhatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/doors/alliancethickhatchplatform/alliancethickhatchplatform.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancedesk/alliancedesk.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancerecruitmentdesk/alliancerecruitmentdesk.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/crafting/avikanfurnace/avikanfurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanhatchplatform/avikanhatchplatform.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatchplatform/avikanthickhatchplatform.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/rimdweller/doors/rimthickhatchplatform/rimthickhatchplatform.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/doors/trinkhatchplatform/trinkhatchplatform.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancefence.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancepipe.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancepipehollow.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancesmoothpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancestripedpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanborderlessfabric.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanfabric.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanfence.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikangroundpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanheavypipe.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanheavypipehollow.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/rails/alliancerail.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/rails/avikandarkrail.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/rails/avikanrail.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/rails/trinkrail.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pleased."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Practical."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/1/glitchEmote"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/outOfRangeText/glitch/1/glitchEmote"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/1/glitchEmote"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/outOfRangeText/glitch/1/glitchEmote"
+      ],
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Puzzled."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Questioning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancefountain/alliancefountain.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relaxed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relief."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceparasol/allianceparasol.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/lights/alliancelandingbeacon/alliancelandingbeacon.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanescapehatch/avikanescapehatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/returnallianceoutpostteleporter/returnallianceoutpostteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/returnavikanoutpostteleporter/returnavikanoutpostteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimaribars.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Relieved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarimountedskull/akkimarimountedskull.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Revolted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/allianceshuttlerusted/allianceshuttlerusted.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Saddened."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/mission/thellhunterweapon/thellhunterweapon.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Satisfied."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smug."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/harrowing/harrowingpumpkin/harrowingpumpkin.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spooked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancepipe.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/alliance/alliancepipehollow.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikandarkgroundpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikandarkpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikandarkplatform.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanfarmpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanfence.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanglass.matitem": [
+        "/glitchdescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikangroundpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanheavypipe.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanheavypipehollow.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanplatform.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanshipfloor.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanshippanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikansmoothpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikansupportpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/avikan/avikanthickplatform.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/centens/centensplatform.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/trink/trinkgroundpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/trink/trinkpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/trink/trinkpipe.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/trink/trinkpipehollow.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/trink/trinkplatform.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/trink/trinkplating.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/trink/trinksmoothpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "items/materials/trink/trinksupportpanel.matitem": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/wired/akkimariwallswitch/akkimariwallswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/wired/alliancewallswitch/alliancewallswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/boneobjects/avikanspearrack/avikanspearrack.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanstand/avikanstand.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanmodernchair/avikanmodernchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanweaponrack/avikanweaponrack.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet1/avikanoutpostmediumsheet1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet2/avikanoutpostmediumsheet2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostsmallsheet1/avikanoutpostsmallsheet1.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanswitch/avikanswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanwallswitch/avikanwallswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/avikancactus/wildavikancactusseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/wired/trinkswitch/trinkswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/wired/trinkwallswitch/trinkwallswitch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimarifoundation.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancedoublepanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/alliancefarmpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/alliance/allianceprefabwall.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanborderlessglass.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikandarkgroundpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikandarkpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanfarmpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikanglass.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/avikan/avikansupportpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinkglass.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinkpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinkpipe.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinkpipehollow.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinkplating.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/trink/trinksmoothpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/platforms/avikandarkplatform.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancemanholedoor/alliancemanholedoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancebathroomstall/alliancebathroomstall.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancetoilet/alliancetoilet.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanchair/avikanchair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/tentobjects/avikanpurplechair/avikanpurplechair.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimariplating.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimariplatingfront.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplating.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplatingfront.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Surprised."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/wired/avikanscanner/avikanscanner.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/wired/trinkscanner/trinkscanner.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Suspicious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/posters/allianceposterfroza/allianceposterfroza.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thirsty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tired."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatch/avikanoutposthatch.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uncertain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariantenna/akkimariantenna.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/outpost/avikanwatchertapestry/avikanwatchertapestry.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimarigroundpanel.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uneasy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
+        "/nothingThereText/glitch/0/glitchEmote"
+      ],
+      "items/tools/manipulator/alliance/alliancescanmode.inspectiontool": [
+        "/nothingThereText/glitch/0/glitchEmote"
+      ],
+      "items/tools/manipulator/avikan/avikanscanmode.inspectiontool": [
+        "/nothingThereText/glitch/0/glitchEmote"
+      ],
+      "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
+        "/nothingThereText/glitch/0/glitchEmote"
+      ],
+      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
+        "/glitchDescription/glitchEmote",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/akkimari/akkimariscrap.material": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uninterested."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleanstucksword/theleanstucksword.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weak."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstatuegod/avikanstatuegod.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wonder."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/misc/avikanmarketstallfood/avikanmarketstallfood.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/avikan/modernobjects/avikancrane/avikancrane.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wondering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/glitchDescription/glitchEmote"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worried."
+    }
+  }
+]

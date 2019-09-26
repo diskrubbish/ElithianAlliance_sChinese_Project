@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-council/avikan-council.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Councillor's Robes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-council/avikan-council.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Leather wraps worn by Nomada officials."
+    }
+  }
+]

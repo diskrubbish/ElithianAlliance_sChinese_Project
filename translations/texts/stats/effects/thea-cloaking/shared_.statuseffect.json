@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-cloaking/thea-cloaking.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thea-cloaking/thea-shadowcloak.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloaked"
+    }
+  }
+]

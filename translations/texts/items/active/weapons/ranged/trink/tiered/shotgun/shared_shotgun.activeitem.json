@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier5shotgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier6shotgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-grade, standard issue laser shotgun built by the Trinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier1shotgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier2shotgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A low-grade, standard issue laser shotgun built by the Trinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier3shotgun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/trink/tiered/shotgun/trinktier4shotgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A medium-grade, standard issue laser shotgun built by the Trinks."
+    }
+  }
+]

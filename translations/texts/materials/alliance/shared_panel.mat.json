@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancebackpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancebackpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/alliance/allianceslopedpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal wall panel."
+    }
+  }
+]

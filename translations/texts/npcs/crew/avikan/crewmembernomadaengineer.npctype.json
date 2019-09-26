@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll keep your ship's engines in top condition, Captain. Expect to fly a little faster with me around!"
+    }
+  }
+]

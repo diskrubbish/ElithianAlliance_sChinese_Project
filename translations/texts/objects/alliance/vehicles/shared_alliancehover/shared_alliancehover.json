@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarblue.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/vehicles/alliancehovercar/alliancehovercarred.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien hovercraft."
+    }
+  }
+]

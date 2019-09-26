@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-modern/avikan-modern.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Modern Cloak"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-modern/avikan-modern.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A leather cloak worn by Nomada civilians."
+    }
+  }
+]

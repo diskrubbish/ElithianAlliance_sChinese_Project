@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier2/droden-tier2.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tungsten Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier2/droden-tier2.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A sturdy tungsten legs upgrade."
+    }
+  }
+]

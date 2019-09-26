@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/thelean/thelean-verylight/thelean-verylight.chest": [
+        "/description"
+      ],
+      "items/armors/thelean/thelean-verylight/thelean-verylight.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Thelean. ^white;Part of a minimalistic exoskeleton."
+    }
+  }
+]

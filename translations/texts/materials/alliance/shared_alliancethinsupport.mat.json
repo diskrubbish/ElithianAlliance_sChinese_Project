@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancethinsupport.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancethinsupport.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Support Grid"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancethinsupport.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancethinsupport.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light structural support beams."
+    }
+  }
+]

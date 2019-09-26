@@ -1,0 +1,59 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikangroundpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanshipfloor.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikansmoothpanel.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal panel, coloured like sand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikangroundpanel.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikanpanel.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikanshipfloor.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikanshippanel.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikansmoothpanel.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal panelsss"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanplating.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanshipwall.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong metal plating, for the best protection."
+    }
+  }
+]

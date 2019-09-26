@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/droden/violated/droden-violatedrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hacked Droden Assault Rifle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/droden/violated/droden-violatedrifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violated Droden Rifle"
+    }
+  }
+]

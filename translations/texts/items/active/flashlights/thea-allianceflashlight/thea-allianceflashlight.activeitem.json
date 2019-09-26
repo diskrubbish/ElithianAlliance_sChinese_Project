@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/flashlights/thea-allianceflashlight/thea-allianceflashlight.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but powerful flashlight built by Enerth Engineering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/flashlights/thea-allianceflashlight/thea-allianceflashlight.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enerth Flashlight"
+    }
+  }
+]

@@ -1,0 +1,474 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Alliance Smelter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Fusion Chamber"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Stone Smelter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A comfortable heat radiates from this melter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact fusion chamber capable of smelting hyverianites."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact fusion chamber! How does it contain all that heat?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact fusion chamber. It will melt anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact fusion chamber. Nothing less will do when smelting hyverianites."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/aegiDescription",
+        "/upgradeStages/0/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact stone smelter, for smelting low-temperature alloys."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fusion chamber. It's like a miniature sun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-tech smelter capable of reaching high temperatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-tech smelter of alien design. I should take notes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly efficient smelter. The Circuit helped design it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/notixDescription",
+        "/upgradeStages/0/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hot fire blazes inside this furnace. It's making me uncomfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/trinkDescription",
+        "/upgradeStages/0/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive construct for smelting ores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/jorgasianDescription",
+        "/upgradeStages/0/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but effective smelter, but it doesn't meet safety standards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/avikanDescription",
+        "/upgradeStages/0/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple stone furnace, for smelting ores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smelter burning bright as the sun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/erixianDescription",
+        "/upgradeStages/0/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smelter radiating a comfortable heat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki careful. Temperatures-high, Akki not burn self."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Alliance-approved smelter. It's incredibly hot inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien smelter. It's incredibly hot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Alien smelter. Temperature levels rising above safety regulations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/drodenDescription",
+        "/upgradeStages/0/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Stone smelter. Basic ore smelting functionality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Despite the extreme heat inside these fusion chambers, accidents are extremely rare."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/akkimariDescription",
+        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Furnace-stone, for smelting metals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can almost hear the heat inside this fusion chamber."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should be careful around this smelter. The heat isn't good for me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Like forge-nuclear, hot-very. Melt things-many!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some type of compact fusion chamber. Nothing will survive that heat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi truly outdid themselves designing this fusion chamber."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The heat of this furnace is uncomfortable to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device burns brighter than the sun! How is that possible?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This furnace is the perfect temperature for smelting basic ores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This furnace is unusually hot. Better handle it carefully."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This smelter burns incredibly hot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This smelter is uncomfortably hot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This smelter was made specifically for smelting specific types of low-grade allosteel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This smelter's burnin' bright."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/1/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Alliance Smelter^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Fusion Chamber^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/shortdescription",
+        "/upgradeStages/0/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Stone Smelter^white;"
+    }
+  }
+]

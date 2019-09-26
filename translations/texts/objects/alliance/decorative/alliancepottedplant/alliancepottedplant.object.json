@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancepottedplant/alliancepottedplant.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plant native to Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancepottedplant/alliancepottedplant.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant-small, strange-very."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancepottedplant/alliancepottedplant.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potted Elithian Plant"
+    }
+  }
+]

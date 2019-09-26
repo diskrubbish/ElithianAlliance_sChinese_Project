@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/containers/akkimarichest/akkimarichest.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/containers/akkimaricrate/akkimaricrate.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/containers/akkimarismallchest/akkimarismallchest.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Akkimari container. It's odd."
+    }
+  }
+]

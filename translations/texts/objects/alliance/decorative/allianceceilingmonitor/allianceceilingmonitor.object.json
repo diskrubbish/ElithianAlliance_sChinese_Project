@@ -1,0 +1,170 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ceiling-mounted monitor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monitor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A screen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek ceiling-mounted monitor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/aegiDescription",
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sleek monitor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Ceiling Monitor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien-built monitor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hear this screen buzzing lightly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a monitor mounted to the ceiling."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a screen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Screen-shiny."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply a screen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some monitor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny sscreen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceceilingmonitor/allianceceilingmonitor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This monitor shines."
+    }
+  }
+]

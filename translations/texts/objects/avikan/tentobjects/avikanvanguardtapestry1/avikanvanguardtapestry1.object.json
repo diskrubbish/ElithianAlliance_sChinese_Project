@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanvanguardtapestry1/avikanvanguardtapestry1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Long Vanguard Tapestry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanvanguardtapestry1/avikanvanguardtapestry1.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tapestry with symbol, for military-alien."
+    }
+  }
+]

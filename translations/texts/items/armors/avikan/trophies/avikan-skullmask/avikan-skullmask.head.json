@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/trophies/avikan-skullmask/avikan-skullmask.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Monster Skull Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/trophies/avikan-skullmask/avikan-skullmask.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;The skull of a monster, modified to fit as a mask. A nice trophy."
+    }
+  }
+]

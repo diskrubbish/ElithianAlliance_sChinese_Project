@@ -1,0 +1,354 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
+        "/dremetonDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/dremetonDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cold light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/hylotlDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/hylotlDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering light. A feat of technology, but unnecessary underwater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/theleanDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/theleanDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering light. Built using Centensian technology, no doubt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/humanDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/humanDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering light. Don't bump your head!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/apexDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/apexDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering light. Fancy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/hymidDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/hymidDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering light. I have no idea how it works."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/erixianDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/erixianDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering light. Impressive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/avianDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/avianDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty, hovering light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/apexDescription",
+        "/description"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/apexDescription",
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/apexDescription",
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/apexDescription",
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/apexDescription",
+        "/description"
+      ],
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/description"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple light strip."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/notixDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/notixDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An advanced light that hovers in the air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An advanced, hovering light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/dremetonDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/dremetonDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient light that hovers gently in the air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/theleanDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/theleanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/theleanDescription"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/theleanDescription"
+      ],
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Basic lighting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightorb/avikanlightorb.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmalllightorb/avikansmalllightorb.object": [
+        "/floranDescription"
+      ],
+      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
+        "/floranDescription"
+      ],
+      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not understand how light floatsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/lights/alliancewalllight/alliancewalllight.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light source detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-simple."
+    }
+  }
+]

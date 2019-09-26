@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanplatform.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanthickplatform.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal platform, coloured like sand."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2.object": [
+        "/description"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A closed sliding door."
+    }
+  }
+]

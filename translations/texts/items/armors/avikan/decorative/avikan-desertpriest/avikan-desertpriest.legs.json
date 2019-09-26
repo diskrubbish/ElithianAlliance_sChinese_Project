@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desert Rhaiod Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A skirt worn by members followers of the Rhaiod in the deeper deserts."
+    }
+  }
+]

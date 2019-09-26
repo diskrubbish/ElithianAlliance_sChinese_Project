@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutpostteleporter/avikanoutpostteleporter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter. Akki use, go to Refuge-Starfarers."
+    }
+  }
+]

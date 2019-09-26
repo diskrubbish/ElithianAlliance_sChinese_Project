@@ -1,0 +1,182 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A holographic Avikan interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/aegiDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/aegiDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A holographic guide. She might be able to tell me more about this place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A holographic interface. Perhaps she might tell me about this place?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A holographic interface. She looks lovely."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A holographic interface. She might be able to guide me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A virtual guide, programmed to teach newcomers about this place. I might learn something from her myself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran talkss to light persson. Light perssson iss nice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lady-light-alien. Seem friendly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps this holographic interface can show me the way."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hologram shines like the mornin' sun. Perhaps I should talk to her."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Virtual Guide Azana"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Virtual guide detected. Recommend interaction to learn valuable intel."
+    }
+  }
+]

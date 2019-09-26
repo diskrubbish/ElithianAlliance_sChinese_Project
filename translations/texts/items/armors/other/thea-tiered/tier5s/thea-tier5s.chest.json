@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-tiered/tier5s/thea-tier5s.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "VH-i Defensive Chest Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-tiered/tier5s/thea-tier5s.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Generic. ^white;A very high intensity shield generator for protecting the chest, it provides great protection."
+    }
+  }
+]

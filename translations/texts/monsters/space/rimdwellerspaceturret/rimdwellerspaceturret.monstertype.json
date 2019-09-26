@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/space/rimdwellerspaceturret/rimdwellerspaceturret.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim Space Turret"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancestonebrickrough.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Old stone bricks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancestonebrickrough.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy stone bricks, roughened with age."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancestonebrickrough.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rough stone bricks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancestonebrickrough.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone bricks, rough and cracked."
+    }
+  }
+]

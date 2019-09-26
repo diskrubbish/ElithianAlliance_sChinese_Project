@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A canopy that can be attached to the side of a building for additional shade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Side Canopy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Canopy-colourful, make shadow during day."
+    }
+  }
+]

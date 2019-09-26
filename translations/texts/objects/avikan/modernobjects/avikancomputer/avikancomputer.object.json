@@ -1,0 +1,168 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer of sorts. I don't like its interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer with an unusual interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer. I have no idea how this interface works..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern computer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple computer, used to send messages to the Fleet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan computer. How much RAM does it have?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Computer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan computers have an unusual interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Computer-alien. Interface-weird."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesss not underssstand big black boxsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have no ide how this interface works."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not sure how this interface works."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This computer uses an unusual interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where's the touchscreen? The keyboard, the mouse? I can't work with this!"
+    }
+  }
+]

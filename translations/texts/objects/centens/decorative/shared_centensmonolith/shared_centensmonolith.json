@@ -1,0 +1,254 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/aegiDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian monolith. We never managed to figure out the purpose of these slabs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/trinkDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian-built monolith. What could its purpose be?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/hylotlDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monolith made of an unknown metal - how mysterious!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/description"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monolith of pure Centensian metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/apexDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monolith of some odd metal. Who would have built such a thing?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/humanDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monolith of sorts. Why does it make me feel so odd?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monolith. The Centens left behind many strange relics such as these."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/hymidDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A relic from the Gods. It is a great honour to observe such a thing!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/avianDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny monolith. I get an odd sensation just standing near it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/erixianDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient monolith, built by the Centens for an unknown reason. How mysterious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/akkimariDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Artefact-strange, monolith of god-maker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/shortdescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Monolith"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/drodenDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Centensian Monolith. Age calculation failed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/floranDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Monolith makess Floran feel funny insside..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/novakidDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a fine monolith right there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/notixDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Hyverium used to build this monolith is unrealistically strong. I don't think anyone has ever managed to break through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This monolith is somehow interfering with my sensors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
+        "/avikanDescription"
+      ],
+      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This monolith of the Old Ones is an object of great importance in the Rhaiod religion."
+    }
+  }
+]

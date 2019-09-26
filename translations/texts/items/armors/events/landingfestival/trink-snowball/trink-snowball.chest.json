@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/landingfestival/trink-snowball/trink-snowball.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowball Arms"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/landingfestival/trink-snowball/trink-snowball.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;Snowball arms to celebrate the Landing Festival!"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancecan/alliancecan3-decorative.object": [
+        "/description"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A can of Corus."
+    }
+  }
+]

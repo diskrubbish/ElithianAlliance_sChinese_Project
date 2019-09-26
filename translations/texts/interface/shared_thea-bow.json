@@ -1,0 +1,40 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-bow-mf-attachment.itemdescription": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-mf.itemdescription": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-patreon.itemdescription": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-unique.itemdescription": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow.itemdescription": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-mf-attachment.tooltip": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-mf.tooltip": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-patreon.tooltip": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-unique.tooltip": [
+        "/maxDamageTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow.tooltip": [
+        "/maxDamageTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Base Max Damage:"
+    }
+  }
+]

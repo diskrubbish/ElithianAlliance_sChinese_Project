@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Veronas-manufactured hoverbike. It's fast."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact hoverbike."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact personal transportation vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hoverbike built by Veronas, Aventor's largest competitor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hoverbike, compact in form but powerful in performance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hoverbike. Built by Veronas, of course."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A personal transportation hover vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ride on one o' these is sure to get wild!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aeginian hoverbikes are fast, and quite compact."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki fly on vehicle-alien! Akki free!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Hoverbike"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran goess sssick when flying ssmall bikess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it is an alien hoverbike, but the design is very different from our own."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always loved hoverbikes!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've never been as big of a fan of Veronas hoverbikes as the Aegi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The efficiently compact design of this vehicle is quite pleasing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hoverbike is quite compact."
+    }
+  }
+]

@@ -1,0 +1,466 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/aegiDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian teleporter, it's very efficient in its energy usage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/notixDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian teleporter. Efficient, like all things Trinkian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian teleporter. It teleports stuff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/description"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/description"
+      ],
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/description"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/description"
+      ],
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/description"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/description"
+      ],
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/description"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/aegiDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A regular Alliance-built teleporter unit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter built in an alien style."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/hymidDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter, built by the Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/avikanDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter. These were rarely used back on Kadavan, but those times are long past..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/erixianDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Alliance-built teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/hymidDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan teleporter. I believe it uses repurposed Centensian technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/aegiDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan teleporter. It emits particles reminiscent of those found in Centensian devices."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/erixianDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan teleporter. Something about it feels odd..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/avikanDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien teleporter. It looks unusually clean."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/drodenDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Avikan teleportation device. Chance of successful teleportation: 99 percent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/drodenDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien teleportation device. Recommend caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/drodenDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien teleportation technology. Please exercise caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/notixDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hear this teleporter humming softly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/glitchDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/glitchDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observation: This teleporter was built in an alien style."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/akkimariDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter-alien, look fancy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporters always make me feel odd. I'm not sure if the experience is pleasant or uncomfortable..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/hymidDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Trinkian teleporter is very efficient in its energy usage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/trinkDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter allows fast travel between linked locations. An efficient way to transports Trink units."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/trinkDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter offers an incredibly efficient means of transportation, but it requires exact coordinates to function."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/trinkDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter uses technologies invented by the Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/avikanDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter was built by and for machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/erixianDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian teleporters always give me an odd feeling."
+    }
+  }
+]

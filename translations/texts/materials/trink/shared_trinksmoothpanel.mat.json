@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinksmoothpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/trink/trinksmoothpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smooth Trinkian Panel"
+    }
+  }
+]

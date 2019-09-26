@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/avikanmodernquiver/avikanmodernquiver.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Quiver"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/avikanmodernquiver/avikanmodernquiver.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A modern Nomada quiver with active drawing assistance. Increases damage dealt using Avikan bows."
+    }
+  }
+]

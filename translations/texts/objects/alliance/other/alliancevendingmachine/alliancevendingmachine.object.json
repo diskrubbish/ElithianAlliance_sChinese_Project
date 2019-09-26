@@ -1,0 +1,233 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Soda Vending Machine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " The best drinks in the Union"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vending machine filled with popular beverages."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vending machine full of beverages."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vending machine. It's full of drinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki want drink. Akki smash glass?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Vending Machine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien device. Analysis: dispenses drinks in exchange for currency."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran dissslike over-sweet drinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wouldn't mind trying some of these foreign beverages."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's full of all sorts of soft drinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Never been a great fan of fizzy drinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strangely enough, I actually like the sodas made by the Aegi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Union produces great sodas."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The drinks in here look a little sweet for my taste..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The machine is selling soft drinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The most popular sodas in the Union can be purchased here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is no Reef-Cola in here, unfortunately."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine dispenses drinks. What a strange thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vending machine dispenses all sorts of beverages."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevendingmachine/alliancevendingmachine.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vending machine holds all the most popular sodas produced in the Union."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier2/trink-tier2.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mark II Arm Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier2/trink-tier2.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;A low-grade steel arm mod."
+    }
+  }
+]

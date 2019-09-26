@@ -1,0 +1,186 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/jorgasianDescription",
+        "/notixDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/jorgasianDescription",
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian satellite dish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian satellite dish. A simple but effective tool for receiving signals from outer space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal satellite dish. Avikan antennas are far more powerful than this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A satellite dish of Trinkian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A satellite dish. I wonder what sort of cryptic messages it's receiving?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A satellite dish. What purpose does the box below it fulfill?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny satellite dish. Could it receive a message from home?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/erixianDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple Trinkian satellite dish. Nothing too special."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple satellite dish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis: satellite dish. Provides access to global communications systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal dissshhh goesss round and round and round..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This satellite dish generates and electromagnetic field which may disturb my sensors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/decorative/trinksatellitedish/trinksatellitedish.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This satellite dish is used to receive messages from ships in orbit, amongst others."
+    }
+  }
+]

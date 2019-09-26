@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-wrathofrhadeis/title"
+      ],
+      "items/active/weapons/melee/unique/wrathofrhadeis/centens-wrathofrhadeis.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wrath of Rhadeis"
+    }
+  }
+]

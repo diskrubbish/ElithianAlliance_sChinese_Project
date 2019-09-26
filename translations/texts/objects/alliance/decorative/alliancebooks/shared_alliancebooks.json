@@ -1,0 +1,308 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A collection of books on various topics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien scrolls, I think. I can't read any of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Books"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books approved by the Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books are a grand source of knowledge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books are an inefficient method of transferring and storing knowledge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books on various topics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books written on various topics, all equally interesting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books. Akki not want to read."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books. I'm not sure what topics they write about."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books. They are of no use to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books. They might hold information valuable to the rebels."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien writings. Indexing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesss not like reading..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't got time for readin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plain old books. Dull topics only."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What might be written in these books?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What might these books be written about?"
+    }
+  }
+]

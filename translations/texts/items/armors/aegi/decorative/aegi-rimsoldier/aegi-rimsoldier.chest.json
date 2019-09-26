@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-rimsoldier/aegi-rimsoldier.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim Battlesuit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-rimsoldier/aegi-rimsoldier.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Powerful body armour worn by combatants in the Rim."
+    }
+  }
+]

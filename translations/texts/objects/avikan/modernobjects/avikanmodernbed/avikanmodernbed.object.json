@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern, heavy bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Bed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bed-alien, Akki rest here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unit does not require rest."
+    }
+  }
+]

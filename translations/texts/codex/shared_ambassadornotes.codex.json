@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aegiambassadornotes.codex": [
+        "/title"
+      ],
+      "codex/trink/trinkambassadornotes.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ambassador's Log"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aegiambassadornotes.codex": [
+        "/description"
+      ],
+      "codex/trink/trinkambassadornotes.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your notes on your current assignment."
+    }
+  }
+]

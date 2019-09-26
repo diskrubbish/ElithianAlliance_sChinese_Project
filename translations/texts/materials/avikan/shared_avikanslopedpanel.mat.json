@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanslopedpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Hull Panel"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/allianceplasmacore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plasma Injector"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/allianceplasmacore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The core of any plasma-infused Alliance rifle."
+    }
+  }
+]

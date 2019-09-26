@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-medic/aegi-medic.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meditek Trousers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-medic/aegi-medic.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Trousers worn by Union medical workers."
+    }
+  }
+]

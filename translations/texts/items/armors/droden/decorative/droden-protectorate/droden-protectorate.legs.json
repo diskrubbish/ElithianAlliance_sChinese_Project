@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-protectorate/droden-protectorate.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-protectorate/droden-protectorate.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A Protectorate-themed Droden legs piece."
+    }
+  }
+]

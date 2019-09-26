@@ -1,0 +1,242 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/notixDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A curtain used in place of an actual door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plain fabric door curtain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/trinkDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A portière. Simple and efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but elegant door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/hymidDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple portière."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/apexDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple sheet of fabric. Not much of a door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/aegiDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/aegiDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic portière."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/shortdescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Fabric Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Curtain-simple makes for door-easy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected door. Resemblance to Avikan tent doors noted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran like how fabric feelsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/theleanDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a simple curtain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a door curtain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a sheet of fabric used as a door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/avianDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a fabric sheet door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a sheet o' fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This reminds me of the tents back on Kadavan..."
+    }
+  }
+]

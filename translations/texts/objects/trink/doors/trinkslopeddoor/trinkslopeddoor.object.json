@@ -1,0 +1,179 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian sloped door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fine sloped door made of strong metal. Ain't nothing coming through here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy sloped metal door. Effective at keeping things out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny sloped door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sloped door of Trinkian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sloped door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sloped metal door built by machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sloped metal door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sloped metal door. Not quite a blast door, but still very strong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy sloped metal door of Trinkian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy sloped metal door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient way to seal off an entire compartment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cool sloped door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected door. Analysis: Sloped model."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-sloped, slippery-very."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Sloped Door"
+    }
+  }
+]

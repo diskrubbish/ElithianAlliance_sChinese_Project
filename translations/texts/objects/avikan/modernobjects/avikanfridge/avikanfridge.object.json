@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cold fridge. I prefer my food hot, but the cold does act as a good preserver."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cool fridge, for keeping food fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A food preservation unit, for keeping food fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A food preservation unit... That means it's a fridge, right?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fridge of alien design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan-designed fridge. Not a very common sight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien fridge. I doubt there's any bananas inside..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Refrigerator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan fridges can keep food cool, even in the midst of the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even alien fridges run at the right temperature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food preservation unit detected. Food stored here will remain fresh for extended periods of time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Frdige-cold, for keeping food-fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some odd lookin' fridge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's no need for fridges on the homeplanet of the Notix."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be an alien fridge of some sort."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This food preservation unit will keep my food fresh, but the food will be too cold to eat immediately."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fridge's energy consumption is surprisingly efficient."
+    }
+  }
+]

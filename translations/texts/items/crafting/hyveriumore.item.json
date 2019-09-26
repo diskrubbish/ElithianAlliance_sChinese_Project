@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/hyveriumore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hyverium Ore"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/hyveriumore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The crystalized deposit of an otherworldy material."
+    }
+  }
+]

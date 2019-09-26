@@ -1,0 +1,214 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A comfortable leather bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather bed. It's better than it looks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather bed. Quite comfortable, somehow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather bed. Quite comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather bed. Surpisingly comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet covering piles of raw leather. It makes me think of home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive but comfortable leather bed. Time for a nap!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/notixDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather bed. It's better than it looks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bedsss for sssleeping!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/centensDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting. Leather is used for almost all items made by Avikan nomads."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/theleanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sleep is for the weak."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This leather bed is surprisingly comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernbed/avikanmodernbed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentobjects/avikanbed/avikanbed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This primitive leather bed is quite comfortable."
+    }
+  }
+]

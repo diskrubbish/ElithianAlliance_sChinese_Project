@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-chargedammogun-patreon.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique-mf.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun-unique-mf.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun-unique.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgunalt-unique.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-optionalchargegun-unique.itemdescription": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-patreon.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique-mf.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique-mf.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgunalt-unique.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-optionalchargegun-unique.tooltip": [
+        "/chargeTimeTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charge Time:"
+    }
+  }
+]

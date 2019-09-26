@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A good place to store kitchen equipment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall-mounted kitchen cabinet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Kitchen Cabinet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Things-fragile inside. Look like plates-food."
+    }
+  }
+]

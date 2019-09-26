@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/kelbet/aggressivekelbet.monstertype": [
+        "/description"
+      ],
+      "monsters/walkers/kelbet/kelbet.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A docile creature native to Elithia. It often lives in large herds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/kelbet/aggressivekelbet.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/walkers/kelbet/kelbet.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kelbet"
+    }
+  }
+]

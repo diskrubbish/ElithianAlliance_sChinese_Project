@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/alliance/tiered/advanced/thea-tier5spear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern spear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/alliance/tiered/advanced/thea-tier5spear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stryker X-04 Spear"
+    }
+  }
+]

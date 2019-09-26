@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here you go, Captain. ^green;Bring this ^orange;Xanafian Shard^green; back to Adako^reset;, and he can put together that tool you've been working on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Shard is a perfect fit! Here you go, Captain: one fully restored tool of the Old Ones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/shardbreakertool4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Tools of the Ancients IV"
+    }
+  }
+]

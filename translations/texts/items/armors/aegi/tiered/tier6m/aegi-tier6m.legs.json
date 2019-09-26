@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier6m/aegi-tier6m.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Union Battlelegs Type-M"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier6m/aegi-tier6m.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Extremely durable ballistic leggings and metal boots. Powerful version."
+    }
+  }
+]

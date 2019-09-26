@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkcorevigorous.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A power core for Circuit armour. Increases the user's health reserves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkcorevigorous.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Circuit Core-S"
+    }
+  }
+]

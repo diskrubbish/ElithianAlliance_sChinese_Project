@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Command Unit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Unit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> of the Circuit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adaptive <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Circuit <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Efficient <field> Unit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy <field> Unit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Master <field> Unit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pre-programmed <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/trink/crewmembertrink.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primary <field> Unit"
+    }
+  }
+]

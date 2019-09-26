@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop2.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanteleportshop/avikanteleportshop2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter makes a great demonstration and a handy return point!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanteleportshop/avikanteleportshop2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter makes for a great demonstration and a handy return point."
+    }
+  }
+]

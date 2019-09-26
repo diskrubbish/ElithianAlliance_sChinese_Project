@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cooled storage device. Food won't spoil quickly in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cooled storage unit, for keeping food fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cooled storage unit, perfect for keeping bananas fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fridge, I think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly efficient cooling device. Useful for storing organic matter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine-built cooling device. Far too cold for my liking."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooled storage device detected. Device will keep organic matter from decaying."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooled storage. For keeping food fresh, I would think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is there any food in the fridge?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "My stomach is rumbling with excitement!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some use these cooling devices to store food, but they have many more applications besides."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Storage-cold, keeps food fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trink don't usually keep food, unless they expect organic visitors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This fridge can be configured to reach extremely low temperatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine si cold to the touch. Is it some sorta fridge?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Cooled Storage"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkfridge/trinkfridge.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian fridges can reach extremely low temperatures."
+    }
+  }
+]

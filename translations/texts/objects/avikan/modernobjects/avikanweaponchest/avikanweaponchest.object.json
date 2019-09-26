@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Vanguard supply crate! Let's see what's inside!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Vanguard supply crate. It likely contains some for of Avikan-built weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal container, likely used by the military. There might be a weapon inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chest for weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Vanguard supply crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like one of the Vanguard's military supply crates."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponchest/avikanweaponchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Supply Crate"
+    }
+  }
+]

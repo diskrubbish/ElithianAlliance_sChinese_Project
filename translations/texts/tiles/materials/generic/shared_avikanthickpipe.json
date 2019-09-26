@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/generic/avikanthickpipebottom.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/generic/avikanthickpipeleft.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/generic/avikanthickpiperight.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/generic/avikanthickpipetop.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bigg'r pipe than any I've seen before."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/generic/avikanthickpipebottom.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/generic/avikanthickpipeleft.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/generic/avikanthickpiperight.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/generic/avikanthickpipetop.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Large pipe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/generic/avikanthickpipebottom.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/generic/avikanthickpipeleft.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/generic/avikanthickpiperight.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/generic/avikanthickpipetop.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pipe-large, Akki could almost crawl through."
+    }
+  }
+]

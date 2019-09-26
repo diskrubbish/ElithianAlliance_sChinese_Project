@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationtrink2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that I have the Extractor, I can start collecting the materials I need for the Prime Circuit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationtrink2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The first step in rebuilding the Prime Circuit is to ^green;create an ^orange;Electromagnetic Extractor ^green;at a Circuit Fabricator^white;. The materials I need will be listed in the Fabricator's user interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationtrink2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Prime Circuit II"
+    }
+  }
+]

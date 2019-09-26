@@ -1,0 +1,178 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dry, leathery egg."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sandcrawler egg. Better not anger the parent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sandcrawlers's egg. Perhaps I should hatch it and raise it as my own."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange egg, belonging to some strange creature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien egg. It doesn't look very edible."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien egg. It feels leathery."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An egg of sorts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An egg. It'll spawn a Kadavan Sandcrawler in a few weeks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Egg-weird, probably taste-weird. Akki still want to eat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandcrawler Egg"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandcrawler egg. Please handle with care."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The egg of a worm-like creature from Kadavan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The leathery egg of a Kadavan Sandcrawler."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The spawn of new life."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a rather odd egg..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/sandcrawleregg/sandcrawleregg.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What sort of creature might spawn from this egg?"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-tiered/tier6a/thea-tier6a.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "EH-i Balanced Chest Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-tiered/tier6a/thea-tier6a.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Generic. ^white;An extremely high intensity shield generator for protecting the chest, with a balanced performance."
+    }
+  }
+]

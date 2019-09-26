@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-cloaked/avikan-cloaked.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deep Desert Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-cloaked/avikan-cloaked.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A long skirt worn by those few who dare brave Kadavan's deepest deserts."
+    }
+  }
+]

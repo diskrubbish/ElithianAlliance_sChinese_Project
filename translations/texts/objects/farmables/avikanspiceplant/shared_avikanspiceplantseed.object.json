@@ -1,0 +1,228 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/drodenDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected native Kadavan flora. Spice plant confirmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kadavan Spices Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant-spicy, Akki like! Mouth burn, tasty-very!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/description"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spices can be made by drying this plant's fruits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/notixDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spices like those made from drying these fruits are a large export sector for the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/erixianDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spices made by drying these fruits add a strong flavour to food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/aegiDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spices made from this plant are very popular amongst the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spices made from this plant are very strong."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssspicy plants. Floran driess the fruit to make food more deliciouss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dried fruits of this plant add much flavour to organic fruit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/apexDescription",
+        "/avikanDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/apexDescription",
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dried fruits of this plant make for excellent spices."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/hymidDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The dried fruits of this plant make for some of the best spices I know."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fruits of this plant are not very tasty on their own, but dry them and they make great spices."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These fruits are horrible on their own, but make for great spices when dried!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These fruits are no good on their own, but dry them, and they make for excellent spices."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
+        "/trinkDescription"
+      ],
+      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinks have no use for spices, although I hear organics can't get enough of them."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/vehiclerepair/alliance-vehiclerepairgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Faro's Vehicle Workshop"
+    }
+  }
+]

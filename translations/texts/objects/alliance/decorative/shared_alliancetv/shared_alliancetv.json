@@ -1,0 +1,240 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A TV playing a news channel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A TV showing a news channel, I think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A TV showing an Alliance Network news channel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A TV tuned to a news network."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A news channel, boring..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A news channel, with pictures of beautiful locations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Alliance Network television."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien monitor showing pictures of various locations. Wait, is that an Avikan colony?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien monitor. Forwarding information to the Vanguard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Footage-alien, shows places-alien. Akki want to go there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would like to visit the places shown on this channel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's just watch some television!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sscreen showss pretty sscenes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The locations shown on this channel are beautiful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This TV is stuck on a news channel..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This TV is stuck on a single channel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancetv/alliancetv.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This TV is tuned to an Alliance Network news channel."
+    }
+  }
+]

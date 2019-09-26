@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/landingfestival/landingdailycache/landingdailycache.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wrapped present. Can only be obtained once every day. Hold ^green;[LMB] ^white;to open!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/landingfestival/landingdailycache/landingdailycache.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Daily Present"
+    }
+  }
+]

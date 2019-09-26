@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-poisonammomod-assault.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elemental assault rifle ammunition that poisons and weakens targets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-poisonammomod-assault.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Ammo"
+    }
+  }
+]

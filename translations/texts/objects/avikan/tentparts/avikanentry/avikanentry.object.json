@@ -1,0 +1,80 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic but functional leather awning, a vital part of any tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bland leather awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather awning. Not very well crafted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather awning? How primitive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive leather awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An awning made of leather, used to protect the entrance of Avikan homes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Awning"
+    }
+  }
+]

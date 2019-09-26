@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-paintedhalf/trink-paintedhalf.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Half-Painted Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-paintedhalf/trink-paintedhalf.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A body mod painted in a single colour, for the bottom half only."
+    }
+  }
+]

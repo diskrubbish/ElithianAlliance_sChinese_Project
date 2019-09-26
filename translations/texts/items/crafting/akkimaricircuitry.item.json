@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimaricircuitry.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Circuitry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimaricircuitry.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "All-purpose circuitry found in most Akkimari electrical equipment."
+    }
+  }
+]

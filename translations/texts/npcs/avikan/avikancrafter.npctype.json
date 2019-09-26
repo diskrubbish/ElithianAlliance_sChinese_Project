@@ -1,0 +1,304 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/apex/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "All that hair must be pretty warm if you're wearing armor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you a repair frame, or a war frame? I can never tell the difference."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you any good at crafting weapons, hairy one?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you any good at crafting, Droden?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to craft something, plant?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avian/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here to craft something?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you in need of new gear, Captain?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to craft something, Captain?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/apex/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to craft something, hairy one?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/human/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to craft something, soft-skin?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to see a true artisan, have you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/0",
+        "/scriptConfig/dialog/converse/avikan/floran/2",
+        "/scriptConfig/dialog/converse/avikan/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to see a true craftsman, have you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avian/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to see me craft, have you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Doesn't your gear get rusty when you go swimming?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, Captain! Do you have any crafting blueprints to share?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/floran/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, walking plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/glitch/0",
+        "/scriptConfig/dialog/converse/avikan/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello there, metal one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello there, odd thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/human/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello there, soft-skin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd love to see the blueprints for you Droden some day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/glitch/2",
+        "/scriptConfig/dialog/converse/avikan/trink/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you're here for part replacements, you've come to the wrong address."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "My kind could learn a thing or two from your artisans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Need me to craft you something, plant?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avian/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Observe and learn, feathered one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vas Vha'leih, Droden."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What brings you here, traveller?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/glitch/1",
+        "/scriptConfig/dialog/converse/avikan/trink/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who built you, exactly?"
+    }
+  }
+]

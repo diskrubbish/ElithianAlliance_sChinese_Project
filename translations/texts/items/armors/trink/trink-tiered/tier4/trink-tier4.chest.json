@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier4/trink-tier4.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mark IV Arm Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier4/trink-tier4.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;A medium-grade durasteel arm mod."
+    }
+  }
+]

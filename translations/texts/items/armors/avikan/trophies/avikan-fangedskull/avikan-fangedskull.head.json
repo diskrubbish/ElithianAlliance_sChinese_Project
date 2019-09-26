@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/trophies/avikan-fangedskull/avikan-fangedskull.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fanged Monster Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/trophies/avikan-fangedskull/avikan-fangedskull.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;The skull of a fanged monster, modified to fit as a helmet. A nice trophy."
+    }
+  }
+]

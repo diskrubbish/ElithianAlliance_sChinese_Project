@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/aegi-trink/aegi-trink.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trink Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/aegi-trink/aegi-trink.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A Trink mask to celebrate the Harrowing!"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-priest/avikan-priest.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhaiod Necklace"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-priest/avikan-priest.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A necklace worn by priests of the Rhaiod."
+    }
+  }
+]

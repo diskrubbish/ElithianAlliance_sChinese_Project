@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mannequins/trinkmannequin/trinkmannequin.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected mannequin. Tailored to Trinkian shape."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mannequins/trinkmannequin/trinkmannequin.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Display and easily equip your Trink-themed armour sets!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mannequins/trinkmannequin/trinkmannequin.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trink Mannequin"
+    }
+  }
+]

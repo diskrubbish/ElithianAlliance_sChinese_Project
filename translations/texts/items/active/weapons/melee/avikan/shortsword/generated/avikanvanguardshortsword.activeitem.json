@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/shortsword/generated/avikanvanguardshortsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extremely sharp and lightweight shortsword issued to Avikan military forces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/shortsword/generated/avikanvanguardshortsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Shortsword"
+    }
+  }
+]

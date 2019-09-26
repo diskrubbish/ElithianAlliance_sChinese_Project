@@ -1,0 +1,18 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarketteleporter/allianceblackmarketteleporter.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanblackmarketteleporter/avikanblackmarketteleporter.object": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter makes for a useful shortcut."
+    }
+  }
+]

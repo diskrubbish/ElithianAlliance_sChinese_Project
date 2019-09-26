@@ -1,0 +1,418 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A booster, the wings of a ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A booster. These have been known to malfunction and explode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large flaming exhaust. It'll sling this ship from one star right to another."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ship engine's exhaust flame. It is extremely hot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/description"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A spaceship's engine exhaust flame."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Booster Flame"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exhaust-hot, Akki burn if Akki touch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heat signature detected. Spaceship propulsion confirmed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Propulsion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship propulsion. The flame seems a bit excessive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The engines on this ship need a lot of fuel. Too much, perhaps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The exhaust flame of a spaceship engine is hot. Very hot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The exhaust of a spaceship engine always reminds me of the volcanoes of Heragon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These engines provide an incredible amount of force."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship's engine is more efficient than the flames would suggest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thing eats through fuel."
+    }
+  }
+]

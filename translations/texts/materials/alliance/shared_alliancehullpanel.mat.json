@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancehullpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancehullpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Hull Panel"
+    }
+  }
+]

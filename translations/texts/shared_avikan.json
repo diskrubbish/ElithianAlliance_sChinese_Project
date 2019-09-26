@@ -1,0 +1,183 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikancloth.item": [
+        "/shortdescription"
+      ],
+      "items/materials/avikan/avikanfabric.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanfabric.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Fabric"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanglassitem.item": [
+        "/shortdescription"
+      ],
+      "items/materials/avikan/avikanglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Glass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/avikanplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanstairsplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/avikanstairsplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Stairs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikandarkplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/avikandarkplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Avikan Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avikan/0"
+      ],
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/0",
+        "/scriptConfig/dialog/converse/avikan/trink/0"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/human/0"
+      ],
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, soft-skin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/hylotl/0"
+      ],
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, wet one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/avikanoutpost.config": [
+        "/converse/avikan/avian/2"
+      ],
+      "npcs/avikan/avikancrafter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I heard your kind likes shiny things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanpurplecloth.item": [
+        "/shortdescription"
+      ],
+      "items/materials/avikan/avikanpurplefabric.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanpurplefabric.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhaiod Fabric"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanthickplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/avikanthickplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick Avikan Platform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanthickstairsplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/avikanthickstairsplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick Avikan Stairs"
+    }
+  }
+]

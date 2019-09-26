@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/remotejumpgatecontroller.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jumpgate Controller"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/remotejumpgatecontroller.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device can remotely control a jumpgate installed onto your ship."
+    }
+  }
+]

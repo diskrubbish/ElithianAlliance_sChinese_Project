@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-admiral/aegi-admiral.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/aegi/decorative/aegi-admiral/aegi-admiral.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiral's Attire"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-admiral/aegi-admiral.chest": [
+        "/description"
+      ],
+      "items/armors/aegi/decorative/aegi-admiral/aegi-admiral.head": [
+        "/description"
+      ],
+      "items/armors/aegi/decorative/aegi-admiral/aegi-admiral.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The official attire of an admiral of the Aeginian Federal Union."
+    }
+  }
+]

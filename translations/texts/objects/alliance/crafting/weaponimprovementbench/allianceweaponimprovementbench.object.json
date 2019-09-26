@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki make weapons-stronger here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponimprovementbench/allianceweaponimprovementbench.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon Improvement Bench"
+    }
+  }
+]

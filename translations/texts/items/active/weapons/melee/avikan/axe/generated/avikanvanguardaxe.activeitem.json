@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/axe/generated/avikanvanguardaxe.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A superbly crafted metal axe issued to Avikan military forces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/axe/generated/avikanvanguardaxe.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Axe"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large portrait of Admiral Lyiin Atmaera."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large portrait of some important person."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A portrait of Lyiin Atmaera, the admiral stationed at the Creon Embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A portrait of Lyiin Atmaera. He is the admiral stationed at the Creon Embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki think this is person-important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien portrait."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I assume this is a portrait."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large picture of important perssson."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lyiin Atmaera, a high-ranking Aeginian admiral."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lyiin Atmaera. He is a high-ranking Union admiral."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Portrait of Admiral Lyiin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soma kinda important guy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta important person."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This must be an alien leader."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This person has an aura of responsibility and authority to them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This person must be quite important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This portrait portrays the current admiral stationed at the Creon Embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceportrait/allianceportrait.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who is this?"
+    }
+  }
+]

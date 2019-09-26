@@ -1,0 +1,288 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/humanDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/humanDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Christmas tree! There's something off about it though..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/hymidDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/hymidDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorated Landing Festival tree. It's pretty!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/apexDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/apexDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorated pine tree."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/hylotlDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/hylotlDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A majestic tree decorated with shiny trinkets. How quaint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/erixianDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/erixianDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tree decorated for the Landing Festival, an Aeginian tradition."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/avikanDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/avikanDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien plant decorated in golden trinkets. Aliens are weird."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/drodenDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/drodenDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Alien plantlife. Detected multiple metal trinkets attached to branches. Purpose unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How did the tradition of decorating pine trees start?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/trinkDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/trinkDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't fully understand why the Aegi decorate their trees."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/shortdescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Landing Festival Tree"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/floranDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/floranDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny tree makes Floran sssparkle!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi decorate their trees during the Landing Festival. It looks pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/aegiDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/aegiDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The traditional Landing Festival tree, complete with gifts and decorations aplenty!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/notixDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/notixDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The trinkets in this tree resonate on a pleasant frequency. It's soothing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/avianDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/avianDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tree is full of shiny goods!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/akkimariDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/akkimariDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tree-alien full of gold! Akki want, want want!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/novakidDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/novakidDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who hung all this gold in a tree?"
+    }
+  }
+]

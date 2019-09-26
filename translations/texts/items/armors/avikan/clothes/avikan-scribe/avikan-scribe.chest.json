@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-scribe/avikan-scribe.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scribe's Necklace"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-scribe/avikan-scribe.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A necklace worn by scribes of the Nomada."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/broadsword/avikantier1broadsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broadsword made of a giant monster's tooth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/broadsword/avikantier1broadsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Blade"
+    }
+  }
+]

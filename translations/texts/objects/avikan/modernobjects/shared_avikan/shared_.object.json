@@ -1,0 +1,583 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cargo crate. Lighter than it looks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high quality metal chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lightweight metal crate. Ideal for transportation and storage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal cargo crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal cargo crate. Sturdy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/hymidDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/hymidDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/hymidDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal container, for storing your belongings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal container. Might be full of goodies!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal crate, surprisingly lightweight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal table from home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/description",
+        "/jorgasianDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/description",
+        "/jorgasianDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/apexDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal table. Someone should clean it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny metal container. What's inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny metal table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sophisticated metal chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard issue crate, this will fit into any Avikan cargo hold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standardized cargo crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal chest. Perfect for saving our rarest possessions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal container. For storing items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A well crafted metal chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A well crafted metal table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A well-crafted metal chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan cargo crate. Its design is less efficient than that of Trinkian crates."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An oddly shaped metal chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chestsss full of goodiesss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanescapehatch/avikanescapehatch.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanhatch/avikanhatch.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanhatchlong/avikanhatchlong.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatch/avikanthickhatch.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Nomada-built hatch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected stains. Recommended action: clean."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what this cargo crate contains."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal tablesss. Shinysss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Receiving radio signal. Analyzing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chest is lighter than anticipated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmodernchest/avikanmodernchest.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikansmallcontainer/avikansmallcontainer.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal chest is inefficient in its usage of space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What will I find inside?"
+    }
+  }
+]

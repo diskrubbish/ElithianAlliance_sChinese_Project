@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/dagger/avikantier1dagger.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple dagger made of a sharpened bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/dagger/avikantier1dagger.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Dagger"
+    }
+  }
+]

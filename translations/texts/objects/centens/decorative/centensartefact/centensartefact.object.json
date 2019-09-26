@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian artefact of sorts. I have no idea what its purpose is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian artefact. I feel an odd sensation when I get close to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian artefact. Its purpose is unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious cube. It feels like it's been here for eons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A perfect cube levitating above a pedestal. What might this be?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A spinning, levitating cube above some sort of pedestal. Is it valuable?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weird cube floatin' 'bove some sorta pedestal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient artefact, created by the Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An artefact left behind by the Old Ones. I should make sure it doesn't fall into the hands of the Thell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An artefact of ancient times, no doubt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An artefact of the Centens, no doubt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An artefact of the Gods. What it is exactly is a mystery to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An artefact, most likely created by the Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Artefact"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cube-strange, artefact-god-maker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Centensian artefact. Recommend immediate extraction by Nomada salvage crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss what cube isss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensartefact/centensartefact.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be a truly ancient artefact."
+    }
+  }
+]

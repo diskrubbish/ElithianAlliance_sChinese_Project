@@ -1,0 +1,158 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A kitchen counter with a built-in sink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A kitchen sink for easy access to water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A kitchen sink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple kitchen sink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistic kitchen sink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sink, a vital part of any good kitchen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki wash hands here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aliens use water quite carelessly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Kitchen Sink"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I always have time to get some water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could get drink a bit of water here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could use a bit of water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sinksss givess Floran water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This kitchen sink should prove useful."
+    }
+  }
+]

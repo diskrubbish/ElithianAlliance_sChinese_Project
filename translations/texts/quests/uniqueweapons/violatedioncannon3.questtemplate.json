@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/violatedioncannon3.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The core you brought me won't do anything unless it's wired up using Thelean wiring, so I need you to gather some samples for me. Hunt down some Theleans or Violated Droden and Drahl, and bring me ^orange;4 Thelean Tendrils ^white; and ^orange;5 Thelean Metal Fragments^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/violatedioncannon3.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "With these samples, I can finish constructing the weapon... Here you go, Captain! Just be careful with that thing, alright?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/violatedioncannon3.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Harnessing the Corruption III"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/ashatok2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chacharra happy, have all Akki need. Here you go: weapon for you. Use it much, fights you win."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/ashatok2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chacharra need materials. Many materials. Many pixels, too, want payment. ^green;Find Chacharra ^orange;12 Hardened Scrap Metal ^green;and ^orange;30000 Pixels^green;. ^white;Then Chacharra will make weapon for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/ashatok2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Acidic Warfare II"
+    }
+  }
+]

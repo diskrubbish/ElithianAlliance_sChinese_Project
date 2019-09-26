@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large alien-built shipping container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large shipping container decorated with the logo of the AAE."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large shipping container used by the AAE."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shipping container used by the AAE."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "AAE Shipping Container"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki store many things inside!"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki point light at things-important."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinkspotlight/trinkspotlight.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/lights/trinkspotlight2/trinkspotlight2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not the most efficient way to highlight something, but it does look good."
+    }
+  }
+]

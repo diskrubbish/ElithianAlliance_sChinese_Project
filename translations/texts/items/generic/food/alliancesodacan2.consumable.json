@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodacan2.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A can of sparkling Le'mar."
+    }
+  }
+]

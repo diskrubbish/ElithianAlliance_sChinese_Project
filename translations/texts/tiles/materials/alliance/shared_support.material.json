@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancesupport.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/alliance/alliancethinsupport.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Support-strong, Akki build on it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancesupport.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/alliance/alliancethinsupport.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is likely a structural support beam."
+    }
+  }
+]

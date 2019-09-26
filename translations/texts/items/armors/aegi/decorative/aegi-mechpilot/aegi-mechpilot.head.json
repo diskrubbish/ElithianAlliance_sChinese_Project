@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-mechpilot/aegi-mechpilot.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Union Mech Pilot Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-mechpilot/aegi-mechpilot.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A helmet with an integrated HUD, used by Union mech pilots."
+    }
+  }
+]

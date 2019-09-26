@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/akkimarifossil1.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised Akkimari skull."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/akkimarifossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akkimari Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/akkimarifossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fossilised remains of an Akkimari who died long ago."
+    }
+  }
+]

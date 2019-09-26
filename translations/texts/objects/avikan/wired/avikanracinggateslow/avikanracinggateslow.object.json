@@ -1,0 +1,190 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gate that slows down hoverbikes. It sends out a signal whenever a vehicle passes through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/avikanDescription",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gate that slows down passing hoverbikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A marker that forces hoverbikes to slow down."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A marker that slows down hoverbikes that pass by."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A racing gate that slows down passing hoverbikes. Darn."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A racing gate. It'll slow down any hoverbike that passes by."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A racing marker, it'll slow down any passing hoverbike."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A racing marker. It slows down passing hoverbikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki drive by, Akki slows down. Akki not like."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Racing Gate - Slow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected racing gate. Slows down passing hoverbikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ssshould be careful. Glowing pole ssslowss down hoverbikess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Riding past this on a hoverbike causes a significant slow-down."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gate will slow down any passing hoverbike."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This marker slows down hoverbikes. Yikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This racing gate slows down passing hoverbikes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This will slow down any passing hoverbikes."
+    }
+  }
+]

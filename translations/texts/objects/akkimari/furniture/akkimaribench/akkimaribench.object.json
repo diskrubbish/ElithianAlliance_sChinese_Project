@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A comfortable open-backed bench."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange bench with an open back."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange bench. It's also strangely comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange but comfortable bench."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly comfortable alien-built bench."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Bench"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual Akkimari-built bench. It seems inefficient with those side plates."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bench for sitting. Akki likes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien bench."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinksss thiss bench is ssstrange."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's some sort of bench, but the design isn't familiar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien bench is quite comfortable. The open back is great for my tail."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bench is comfortable, but the back is missing for some reason."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribench/akkimaribench.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why does this bench have supports on the sides but not the back?"
+    }
+  }
+]

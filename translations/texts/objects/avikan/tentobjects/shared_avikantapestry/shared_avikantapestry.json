@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestry/avikantapestry.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan claim that this skin belonged to a sandstalker. I am unfamiliar with sandstalkers."
+    }
+  }
+]

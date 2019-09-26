@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier4/droden-tier4.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Durasteel Chassis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier4/droden-tier4.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A strong durasteel chassis upgrade."
+    }
+  }
+]

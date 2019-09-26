@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/allianceflare.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flare often used by the Alliance to signal important locations, or to light an area."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/allianceflare.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Flare"
+    }
+  }
+]

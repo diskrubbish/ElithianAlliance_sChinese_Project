@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-hospitalpatient.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't feel so well..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-hospitalpatient.npctype": [
+        "/scriptConfig/dialog/converse/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "My body aches..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-hospitalpatient.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "My stomach hurts..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-hospitalpatient.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ugh..."
+    }
+  }
+]

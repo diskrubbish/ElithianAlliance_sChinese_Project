@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancegroundpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancegroundpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal panel often used to cover the floor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancegroundpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancegroundpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Ground Panel"
+    }
+  }
+]

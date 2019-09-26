@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/akrisstalker-head/akrisstalker-head.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Target Acquisition"
+    }
+  }
+]

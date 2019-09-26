@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole1/avikanoutpostpole1.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole2/avikanoutpostpole2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal pole, thin as a branch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole1/avikanoutpostpole1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole2/avikanoutpostpole2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple metal pole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole1/avikanoutpostpole1.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole2/avikanoutpostpole2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thin metal pole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole1/avikanoutpostpole1.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole2/avikanoutpostpole2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran ussse metal poless as ssspears?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole1/avikanoutpostpole1.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole2/avikanoutpostpole2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal Pole"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole1/avikanoutpostpole1.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole2/avikanoutpostpole2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal pole detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole1/avikanoutpostpole1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostpole2/avikanoutpostpole2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pole-metal."
+    }
+  }
+]

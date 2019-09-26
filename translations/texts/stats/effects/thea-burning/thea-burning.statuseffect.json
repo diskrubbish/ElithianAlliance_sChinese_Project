@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-burning/thea-burning.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Burning"
+    }
+  }
+]

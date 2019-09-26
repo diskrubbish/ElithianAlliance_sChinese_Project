@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural3.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A depiction of the first contact with Rhadeis, our Uplifter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural3.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mural detected. Analysis: depiction of first contact with Rhadeis."
+    }
+  }
+]

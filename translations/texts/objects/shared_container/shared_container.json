@@ -1,0 +1,48 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/containers/alliancespacecontainer/alliancespacecontainer.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/containers/alliancespacecontainerclamped/alliancespacecontainerclamped.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large container for haulin' goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/containers/alliancespacecontainer/alliancespacecontainer.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/containers/alliancespacecontainerclamped/alliancespacecontainerclamped.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What's stored in here?"
+    }
+  }
+]

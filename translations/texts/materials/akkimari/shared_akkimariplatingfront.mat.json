@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimariplatingfront.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/akkimari/akkimariplatingfront.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Plating (Front)"
+    }
+  }
+]

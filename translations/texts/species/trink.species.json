@@ -1,0 +1,112 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trink.species": [
+        "/charGenTextLabels/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antenna colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trink.species": [
+        "/charGenTextLabels/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arm mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trink.species": [
+        "/charGenTextLabels/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arm mod colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trink.species": [
+        "/charGenTextLabels/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trink.species": [
+        "/charGenTextLabels/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Body mod colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trink.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Created by the Notix, the Trinks are a race of sentient robots who live in harmony with their creators. They value efficiency above all, and are responsible for many of the technological advancements of the Elithian Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trink.species": [
+        "/charGenTextLabels/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mouth colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trink.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sentient Robots"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trink.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "TRINK"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trink.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trink"
+    }
+  }
+]

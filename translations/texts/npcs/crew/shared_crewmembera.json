@@ -1,0 +1,341 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/2"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Always ready, captain!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/aegi/default/3"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are we heading out then?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Assistant <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/aegi/default/2"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you need anyone for your crew? I'd love to join you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimercenary.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/alliance/crewmemberalliancecombat.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fighter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/aegi/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/aegi/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey there, adventurer. Might I join your crew?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/aegi/default/1"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I thought that was the end for me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/aegi/default/3"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd love to join your crew, if you'll have me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/aegi/default/3"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll be here when you get back."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/aegi/default/3"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll find a way around!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/aegi/default/2"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll follow you, captain!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliancecombat.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliancemechanic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll keep working on the ship's fueling systems. Fuel efficiency is up 10%!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll keep you safe in battle, sir!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/aegi/default/2"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll stand guard here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/aegi/default/1"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm <selfname>, looking to join a spaceship crew. Are you hiring?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/aegi/default/3"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm alive!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/aegi/default/2"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm back!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/3"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm here if you need me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/aegi/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/respawned/aegi/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've never felt anything as strange as that..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/1"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let me fight for you!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/aegi/default/1"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/unfollow/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let me know when you want to head out again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/aegi/default/1"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's be off, then!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/aegi/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/follow/aegi/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ready to go, sir!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegi.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/aegi/default/2"
+      ],
+      "npcs/crew/alliance/crewmemberalliance.npctype": [
+        "/scriptConfig/dialog/crewmember/cantreach/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wait for me!"
+    }
+  }
+]

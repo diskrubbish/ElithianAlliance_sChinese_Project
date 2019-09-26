@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-president/aegi-president.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/aegi/decorative/aegi-president/aegi-president.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "President's Attire"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-president/aegi-president.chest": [
+        "/description"
+      ],
+      "items/armors/aegi/decorative/aegi-president/aegi-president.head": [
+        "/description"
+      ],
+      "items/armors/aegi/decorative/aegi-president/aegi-president.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The official attire of the president of the Aeginian Federal Union."
+    }
+  }
+]

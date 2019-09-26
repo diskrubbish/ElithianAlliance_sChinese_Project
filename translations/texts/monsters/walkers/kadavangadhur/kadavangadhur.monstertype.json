@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/kadavangadhur/kadavangadhur.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A docile creature, the Gad'hur is often employed as a mount."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/kadavangadhur/kadavangadhur.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gad'hur"
+    }
+  }
+]

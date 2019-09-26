@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationdroden.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I managed to salvage enough components to build you a new Legion Switch Gear, so here you go. We'll need some more raw materials to repair the blade itself, however."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationdroden.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is that an old Legion blade you carry? I could repair it for you, but we'll need to build our own switch gear. The components we need are also used in the construction of Droden frames, so if you can ^green;find me ^orange;20 Inactive Droden Frames^white;, I should be able to salvage what we need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationdroden.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;The Legion's Blade"
+    }
+  }
+]

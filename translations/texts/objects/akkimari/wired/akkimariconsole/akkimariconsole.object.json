@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer console capable of wiring circuits together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Console"
+    }
+  }
+]

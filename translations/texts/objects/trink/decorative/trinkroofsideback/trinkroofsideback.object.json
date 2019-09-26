@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Roof-metal, glowy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The entrance piece of modular Trinkian buildings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Entrance"
+    }
+  }
+]

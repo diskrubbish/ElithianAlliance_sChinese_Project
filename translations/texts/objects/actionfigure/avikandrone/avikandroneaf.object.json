@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/avikandrone/avikandroneaf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"An Avikan reconnaissance drone capable of minor combat support.\""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/avikandrone/avikandroneaf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Drahl Figurine"
+    }
+  }
+]

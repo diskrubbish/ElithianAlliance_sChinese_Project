@@ -1,0 +1,156 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A display showing a wide selection of data."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monitor displaying a lot of information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monitor of Avikan design. The interface is a mess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monitor. What does it monitor?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A screen. Or is it called a monitor?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Monitor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "How the Avikan manage to make sense of this mess is a mystery to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am unable to process the information displayed here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't read whatever information this monitor is displaying..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scan completed. Found four dead pixels."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Screen full of writing-alien."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a lot of information! I wish I understood even a little of it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a lot of information on this screen, but I don't understand any of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanmonitor/avikanmonitor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What might all those lines mean?"
+    }
+  }
+]

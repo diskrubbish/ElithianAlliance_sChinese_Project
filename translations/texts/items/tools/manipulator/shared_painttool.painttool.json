@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimaripainttool.painttool": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/alliance/alliancepainttool.painttool": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/avikan/avikanpainttool.painttool": [
+        "/shortdescription"
+      ],
+      "items/tools/manipulator/trink/trinkpainttool.painttool": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Paint Mode"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/manipulator/akkimari/akkimaripainttool.painttool": [
+        "/description"
+      ],
+      "items/tools/manipulator/alliance/alliancepainttool.painttool": [
+        "/description"
+      ],
+      "items/tools/manipulator/avikan/avikanpainttool.painttool": [
+        "/description"
+      ],
+      "items/tools/manipulator/trink/trinkpainttool.painttool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primary fire applies paint, secondary changes colour. ^green;Quick select with [Y] key."
+    }
+  }
+]

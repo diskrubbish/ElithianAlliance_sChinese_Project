@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancestripedpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancestripedpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A polished metal panel, decorated by a colourful stripe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancestripedpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancestripedpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Striped Alliance Panel"
+    }
+  }
+]

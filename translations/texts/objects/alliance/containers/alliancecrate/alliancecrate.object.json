@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standardized metal container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Crate"
+    }
+  }
+]

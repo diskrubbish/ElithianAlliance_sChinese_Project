@@ -1,0 +1,242 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/erixianDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic medicinal herb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/trinkDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A medicinal herb with many uses. How efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small but beautiful plant. It smells great."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/description"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small herb with medicinal values."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small medicinal herb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/aegiDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small selvas herb. it has many medicinal uses, and smells great too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/avikanDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien plant with an odd smell."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/drodenDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien flora. Potential medicinal uses."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran likesss the ssmell of thiss plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flowers-blue, contain substance-medicinal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could create medicine from an extract of this herb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/hymidDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "One of the best smelling Elithian plants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Selvas Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The smell of these herbs is incredible!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These herbs should prove useful in my adventures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/notixDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This herb has many medicinal uses."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/selvas/selvasseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/selvas/wildselvasseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This herb smells great, and it has many medicinal uses too."
+    }
+  }
+]

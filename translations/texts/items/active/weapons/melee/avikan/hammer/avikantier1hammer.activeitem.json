@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/hammer/avikantier1hammer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large hammer made of a monster's bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/hammer/avikantier1hammer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Hammer"
+    }
+  }
+]

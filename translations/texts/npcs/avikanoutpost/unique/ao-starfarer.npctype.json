@@ -1,0 +1,47 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-starfarer.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "A free Droden, and a Starfarer at that. Welcome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-starfarer.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, my fellow Starfarer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-starfarer.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nenehki"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-starfarer.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "To be a Starfarer is to be free."
+    }
+  }
+]

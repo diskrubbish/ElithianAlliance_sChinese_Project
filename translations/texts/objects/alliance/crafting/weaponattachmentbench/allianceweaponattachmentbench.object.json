@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A workshop that allows attachments and mods to be applied to compatible weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki modify weapons. Make deadly-more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Workshop. Allows for the modification of compatible weapons using various mods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Compatible weapons can be equipped with mods here. Quite an efficient system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran addsss thingss to weaponss here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can attach all sorts of mods to my weapons here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can attach mods to compatible weapons here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can attach mods to my weapons here. If only I could attach wings to myself..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can attach mods to my weapons here. Let the fun begin!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can modify my weapons with several kinds of attachments here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon I could add some explosive firepower to my guns here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "One can express their creativity here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The rebels could make good use of weapon attachments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tools should allow me to attach mods to my weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This workshop allows me to modify some of my weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tools for attaching mods to weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapon Attachment Bench"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/weaponattachmentbench/allianceweaponattachmentbench.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons can be modified with various attachments here."
+    }
+  }
+]

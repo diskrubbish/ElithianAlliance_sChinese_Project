@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblockingfield/avikanblockingfield.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An energy field that keeps out unwanted guests."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblockingfield/avikanblockingfield.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Blocking Field"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblockingfield/avikanblockingfield.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blocking field detected. Analysis: only projectiles can pass through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblockingfield/avikanblockingfield.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Field-energy. Akki not get through easily."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblockingfield/avikanblockingfield.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This field will keep out most large objects and entities, but allows projectiles through."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblockingfield/avikanblockingfield.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thiss wall of light keepss Floran out..."
+    }
+  }
+]

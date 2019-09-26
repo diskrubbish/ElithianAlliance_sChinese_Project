@@ -1,0 +1,254 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A borato root. The Aegi export these in massive numbers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/description"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plump plant rich in calories and taste both."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but useful vegetable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/aegiDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "According to the history books, the borato was engineered from native Elithian flora, and a bit of ancient potato DNA."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki see plant-fat, make Akki fat too?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/hymidDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An incredibly tasty vegetable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Borato Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/drodenDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien flora. Similarities to bolbohn noted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Does this thing have as many applications as a potato? It sure looks the part."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard and tasssty root, fressh from the dirt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/notixDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I quite like the taste of this root."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/avikanDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this like a bolbohn? It doesn't smell as good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks a bit like an oversized potato."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just some kinda hard root."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/trinkDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi did some extensive bio-engineering when they first came to Elithia. This plant is a result of those days."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The borato can be prepared in dozens of different ways."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/erixianDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The borato, one of the most common vegetables in the Union."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/borato/boratoseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/borato/wildboratoseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plant looks quite delicious to me."
+    }
+  }
+]

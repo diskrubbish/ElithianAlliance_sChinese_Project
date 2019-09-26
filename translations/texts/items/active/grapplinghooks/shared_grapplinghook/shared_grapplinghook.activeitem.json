@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/grapplinghooks/akkimarigrapplinghook/akkimarigrapplinghook.activeitem": [
+        "/description"
+      ],
+      "items/active/grapplinghooks/alliancegrapplinghook/alliancegrapplinghook.activeitem": [
+        "/description"
+      ],
+      "items/active/grapplinghooks/avikangrapplinghook/avikangrapplinghook.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A grappling hook, for climbing mountains and swinging across ravines."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki use upgrade kit to make weapons-stronger."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marauder's Workbench"
+    }
+  }
+]

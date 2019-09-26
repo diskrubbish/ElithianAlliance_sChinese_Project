@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancecan/alliancecan2-decorative.object": [
+        "/description"
+      ],
+      "objects/alliance/other/alliancecan/alliancecan2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A can of Le'mar."
+    }
+  }
+]

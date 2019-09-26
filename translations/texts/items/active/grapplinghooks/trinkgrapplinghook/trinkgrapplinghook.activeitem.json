@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/grapplinghooks/trinkgrapplinghook/trinkgrapplinghook.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A grappling hook for climbing and swinging across gaps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/grapplinghooks/trinkgrapplinghook/trinkgrapplinghook.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Circuit Grappling Hook"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/environmentprotection/akkimariradiationprotection/akkimariradiationprotection.back": [
+        "/shortdescription"
+      ],
+      "items/armors/backitems/environmentprotection/allianceradiationprotection/allianceradiationprotection.back": [
+        "/shortdescription"
+      ],
+      "items/armors/backitems/environmentprotection/avikanradiationprotection/avikanradiationprotection.back": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Radiation EPP Upgrade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/backitems/environmentprotection/akkimariradiationprotection/akkimariradiationprotection.back": [
+        "/description"
+      ],
+      "items/armors/backitems/environmentprotection/allianceradiationprotection/allianceradiationprotection.back": [
+        "/description"
+      ],
+      "items/armors/backitems/environmentprotection/avikanradiationprotection/avikanradiationprotection.back": [
+        "/description"
+      ],
+      "items/armors/backitems/environmentprotection/trinkradiationprotection/trinkradiationprotection.back": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This upgrade adds radiation neutralisation to your EPP's capabilities. Use it on planets with ^red;high radiation levels^reset;."
+    }
+  }
+]

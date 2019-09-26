@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleanstucksword/theleanstucksword.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Thelean weaponry. Analysis: stuck."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleanstucksword/theleanstucksword.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wantsss to take ssword, but Floran not ssstrong enough..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleanstucksword/theleanstucksword.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I do not have the strength to pull this sword out of the rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleanstucksword/theleanstucksword.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sword of god-thief. Akki take sword, use to kill god-thief."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleanstucksword/theleanstucksword.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The sword of a dead Thelean. It's stuck far too tigthly to get it out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleanstucksword/theleanstucksword.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The sword of a fallen brother. It is broken now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleanstucksword/theleanstucksword.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Sword"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleanstucksword/theleanstucksword.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sword must have killed many of my kind."
+    }
+  }
+]

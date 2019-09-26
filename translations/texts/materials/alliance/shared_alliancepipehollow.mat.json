@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancepipehollow.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancepipehollow.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Pipe (Hollow)"
+    }
+  }
+]

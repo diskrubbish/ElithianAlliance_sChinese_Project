@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki shoot target, target break. Target break, something happens!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected practice target. Unit can fire at it to complete a circuit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just what I need for shootin' practice. Wonder if breaking this target does somethin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Practice targets like this can be connected to wired objects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny target isss just begging to be broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be a practice target, which could be connected to something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This practice target can pass a wired signal until it's broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This practice target is hypnotising, breaking it may trigger something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This practice target outputs a wire signal until broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This practice target passes wire signal until broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theawiredtarget/theawiredtarget.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wired Target"
+    }
+  }
+]

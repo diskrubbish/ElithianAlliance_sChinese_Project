@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingteleporter/landingteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter linked to the Landing Festival Hall. \n^red;Destroyed when broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingteleporter/landingteleporter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki knows teleporter is only active at some time-specific."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingteleporter/landingteleporter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Readings indicate that this teleporter only activates during a specific time of year."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingteleporter/landingteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Festival Hall Teleporter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingteleporter/landingteleporter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can only use teleportersss when it isss active."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingteleporter/landingteleporter.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien teleporter is linked to a set location. It only seems to be active during a specific time of year."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingteleporter/landingteleporter.object": [
+        "/aegiDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter is linked directly to the Landing Festival Hall. It'll only activate during the Landing Festival."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingteleporter/landingteleporter.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter is only active at a specific time of year."
+    }
+  }
+]

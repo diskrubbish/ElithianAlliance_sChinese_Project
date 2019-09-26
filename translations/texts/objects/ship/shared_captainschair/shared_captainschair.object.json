@@ -1,0 +1,277 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Captain's chair. The ship's navigation console is linked to it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Another Captain's chair? I feel a bit tempted to try and hijack it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chair-captain. Linked to console-navigation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Captain's chair. Grants access to navigation console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/description"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/description"
+      ],
+      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Captain sits here to fly the ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Captain's chair - it is a true honour to sit on one of these."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Captain's chair grants power over the wings of the ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Captain's chair, granting access to the starship's navigator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Captain's chair. It grants access to the navigation console and flight controls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Captain's chair. It is the gateway to many an adventure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Captain's chair. Whoever sits here gets to decide where this ship's gonna go."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The portal to freedom. This Captain's chair allows access to the ship's navigation console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's navigation console can be accessed from this Captain's chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Captain's chair grants access to the navigation console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Captain's chair has specialized sensors, allowing only its owner to use the navigator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where shall the ship go next?"
+    }
+  }
+]

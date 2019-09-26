@@ -1,0 +1,179 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A few more Droden on my crew won't hurt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A place to purchase robotic crew members."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A place to purchase robotic crew supplements."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/aegiDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A terminal for purchasing Droden Legion units."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki buy friends-robot here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Any Droden units I buy here will follow my orders without questions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Droden Legion Terminal. Legion units are available for purchase here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden Legion Terminal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could buy some Droden Legion units here to bolster my crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could certainly bolster my crew with some Droden units."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've always wanted more robots on my crew!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not all Captains want to have Droden on their crews, but these Legion units would certainly be useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Robotic crewmembers can be purchased here..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems I can buy some crew supplements here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems I can purchase droids here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikandrodenshop/avikandrodenshop.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why not buy some new metal friends here?"
+    }
+  }
+]

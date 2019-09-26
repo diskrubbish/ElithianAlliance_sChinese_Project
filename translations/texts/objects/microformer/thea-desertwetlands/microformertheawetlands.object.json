@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/microformer/thea-desertwetlands/microformertheawetlands.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Transforms an area of a planet into a wetland full of quicksand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/microformer/thea-desertwetlands/microformertheawetlands.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wetlands Microformer"
+    }
+  }
+]

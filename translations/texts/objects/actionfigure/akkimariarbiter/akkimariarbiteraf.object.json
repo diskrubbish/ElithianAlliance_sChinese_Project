@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/akkimariarbiter/akkimariarbiteraf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arbiter Figurine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/akkimariarbiter/akkimariarbiteraf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"A drone which acts to resolve disputes between Akkimari scavengers.\""
+    }
+  }
+]

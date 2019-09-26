@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/aegi-centens/aegi-centens.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centens Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/aegi-centens/aegi-centens.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A Centens mask to celebrate the Harrowing!"
+    }
+  }
+]

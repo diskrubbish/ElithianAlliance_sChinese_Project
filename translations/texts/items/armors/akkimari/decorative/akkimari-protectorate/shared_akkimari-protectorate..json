@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-protectorate/akkimari-protectorate.chest": [
+        "/description"
+      ],
+      "items/armors/akkimari/decorative/akkimari-protectorate/akkimari-protectorate.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A modified Terrene Protectorate uniform, tailored specifically for an Akkimari."
+    }
+  }
+]

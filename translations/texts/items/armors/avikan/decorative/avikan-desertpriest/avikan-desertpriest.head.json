@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desert Rhaiod Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-desertpriest/avikan-desertpriest.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A mask worn by members followers of the Rhaiod in the deeper deserts."
+    }
+  }
+]

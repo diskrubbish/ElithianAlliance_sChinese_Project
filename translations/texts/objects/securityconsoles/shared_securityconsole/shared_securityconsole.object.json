@@ -1,0 +1,132 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/securityconsoles/alliancegunrangesecurityconsole/alliancegunrangesecurityconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/securityconsoles/allianceoutpostsecurityconsole/allianceoutpostsecurityconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/securityconsoles/avikangunrangesecurityconsole/avikangunrangesecurityconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/securityconsoles/avikankeffridersecurityconsole/avikankeffridersecurityconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/securityconsoles/avikanoutpostsecurityconsole/avikanoutpostsecurityconsole.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/securityconsoles/avikanwatchersecurityconsole/avikanwatchersecurityconsole.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needsss ssecurity passs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/securityconsoles/alliancegunrangesecurityconsole/alliancegunrangesecurityconsole.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/securityconsoles/allianceoutpostsecurityconsole/allianceoutpostsecurityconsole.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/securityconsoles/avikangunrangesecurityconsole/avikangunrangesecurityconsole.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/securityconsoles/avikankeffridersecurityconsole/avikankeffridersecurityconsole.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/securityconsoles/avikanoutpostsecurityconsole/avikanoutpostsecurityconsole.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/securityconsoles/avikanwatchersecurityconsole/avikanwatchersecurityconsole.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll need a security pass to access this console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/securityconsoles/alliancegunrangesecurityconsole/alliancegunrangesecurityconsole.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/securityconsoles/allianceoutpostsecurityconsole/allianceoutpostsecurityconsole.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/securityconsoles/avikangunrangesecurityconsole/avikangunrangesecurityconsole.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/securityconsoles/avikankeffridersecurityconsole/avikankeffridersecurityconsole.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/securityconsoles/avikanoutpostsecurityconsole/avikanoutpostsecurityconsole.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/securityconsoles/avikanwatchersecurityconsole/avikanwatchersecurityconsole.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta security terminal. Gotta have the right pass to access it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/securityconsoles/alliancegunrangesecurityconsole/alliancegunrangesecurityconsole.object": [
+        "/description"
+      ],
+      "objects/alliance/securityconsoles/allianceoutpostsecurityconsole/allianceoutpostsecurityconsole.object": [
+        "/description"
+      ],
+      "objects/avikan/securityconsoles/avikangunrangesecurityconsole/avikangunrangesecurityconsole.object": [
+        "/description"
+      ],
+      "objects/avikan/securityconsoles/avikankeffridersecurityconsole/avikankeffridersecurityconsole.object": [
+        "/description"
+      ],
+      "objects/avikan/securityconsoles/avikanoutpostsecurityconsole/avikanoutpostsecurityconsole.object": [
+        "/description"
+      ],
+      "objects/avikan/securityconsoles/avikanwatchersecurityconsole/avikanwatchersecurityconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console can only be activated using the correct security pass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/securityconsoles/alliancegunrangesecurityconsole/alliancegunrangesecurityconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/securityconsoles/allianceoutpostsecurityconsole/allianceoutpostsecurityconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/securityconsoles/avikangunrangesecurityconsole/avikangunrangesecurityconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/securityconsoles/avikankeffridersecurityconsole/avikankeffridersecurityconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/securityconsoles/avikanoutpostsecurityconsole/avikanoutpostsecurityconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/securityconsoles/avikanwatchersecurityconsole/avikanwatchersecurityconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console requires a valid security pass."
+    }
+  }
+]

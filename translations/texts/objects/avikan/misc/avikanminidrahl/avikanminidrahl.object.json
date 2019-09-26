@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Drahlid. We use these to scout areas before sending in our troops."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reconnaissance drone. I doubt it has any weaponry built into it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small drone like this could easily infiltrate enemy lines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small drone, probably used for reconnaissance purposes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small reconnaissance drone, not unlike our own."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small reconnaissance drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small reconnaissance drone. It doesn't have any weapons built into it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small, inactive drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tiny drone. I'm not sure how it's supposed to be able to fly..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tiny drone. Is it autonomous, or remotely controlled?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An expendable reconnaissance drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Drahlid unit. Status: inactive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drone-puny, funny."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I doubt a drone like this could do much damage in combat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inactive Drahlid"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sorta tiny drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This drone is likely meant for reconnaissance purposes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tiny drone doesss not sscare Floran. Floran crussshess puny droness."
+    }
+  }
+]

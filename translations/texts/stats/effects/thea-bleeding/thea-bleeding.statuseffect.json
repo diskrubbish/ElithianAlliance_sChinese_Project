@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-bleeding/thea-bleeding.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bleeding"
+    }
+  }
+]

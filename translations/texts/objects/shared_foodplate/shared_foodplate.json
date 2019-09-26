@@ -1,0 +1,166 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/aegiDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/aegiDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/aegiDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/aegiDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A balanced meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/description"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plate full of food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A well-balanced dinner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Nutritional value: excellent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delicious food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dinner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food. Yummy food!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Foodsss."
+    }
+  }
+]

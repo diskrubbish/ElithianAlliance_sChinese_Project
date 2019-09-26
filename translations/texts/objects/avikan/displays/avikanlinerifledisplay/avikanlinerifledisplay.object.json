@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A truly fascinating weapon. It seems to summon its ammunition out of nowhere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan linerifle on display."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An impressive weapon, it uses technologies far beyond my understanding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual alien weapon. I'm not sure how it even works..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Line rifle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesss not undersstand how thiss weapon worksss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have no information on how this weapon's firing mechanism works."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Linerifles are the signature weapons of our grand Nomada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rifle-strange. Look like driftrifle?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan use Centensian technology for their weapons. Impressive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The core of this weapon works in ways not even I can understand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Avikan rifle uses highly advanced technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weapon glows, and it radiates some odd energy fields..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weapon is a mystery to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weapon is powered by a mysterious weapon core."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weapon uses Centensian technology, I believe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Linerifle Display"
+    }
+  }
+]

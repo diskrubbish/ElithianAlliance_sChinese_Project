@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "projectiles/other/textexplosions/landingpresentnotice/landingpresentnotice.config": [
+        "/list/0/body/0/options/0/specification/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^shadow;Already received today's present!"
+    }
+  }
+]

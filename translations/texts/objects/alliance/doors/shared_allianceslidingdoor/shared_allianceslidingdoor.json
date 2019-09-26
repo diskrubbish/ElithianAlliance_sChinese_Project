@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic Alliance-certified sliding door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Aeginian-built door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-sliding, make noise-funny."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This door was designed by our allies, the Aegi."
+    }
+  }
+]

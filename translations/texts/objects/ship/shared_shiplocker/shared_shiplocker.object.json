@@ -1,0 +1,322 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device that holds many items for safe keeping."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker, for puttin' things in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/description"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/description"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker, for storing items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ship locker. It can't be locked, ironically."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ship locker. Useful for storing artefacts found on scout runs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ship locker. Useful for storing items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sizeable ship locker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A storage locker. That's handy!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegant storage solution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected ship locker. Content scan failed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Great for storing items, but not too secure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am curious what this locked might contain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstorage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's storage system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship locker can store a lot of items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplocker/aegishiplocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/akkimarishiplocker/akkimarishiplocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/avikan/avikanshiplocker/avikanshiplocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/trinkshiplocker/trinkshiplocker.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship's storage system is indeed useful."
+    }
+  }
+]

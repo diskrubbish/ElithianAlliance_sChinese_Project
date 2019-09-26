@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I just received new inventory from AAE, and I think you might like these new attachments. I'll let you see the new inventory if you can do a little something for me. I've heard talk about ^orange;Akkimari drones equipped with stealth tech^reset; - ^green;take down a few of them^reset;, and I'll open up the new inventory for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well done, once again! Your fighting these drones teaches us at the Embassy a lot about this new threat, so you've more than earned access to these new weapon attachments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceattachmentsunlock4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Personalized Warfare IV"
+    }
+  }
+]

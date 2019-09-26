@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A couple of rolled up leather tapestries."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A number of leather tapestries, rolled up so they are easier to store."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A number of neatly rolled up leather tapestries."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Tapestry Rolls"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dull tapestries."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather tapestries. Useful as decoration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather wasss once skinsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rolls of leather tapestry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rolls-leather, in the way."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tapestries would look better with a bit of colour."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Where shall I put these tapestries?"
+    }
+  }
+]

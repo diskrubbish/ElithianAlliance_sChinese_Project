@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-hologram/avikan-hologram.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/thelean/thelean-hologram/thelean-hologram.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holographic Arms"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-hologram/avikan-hologram.legs": [
+        "/shortdescription"
+      ],
+      "items/armors/thelean/thelean-hologram/thelean-hologram.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holographic Body"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-hologram/avikan-hologram.head": [
+        "/shortdescription"
+      ],
+      "items/armors/thelean/thelean-hologram/thelean-hologram.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Holographic Head"
+    }
+  }
+]

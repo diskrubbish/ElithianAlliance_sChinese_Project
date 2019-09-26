@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/story/zaheed-outpost.npctype": [
+        "/npcname"
+      ],
+      "npcs/story/zaheed.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zaheed"
+    }
+  }
+]

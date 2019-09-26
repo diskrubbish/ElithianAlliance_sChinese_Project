@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/unique/andraveihanheart/centens-andraveihanheart.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small artefact forged in Vhalas Andra'veih, sacred city of the Ce'Tennan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/unique/andraveihanheart/centens-andraveihanheart.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soul Burst"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/staff/unique/andraveihanheart/centens-andraveihanheart.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Andra'veihan Heart^white;"
+    }
+  }
+]

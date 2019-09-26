@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large server rack. The control console can be locked behind a gate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rack filled with Alliance data servers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A server rack. I wonder how much storage space it has?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A server rack. It isn't quite as efficient as Trinkian alternatives, but it does its job well enough."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A server rack. These servers must be brimming with interesting information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Server Rack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Computers-alien. Akki learn things-many here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Server racks like these possess incredible computing power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This server rack makes a lot of noise. It's quite glorious."
+    }
+  }
+]

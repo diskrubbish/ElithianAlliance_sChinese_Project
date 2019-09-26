@@ -1,0 +1,291 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A captured creature can be tethered to this spot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A captured creature placed in this device will stay nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/description"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A creature capture pod can be placed into this device, tethering the pet within its radius."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A handy post that a pet to be tethered to."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A handy tether post for keepin' captured creatures from wanderin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tether for a captured creature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tether, for keeping captured creatures from wandering away."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient way of tethering pets to a set location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Any captured creature placed into this device will stay near it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Any pets I place into this device will stay nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captured creatures can be tethered to this device."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creaturess attached to post ssstay here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected pet tethering device. Prevents captured creatures from wandering off."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could tether a captured creature into place with this device."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Once placed in this device, a captured creature will not wander far."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tether-pet. Keep pets in line."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/other/alliancepettether/alliancepettether.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/misc/avikanpettether/avikanpettether.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device can tether a pet into a set location."
+    }
+  }
+]

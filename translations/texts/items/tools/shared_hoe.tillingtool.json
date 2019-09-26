@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/tools/alliancehoe.tillingtool": [
+        "/description"
+      ],
+      "items/tools/avikanhoe.tillingtool": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hoe lets you till soil. The tilled soil can then be used to grow all sorts of crops!"
+    }
+  }
+]

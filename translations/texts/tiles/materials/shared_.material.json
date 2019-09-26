@@ -1,0 +1,209 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarihullpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/alliance/alliancehullpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel2.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/trink/trinkslopedpanel.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Hull plating. Generally used in the construction of spaceborne structures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancesupport.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/alliance/alliancethinsupport.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/trink/trinksupportpanel.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Structural support beam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancepipe.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/alliance/alliancepipehollow.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanheavypipe.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanheavypipehollow.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/trink/trinkpipe.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/trink/trinkpipehollow.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis failed. Unable to scan pipe contents."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancepipe.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/alliance/alliancepipehollow.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanheavypipe.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanheavypipehollow.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not sure what this 'ere pipe is carrying, but I'm guessin' its dangerous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancepipe.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/alliance/alliancepipehollow.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanheavypipe.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanheavypipehollow.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pipe isss big, but Floran can't fit through..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarihullpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/alliance/alliancehullpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel2.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/trink/trinkslopedpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shiny sssmooth space metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarihullpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/akkimari/akkimariplating.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/akkimari/akkimariplatingfront.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplating.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/akkimari/akkimariscrapplatingfront.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/alliance/alliancehullpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel2.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/trink/trinkslopedpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some thick metal plating, looks mighty solid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimarihullpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/alliance/alliancehullpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanslopedpanel2.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/trink/trinkslopedpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This material is durable enough for use in the construction of spacefaring vessels."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancepipe.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/alliance/alliancepipehollow.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanheavypipe.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanheavypipehollow.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "With piping like this, I'll not have to worry about leakages."
+    }
+  }
+]

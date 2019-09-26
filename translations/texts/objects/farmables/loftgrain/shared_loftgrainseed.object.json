@@ -1,0 +1,240 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/erixianDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crop often harvested by the Aegi. They make good bread from it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/trinkDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A genetically engineered crop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/notixDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plant from which bread can be made. It rustles lightly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wheat-like plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/drodenDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien plantlife. Similarities to dunestalk noted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran makesss bread with thiss too?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grass-green, colour-strange."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could probably make bread with this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/avikanDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks somewhat like dunestalk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loftgrain Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/aegiDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loftgrain was created by our ancestors on their journey from Earth to Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loftgrain. Once harvested, it makes a good ingredient for bread."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda fast-growing grain. Good for bread."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The seeds of this plant are delicious."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/hymidDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This crop was engineered by the Aegi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plant grows faster than most of its cousins."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plant is quite similar to wheat. Could it be related?"
+    }
+  }
+]

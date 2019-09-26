@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Ayurin's Weapon Workshop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Weapon and gear schematics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gunsmith? Might be gettin' some new rifles here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki purchase blueprints, make things-new."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ayurin's Weapon Workshop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Vanguard-certified gunsmith. Unit can acquire new schematics for weapons here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gunssmith craftss new weaponsss for Floran?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems that Ayurin is the local gunsmith. Maybe he could craft me some new weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gunsmith might be able to provide me with new weapons."
+    }
+  }
+]

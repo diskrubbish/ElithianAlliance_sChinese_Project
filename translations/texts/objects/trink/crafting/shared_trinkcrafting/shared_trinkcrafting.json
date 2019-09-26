@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/akkimariDescription",
+        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
+      ],
+      "objects/trink/crafting/trinkcraftingstation/trinkcraftingstation.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Worktable-alien, Akki craft things here."
+    }
+  }
+]

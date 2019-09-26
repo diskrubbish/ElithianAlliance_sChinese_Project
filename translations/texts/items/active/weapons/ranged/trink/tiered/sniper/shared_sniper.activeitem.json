@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/tiered/sniper/trinktier5sniper.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/trink/tiered/sniper/trinktier6sniper.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-grade, standard issue laser sniper rifle built by the Trinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/tiered/sniper/trinktier4sniper.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/sniper/trinktier5sniper.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/tiered/sniper/trinktier6sniper.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Piercing Laser"
+    }
+  }
+]

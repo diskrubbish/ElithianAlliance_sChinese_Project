@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/excelsiorassembly.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find ^orange;Faze ^reset;in the ^orange;Creon Embassy^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/excelsiorassembly.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I found a fragment of a weapon blueprint. ^green;I should find the other pieces and bring them to a weapons dealer in the Creon Embassy ^white;- they'll know how to read the completed blueprint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/excelsiorassembly.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You found quite the blueprint! Here, let me combine it all and translate it into something you can use at a crafting station. I think you'll be happy with the results!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/excelsiorassembly.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Excelsior Assembly"
+    }
+  }
+]

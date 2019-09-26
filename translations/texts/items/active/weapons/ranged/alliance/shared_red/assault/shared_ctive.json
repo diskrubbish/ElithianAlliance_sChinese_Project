@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/assault/collective/thea-collectiverifle1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/assault/thea-tier6rifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact, high-impact assault rifle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/assault/collective/thea-collectiverifle1.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/assault/thea-tier6rifle.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smart Bullet"
+    }
+  }
+]

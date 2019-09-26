@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-soldier/aegi-soldier.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "M-ASA Cuirass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-soldier/aegi-soldier.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The standard chest armour of Union military personnel."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/alliancesodabottle4.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of tasty Valassa, made with the Union's best Vahlberries."
+    }
+  }
+]

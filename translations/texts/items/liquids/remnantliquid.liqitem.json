@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/remnantliquid.liqitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Remnant Goop"
+    }
+  }
+]

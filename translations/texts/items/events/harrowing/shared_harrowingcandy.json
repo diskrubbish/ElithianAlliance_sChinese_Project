@@ -1,0 +1,54 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/harrowing/harrowingcandyaqua.consumable": [
+        "/shortdescription"
+      ],
+      "items/events/harrowing/harrowingcandyblue.consumable": [
+        "/shortdescription"
+      ],
+      "items/events/harrowing/harrowingcandygreen.consumable": [
+        "/shortdescription"
+      ],
+      "items/events/harrowing/harrowingcandyorange.consumable": [
+        "/shortdescription"
+      ],
+      "items/events/harrowing/harrowingcandypink.consumable": [
+        "/shortdescription"
+      ],
+      "items/events/harrowing/harrowingcandyyellow.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Harrowing Candy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/harrowing/harrowingcandyaqua.consumable": [
+        "/description"
+      ],
+      "items/events/harrowing/harrowingcandyblue.consumable": [
+        "/description"
+      ],
+      "items/events/harrowing/harrowingcandygreen.consumable": [
+        "/description"
+      ],
+      "items/events/harrowing/harrowingcandyorange.consumable": [
+        "/description"
+      ],
+      "items/events/harrowing/harrowingcandypink.consumable": [
+        "/description"
+      ],
+      "items/events/harrowing/harrowingcandyyellow.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sweets modeled after ancient candy, perfect for celebrating the Harrowing!"
+    }
+  }
+]

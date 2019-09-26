@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/faryth/faryth.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A flying creature from Elithia, the Faryth is a fast and nimble predator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/faryth/faryth.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Faryth"
+    }
+  }
+]

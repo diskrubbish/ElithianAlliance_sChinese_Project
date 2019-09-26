@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian flag. I can bookmark its location so my teleporter can return me here at any time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian flag. I can save its location for my teleporter, allowing me to return here later."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian flag. I can use this as a waypoint for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locator module inside this Trinkian flag allows my ship's teleporter to bookmark this location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small locator module attached to this Trinkian flag allows it to be bookmarked for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flag-light, Akki no touch. Belong to Trink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can bookmark this Trinkian flag for quick teleportin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trink Circuit's flag. Use ^green;[E]^white; to bookmark a teleportation location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trinkian flag. My ship's teleporter can sync with its location so I can return here later."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trinkian flag. The ship's teleporter can lock on to the locator module inside it, so I can return here later."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flag of the Trinkian people. My teleporter can bookmark its location for later use."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flag of the Trinks. I can save its location and return to it later using my teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Trinkian flag can act as a way point, enabling me to return to this point using a teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Trinkian flag can be bookmarked as a destination for my ship teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Trinkian flag can be saved as a location for my teleporter. Then I can return to it any time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Flag"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian flag makess good point to teleport back to ussing teleporter!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagtrink/flagtrink.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian flag. Detected locator module. Ship teleportation system can lock on to this location."
+    }
+  }
+]

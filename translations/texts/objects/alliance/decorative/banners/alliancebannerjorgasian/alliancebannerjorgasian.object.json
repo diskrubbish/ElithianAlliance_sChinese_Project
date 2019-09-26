@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannerjorgasian/alliancebannerjorgasian.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A banner adorned with the emblem of the Triple Monarchy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannerjorgasian/alliancebannerjorgasian.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki recognize! Symbol for the Monarchy-Triple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannerjorgasian/alliancebannerjorgasian.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien emblem. Emblem identified as Triple Monarchy iconography."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/banners/alliancebannerjorgasian/alliancebannerjorgasian.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Triple Monarchy Banner"
+    }
+  }
+]

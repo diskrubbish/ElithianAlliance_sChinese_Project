@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/jumpgateuplinkstationcrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reconnect"
+    }
+  }
+]

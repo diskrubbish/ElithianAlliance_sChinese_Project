@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkmetaltier4.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A solid metal cube, easily stored and ready for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkmetaltier4.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Solid Trinkian Metal"
+    }
+  }
+]

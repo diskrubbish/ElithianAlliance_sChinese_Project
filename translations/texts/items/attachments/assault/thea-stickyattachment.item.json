@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-stickyattachment.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underbarrel sticky grenade launcher."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-stickyattachment.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticky Grenade Launcher"
+    }
+  }
+]

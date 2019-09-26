@@ -1,0 +1,114 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bunch of computers strapped together in a single construction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/humanDescription"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A server rack with internal cooling. Awesome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/apexDescription"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A server rack. I wonder what sort of data it contains?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/hylotlDescription"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A server rack. What sort of fascinating things might it be processing?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny server rack. What might it be processing?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien data server rack. Hacking attempt failed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doess not underssstand beepy boxess..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceserver/allianceserver.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This server rack must process incredible amounts of data."
+    }
+  }
+]

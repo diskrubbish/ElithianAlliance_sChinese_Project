@@ -1,0 +1,75 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimaribeam.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/akkimari/akkimaribeamconnector.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/akkimari/akkimaribeamvert.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Metal beam. Likely a support structure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimaribeam.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/akkimari/akkimaribeamvert.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beams-strong keep houses-Akkimari standing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimaribeam.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/akkimari/akkimaribeamvert.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a big metal beam."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimaribeam.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/akkimari/akkimaribeamvert.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Long beamsss made of metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimaribeam.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/akkimari/akkimaribeamvert.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal beam looks very sturdy."
+    }
+  }
+]

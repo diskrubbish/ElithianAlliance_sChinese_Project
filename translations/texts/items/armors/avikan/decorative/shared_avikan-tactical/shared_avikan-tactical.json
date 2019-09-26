@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-tactical/avikan-tactical.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/avikan/decorative/avikan-tactical2/avikan-tactical2.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tactical Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-tactical/avikan-tactical.chest": [
+        "/description"
+      ],
+      "items/armors/avikan/decorative/avikan-tactical2/avikan-tactical2.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Light weight armour for tactical operations."
+    }
+  }
+]

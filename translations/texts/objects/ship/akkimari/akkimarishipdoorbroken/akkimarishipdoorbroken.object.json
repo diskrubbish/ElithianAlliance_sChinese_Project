@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door. If it would open now, I'd probably be dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door. It is all that stands between me and outer space..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A breach of this blast door would be disastrous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong blast door. Good thing it is locked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki safe behind door! If door opens, Akki dead in space..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This blast door won't open without prior decompression of the cargo hold."
+    }
+  }
+]

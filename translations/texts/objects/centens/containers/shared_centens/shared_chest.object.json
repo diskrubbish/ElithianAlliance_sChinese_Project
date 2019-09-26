@@ -1,0 +1,274 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/trinkDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/trinkDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian container. Eons old, but its opening mechanism still works."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/aegiDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/aegiDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian container. It might hold some artefacts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/avikanDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/avikanDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A container from the Old Ones. These often hold artefacts from the Old Civilization."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A container. Built eons ago by the Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/apexDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/apexDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy metal container. Looks very old."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/avianDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/avianDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A magnificent metal chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/hymidDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/hymidDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient Centensian container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/humanDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/humanDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient chest? Might be full of goodies!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/notixDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/notixDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient container, built by the Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/hylotlDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient container. What might it store?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/description"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/description"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient metal container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/drodenDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/drodenDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Centensian container. Contents unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/akkimariDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/akkimariDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "God-maker storage, Akki find valuables inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/floranDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/floranDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old chestsss give the bessst loot!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The automated locking mechanism on this ancient container still functions,"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/containers/centenschest/centenschest.object": [
+        "/erixianDescription"
+      ],
+      "objects/centens/containers/centenslargechest/centenslargechest.object": [
+        "/erixianDescription"
+      ],
+      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Centensian container has an odd way of opening."
+    }
+  }
+]

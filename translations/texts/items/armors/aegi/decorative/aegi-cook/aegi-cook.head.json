@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-cook/aegi-cook.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Culinarian's Hat"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-cook/aegi-cook.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A hat worn by chefs of the Union."
+    }
+  }
+]

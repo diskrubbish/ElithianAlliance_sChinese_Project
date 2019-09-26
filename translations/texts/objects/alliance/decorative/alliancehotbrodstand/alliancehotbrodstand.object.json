@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Hotbröd stand, quite popular in the Union right now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Hotbröd stand. They've grown in popularity over the past few years."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A place that sells Hotbröd, an Aeginian delicacy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stand for baking and selling some type of bread."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki smell food. Hungry now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien food. Recommend caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesss not know what to think of alien breadss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hotbröd! I would love one right now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hotbröd? That sounds familiar..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I smell alien food. It reminds of of the smell of dunebuns."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi are quite fond of their Hotbröd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "They sell some sorta bread here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place sells Hotbröd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place sells a type of warm bread."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place sells bread of some kind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place sells delicious bread!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancehotbrodstand/alliancehotbrodstand.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whatever it is they sell here, it smells quite nicely."
+    }
+  }
+]

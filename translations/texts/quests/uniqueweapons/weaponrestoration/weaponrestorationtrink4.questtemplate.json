@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationtrink4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that I have all the components, I should ^green;return to a Circuit Fabricator and construct the finished ^orange;Prime Circuit^white;."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationtrink4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Prime Circuit is finally finished! NivRAM would be proud of my accomplishment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationtrink4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Prime Circuit IV"
+    }
+  }
+]

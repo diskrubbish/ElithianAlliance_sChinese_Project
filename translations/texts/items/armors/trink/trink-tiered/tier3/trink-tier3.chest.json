@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier3/trink-tier3.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mark III Arm Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier3/trink-tier3.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;A medium-grade titanium arm mod."
+    }
+  }
+]

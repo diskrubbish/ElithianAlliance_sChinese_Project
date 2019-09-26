@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/achaari/akkimari-achaari-npc.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/achaari/akkimari-achaari.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;An accurate driftrifle equipped with a lightweight disposable magazine."
+    }
+  }
+]

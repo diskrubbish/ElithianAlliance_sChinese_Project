@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikancapacitor.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vital component of any Vanguard-approved energy weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikancapacitor.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Capacitor"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikandronemissilepod.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A missile pod, broken off from an Elite Drahl unit. It could still be repaired."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikandronemissilepod.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Broken Missile Pod^white;"
+    }
+  }
+]

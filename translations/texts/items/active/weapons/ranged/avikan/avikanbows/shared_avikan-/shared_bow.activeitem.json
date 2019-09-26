@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikanbows/avikan-nomadabow/avikan-nomadabow.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/avikan/avikanbows/avikan-tier1bow/avikan-tier1bow.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/avikan/avikanbows/avikan-tier3bow/avikan-tier3bow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;Used to harvest monster bones and hides."
+    }
+  }
+]

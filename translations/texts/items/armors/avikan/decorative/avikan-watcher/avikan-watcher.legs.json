@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-watcher/avikan-watcher.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watcher's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-watcher/avikan-watcher.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A skirt worn by the Avikan Watchers."
+    }
+  }
+]

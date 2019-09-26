@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone. It's sleeping."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple, small drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small Akkimari-built drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tiny drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tiny drone. How cute!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tiny drone. Not too different from a Drahlid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tiny sleeping drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An inactive Akkimari Flic-type drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien-built drone. Flic model."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flic-tiny, keep Akkimari under control."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think these are called flics: small law enforcement drones of the Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inactive Flic"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just some tiny drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssmall drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This seems to be a small Akkimari law enforcement drone."
+    }
+  }
+]

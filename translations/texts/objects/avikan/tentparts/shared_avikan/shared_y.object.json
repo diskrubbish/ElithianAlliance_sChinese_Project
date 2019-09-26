@@ -1,0 +1,142 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crude leather awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather awning. What it lacks in decorational value, it makes up for in functionality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather awning? A primitive way to protect one's home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather awning. Provides good protection against desert winds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/hyvonDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/hyvonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unimpressive leather awning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/centensDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fascinating. The incredibly advanced Avikan still use such primitive structures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather awning. Provides protection against desert winds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather is the Avikan material of choice."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancemetaltier3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick Allosteel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancemetaltier3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick allosteel plating, for greater durability."
+    }
+  }
+]

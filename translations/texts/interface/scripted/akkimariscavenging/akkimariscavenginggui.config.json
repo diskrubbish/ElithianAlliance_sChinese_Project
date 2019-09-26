@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/akkimariscavenging/akkimariscavenginggui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Dismantle weapons into scrap metal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/akkimariscavenging/akkimariscavenginggui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Scavenger's Worktable"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/akkimariscavenging/akkimariscavenginggui.config": [
+        "/gui/infoLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dismantle a weapon into scrap metal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/akkimariscavenging/akkimariscavenginggui.config": [
+        "/gui/clear/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Take all"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/akkimariscavenging/akkimariscavenginggui.config": [
+        "/gui/itemLevelLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "insert item"
+    }
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Avikan Stove"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A somewhat inefficient stove."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stove for preparing food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki cook, make food tasty-more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan multifunctional stove, used to prepare various types of food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected stove. Organic food can be used as unit fuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can prepare many types of food here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It looks like a stove, but I don't understand the controls at all..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's prepare some food!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This multifunctional stove allows me to prepare various foods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Avikan Stove^white;"
+    }
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter. I am able to enter a sleep mode during the teleport process."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter. Teleporting feels like diving into the ocean from a mountain top."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship teleporter. Floran feel confusssed during teleport."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship's teleporter. Let's take her for a spin!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some species feel sensation when they teleport, but I feel nothing of the sort."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleportation always leaves me in awe, like when witnessing the eruption of one of Heragon's volcanoes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleportation technology detected. Recommend entering standby mode during teleportation process to minimize potential data loss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporting feels amazing. I don't think I know anything that feels quite like it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's teleporter. I always feel like I'm riding an Aventor Racing Spaceship when I teleport!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's teleporter. Teleporting feels like riding a rollercoaster at the speed of light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's teleporter. The sounds I hear when teleporting are absolutely fascinating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's teleporter. Using it feels like riding atop a giant sandcrawler at top speed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The teleporter! Teleporting feels like flying."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The teleporter! Teleporting is such a rush."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegiteleporter/aegiteleporter.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/akkimari/akkimariteleporter/akkimariteleporter.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter allows for near-instant travel between the ship and the planet below me."
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrossbow.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "As promised, here is the schematic for that Bone Crossbow. Fight well, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrossbow.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I see you carry a bone bow, Captain. Far too few people in this refuge use traditional weapons nowadays... I have a ^orange;Bone Crossbow schematic ^white;you can have, if you prove yourself a capable hunter. ^green;Return to me with a ^orange;Great Monster Bone^green;, and the schematic is yours."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrossbow.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Makhan ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrossbow.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Bone Ballistics"
+    }
+  }
+]

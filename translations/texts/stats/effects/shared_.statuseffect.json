@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/centensianliquidslow/centensianliquidslow.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/frostlaser/frostlaserfreezing.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/frostlaser/frostlaserfreezingslow.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Slow"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-brandshirtaventor/aegi-brandshirtaventor.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aventor T-Shirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-brandshirtaventor/aegi-brandshirtaventor.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A promotional Aventor shirt."
+    }
+  }
+]

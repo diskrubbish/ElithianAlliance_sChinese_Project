@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keypad using an alien interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keypad. I don't recognize any of the symbols on it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki enter code, door unlocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan keypad using Avikan numbers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien keypad using alien symbols..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Vanguard-approved security keypad."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I know none of these symbols."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan numerical system isn't the most logical system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This keypad can be used to lock doors with a passcode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This keypad may use Avikan numbers, but its layout is universal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This keypad uses strange symbols instead of numbers. Or are they alien numbers?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Keypad"
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrafting.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/avikanquests/avikanoutpost/avikancrossbow2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/avikanquests/avikanoutpost/avikanmechparts2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/avikanquests/avikanoutpost/avikanmissilepod.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/avikanquests/avikanoutpost/avikanmissilepod2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/uniqueweapons/avikanroguehunt.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/uniqueweapons/violatedioncannon.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/uniqueweapons/violatedioncannon2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/uniqueweapons/violatedioncannon3.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationavikan2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationavikan3.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationdroden.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationdroden2.questtemplate": [
+        "/scriptConfig/portraits/questComplete/title",
+        "/scriptConfig/portraits/questStarted/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ayurin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikanmissilepod.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/violatedioncannon.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Find ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikancrafting.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/avikanquests/avikanoutpost/avikancrossbow2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/avikanquests/avikanoutpost/avikanmechparts2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/avikanquests/avikanoutpost/avikanmissilepod2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/violatedioncannon2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/violatedioncannon3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationavikan3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationdroden.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationdroden2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  }
+]

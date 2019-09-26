@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-asauniform/aegi-asauniform.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "ASA Trousers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-asauniform/aegi-asauniform.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;All ASA officials wear these uniforms."
+    }
+  }
+]

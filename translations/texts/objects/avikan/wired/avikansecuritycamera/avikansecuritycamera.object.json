@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A security camera. I wonder who's watching?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikansecuritycamera/avikansecuritycamera.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Security Camera"
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A practical way to block out the sun during warm days."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but effective way to provide some shade in the hot desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple sheet, but the shadow it casts is welcome during the day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. This sheet can provide shade in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Sheet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks simple, but the shadow it casts is priceless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sheets like these are essential in keeping our city streets from getting too hot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sheetsss block out sssun..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sheet can provide some shade in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This sheet is used to block out the sun during warm days."
+    }
+  }
+]

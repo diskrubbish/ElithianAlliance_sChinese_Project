@@ -1,0 +1,161 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/description"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/description"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of Froza."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of soda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A full bottle of soda."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soda bottle from the Union."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soda bottle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle1-decorative.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle1.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2-decorative.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle2.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3-decorative.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle3.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a bottle of soda from the Union."
+    }
+  }
+]

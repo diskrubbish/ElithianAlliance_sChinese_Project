@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now comes the hard part... You will need to obtain a small ^orange;Xanafian Shard^reset;. It powers the weapon, and without it, this magnificent blade is just that: a blade. ^green;Explore the galaxy and find a ^orange;Centensian Relic ^reset;- a small hovering cube - in one of those ^orange;old ruins^reset;. It should contain a Shard."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's exactly what we were looking for! Now to actually extract the Shard from the relic..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Excalibur Reborn II"
+    }
+  }
+]

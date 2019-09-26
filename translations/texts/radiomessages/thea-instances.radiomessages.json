@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/avikanroguehunt2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Be careful: there's a lot of bandits in the area ahead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock7/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am detecting low levels of light. You can use the ^green;[F] ^reset;button to activate the Krahl's headlights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am detecting multiple Vanguard Krahls in the room ahead. You should enter one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/akkimaridronebattle3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have decrypted the security code for the door ahead. The passcode to unlock the door is 55512."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rokhan is pleased with your progress so far, but there are a few more tests for you to run."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock6/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Krahl is fully capable of underwater operation. Do not hesitate to jump in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock10/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Krahl will not fit through this small door. Jump out to proceed to the teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock8/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Krahl's jumpjets can also be used for horizontal flight. Try to fly to the other side."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/avikanroguehunt3/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The leader of the bandits waits just beyond. Be careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/akkimaridronebattle2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The target you are after is the large Akkimari Justicar just up ahead. Take it out, then find a return teleporter further to the east."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock11/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter marks the end of the testing course. You should return to Rokhan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/avikanroguehunt1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You can enter the thieves' hideout through this crack in the rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/akkimaridronebattle1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'll find a group of Akkimari scavengers beyond the cliffs ahead. Be careful: they appear to be heavily armed, and are assisted by drones and a Chaseflight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock4/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your Krahl is equipped with powerful jumpjets. You can activate them by jumping while in the air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock5/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your Krahl's jumpjets have good range, but they cannot be used indefinitely. Always mind the amount of time you spend in the air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock9/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your final challenge is to reach the room on the other side of this valley. I am detecting multiple hostiles on your path."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguardmechunlock2/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your first assigned goal is to destroy all targets in this room. Your Krahl's primary explosive cannon should suffice here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/thea-instances.radiomessages": [
+        "/vanguarddronebattle1/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your target is the Violated Elite Drahl located in this area. Take it out, then find the return teleporter in a small storage room to the east."
+    }
+  }
+]

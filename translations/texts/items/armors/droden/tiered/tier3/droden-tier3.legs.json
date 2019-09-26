@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier3/droden-tier3.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier3/droden-tier3.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A durable titanium legs upgrade."
+    }
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mannequins/akkimarimannequin/akkimarimannequin.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mannequins/avikanmannequin/avikanmannequin.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mannequins/drodenmannequin/drodenmannequin.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mannequins/trinkmannequin/trinkmannequin.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mannequin tailored to an alien species."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mannequins/akkimarimannequin/akkimarimannequin.object": [
+        "/akkimariDescription"
+      ],
+      "objects/mannequins/avikanmannequin/avikanmannequin.object": [
+        "/akkimariDescription"
+      ],
+      "objects/mannequins/drodenmannequin/drodenmannequin.object": [
+        "/akkimariDescription"
+      ],
+      "objects/mannequins/trinkmannequin/trinkmannequin.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki put armour on mannequin, look at armour-pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mannequins/akkimarimannequin/akkimarimannequin.object": [
+        "/floranDescription"
+      ],
+      "objects/mannequins/avikanmannequin/avikanmannequin.object": [
+        "/floranDescription"
+      ],
+      "objects/mannequins/drodenmannequin/drodenmannequin.object": [
+        "/floranDescription"
+      ],
+      "objects/mannequins/trinkmannequin/trinkmannequin.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mannequin for disssplaying armour."
+    }
+  }
+]

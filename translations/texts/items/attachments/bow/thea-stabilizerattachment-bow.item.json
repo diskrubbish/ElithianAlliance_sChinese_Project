@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/bow/thea-stabilizerattachment-bow.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bow stabilizer that increases accuracy and reduces draw time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/bow/thea-stabilizerattachment-bow.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stabilizer"
+    }
+  }
+]

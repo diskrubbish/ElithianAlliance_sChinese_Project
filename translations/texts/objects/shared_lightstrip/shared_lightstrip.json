@@ -1,0 +1,70 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A slim, bright light, useful for when there isn't much space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strip of light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
+        "/avikanDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/lights/alliancelightstrip/alliancelightstripdim.object": [
+        "/avikanDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/jorgasianDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstripdim.object": [
+        "/jorgasianDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlightstrip2/avikanlightstrip2.object": [
+        "/jorgasianDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient light."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/giantsandspitter/giantsandspitter.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandspitter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/giantsandspitter/giantsandspitter.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Sandspitter spits sand to slow down its foes."
+    }
+  }
+]

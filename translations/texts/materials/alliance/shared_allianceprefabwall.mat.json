@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceprefabwall.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/allianceprefabwall.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Prefab Wall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/allianceprefabwall.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/allianceprefabwall.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Part of a pre-fabricated wall."
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/creonembassyteleporter-akkimari/creonembassyteleporter-akkimari.object": [
+        "/description"
+      ],
+      "objects/teleporter/creonembassyteleporter-trink/creonembassyteleporter-trink.object": [
+        "/description"
+      ],
+      "objects/teleporter/creonembassyteleporter/creonembassyteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter linked to the Creon Embassy. \n^red;Destroyed when broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/creonembassyteleporter-akkimari/creonembassyteleporter-akkimari.object": [
+        "/drodenDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter-trink/creonembassyteleporter-trink.object": [
+        "/drodenDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter/creonembassyteleporter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Readings indicate that this teleporter is linked to a set location. Recommend caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/creonembassyteleporter-akkimari/creonembassyteleporter-akkimari.object": [
+        "/shortdescription"
+      ],
+      "objects/teleporter/creonembassyteleporter-trink/creonembassyteleporter-trink.object": [
+        "/shortdescription"
+      ],
+      "objects/teleporter/creonembassyteleporter/creonembassyteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creon Embassy Teleporter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/creonembassyteleporter-akkimari/creonembassyteleporter-akkimari.object": [
+        "/akkimariDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter-trink/creonembassyteleporter-trink.object": [
+        "/akkimariDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter/creonembassyteleporter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter take Akki to location-set. Where it goes?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/creonembassyteleporter-akkimari/creonembassyteleporter-akkimari.object": [
+        "/avikanDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter-trink/creonembassyteleporter-trink.object": [
+        "/avikanDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter/creonembassyteleporter.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien teleporter is linked to a set location. I'm hesitant to use it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/creonembassyteleporter-akkimari/creonembassyteleporter-akkimari.object": [
+        "/aegiDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter-trink/creonembassyteleporter-trink.object": [
+        "/aegiDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter/creonembassyteleporter.object": [
+        "/aegiDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter is linked directly to the Creon Embassy."
+    }
+  }
+]

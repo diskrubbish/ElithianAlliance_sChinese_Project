@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/other/akkimaricache/akkimaricache.activeitem": [
+        "/description"
+      ],
+      "items/active/other/alliancecache/alliancecache.activeitem": [
+        "/description"
+      ],
+      "items/active/other/avikancache/avikancache.activeitem": [
+        "/description"
+      ],
+      "items/active/other/celebratorycache/celebratorycache.activeitem": [
+        "/description"
+      ],
+      "items/active/other/celebratorycache/celebratorycache2.activeitem": [
+        "/description"
+      ],
+      "items/active/other/celebratorycache/celebratorycache3.activeitem": [
+        "/description"
+      ],
+      "items/active/other/centenscache/centenscache.activeitem": [
+        "/description"
+      ],
+      "items/active/other/rimdwellercache/rimdwellercache.activeitem": [
+        "/description"
+      ],
+      "items/active/other/trinkcache/trinkcache.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sealed cache containing something of value. Hold ^green;[LMB] ^white;to open!"
+    }
+  }
+]

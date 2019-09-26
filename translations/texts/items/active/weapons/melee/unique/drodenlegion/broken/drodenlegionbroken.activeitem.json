@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/drodenlegion/broken/drodenlegionbroken.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken longsword, with a chipped blade and busted power supply."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/drodenlegion/broken/drodenlegionbroken.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broken Longsword"
+    }
+  }
+]

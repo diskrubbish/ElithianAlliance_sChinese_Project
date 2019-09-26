@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A turret built to defend an alien colony."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Defense Turret"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceturret/allianceturret.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gun-automated. Akki careful here..."
+    }
+  }
+]

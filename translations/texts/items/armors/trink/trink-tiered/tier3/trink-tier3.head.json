@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier3/trink-tier3.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mark III Optics Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier3/trink-tier3.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;HEAD SLOT. ^white;A medium-grade titanium optics mod."
+    }
+  }
+]

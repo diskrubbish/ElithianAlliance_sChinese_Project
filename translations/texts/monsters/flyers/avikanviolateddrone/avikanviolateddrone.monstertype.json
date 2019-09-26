@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/avikanviolateddrone/avikanviolateddrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan Drahl, corrupted by Thelean Vesomeyr."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/avikanviolateddrone/avikanviolateddrone.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violated Drahl"
+    }
+  }
+]

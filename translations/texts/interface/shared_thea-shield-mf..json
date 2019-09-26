@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-shield-mf.itemdescription": [
+        "/healthTitleLabel/value"
+      ],
+      "interface/tooltips/thea-shield-mf.tooltip": [
+        "/healthTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shield Health:"
+    }
+  }
+]

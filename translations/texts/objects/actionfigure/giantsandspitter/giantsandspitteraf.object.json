@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/giantsandspitter/giantsandspitteraf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandspitter Figurine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/giantsandspitter/giantsandspitteraf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"The Sandspitter spits sand to slow down its foes.\""
+    }
+  }
+]

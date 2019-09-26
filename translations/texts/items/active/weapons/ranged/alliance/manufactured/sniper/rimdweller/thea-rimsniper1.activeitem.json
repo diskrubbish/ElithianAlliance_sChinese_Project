@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/sniper/rimdweller/thea-rimsniper1.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sniper rifle produced somewhere in the Rim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/sniper/rimdweller/thea-rimsniper1.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Concussion Round"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/sniper/rimdweller/thea-rimsniper1.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Executioner RM2"
+    }
+  }
+]

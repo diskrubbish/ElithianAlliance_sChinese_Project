@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big and bulky hovering transport vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy vehicle, but its Centensian-inspired hover drive negates this disadvantage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering cargo transport vehicle. It probably uses Centensian hover technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering cargo transport. It flies with grace."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering transport vehicle... What's it carrying?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hovering transport vehicle... Where are the wings?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan-built vehicle for transporting cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Transport"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Few environemnts are too harsh for this vehicle. A true feat of engineering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran puts goodsss into flying box, then Floran fliess away!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hovering transport vehicles are an efficient tool for moving cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Like most Avikan vehicles, this cargo transport hovers using Centensian technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Cargo Transport. Analysis: cargo crates empty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The vehicle of choice for transporting cargo between Terves in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hovering vehicle has a far greater carrying capacity than a mechanical horse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vehicle uses hover technology first used by the Gods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vehicle-alien, transport goods around."
+    }
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimariplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/akkimariplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal platform built from plates of scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/akkimarifossil1.item": [
+        "/shortdescription"
+      ],
+      "objects/akkimari/decorative/akkimariskull/akkimariskull.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akkimari Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimariglassitem.item": [
+        "/shortdescription"
+      ],
+      "items/materials/akkimari/akkimariglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/akkimari/akkimariglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Glass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimariplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/akkimariplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Platform"
+    }
+  }
+]

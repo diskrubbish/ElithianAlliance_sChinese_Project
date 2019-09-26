@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian server rack."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian server rack. If only I could access the data."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian server rack. Its computers are even more capable than our own."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian server rack. These are absolutely vital to the Trink."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rack filled with Trinkian data servers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sever-alien. Akki hack, learn things-many."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This server rack must have an incredible processing power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This server rack provides the processing power required for our extensive communications networks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkserver/trinkserver.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Server Rack"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/smg/atros/thea-atrossmg1.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fast-firing Alliance SMG."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/smg/atros/thea-atrossmg1.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "ATROS SMG-M1"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/avikanfossil1.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised Avikan skull."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/avikanfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Fossil"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/avikanfossil1.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Skull"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/avikanfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fossilised remains of an Avikan who died long ago."
+    }
+  }
+]

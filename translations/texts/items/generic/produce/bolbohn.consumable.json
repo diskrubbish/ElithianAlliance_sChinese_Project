@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/bolbohn.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A root with a strong taste that few enjoy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/bolbohn.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bolbohn"
+    }
+  }
+]

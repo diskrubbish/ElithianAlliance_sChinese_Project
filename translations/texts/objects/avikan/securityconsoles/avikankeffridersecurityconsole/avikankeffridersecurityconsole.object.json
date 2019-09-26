@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/securityconsoles/avikankeffridersecurityconsole/avikankeffridersecurityconsole.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki need pass. Akki angry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/securityconsoles/avikankeffridersecurityconsole/avikankeffridersecurityconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keffrider Security Console"
+    }
+  }
+]

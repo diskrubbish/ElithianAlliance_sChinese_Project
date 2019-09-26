@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/bow/thea-poisonarrowmod-bow.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elemental arrow that poisons and weakens targets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/bow/thea-poisonarrowmod-bow.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Arrow"
+    }
+  }
+]

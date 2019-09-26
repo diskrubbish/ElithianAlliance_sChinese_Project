@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/xanafianshard.item": [
+        "/description"
+      ],
+      "items/quest/xanafianshard2.item": [
+        "/description"
+      ],
+      "items/quest/xanafianshard3.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shard of the Xanafir, containing a sliver of its nearly infinite power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/xanafianshard.item": [
+        "/shortdescription"
+      ],
+      "items/quest/xanafianshard2.item": [
+        "/shortdescription"
+      ],
+      "items/quest/xanafianshard3.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Xanafian Shard^white;"
+    }
+  }
+]

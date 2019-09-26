@@ -1,0 +1,128 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/hymidDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian construct. A teleporter, most like."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/trinkDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian teleporter. It pulses with energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/aegiDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian teleporter. The portal it creates almost seems to suck you in..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/avikanDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter built by the Old Ones. I wonder where it leads?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter of Centensian make."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/akkimariDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki feels drawn to teleporter-ancient. Akki feels strange."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Teleporter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/drodenDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Centensian teleportation device. Energy signatures marked and archived for Nomada study."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/erixianDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter was built by the Centens."
+    }
+  }
+]

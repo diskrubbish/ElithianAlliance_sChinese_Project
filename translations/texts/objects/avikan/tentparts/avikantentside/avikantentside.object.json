@@ -1,0 +1,178 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet used as a tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet used as a wall for Avikan tents."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet, used as a tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive leather sheet used as a tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rather primitive tent wall, made of a sheet of leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather sheet used as a tent wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent wall made of a simple leather sheet. Simple, but functional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent wall made of leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent wall made using a large sheet of leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent wall, mad eof a simple leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent wall. It's made of a large leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Wall Sheet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tent-side, wall-leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This leather sheet is used as a tent wall."
+    }
+  }
+]

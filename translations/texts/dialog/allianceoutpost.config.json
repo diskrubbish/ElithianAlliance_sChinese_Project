@@ -1,0 +1,1004 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Creon is a fascinating city."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do not go into the sewers. You can easily get lost in there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you know the meaning of life?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Do you visit here often?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, traveler."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you been to the Trinkian embassy yet?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/53"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you been to the recruitment office yet? You can easily find more crewmembers there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you been to the top level of the embassy? There's a locked door there. I wonder what's behind it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/37"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ever been to one of the Union colonies? What was it like?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ever tried hitchhiking? It's great fun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/60"
+      ]
+    },
+    "Texts": {
+      "Eng": "Huh? Oh, hi there!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "I forgot where I parked my hovercar again. Hope I didn't leave it on a roof like last time..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "I got head-butted by one of the Kelbet once. Poor thing hurt itself quite badly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have a pass to enter the embassy gun range. No, you can't have it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/43"
+      ]
+    },
+    "Texts": {
+      "Eng": "I heard something awful happened to Earth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "I heard strange noises in the sewers below the town. Maybe I should report them to P-ASA..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "I heard there are plans to expand the embassy even further. I am curious to see what will be added next."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/55"
+      ]
+    },
+    "Texts": {
+      "Eng": "I heard there's a Trink in the sewers by the name of 'the Bolter'. Sounds sketchy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I helped design the embassy's power grid. It is very efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hitchhiked my way here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I hope that Avikan in the embassy isn't here to hunt down machines..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/54"
+      ]
+    },
+    "Texts": {
+      "Eng": "I lost my keys somewhere. Perhaps the lost and found booth can help me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/61"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love seeing the city lights turn on at night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/52"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love the fish in the embassy's pools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/47"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love those globes of Elithia. Makes me feel small."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "I recently graduated!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/59"
+      ]
+    },
+    "Texts": {
+      "Eng": "I saw soldiers way up in the embassy tower. I wonder why they're there?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/56"
+      ]
+    },
+    "Texts": {
+      "Eng": "I saw this chest way up on the tower. I wonder what's in it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/50"
+      ]
+    },
+    "Texts": {
+      "Eng": "I saw this strange alien in the embassy, an Akkimari I think. Made me feel uneasy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/62"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think I saw something up on those cliffs near the town."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "I tried to enter an Aventor Galliot once. I didn't quite fit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/42"
+      ]
+    },
+    "Texts": {
+      "Eng": "I used to be a traveler like you, but I got bored of that life."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "I want a Trangii."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "I want to go home and play some games."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/44",
+        "/converse/aegi/generic/46"
+      ]
+    },
+    "Texts": {
+      "Eng": "I want to visit Scii some day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/36"
+      ]
+    },
+    "Texts": {
+      "Eng": "I want to visit the colonies one day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I lived in the big city."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I was an ambassador too. The places I'd get to visit..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/34"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder how high that tower in the distance really is?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder why the sewers are off-limits?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/58"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm glad the embassy has plenty of public toilets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been inside the sewers beneath the town once. It's kinda scary in there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got a home in the big city. You can actually see it from here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard of you! You are <entityname>, right?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've seen some weird people here. I was kinda freaked out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this your first time visiting Elithia?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Isn't this place great? It's got everything I'd ever need!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is fascinating to see the trees growing on top of Aeginian buildings. It's a very efficient use of space."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is good to see that the Aegi rely more on public transportation than personal transportation. It's quite efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is odd to see so much wildlife here. They are not exactly afraid of us."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Many of the embassy's lights only turn on at night. I like the efficiency of the system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/41"
+      ]
+    },
+    "Texts": {
+      "Eng": "My cousin got a new Aventor Galliot the other day. I'm a bit jealous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/39"
+      ]
+    },
+    "Texts": {
+      "Eng": "My hayfever is acting up again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "My pet Trangii should be around here somewhere."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "One of those Trangii barked at me earlier. I don't think it likes me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seeing the city in the distance always makes me feel happy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi are big fans of Hötbrod, but I don't really get the fascination."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Creon Embassy is really something, huh? It's such a great place to visit."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/35"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Creon Embassy is such a large building."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/45"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Creon Embassy may not be the largest embassy, but it is one of the best."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Kelbet here are so peaceful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "The P-ASA officers here are very vigilant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "The banners in the embassy are so cool. Makes us all feel connected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "The bookstore in town is small, but pretty good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/40"
+      ]
+    },
+    "Texts": {
+      "Eng": "The climate here is really comfortable. Even the rain isn't too bad."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "The elevators in the embassy run very efficiently."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/48"
+      ]
+    },
+    "Texts": {
+      "Eng": "The embassy actually has a gun range. You need a special pass to access it though."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "The embassy always offers exceptional connection to the Allied Interstellar Network."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "The gardens here are so pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "The lady at the embassy's reception desk was actually quite helpful to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/38"
+      ]
+    },
+    "Texts": {
+      "Eng": "The parks here are incredibly peaceful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "The town has some good shops in it, but most of it isn't very relevant to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "The town is officially called the Embassy Village. It's not actually part of Creon, but it's right on the edge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "The vehicle dealership in the town has some great rides for sale."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are many Trinkian engineers in the embassy hangars. It's good to see more of my kind here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "There is a Union Admiral in the embassy's upper levels. I haven't been allowed to speak to him yet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a mechanic in the embassy's hangars who fixes up broken vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's a shop in the town that sells posters. I wanted the NSI poster, but it's kinda expensive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's an awesome gift shop in the town."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's people of all kinds of species here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's so many elevators in the embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/51"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's some great Trinkian engineers and mechanics in the embassy's hangar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/49"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's this one Avikan fellow in the embassy. I hope they join the Alliance at some point, too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This embassy is a good representation of the Elithian Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/trink/generic/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This place is quite fascinating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wanna go grab a drink?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/57"
+      ]
+    },
+    "Texts": {
+      "Eng": "Want to come with me and visit the Hötbrod stand?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/33"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watching the hovercars in the distance is so soothing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "What brings you to the embassy today?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/aegi/generic/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "You must have seen some incredible places."
+    }
+  }
+]

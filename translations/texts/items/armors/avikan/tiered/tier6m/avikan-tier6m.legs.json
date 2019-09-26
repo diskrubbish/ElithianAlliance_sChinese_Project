@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier6m/avikan-tier6m.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clanguard Skirt Type-M"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier6m/avikan-tier6m.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A superb-quality metal skirt worn by the Avikan Clanguard. Powerful version."
+    }
+  }
+]

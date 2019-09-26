@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/tooltips/thea-optionalchargegun-unique.tooltip": [
+        "/descriptionLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am a bug! Please report me."
+    }
+  }
+]

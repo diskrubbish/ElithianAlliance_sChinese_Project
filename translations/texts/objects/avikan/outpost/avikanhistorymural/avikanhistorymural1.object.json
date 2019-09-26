@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mural detected. Analysis: depiction of Avikan nomadic ancestry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The mural begins with a depiction of our nomadic ancestors, who roamed Kadavan freely."
+    }
+  }
+]

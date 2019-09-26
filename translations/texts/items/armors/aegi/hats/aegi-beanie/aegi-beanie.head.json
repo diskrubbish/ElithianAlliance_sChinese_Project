@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/hats/aegi-beanie/aegi-beanie.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Union Beanie"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/hats/aegi-beanie/aegi-beanie.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A warm and comfortable beanie."
+    }
+  }
+]

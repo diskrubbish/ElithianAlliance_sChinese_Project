@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A laptop. Any Aeginian household has at least one of these."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A laptop. Whoever used it forgot to erase their browsing history..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A personal computer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A personal computer. The Miniknog might be monitoring it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A portable personal computer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but functional laptop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small computer, easy to transport."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small personal computer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard model laptop. Every Union citizen receives one of these."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki not know interface-alien. Confusing-very."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Laptop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Alliance laptop."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Never could get the hang of those keyboards..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kind of computer, but unusually small."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The battery in this laptop is quite efficient."
+    }
+  }
+]

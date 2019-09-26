@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A combat drone equipped with some high-powered weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A combat drone, and a large one at that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone like this could deal serious damage to a village."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone like this would be a valuable ally on any battlefield."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large combat drone. I would dread fighting one of these..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large war drone, a flying one-drone army."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very large inactive drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Elite Drahl. These are usually controlled by remote operators."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Elite Drahl unit. Status: inactive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drone-large, looks dangerous. Akki careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not ssscared of drone. Drone ssleepsss, Floran awake."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would not like to fight one of these monstrosities."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inactive Elite Drahl"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That is one massive drone. Better not anger its owner..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a massive drone if ever I saw one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's an unsettlingly large war drone..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Apex rebellion could use drones like those."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan might not like AIs, but they are certainly fans of remotely controlled drones."
+    }
+  }
+]

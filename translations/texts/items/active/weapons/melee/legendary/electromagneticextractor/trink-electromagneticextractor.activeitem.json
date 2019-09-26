@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/legendary/electromagneticextractor/trink-electromagneticextractor.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Electromagnetic Extractor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/legendary/electromagneticextractor/trink-electromagneticextractor.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Extracts electric components from mechanical enemies."
+    }
+  }
+]

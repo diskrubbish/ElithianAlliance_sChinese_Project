@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier3/akkimari-tier3.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ransacker's Greaves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier3/akkimari-tier3.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;Metal boots and a skirt built to protect against debris."
+    }
+  }
+]

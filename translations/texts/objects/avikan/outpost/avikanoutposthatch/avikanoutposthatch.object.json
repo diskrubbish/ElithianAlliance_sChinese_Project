@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatch/avikanoutposthatch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal hatch providing access to the pipelines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatch/avikanoutposthatch.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki go into pipes from here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatch/avikanoutposthatch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can crawl up the hatch and into the pipesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatch/avikanoutposthatch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gettin' into those pipes is gonna be a tight squeeze."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatch/avikanoutposthatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am not sure if I'll fit into those pipes..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatch/avikanoutposthatch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Hatch"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanoutposthatch/avikanoutposthatch.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pipeline access hatch. This unit is unlikely to fit through."
+    }
+  }
+]

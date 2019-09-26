@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor-wired.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2-wired.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Background Door"
+    }
+  }
+]

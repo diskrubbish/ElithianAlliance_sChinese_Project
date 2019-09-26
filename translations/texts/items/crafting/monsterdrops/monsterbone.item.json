@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/monsterbone.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone from an alien monster."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/monsterbone.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Monster Bone"
+    }
+  }
+]

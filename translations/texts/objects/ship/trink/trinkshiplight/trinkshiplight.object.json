@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian light strip."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A green light? Sure looks odd to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Ship Light"
+    }
+  }
+]

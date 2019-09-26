@@ -1,0 +1,56 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-burstgun-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-burstgun.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damage Per Burst:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-burstgun-unique.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-burstgun.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun-unique.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Per Burst:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-burstgun-unique.itemdescription": [
+        "/roundsPerBurstTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-burstgun.itemdescription": [
+        "/roundsPerBurstTitleLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun.tooltip": [
+        "/roundsPerBurstTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rounds Per Burst:"
+    }
+  }
+]

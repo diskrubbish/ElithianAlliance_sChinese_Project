@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/selvasextract.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A concentrated extract harvested from a selvas herb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/selvasextract.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Selvas Extract"
+    }
+  }
+]

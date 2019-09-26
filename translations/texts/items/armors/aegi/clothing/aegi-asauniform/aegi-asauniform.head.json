@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-asauniform/aegi-asauniform.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "ASA Hat"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-asauniform/aegi-asauniform.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The signature hat of ASA officials, it has become a symbol in the Alliance."
+    }
+  }
+]

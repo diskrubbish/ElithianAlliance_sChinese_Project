@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier3/droden-tier3.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Titanium Head"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier3/droden-tier3.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A durable titanium head upgrade."
+    }
+  }
+]

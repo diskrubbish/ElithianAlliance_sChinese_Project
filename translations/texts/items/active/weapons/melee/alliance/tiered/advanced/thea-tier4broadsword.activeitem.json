@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/alliance/tiered/advanced/thea-tier4broadsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern broadsword."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/alliance/tiered/advanced/thea-tier4broadsword.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stryker X-01 Blade"
+    }
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor-wired.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor.object": [
+        "/akkimariDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor-wired.object": [
+        "/akkimariDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor.object": [
+        "/akkimariDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2-wired.object": [
+        "/akkimariDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki wonder where door leads..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor-wired.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor-wired.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2-wired.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor-wired.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor.object": [
+        "/floranDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor-wired.object": [
+        "/floranDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor.object": [
+        "/floranDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2-wired.object": [
+        "/floranDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss where door goesss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor-wired.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor-wired.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2-wired.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor-wired.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor-wired.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2-wired.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder where this door leads..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor-wired.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor-wired.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2-wired.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor-wired.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor.object": [
+        "/drodenDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor-wired.object": [
+        "/drodenDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor.object": [
+        "/drodenDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2-wired.object": [
+        "/drodenDescription"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning failed. Unable to determine where this door leads."
+    }
+  }
+]

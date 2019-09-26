@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-poison/thea-poison.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poisoned"
+    }
+  }
+]

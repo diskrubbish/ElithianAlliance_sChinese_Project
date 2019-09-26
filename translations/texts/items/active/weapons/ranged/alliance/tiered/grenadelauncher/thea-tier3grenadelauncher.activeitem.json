@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/tiered/grenadelauncher/thea-tier3grenadelauncher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic grenade launcher."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/tiered/grenadelauncher/thea-tier3grenadelauncher.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baron M-12"
+    }
+  }
+]

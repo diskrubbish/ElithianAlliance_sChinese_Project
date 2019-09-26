@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-golden/trink-golden.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golden Arm Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-golden/trink-golden.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;An arm mod made of solid gold. Precious."
+    }
+  }
+]

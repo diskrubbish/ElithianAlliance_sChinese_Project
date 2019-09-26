@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/rpg/thea-smartmissilemod-rpg.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rocket launcher ammunition that tracks targets autonomously."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/rpg/thea-smartmissilemod-rpg.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Smart Missile"
+    }
+  }
+]

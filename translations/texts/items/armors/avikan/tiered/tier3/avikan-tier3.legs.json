@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier3/avikan-tier3.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keeper's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier3/avikan-tier3.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A leather skirt with bone plating, worn by Avikan Keepers."
+    }
+  }
+]

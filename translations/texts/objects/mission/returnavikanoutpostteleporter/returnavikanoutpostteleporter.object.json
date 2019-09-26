@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnavikanoutpostteleporter/returnavikanoutpostteleporter.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki use teleporter. Akki back at Starfarer's Refuge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnavikanoutpostteleporter/returnavikanoutpostteleporter.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleporter configuration confirmed. Destination: Starfarer's Refuge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnavikanoutpostteleporter/returnavikanoutpostteleporter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Teleportss Floran back to the Sstarfarer's Refuge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnavikanoutpostteleporter/returnavikanoutpostteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter should take me back to the Starfarer's Refuge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnavikanoutpostteleporter/returnavikanoutpostteleporter.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This teleporter will take me back to the Starfarer's Refuge."
+    }
+  }
+]

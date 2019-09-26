@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/pistol/collective/thea-collectivepistol1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/pistol/thea-tier3pistol.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/pistol/thea-tier5pistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard-issue Alliance handgun."
+    }
+  }
+]

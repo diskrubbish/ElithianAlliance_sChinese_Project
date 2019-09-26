@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/akkimariarbiter/akkimariarbiter.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone which acts to resolve disputes between Akkimari scavengers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/akkimariarbiter/akkimariarbiter.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Arbiter"
+    }
+  }
+]

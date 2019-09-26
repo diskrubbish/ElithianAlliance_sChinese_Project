@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/remnantliquid.liqitem": [
+        "/description"
+      ],
+      "liquids/remnantliquid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A black oozing liquid that feels like it doesn't belong in this universe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/akkimariacid.liqitem": [
+        "/description"
+      ],
+      "liquids/akkimariacid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly corrosive organic substance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/liquids/centensianliquid.liqitem": [
+        "/description"
+      ],
+      "liquids/centensianliquid.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange, thick liquid that feels like it doesn't belong in this universe."
+    }
+  }
+]

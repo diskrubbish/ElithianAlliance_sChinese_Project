@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-briggsguardian/aegi-briggsguardian.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs Guardian Cuirass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-briggsguardian/aegi-briggsguardian.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A reinforced piece of chest armour worn by Briggs Guardians."
+    }
+  }
+]

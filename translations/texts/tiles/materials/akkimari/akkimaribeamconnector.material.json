@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimaribeamconnector.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Connector supports weight-great. Even Akkimari-fat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimaribeamconnector.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's just a beam connector piece."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimaribeamconnector.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Small block connectsss beamss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimaribeamconnector.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This connector is a structural necessity."
+    }
+  }
+]

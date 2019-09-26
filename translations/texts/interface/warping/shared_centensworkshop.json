@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/centensworkshopteleporter.config": [
+        "/bookmarkName"
+      ],
+      "interface/warping/centensworkshopwarp.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vhos Avha'las"
+    }
+  }
+]

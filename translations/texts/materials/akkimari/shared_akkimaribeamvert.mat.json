@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimaribeamvert.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/akkimari/akkimaribeamvert.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Beam Vertical"
+    }
+  }
+]

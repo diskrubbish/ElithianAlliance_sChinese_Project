@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/activesundrainercore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The core of an ancient weapon. Strong energies radiate from the mechanism."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/activesundrainercore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Reactivated Weapon Core^white;"
+    }
+  }
+]

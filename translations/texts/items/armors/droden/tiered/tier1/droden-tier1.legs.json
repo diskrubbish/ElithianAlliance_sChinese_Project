@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier1/droden-tier1.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier1/droden-tier1.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A basic iron legs upgrade."
+    }
+  }
+]

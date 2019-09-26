@@ -1,0 +1,66 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/generic/avikanthickpipebottom.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/generic/avikanthickpipeleft.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/generic/avikanthickpiperight.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/generic/avikanthickpipetop.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/generic/avikanthickpipebottom.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/generic/avikanthickpipeleft.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/generic/avikanthickpiperight.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/generic/avikanthickpipetop.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lot could fit inside such a pipe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/generic/avikanthickpipebottom.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/generic/avikanthickpipeleft.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/generic/avikanthickpiperight.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/generic/avikanthickpipetop.matitem": [
+        "/floranDescription"
+      ],
+      "tiles/materials/generic/avikanthickpipebottom.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/generic/avikanthickpipeleft.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/generic/avikanthickpiperight.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/generic/avikanthickpipetop.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big pipess..."
+    }
+  }
+]

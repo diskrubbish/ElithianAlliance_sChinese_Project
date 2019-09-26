@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/trink-pumpkin/trink-pumpkin.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pumpkin Body"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/trink-pumpkin/trink-pumpkin.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A pumpkin body to celebrate the Harrowing!"
+    }
+  }
+]

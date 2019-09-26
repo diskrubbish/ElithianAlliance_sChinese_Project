@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bad-ass rocket launcher if I ever saw one!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rather inefficient killing machine, but effective nonetheless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rocket launcher built by the Avikan. They sure know how to build intimidating weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rocket launcher of Avikan design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A single rocket from this weapon could destroy my frame."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weapon of great destructive power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weapon of great power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan rocket launcher on display."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An impressive weapon of Avikan design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explosive weapon detected. Please exercise caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not scared by boom-ssstick."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wouldn't recommend using a weapon like this underwater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Launcher-rocket, make big boom! Make Akki happy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Vanguard rocket launcher instills fear into any enemy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rocket launcher looks intimidating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weapon was built to intimidate, and it's doing its job rather well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard RPG Display"
+    }
+  }
+]

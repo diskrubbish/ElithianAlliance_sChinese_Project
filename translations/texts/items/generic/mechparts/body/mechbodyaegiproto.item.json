@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyaegiproto.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A prototype open-top mech body, designed by Enerth Engineering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodyaegiproto.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guardian-00 Mech Body"
+    }
+  }
+]

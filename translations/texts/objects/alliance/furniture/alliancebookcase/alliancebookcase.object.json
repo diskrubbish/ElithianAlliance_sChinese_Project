@@ -1,0 +1,170 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic bookcase."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic metal bookcase."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/jorgasianDescription",
+        "/novakidDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bookcase."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bookcase. Be careful with fire around it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A regular bookcase."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple bookcase."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tall bookcase."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Bookcase"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books-many. Akki not read all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Books."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien scrolls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a bookcase."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of storage for scrolls and such."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssimple bookcase."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The best place to store books."
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelean.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interstellar Conquerors"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelean.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "THELEAN"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelean.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Theleans are an old race, and a dominant force in their section of the galaxy. Most Theleans follow their brutal leader, Creaton, with unfaltering loyalty, but some have chosen a different path in life."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/thelean.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean"
+    }
+  }
+]

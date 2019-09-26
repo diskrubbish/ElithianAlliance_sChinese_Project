@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimaribladeparts.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bits and pieces of a blade, retrieved from a dismantled melee weapon or bow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimaribladeparts.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blade Parts"
+    }
+  }
+]

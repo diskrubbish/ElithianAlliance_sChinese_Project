@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/returnallianceoutpostteleporter/returnallianceoutpostteleporter.object": [
+        "/shortdescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Teleporter"
+    }
+  }
+]

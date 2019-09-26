@@ -1,0 +1,145 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bed with an unusual design. It's comfortable, but I miss the bedsheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A place to rest. It would be better with a bedsheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange and uncomfortable bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange bed. It's more comfortable than it looks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strangely comfortable bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki sleep here. Wake up stronger!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Bed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Akkimari bed. I suppose other aliens could find it comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Akkimari-made bed. It's incredibly soft."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien bed. It's uncommonly comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual bed. It's a lot more comfortable than it looks, but it's a bit cold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could get some sleep here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a bed."
+    }
+  }
+]

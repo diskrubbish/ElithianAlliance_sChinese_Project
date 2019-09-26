@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikancorepowerful.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Powerful Power Core"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikancorepowerful.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The power core of an Avikan armour piece. Increases the user's strength."
+    }
+  }
+]

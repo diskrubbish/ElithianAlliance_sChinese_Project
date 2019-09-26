@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-hacked/droden-hacked.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violated Legs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-hacked/droden-hacked.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A pair of Droden frame legs, hacked by Thelean Vesomeyr."
+    }
+  }
+]

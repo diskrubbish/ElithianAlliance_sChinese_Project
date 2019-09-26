@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkslopedpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/trink/trinkslopedpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Hull Panel"
+    }
+  }
+]

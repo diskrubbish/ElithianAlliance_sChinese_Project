@@ -1,0 +1,268 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device crafted to ascend people to greater heights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device that makes people fly. I love it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A force lift, not unlike those used by the Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A force lift. Few of us actually understand how these things function."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A force lift. Impressively efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A force lift. It must be based on Centensian technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A forcelift. Very useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/dremetonDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly advanced force lift. It would be useless underwater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange mechanism provides a continous upwards force to anything nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An advanced force lift."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An advanced force lift. It doesn't even use energy crystals!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An impressive piece of technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Force Lift"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sscared of flying."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/centensDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It appears that our technology did not die with our empire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Particle accelerator detected. Please exercise caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of hoverlift. It's awesome!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This technology is like nothing I have observed before."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanforcelift/avikanforcelift.object": [
+        "/theleanDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostforcelift/avikanoutpostforcelift.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This was built using Centensian technology."
+    }
+  }
+]

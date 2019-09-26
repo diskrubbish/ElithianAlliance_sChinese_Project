@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/centensianmetal.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal cube of an otherwordly material."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/centensianmetal.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Metal"
+    }
+  }
+]

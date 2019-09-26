@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/centensguardian/centensguardianaf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ce'Tennan Oculus Figurine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/actionfigure/centensguardian/centensguardianaf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The label reads, \"An automated defence system built by the Ce'Tennan.\""
+    }
+  }
+]

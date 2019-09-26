@@ -1,0 +1,226 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clear, crystal gemstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabulous gemstone. So shiny!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fine gemstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gemstone from deep within the bedrock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gemstone mined from Kadavan's bedrock."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gemstone of incredible quality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gemstone of splendid quality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gemstone. The Avikan appears to value it very highly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gemstone. The Avikan seem to really like these."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty gemstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rather pretty gemstone. Would anyone mind if I take it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shinin' gemstone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny gemstone. Pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected mineral substance. Origin: Kadavan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shinysss worth moneysss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikangem/avikangem.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This would look great in my home."
+    }
+  }
+]

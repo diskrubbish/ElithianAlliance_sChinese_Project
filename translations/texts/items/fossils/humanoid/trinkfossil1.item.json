@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/trinkfossil1.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised pair of Trink eyes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/trinkfossil1.item": [
+        "/completeSetDescriptions/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilized Trink unit. The wiring is largely intact, somehow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/trinkfossil1.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trink Eyes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/trinkfossil1.item": [
+        "/completeSetDescriptions/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trink Fossil"
+    }
+  }
+]

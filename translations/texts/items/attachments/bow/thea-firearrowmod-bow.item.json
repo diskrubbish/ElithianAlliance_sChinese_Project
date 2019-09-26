@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/bow/thea-firearrowmod-bow.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elemental arrow that burns targets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/bow/thea-firearrowmod-bow.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire Arrow"
+    }
+  }
+]

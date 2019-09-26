@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-bubbleshield/thea-bubbleshield.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thea-bubbleshield/thea-bubbleshield2.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thea-bubbleshield/thea-bubbleshield3.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/thea-monstershield/thea-monstershield.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bubble Shield"
+    }
+  }
+]

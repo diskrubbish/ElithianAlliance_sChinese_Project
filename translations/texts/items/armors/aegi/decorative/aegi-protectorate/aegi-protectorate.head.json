@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-protectorate/aegi-protectorate.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protectorate Hat"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-protectorate/aegi-protectorate.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;An ASA hat adorned with the Protectorate emblem."
+    }
+  }
+]

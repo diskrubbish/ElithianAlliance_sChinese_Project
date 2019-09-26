@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/mininglaser/alliance-mininglaser.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/avikan/avikan-mininglaser/avikan-mininglaser.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/trink/trink-mininglaser/trink-mininglaser.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful mining laser. Burns through rock and enemies both!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/mininglaser/alliance-mininglaser.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/avikan/avikan-mininglaser/avikan-mininglaser.activeitem": [
+        "/altAbility/name"
+      ],
+      "items/active/weapons/ranged/trink/trink-mininglaser/trink-mininglaser.activeitem": [
+        "/altAbility/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Low-power Laser"
+    }
+  }
+]

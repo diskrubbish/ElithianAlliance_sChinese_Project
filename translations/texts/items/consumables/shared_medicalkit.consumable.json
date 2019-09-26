@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/alliancemedicalkit.consumable": [
+        "/description"
+      ],
+      "items/consumables/avikanmedicalkit.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Restores 100 health over 10 seconds and cures most status effects."
+    }
+  }
+]

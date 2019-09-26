@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/excelsiorheatsink.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The heatsink of a small but powerful weapon, designed by AEG-Corps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/excelsiorheatsink.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Excelsior Heatsink^white;"
+    }
+  }
+]

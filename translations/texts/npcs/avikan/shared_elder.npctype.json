@@ -1,0 +1,144 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/1"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, traveller."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/2"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, wet one. What brings you here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/apex/0"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello there, hairy thing. What brings you here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/2"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you truly are a free Droden, then you are welcome here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/glitch/1"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/glitch/1",
+        "/scriptConfig/dialog/converse/avikan/trink/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We are not fond of your kind here, machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/0"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What brings a wet one like you here, might I ask?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avian/2"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avian/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What brings you here, bird?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/floran/0"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What brings you here, plant?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/human/2"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/human/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "What brings you here, soft-skin?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/avikancolonyelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/glitch/0"
+      ],
+      "npcs/avikan/avikanelder.npctype": [
+        "/scriptConfig/dialog/converse/avikan/glitch/0",
+        "/scriptConfig/dialog/converse/avikan/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why are you here, machine?"
+    }
+  }
+]

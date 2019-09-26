@@ -1,0 +1,75 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply a table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaritable/akkimaritable.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/furniture/allianceroundtable/allianceroundtable.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/furniture/alliancetable/alliancetable.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tablesss."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/bakedborato.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A baked borato, perfect for dinner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/bakedborato.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Baked Borato"
+    }
+  }
+]

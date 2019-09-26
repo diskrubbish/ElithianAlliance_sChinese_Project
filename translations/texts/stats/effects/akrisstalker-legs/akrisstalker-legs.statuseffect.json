@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/akrisstalker-legs/akrisstalker-legs.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stealth Coils"
+    }
+  }
+]

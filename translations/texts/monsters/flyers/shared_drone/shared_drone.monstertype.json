@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/alliancedrone/alliancedrone.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/briggsdrone/briggsdrone.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "AAE Drone"
+    }
+  }
+]

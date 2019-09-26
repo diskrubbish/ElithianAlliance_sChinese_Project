@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-greenlaserattachment.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An underbarrel laser sight with a green colour."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/assault/thea-greenlaserattachment.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green Laser Sight"
+    }
+  }
+]

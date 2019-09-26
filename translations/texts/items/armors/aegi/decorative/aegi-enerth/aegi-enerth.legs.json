@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-enerth/aegi-enerth.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enerth Work Pants"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-enerth/aegi-enerth.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Working trousers worn by Enerth Engineers."
+    }
+  }
+]

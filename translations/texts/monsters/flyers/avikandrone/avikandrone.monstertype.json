@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/avikandrone/avikandrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan reconnaissance drone capable of minor combat support."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/avikandrone/avikandrone.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Drahl"
+    }
+  }
+]

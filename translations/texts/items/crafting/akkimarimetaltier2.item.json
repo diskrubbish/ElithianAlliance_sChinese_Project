@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimarimetaltier2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusted bits of scrap metal scavenged from various sources."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimarimetaltier2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty Scrap Metal"
+    }
+  }
+]

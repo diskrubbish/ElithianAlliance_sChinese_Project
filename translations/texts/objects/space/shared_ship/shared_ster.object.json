@@ -1,0 +1,132 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/allianceshipbooster/allianceshipbooster.object": [
+        "/description"
+      ],
+      "objects/space/allianceshipthruster/allianceshipthruster.object": [
+        "/description"
+      ],
+      "objects/space/avikanshipbooster/avikanshipbooster.object": [
+        "/description"
+      ],
+      "objects/space/avikanshipthruster/avikanshipthruster.object": [
+        "/description"
+      ],
+      "objects/space/theashipbooster/theashipbooster.object": [
+        "/description"
+      ],
+      "objects/space/theashipthruster/theashipthruster.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful ship thruster. Better not get too close."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/allianceshipbooster/allianceshipbooster.object": [
+        "/akkimariDescription"
+      ],
+      "objects/space/allianceshipthruster/allianceshipthruster.object": [
+        "/akkimariDescription"
+      ],
+      "objects/space/avikanshipbooster/avikanshipbooster.object": [
+        "/akkimariDescription"
+      ],
+      "objects/space/avikanshipthruster/avikanshipthruster.object": [
+        "/akkimariDescription"
+      ],
+      "objects/space/theashipbooster/theashipbooster.object": [
+        "/akkimariDescription"
+      ],
+      "objects/space/theashipthruster/theashipthruster.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki no touch, or Akki burn!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/allianceshipbooster/allianceshipbooster.object": [
+        "/drodenDescription"
+      ],
+      "objects/space/allianceshipthruster/allianceshipthruster.object": [
+        "/drodenDescription"
+      ],
+      "objects/space/avikanshipbooster/avikanshipbooster.object": [
+        "/drodenDescription"
+      ],
+      "objects/space/avikanshipthruster/avikanshipthruster.object": [
+        "/drodenDescription"
+      ],
+      "objects/space/theashipbooster/theashipbooster.object": [
+        "/drodenDescription"
+      ],
+      "objects/space/theashipthruster/theashipthruster.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected active thruster flame. Temperature levels spiking. Recommend caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/allianceshipbooster/allianceshipbooster.object": [
+        "/floranDescription"
+      ],
+      "objects/space/allianceshipthruster/allianceshipthruster.object": [
+        "/floranDescription"
+      ],
+      "objects/space/avikanshipbooster/avikanshipbooster.object": [
+        "/floranDescription"
+      ],
+      "objects/space/avikanshipthruster/avikanshipthruster.object": [
+        "/floranDescription"
+      ],
+      "objects/space/theashipbooster/theashipbooster.object": [
+        "/floranDescription"
+      ],
+      "objects/space/theashipthruster/theashipthruster.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sshould sstay away from big flame. Flame will burn Floran."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/allianceshipbooster/allianceshipbooster.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/space/allianceshipthruster/allianceshipthruster.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/space/avikanshipbooster/avikanshipbooster.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/space/avikanshipthruster/avikanshipthruster.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/space/theashipbooster/theashipbooster.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/space/theashipthruster/theashipthruster.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I shouldn't get too close to this exhaust flame."
+    }
+  }
+]

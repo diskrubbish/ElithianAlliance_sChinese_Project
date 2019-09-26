@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomad's Rags"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-nomadic/avikan-nomadic.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A leather skirt, favoured by the nomads of the Kadavan desert."
+    }
+  }
+]

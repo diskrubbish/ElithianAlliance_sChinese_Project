@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/thelean/tendril/hologram/thelean-tendrilhologram.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A holographic representation of a Thelean tendril."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/thelean/tendril/hologram/thelean-tendrilhologram.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Tendril Hologram"
+    }
+  }
+]

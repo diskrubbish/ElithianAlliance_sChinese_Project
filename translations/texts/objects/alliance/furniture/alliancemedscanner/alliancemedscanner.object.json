@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bed used to analyze a patient's medical condition."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly advanced medical scanner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A medical scanner."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A medical scanner. It is of little use to robotic lifeforms."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki disturbed. Looks like device-torture."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Medical Scanner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien scanner. Electric field interference detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fancy lightsss all around this metal bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hear this medical scanner humming. It's almost painful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder if this medical bed can account for Glitch anatomy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Laying on this bed surrounded by these scanners would make me quite uncomfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like some sort of medical scanner bed, but I guess it's still a place to lay down."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some fancy lookin' bed surrounded by bright lights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some type of scanner surrounding a bed. It's likely for medical examinations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This medical bed looks like a place I could rest a minute."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This medical bed was likely designed to assist doctors or researchers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This medical scanner can detect all sorts of medical issues in a patient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This medical scanner can detect bone fractures, internal bleeding and much more."
+    }
+  }
+]

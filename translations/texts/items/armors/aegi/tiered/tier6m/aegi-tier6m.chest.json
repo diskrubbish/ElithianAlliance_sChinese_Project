@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier6m/aegi-tier6m.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Union Battlesuit Type-M"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier6m/aegi-tier6m.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;An extremely durable metal chestpiece. Powerful version."
+    }
+  }
+]

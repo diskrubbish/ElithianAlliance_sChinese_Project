@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/other/rimdwelleruniquecache/rimdwelleruniquecache.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Unique Rim Cache^white;"
+    }
+  }
+]

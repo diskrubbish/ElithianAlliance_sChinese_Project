@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-tanktop/aegi-tanktop.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Belted Tanktop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-tanktop/aegi-tanktop.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A tanktop and belt, popular amongst the Aegi."
+    }
+  }
+]

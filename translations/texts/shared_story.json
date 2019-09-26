@@ -1,0 +1,29 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-passpickup.questtemplate": [
+        "/scriptConfig/radioMessages/0/senderName",
+        "/scriptConfig/radioMessages/1/senderName",
+        "/scriptConfig/radioMessages/2/senderName",
+        "/scriptConfig/radioMessages/3/senderName",
+        "/scriptConfig/radioMessages/4/senderName"
+      ],
+      "quests/story/alliance/alliancestorystart.questtemplate": [
+        "/scriptConfig/radioMessages/endMessage/senderName",
+        "/scriptConfig/radioMessages/fourthMessage/senderName",
+        "/scriptConfig/radioMessages/secondMessage/senderName",
+        "/scriptConfig/radioMessages/startMessage/senderName",
+        "/scriptConfig/radioMessages/thirdMessage/senderName"
+      ],
+      "radiomessages/alliancestory.radiomessages": [
+        "/alliancestory-intro1/senderName",
+        "/alliancestory-intro2/senderName",
+        "/alliancestory-intro3/senderName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Admiral Lyiin"
+    }
+  }
+]

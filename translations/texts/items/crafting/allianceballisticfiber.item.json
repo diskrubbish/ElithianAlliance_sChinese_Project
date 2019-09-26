@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/allianceballisticfiber.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small piece of ballistic fiber."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/allianceballisticfiber.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ballistic Fiber"
+    }
+  }
+]

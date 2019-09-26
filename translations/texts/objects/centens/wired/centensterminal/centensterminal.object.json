@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian terminal. I am unable to process the information it displays."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer terminal left behind by the Old Ones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer terminal, built by the Centens many eons ago."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer terminal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer terminal. Looks old, yet highly advanced."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer terminal. The interface is beyond my understanding."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A grand terminal, once used by the Centens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aan ancient terminal. It still functions, somehow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient and mysterious computer console. What does that text mean?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Terminal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Odd. I though all ancient technology used holographic screens."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny screensss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terminal for controlling things. Akki push buttons-all!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ancient computer terminal still functions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensterminal/centensterminal.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This terminal was once used by the Centens for some unknown purpose."
+    }
+  }
+]

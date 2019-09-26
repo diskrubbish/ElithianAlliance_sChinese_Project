@@ -1,0 +1,116 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Medical Unit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis result: potential medical issues. Unit will provide medication."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected potential medical issues. Providing medication."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/droden/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden Legion Medical Unit available. Requesting permission to board ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical Unit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/droden/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Medical unit <selfname> reporting for duty. Requesting permission to board ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potential health risk detected. Offering medical treatment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unit will offer medical examinations and treatment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/droden/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit <selfname> reporting in. Medical unit requesting permission to board ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenmedic.npctype": [
+        "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+        "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit offering medical treatment."
+    }
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon for summoning Trinkian guard tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon for summoning a robotic tenant. I'd better remove it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon for summoning armed Trinkian tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon that can summon a Trinkian guard if used in the right place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki use beacon to call guard-tenant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected beacon. Detected alien AI signature. Recommend immediate removal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/description"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/description"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/description"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/description"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon could attract an armed Trink tenant in combination with a colony deed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon will attract an armed Trinkian tenant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon will attract armed tenants."
+    }
+  }
+]

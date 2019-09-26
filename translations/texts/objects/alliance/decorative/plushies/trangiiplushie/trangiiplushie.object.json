@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plushie Trangii. Aegi love these. Reminds me a bit of the Hyki back home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plushie Trangii. Quite popular in the Union."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange but adorable creature."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stuffed Trangii, loved by the Aegi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stuffed Trangii. Not a real one, of course."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stuffed animal Not sure what animal this is supposed to be, though."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stuffed animal. A toy for young ones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy Trangii made of soft fabrics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A toy version of an alien animal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's like a plushie space dog. I love it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Look like food-good."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda dog."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trangii is probably the most popular Aeginian pet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toys provide entertainment, and this stuffed Trangii does not disappoint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trangii Plushie"
+    }
+  }
+]

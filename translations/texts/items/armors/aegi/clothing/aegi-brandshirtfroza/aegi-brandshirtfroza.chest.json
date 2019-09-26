@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-brandshirtfroza/aegi-brandshirtfroza.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Froza T-Shirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-brandshirtfroza/aegi-brandshirtfroza.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A promotional Froza shirt."
+    }
+  }
+]

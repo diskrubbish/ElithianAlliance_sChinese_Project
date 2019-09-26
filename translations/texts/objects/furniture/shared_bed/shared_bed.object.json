@@ -1,0 +1,67 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/description"
+      ],
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A comfortable bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decent place to get some shut-eye."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran rarely ssleep in ssuch nice bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/furniture/akkimaribed/akkimaribed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/furniture/alliancebed/alliancebed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should lie down for a while."
+    }
+  }
+]

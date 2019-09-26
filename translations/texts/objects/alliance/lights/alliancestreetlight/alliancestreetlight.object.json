@@ -1,0 +1,179 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic street light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright but efficient street light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/avianDescription",
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright light on top of a long pole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright street light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard street light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A street light commonly found in Union cities."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A street light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly efficient street light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Street Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegant street light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can't reach the lightsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a regular street light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-tall, for lighting street."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a street light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light will make the streets much safer at night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light will make venturing out at night much safer."
+    }
+  }
+]

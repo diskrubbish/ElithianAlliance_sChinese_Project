@@ -1,0 +1,165 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/notixDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive bone table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/aegiDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/aegiDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple bone table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table made of a monster's bones. Primitive, but surprisingly sturdy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/hymidDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/apexDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText",
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table made of bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table made of bone. How lovely."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A traditional bone table."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Bone Table"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Table. Bone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/boneobjects/avikanbonetable2/avikanbonetable2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tablesss made of bonesss."
+    }
+  }
+]

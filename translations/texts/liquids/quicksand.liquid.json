@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "liquids/quicksand.liquid": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Quicksand can be dangerous... better not get stuck in it!"
+    }
+  }
+]

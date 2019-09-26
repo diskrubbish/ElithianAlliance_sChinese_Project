@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki sense power-much. Power-enough to take back Kel'chis?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Old Ones technology. Energy readings spiking. Hazard levels increasing. System anomolies detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran uncomfortable. Floran afraid of catching fire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can feel the primal energy of a star here. It's like it's calling to me..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't feel very well... All this heat is painful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have seen powerful Power Crystals, but all of them fade compared to the energy flowing through here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "My systems are showing multiple anomalies. Whatever field is containing all this energy, it's also interfering with my computers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of ancient device. Massive amounts of energy flow through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Centens harvested more energy than the entire Alliance combined ever could."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Old Ones harvested energy directly from the stars. If the containment fields failed, this entire place would evaporate instantly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The amount of energy flowing through here is incredible. It's as if I'm right next to a massive star."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The energy flowing through here is incredible. How the Centens managed to contain it is beyond me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The lava streams on Heragon provide us with much energy, but it all fades in comparison to the energy flowing through here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The raw energy flowing through here could easily melt a whole city."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The raw energy flowing through this device is unimaginable..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The raw energy of a star flows through here. I'm not sure how it's even possible."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/jumpgateuplinkstation/jumpgateuplinkstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Whatever fields are containing this energy are incredibly potent. If the fields failed, this entire place would evaporate in an instant."
+    }
+  }
+]

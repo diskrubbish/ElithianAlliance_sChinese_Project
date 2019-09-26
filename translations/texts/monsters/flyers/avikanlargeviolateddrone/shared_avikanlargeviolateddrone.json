@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/avikanlargeviolateddrone/avikanlargeviolateddrone-miniboss.monstertype": [
+        "/description"
+      ],
+      "monsters/flyers/avikanlargeviolateddrone/avikanlargeviolateddrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan Elite Drahl, corrupted by Thelean Vesomeyr."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/avikanlargeviolateddrone/avikanlargeviolateddrone-miniboss.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/avikanlargeviolateddrone/avikanlargeviolateddrone.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violated Elite Drahl"
+    }
+  }
+]

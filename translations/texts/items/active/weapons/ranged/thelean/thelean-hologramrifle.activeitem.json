@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/thelean/thelean-hologramrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A holographic rifle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/thelean/thelean-hologramrifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sol'thass Hologram"
+    }
+  }
+]

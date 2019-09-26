@@ -1,0 +1,226 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light strip. It flickers gently."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pulsating light, it feels alive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pulsating light. It has a strange hue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pulsating light. It's strangely calming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pulsing light source. It feels quite natural."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange light source. It makes me feel odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange, pulsating alien light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange, pulsating light source."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected pulsating light source."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can hear this light source humming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light pulsssatess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light-pulsing makes Akkimari feel calm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light isn't very efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light pulsates slowly, almost like it is alive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light pulsates slowly, like a breathing star."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/akkimarishiplight/akkimarishiplight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light pulsates slowly."
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic but functional leather canopy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather canopy, to provide some shadow at someone's door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Canopy-leather, protect against wind."
+    }
+  }
+]

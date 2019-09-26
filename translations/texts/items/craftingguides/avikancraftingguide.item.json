@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/craftingguides/avikancraftingguide.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A guide to Avikan crafting. Unlocks most Avikan crafting recipes, regardless of race."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/craftingguides/avikancraftingguide.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Avikan Crafting Guide^white;"
+    }
+  }
+]

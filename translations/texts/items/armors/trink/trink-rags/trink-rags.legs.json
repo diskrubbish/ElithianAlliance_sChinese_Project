@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-rags/trink-rags.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bolter's Rags"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-rags/trink-rags.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A ragged cloth worn by the Bolter."
+    }
+  }
+]

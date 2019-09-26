@@ -1,0 +1,268 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandroden/avikandroden.object": [
+        "/aegiDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikandrodenheavy/avikandrodenheavy.object": [
+        "/aegiDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion1/avikandrodenlegion1.object": [
+        "/aegiDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion2/avikandrodenlegion2.object": [
+        "/aegiDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion3/avikandrodenlegion3.object": [
+        "/aegiDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion4/avikandrodenlegion4.object": [
+        "/aegiDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An inactive Droden. I'm not sure if this one is an AI, or just a droid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandroden/avikandroden.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/avikan/misc/avikandrodenheavy/avikandrodenheavy.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion1/avikandrodenlegion1.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion2/avikandrodenlegion2.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion3/avikandrodenlegion3.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion4/avikandrodenlegion4.object": [
+        "/apexDescription",
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An inactive robot of sorts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandroden/avikandroden.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikandrodenheavy/avikandrodenheavy.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikandrodenlegion1/avikandrodenlegion1.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikandrodenlegion2/avikandrodenlegion2.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikandrodenlegion3/avikandrodenlegion3.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikandrodenlegion4/avikandrodenlegion4.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An inactive robot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandroden/avikandroden.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikandrodenheavy/avikandrodenheavy.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion1/avikandrodenlegion1.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion2/avikandrodenlegion2.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion3/avikandrodenlegion3.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion4/avikandrodenlegion4.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden unit detected. Analysis: Deactivated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandroden/avikandroden.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikandrodenheavy/avikandrodenheavy.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion1/avikandrodenlegion1.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion2/avikandrodenlegion2.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion3/avikandrodenlegion3.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion4/avikandrodenlegion4.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wondersss if robot iss sssleeping..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandroden/avikandroden.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/misc/avikandrodenheavy/avikandrodenheavy.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion1/avikandrodenlegion1.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion2/avikandrodenlegion2.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion3/avikandrodenlegion3.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion4/avikandrodenlegion4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inactive Droden Frame"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandroden/avikandroden.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/misc/avikandrodenheavy/avikandrodenheavy.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion1/avikandrodenlegion1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion2/avikandrodenlegion2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion3/avikandrodenlegion3.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/misc/avikandrodenlegion4/avikandrodenlegion4.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Robot-sleeping. Akki salvage metals?"
+    }
+  }
+]

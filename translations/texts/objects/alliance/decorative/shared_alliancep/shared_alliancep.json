@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceplanter/allianceplanter1.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter2.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter3.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/allianceplanter/allianceplanter4.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancepottedplant/alliancepottedplant.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancepottedshrub/alliancepottedshrub.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien plantlife. Analyzing biochemistry."
+    }
+  }
+]

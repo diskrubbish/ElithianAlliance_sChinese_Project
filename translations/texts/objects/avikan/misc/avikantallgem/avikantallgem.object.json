@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crystal-large. Can Akki eat?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikantallgem/avikantallgem.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tall Avikan Gemstone"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensgroundpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/centens/centensgroundpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Floor"
+    }
+  }
+]

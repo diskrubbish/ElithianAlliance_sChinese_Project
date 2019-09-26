@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Railing, so Akki not fall."
+    }
+  }
+]

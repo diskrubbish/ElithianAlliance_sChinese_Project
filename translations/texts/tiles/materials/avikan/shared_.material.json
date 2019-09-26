@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanplating.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanshipwall.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Heat-resistant metal plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanplating.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanshipwall.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal plating fit for makin' a big safe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanplating.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanshipwall.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong metal plating, for when you need to protect something very badly."
+    }
+  }
+]

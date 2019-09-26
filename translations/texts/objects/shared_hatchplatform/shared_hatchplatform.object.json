@@ -1,0 +1,88 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanhatchplatform/avikanhatchplatform.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatchplatform/avikanthickhatchplatform.object": [
+        "/description"
+      ],
+      "objects/trink/doors/trinkhatchplatform/trinkhatchplatform.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal hatch with an in-built platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatchplatform/alliancethickhatchplatform.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanhatchplatform/avikanhatchplatform.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatchplatform/avikanthickhatchplatform.object": [
+        "/floranDescription"
+      ],
+      "objects/rimdweller/doors/rimthickhatchplatform/rimthickhatchplatform.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/doors/trinkhatchplatform/trinkhatchplatform.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal hatchesss hass platform insside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatchplatform/alliancethickhatchplatform.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanhatchplatform/avikanhatchplatform.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatchplatform/avikanthickhatchplatform.object": [
+        "/novakidDescription"
+      ],
+      "objects/rimdweller/doors/rimthickhatchplatform/rimthickhatchplatform.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/doors/trinkhatchplatform/trinkhatchplatform.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This hatch acts as a platform when open. Now that's useful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatchplatform/alliancethickhatchplatform.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanhatchplatform/avikanhatchplatform.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatchplatform/avikanthickhatchplatform.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/rimdweller/doors/rimthickhatchplatform/rimthickhatchplatform.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/doors/trinkhatchplatform/trinkhatchplatform.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This metal hatch doubles as a platform when opened."
+    }
+  }
+]

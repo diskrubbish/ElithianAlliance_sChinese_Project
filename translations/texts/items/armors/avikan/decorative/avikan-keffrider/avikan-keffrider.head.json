@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Keffrider's Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-keffrider/avikan-keffrider.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A lightweight and streamlined helmet worn by the Keffriders."
+    }
+  }
+]

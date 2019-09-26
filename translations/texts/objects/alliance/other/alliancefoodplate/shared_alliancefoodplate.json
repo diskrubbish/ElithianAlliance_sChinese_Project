@@ -1,0 +1,128 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A delicious dish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dish likely prepared by the Aegi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A healthy meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard Aeginian meal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aeginian Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki hungry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien dish."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate-decorative.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancefoodplate/alliancefoodplate.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There isn't enough meat in this dish."
+    }
+  }
+]

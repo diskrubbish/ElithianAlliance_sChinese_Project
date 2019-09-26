@@ -1,0 +1,179 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "'Tis empty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple drinking glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty drinking glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/apexDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty glass. I detect traces of cactus juice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An empty glass. It resonates quite beautifully."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Drinking glass. Detected traces of cactus juice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty Avikan Glass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glass-empty, no fun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I should fill this up."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder what sort of drink was previously in this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a drinking glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's empty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It'sss empty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just an empty glass."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This glass is empty."
+    }
+  }
+]

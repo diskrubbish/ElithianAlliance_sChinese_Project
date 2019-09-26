@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centenshoripanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/centens/centenshoripanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Horizontal Centensian Panel"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gate that activates when vehicles pass by."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gate used for racing. It sends out a signal whenever a vehicle passes through it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A racing gate. It's probably a checkpoint or something."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A racing marker, likely used as a checkpoint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tall marker to designate racing checkpoints."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Racing Gate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected racing gate. Likely purpose: checkpoint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinksss thiss is a race checkpoint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gate-checkpoint. Akki race through!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it's a race checkpoint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems to be a racing checkpoint."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda glowing marker."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's a racing gate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This appears to be a checkpoint marker for vehicle races."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This gate will activate when a vehicle passes by."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This racing gate might act as a checkpoint during races."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This racing marker beeps ever so softly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggate/avikanracinggate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What will happen when I ride past this?"
+    }
+  }
+]

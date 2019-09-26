@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/sundrainer4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been expecting you, Captain. Here, I will assemble that weapon for you... Just a little longer... There! A fully restored jumprifle! Be careful where you point that thing: it delivers quite the punch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/sundrainer4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Take the ^orange;frame Ayurin built ^green;and bring it to ^orange;Vanhas ^green;here in the ^orange;Starfarer's Refuge. ^reset;He will know how to combine the frame and the reactivated core to build a fully functional jumprifle. It's been an honour working on this project with you, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/sundrainer4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Consuming the Stars IV"
+    }
+  }
+]

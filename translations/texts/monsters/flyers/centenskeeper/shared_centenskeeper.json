@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/centenskeeper/centenskeeper-space.monstertype": [
+        "/description"
+      ],
+      "monsters/flyers/centenskeeper/centenskeeper.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Ce'Tennan construct built to safeguard their creations."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/centenskeeper/centenskeeper-space.monstertype": [
+        "/shortdescription"
+      ],
+      "monsters/flyers/centenskeeper/centenskeeper.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ce'Tennan Keeper"
+    }
+  }
+]

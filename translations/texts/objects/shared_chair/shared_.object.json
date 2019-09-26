@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmodernchair/avikanmodernchair.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancechair/alliancechair.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanmodernchair/avikanmodernchair.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/aegiDescription",
+        "/avianDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A comfortable chair."
+    }
+  }
+]

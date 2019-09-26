@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian computer console, I believe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A computer console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console created by the Centens. No one knows what it was used for, exactly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console created by the Old Ones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console. Centensian in nature, based on its appearance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old but highly advanced console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian Console"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Computer-ancient, god-maker-made."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "No holographic screen? I'm disappointed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny ssscreen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The screen on this console still works after eons of disuse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These ancient computers are always a mystery. How exciting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console still functions after eons of disuse."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/wired/centensconsole/centensconsole.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console was created by the Centens."
+    }
+  }
+]

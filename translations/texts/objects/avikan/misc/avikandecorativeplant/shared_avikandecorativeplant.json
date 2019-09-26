@@ -1,0 +1,240 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A collection of exotic plants and grasses."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Decorative Plant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected plants. State: healthy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fresh green plants. A symbol of freedom."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Freshly watered plants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green plants. Nothing too special."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Green plants. That's normal, right?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Healthy plants are a sign of wealth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Indoor plants always lighten my mood."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plantsss without flowerss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple but beautiful green plants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple plants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan take great care of what few plants they have."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These plants are being cared for with great effort."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These plants are well taken care of."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These plants smell incredibly fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikandecorativeplant/avikandecorativeplant2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These plants use their water very efficiently."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-starfarer/avikan-starfarer.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Starfarer's Leggings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-starfarer/avikan-starfarer.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Leggings often worn by Avikan starfarers."
+    }
+  }
+]

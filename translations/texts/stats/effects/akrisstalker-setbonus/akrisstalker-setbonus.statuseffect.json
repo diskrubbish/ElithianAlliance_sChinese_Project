@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/akrisstalker-setbonus/akrisstalker-setbonus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "SET BONUS: Speed increase while invisible"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkianlight strip."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light. Colour: green."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/lights/trinklight/trinklight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Light"
+    }
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fancy interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Interface"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien interface. It's gibberish to me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegantly designed interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interface displaying minor information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interface displaying some information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interface displaying useful information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interface displaying varied information."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interface featuring haptic feedback."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien interface. Attempting translation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran got yelled at when Floran wrote on a ssscreen..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I reckon this interface is showing some important stuff, but I can't read any of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interface-alien. Akki not can translate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simply an interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This interface is quite efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useful information is being displayed here."
+    }
+  }
+]

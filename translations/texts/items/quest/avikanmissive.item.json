@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanmissive.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sealed scroll given to me by an Avikan Starfarer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanmissive.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Starfarer's Missive^white;"
+    }
+  }
+]

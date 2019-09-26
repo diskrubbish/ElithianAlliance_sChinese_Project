@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nicely crafted statue - I could use something like this as home decoration!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue depicting a Centensian."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A statue of an alien. I can't say that I know this species."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Old One, immortalized in a Hyverium statue. It will never decay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient Centensian statue. A bit nondescript, but beautiful nonetheless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ce'tennan Statue"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "God-maker-statue, pretty-very."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "One can never guess the age of a statue like this - Hyverium will never decay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshiny sstatue..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Statues of the Centens will never decay - Hyverium makes certain of that."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such craftsmanship! This statue must have taken years to carve!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such fine craftsmanhip for a relatively simplistic statue."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Centens were master craftsmen - this statue alone is proof of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Gods left behind many statues, all of them beautiful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What sort of creature does this depict?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What sort of creature might this be, then?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What sort of metal is this statue made of?"
+    }
+  }
+]

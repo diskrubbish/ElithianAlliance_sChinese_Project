@@ -1,0 +1,1202 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-overheatgun-unique-mf.itemdescription": [
+        "/cooldownTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-shield-mf.itemdescription": [
+        "/cooldownTitleLabel/value"
+      ],
+      "interface/tooltips/thea-overheatgun-unique-mf.tooltip": [
+        "/cooldownTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-shield-mf.tooltip": [
+        "/cooldownTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooldown Time:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-chainsaw-mf.itemdescription": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chainsaw.itemdescription": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun-mf.itemdescription": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun-unique-mf.itemdescription": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun-unique.itemdescription": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun.itemdescription": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-mininglaser-mf.itemdescription": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-mininglaser.itemdescription": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chainsaw-mf.tooltip": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chainsaw.tooltip": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-mf.tooltip": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique-mf.tooltip": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique.tooltip": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun.tooltip": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/tooltips/thea-mininglaser-mf.tooltip": [
+        "/dpsTitleLabel/value"
+      ],
+      "interface/tooltips/thea-mininglaser.tooltip": [
+        "/dpsTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damage Per Second:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-ammogun-mf-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-patreon.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogunnoreload-patreon.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-patreon.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique-mf.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun-unique-mf.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgunalt-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-descriptive.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-mf-attachment.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-mf.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-patreon.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-unique-mf.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-minigun-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-minigun.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-overheatgun-unique-mf.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-mf-attachment.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-mf.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-patreon.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogunnoreload-patreon.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-patreon.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique-mf.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique-mf.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgunalt-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-descriptive.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-mf-attachment.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-mf.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-patreon.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique-mf.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-minigun-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-minigun.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-overheatgun-unique-mf.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf-attachment.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damage Per Shot:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-fistweapon-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-descriptive.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-mf.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-unique-mf.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-unique.itemdescription": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-fistweapon-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sword-descriptive.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sword-mf.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique-mf.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique.tooltip": [
+        "/damagePerShotTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damage Per Swing:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-bow-mf-attachment.itemdescription": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-mf.itemdescription": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-patreon.itemdescription": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-unique.itemdescription": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow.itemdescription": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-longbow-unique.itemdescription": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-mf-attachment.tooltip": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-mf.tooltip": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-patreon.tooltip": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-unique.tooltip": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow.tooltip": [
+        "/drawTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-longbow-unique.tooltip": [
+        "/drawTimeTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Draw Time:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-continuousgun-mf.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun-unique-mf.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun-unique.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-mininglaser-mf.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-mininglaser.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-mf.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique-mf.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-mininglaser-mf.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-mininglaser.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Per Second:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-bow-mf-attachment.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-mf.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-patreon.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-unique.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun-unique-mf.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun-unique.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgunalt-unique.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-descriptive.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-mf-attachment.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-mf.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-patreon.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-unique-mf.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-unique.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-longbow-unique.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-minigun-unique.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-minigun.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-optionalchargegun-unique.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-mf-attachment.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-mf.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-unique.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-mf-attachment.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-mf.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-patreon.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-unique.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique-mf.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgunalt-unique.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-descriptive.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-mf-attachment.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-mf.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-patreon.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique-mf.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-longbow-unique.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-minigun-unique.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-minigun.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-optionalchargegun-unique.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf-attachment.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-unique.tooltip": [
+        "/energyPerShotTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy Per Shot:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-bow-mf-attachment.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-mf.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-patreon.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-unique.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-longbow-unique.itemdescription": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-mf-attachment.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-mf.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-patreon.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow-unique.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-bow.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ],
+      "interface/tooltips/thea-longbow-unique.tooltip": [
+        "/energyPerSecondTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Energy To Hold:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-chainsaw-mf.itemdescription": [
+        "/miningStrengthTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chainsaw.itemdescription": [
+        "/miningStrengthTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-mininglaser-mf.itemdescription": [
+        "/miningStrengthTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-mininglaser.itemdescription": [
+        "/miningStrengthTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chainsaw-mf.tooltip": [
+        "/miningStrengthTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chainsaw.tooltip": [
+        "/miningStrengthTitleLabel/value"
+      ],
+      "interface/tooltips/thea-mininglaser-mf.tooltip": [
+        "/miningStrengthTitleLabel/value"
+      ],
+      "interface/tooltips/thea-mininglaser.tooltip": [
+        "/miningStrengthTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mining Strength:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-activethrowable.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-mf-unique.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-patreon.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-unique.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogunnoreload-patreon.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-burstgun-unique.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-burstgun.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-fistweapon-unique.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-descriptive.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-mf-attachment.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-mf.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-patreon.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-unique-mf.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-unique.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-minigun-unique.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-minigun.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-overheatgun-unique-mf.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-descriptive.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-mf.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-unique-mf.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-unique.itemdescription": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-activethrowable.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-patreon.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-unique.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogunnoreload-patreon.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun-unique.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-fistweapon-unique.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-descriptive.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-mf-attachment.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-mf.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-patreon.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique-mf.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-minigun-unique.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-minigun.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-overheatgun-unique-mf.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sword-descriptive.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sword-mf.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique-mf.tooltip": [
+        "/speedTitleLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique.tooltip": [
+        "/speedTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rate of Fire:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-ammogun-mf-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-patreon.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogunnoreload-patreon.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-armor-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-armorwide-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-patreon.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-burstgun-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-patreon.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique-mf.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun-unique-mf.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgunalt-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun-unique-mf.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-fistweapon-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-food-patreon.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-patreon.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-unique-mf.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-longbow-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-minigun-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-optionalchargegun-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-overheatgun-unique-mf.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sealedcache-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-unique-mf.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-tool-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-unique.itemdescription": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-patreon.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-ammogunnoreload-patreon.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-armor-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-armorwide-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-attachment-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-bow-patreon.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-bow-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-patreon.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique-mf.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique-mf.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgunalt-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique-mf.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-fistweapon-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-food-patreon.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-gun-patreon.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique-mf.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-longbow-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-minigun-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-optionalchargegun-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-overheatgun-unique-mf.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-sealedcache-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique-mf.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-tool-unique.tooltip": [
+        "/customRarityLabel/value"
+      ],
+      "interface/tooltips/thea-unique.tooltip": [
+        "/customRarityLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unique"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-activethrowable.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-mf-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-patreon.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogunnoreload-patreon.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-armor-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-armorwide-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-mf-attachment.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-patreon.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-bow.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-burstgun-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-burstgun.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chainsaw-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chainsaw.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-patreon.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun-unique-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgun.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedgunalt-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun-unique-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-continuousgun.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-fistweapon-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-descriptive.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-mf-attachment.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-patreon.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-unique-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-gun-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-longbow-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-minigun-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-minigun.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-mininglaser-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-mininglaser.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-optionalchargegun-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-overheatgun-unique-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-shield-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-mf-attachment.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-speedupminigun-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-descriptive.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-unique-mf.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/itemdescriptions/thea-sword-unique.itemdescription": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-activethrowable.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-patreon.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-ammogunnoreload-patreon.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-bow-mf-attachment.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-bow-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-bow-patreon.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-bow-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-bow.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-burstgun.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-chainsaw-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-chainsaw.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-patreon.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgun.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-chargedgunalt-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-continuousgun.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-fistweapon-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-gun-descriptive.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-gun-mf-attachment.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-gun-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-gun-patreon.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-gun-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-longbow-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-minigun-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-minigun.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-mininglaser-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-mininglaser.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-optionalchargegun-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-overheatgun-unique-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-shield-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf-attachment.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-speedupminigun-unique.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-sword-descriptive.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-sword-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique-mf.tooltip": [
+        "/priceLabel/value"
+      ],
+      "interface/tooltips/thea-sword-unique.tooltip": [
+        "/priceLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "tree"
+    }
+  }
+]

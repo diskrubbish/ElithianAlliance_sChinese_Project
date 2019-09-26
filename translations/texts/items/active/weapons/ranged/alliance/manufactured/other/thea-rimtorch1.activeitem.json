@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/other/thea-rimtorch1.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A welding torch used for construction in the Rim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/other/thea-rimtorch1.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rimrock Welder"
+    }
+  }
+]

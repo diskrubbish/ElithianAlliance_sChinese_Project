@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/alliance/tiered/advanced/thea-tier4shortsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/alliance/tiered/advanced/thea-tier6axe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/alliance/tiered/advanced/thea-tier6hammer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern shortsword."
+    }
+  }
+]

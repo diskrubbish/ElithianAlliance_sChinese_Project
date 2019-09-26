@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-striped/trink-striped.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Striped Body Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-striped/trink-striped.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A body mod with coloured stripes. For the fancy robot."
+    }
+  }
+]

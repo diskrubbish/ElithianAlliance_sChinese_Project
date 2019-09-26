@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier4/akkimari-tier4.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marauder's Cuirass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier4/akkimari-tier4.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A tactical vest and chestplate worn by cunning raiders."
+    }
+  }
+]

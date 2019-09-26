@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier5a/aegi-tier5a.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explorer's Greaves Type-A"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier5a/aegi-tier5a.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Segmented metal leggings for greater mobility. Energetic version."
+    }
+  }
+]

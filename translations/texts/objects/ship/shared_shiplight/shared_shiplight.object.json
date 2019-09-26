@@ -1,0 +1,184 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bright, neutrally coloured light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decently bright light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light made for use on spaceships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A neutral light. Always useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty basic light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple light often found on ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vibrant light."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran dissslikess ship light. Light feelss unnatural..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light. It isn't as efficient as it could be."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lights like these are very cost-effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light is a lot brighter than I am. Wait, that didn't sound quite right..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/avikan/avikanshiplight/avikanshiplight.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This lighting fixture generates more light than heat."
+    }
+  }
+]

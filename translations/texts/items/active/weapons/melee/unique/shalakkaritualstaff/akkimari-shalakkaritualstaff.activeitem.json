@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/shalakkaritualstaff/akkimari-shalakkaritualstaff.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A bladed staff used in the rituals of Shalakka shamans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/unique/shalakkaritualstaff/akkimari-shalakkaritualstaff.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Shalakka Ritual Staff^white;"
+    }
+  }
+]

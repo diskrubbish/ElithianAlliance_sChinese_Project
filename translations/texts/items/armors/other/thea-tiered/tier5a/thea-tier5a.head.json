@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-tiered/tier5a/thea-tier5a.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "VH-i Balanced Head Shield"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-tiered/tier5a/thea-tier5a.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Generic. ^white;A very high intensity shield generator for protecting the head, with a balanced performance."
+    }
+  }
+]

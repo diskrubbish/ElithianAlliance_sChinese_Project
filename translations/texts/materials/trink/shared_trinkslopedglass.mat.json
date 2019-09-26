@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkslopedglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/trink/trinkslopedglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Sloped Glass"
+    }
+  }
+]

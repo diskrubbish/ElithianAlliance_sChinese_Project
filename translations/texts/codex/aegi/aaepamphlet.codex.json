@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aaepamphlet.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leaflet with information about AAE."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aaepamphlet.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "AAE Pamphlet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aaepamphlet.codex": [
+        "/contentPages/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "In addition to its line of vehicles and military-grade weapons, AAE also produces household items, tools, entertainment systems and even power grids for Union cities and colonies.\n\nAAE always looks towards the future, and the future we see is a bright one indeed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aaepamphlet.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The popular Helios line of assault rifles has quickly become the standard equipment for M-ASA soldiers, while the Phantom-5 Drone enjoys popularity in both military and commercial markets. AAE weapons come equipped with attachment rails by default, allowing their users to modify weapons to the needs of any situation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aaepamphlet.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Advanced Aeginian Engineering - Engineering the Future, Today^reset;\n\nAAE - an abbreviation of Advanced Aeginian Engineering - is one of the hallmark manufacturers of the Aeginian Federal Union. Responsible for manufacturing many of the Union Navy's standard weapons and vehicles, AAE ensures high-quality production standards in addition to fast and automated production."
+    }
+  }
+]

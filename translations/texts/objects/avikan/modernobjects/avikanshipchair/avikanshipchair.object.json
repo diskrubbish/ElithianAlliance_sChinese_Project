@@ -1,0 +1,145 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chair built by the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chair found in Avikan cockpits."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chair of Avikan design. My tail fits, luckily."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chair. It was not built with my body shape in mind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chair. Looks like it was used recently."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal chair. How cool."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern chair. It supports my back very well, but getting my tail through the hole is a hassle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegant chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis: chair."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Ship Chair"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chair-alien. Akki comfortable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair is rather comfortable, but getting my tail through the hole is a hassle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This chair is rather comfortable."
+    }
+  }
+]

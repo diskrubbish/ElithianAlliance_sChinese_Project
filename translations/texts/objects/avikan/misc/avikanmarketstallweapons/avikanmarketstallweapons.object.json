@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A market stall full of bone weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A selection of bone weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Weapons Stall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone weaponry. The blades look rather sharp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone weapons are still the favourites of our people, even though we can craft them of metal now."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone weapons. Primitive, but effective all the same."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bonesss make good swordsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Few species are able to craft such potent bone weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primitive bone weapons in appearance, but they make for excellent hunting tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bone weapons are sharper than many metal alternatives."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These bone weapons look sharp. My people could learn a thing or two from the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This bone weaponry outmatches many more modern weapons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This equipment predates this unit's technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons made of bone. Surprisingly sharp."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons made of bones. Primitive and cruel, but also effective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons of bone. How did they get them so sharp?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons-bone, not strong-very."
+    }
+  }
+]

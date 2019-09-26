@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/alliancebandage.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cloth bandage for healing minor wounds. Restores 50 health over 1 second."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/alliancebandage.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloth Bandage"
+    }
+  }
+]

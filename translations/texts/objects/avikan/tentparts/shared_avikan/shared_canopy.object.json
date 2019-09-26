@@ -1,0 +1,186 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A birght and colourful canopy, it can cast a valuable shade in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A canopy made of colourful fabric. Well-woven."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/description"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A canopy made of decorated fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A canopy, for casting a shade in the warm desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A canopy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful canopy, it provides a cool shadow during the day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/avianDescription",
+        "/humanDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/avianDescription",
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A colourful canopy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A finely decorated canopy, for keeping the sun out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bright coloursss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Canopy. Provides a shade in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I prefer the heat over the cool shade such a canopy can cast."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The pattern is simple, but the fabric is very well crafted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikansidecanopy/avikansidecanopy.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Useful for blocking out the sun when it gets too hot."
+    }
+  }
+]

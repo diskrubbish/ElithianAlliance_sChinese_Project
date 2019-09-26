@@ -1,0 +1,254 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/description"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A coral-like plant that expels a tasty jelly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly unusual plant producing some type of jelly. I should study it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/erixianDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange jelly-producing plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange plant producing a weird jelly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/notixDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange, icky jelly oozes from this plant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Achvass Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien plantsss make sstrange jelly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/avikanDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien plant producing alien jelly. I really shouldn't try to eat it..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/hymidDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual jelly oozes from this plant's pores."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unusual plant producing an unusual jelly-like substance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/drodenDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected native Akris flora. Achvass produces unusual jelly-like substances."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eww! Is that jelly oozing from a plant?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jelly-tasty, Akki want more more more!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/trinkDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The jelly from this plant can get my circuits all sticky. Better be careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The jelly from this plant is really odd, but somehow tasty too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/aegiDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The jelly produced by this plant is nutritious, but it doesn't taste very pleasantly..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's jelly oozing from this plant's pores!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/achvass/achvassseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/achvass/wildachvassseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This plant makes a weird jelly."
+    }
+  }
+]

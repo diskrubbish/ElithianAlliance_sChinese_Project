@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimari.object": [
+        "/akkimariDescription"
+      ],
+      "objects/ship/boosters/thrusterakkimari/thrusterakkimaritop.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki use thrusters-small, keep ship stable. Ship-stable is ship-strong."
+    }
+  }
+]

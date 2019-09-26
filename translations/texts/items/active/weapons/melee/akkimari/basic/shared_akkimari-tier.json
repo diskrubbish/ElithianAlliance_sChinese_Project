@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/akkimari/basic/akkimari-tier1broadsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/akkimari/basic/akkimari-tier1shortsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/akkimari/basic/akkimari-tier2dagger.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/akkimari/basic/akkimari-tier2spear.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/akkimari/basic/akkimari-tier3axe.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/akkimari/basic/akkimari-tier3hammer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weapon built from scavenged parts."
+    }
+  }
+]

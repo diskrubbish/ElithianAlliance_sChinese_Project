@@ -1,0 +1,211 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Cooking Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone plate and some fire. I guess that'll do for cooking..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plate for cooking. Let's use it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pretty basic setup, but it's enough to prepare a good variety of dishes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very basic cooking solution, but I cannot deny its effectiveness."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cooking in the style of my nomadic ancestors. They would be proud."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected cooking plate. This unit can refuel using organic food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran prepare food with bare handsss. Fire only makesss food tasste better."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can prepare great dishes using this cooking plate!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could cook up a storm on this 'ere thing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could go for a meal - let's prepare some food!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could prepare a good meal here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I imagine cooking food would be a lot easier if one had sight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure I can cook up a good meal here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Many would call such a cooking plate priminitive, but I can still prepare plenty of food here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Not the most graceful solution, but this plate should still suffice for cooking."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plate-bone for cooking food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Used to prepare various food items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Avikan Cooking Plate^white;"
+    }
+  }
+]

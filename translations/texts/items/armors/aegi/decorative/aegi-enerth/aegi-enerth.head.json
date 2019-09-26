@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-enerth/aegi-enerth.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enerth Faceplate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-enerth/aegi-enerth.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A protective faceplate worn by Enerth Engineers."
+    }
+  }
+]

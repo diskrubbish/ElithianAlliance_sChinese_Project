@@ -1,0 +1,291 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/description"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/description"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A creature healing station used to heal captured creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device for healing wounded captured creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device for healing wounded pets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A medical station for healing pets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki heal pet here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captured creatures can be healed using this station."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected pet healing device. Heals wounded captured creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can keep creaturesss healed with this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "How useful, I can heal any creatures I capture with this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can use this here gadget to heal captured creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can use this to heal any creature I've captured. Neat!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machines like these are used to heal captured creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such things are useful for ensuring excellent creature health."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device can heal any captured creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device will heal captured creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station will heal any creature I've captured."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This station will nurse my wounded pets back to full health."
+    }
+  }
+]

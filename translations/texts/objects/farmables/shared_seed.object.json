@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/dremetonDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/dremetonDescription"
+      ],
+      "objects/farmables/vahlberry/vahlberryseed.object": [
+        "/dremetonDescription"
+      ],
+      "objects/farmables/vahlberry/wildvahlberryseed.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These fibers can be woven into cloth."
+    }
+  }
+]

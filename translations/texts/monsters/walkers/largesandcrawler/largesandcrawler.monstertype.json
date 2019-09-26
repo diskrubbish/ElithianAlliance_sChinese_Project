@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/largesandcrawler/largesandcrawler.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandcrawler"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/largesandcrawler/largesandcrawler.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Sandcrawler digs in and strikes with little warning."
+    }
+  }
+]

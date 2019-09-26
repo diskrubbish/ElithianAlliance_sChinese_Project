@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-ammogun-mf-unique.itemdescription": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-patreon.itemdescription": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-unique.itemdescription": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-patreon.itemdescription": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique-mf.itemdescription": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique.itemdescription": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-patreon.tooltip": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-unique.tooltip": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-patreon.tooltip": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique-mf.tooltip": [
+        "/reloadAbilityLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique.tooltip": [
+        "/reloadAbilityLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reload"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-ammogun-mf-unique.itemdescription": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-patreon.itemdescription": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-unique.itemdescription": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-patreon.itemdescription": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique-mf.itemdescription": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique.itemdescription": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-patreon.tooltip": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-unique.tooltip": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-patreon.tooltip": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique-mf.tooltip": [
+        "/reloadAbilityTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique.tooltip": [
+        "/reloadAbilityTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Special:"
+    }
+  }
+]

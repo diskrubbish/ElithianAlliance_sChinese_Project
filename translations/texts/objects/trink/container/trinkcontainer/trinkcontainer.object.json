@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A cargo container for transporting goods of all kinds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large Trinkian cargo container. Built with efficiency is mind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reasonably large cargo container. It's an odd size."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy cargo container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy cargo container. It's an odd size."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An incredibly heavy cargo container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Containersss large enough to hold peopless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trinkian cargo container is built to fit into Trinkian cargo holds perfectly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trinkian standard-issue cargo container is exactly four times the size of a crate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Trinkian-designed cargo container can hold many items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine-built container can hold many items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Container"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What might be inside this container?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "What might this container contain?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Why doesn't this crate adhere to the universal standard container size?"
+    }
+  }
+]

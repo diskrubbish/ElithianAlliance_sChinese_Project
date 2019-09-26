@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/centens.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient race originating from a place beyond our universe, the Centens possessed an unrivaled level of technological advancement. Their civilization collapsed under mysterious circumstances aeons ago, but some Centens still survive, locked away in stasis pods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/centens.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "CENTENS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/centens.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centens"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/centens.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this field even used?"
+    }
+  }
+]

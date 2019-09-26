@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancefarmpanel.matitem": [
+        "/description"
+      ],
+      "items/materials/avikan/avikanfarmpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancefarmpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanfarmpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal container filled with fertile dirt, ready for farming."
+    }
+  }
+]

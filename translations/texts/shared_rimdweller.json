@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rimdweller/rimdwellerstairsplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/rimdwellerstairsplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim Stairs"
+    }
+  }
+]

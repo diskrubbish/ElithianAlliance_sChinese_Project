@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pine tree decorated for the Landing Festival."
+    }
+  }
+]

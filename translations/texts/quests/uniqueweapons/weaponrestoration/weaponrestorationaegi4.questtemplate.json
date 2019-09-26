@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi4.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I knew Barnos would get the job done! Let me just assemble everything... Here you go: your fully restored Excalibur-class shieldblade!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi4.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;You should head back to ^orange;Hadaeko^reset;, she'll want to have that Shard so you can finish your little project. Make sure to show me the weapon once it's finished - I'd love to see a true Excalibur-class shieldblade!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi4.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Excalibur Reborn IV"
+    }
+  }
+]

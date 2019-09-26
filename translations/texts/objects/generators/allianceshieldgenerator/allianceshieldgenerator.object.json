@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Shield Generator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shield generator will protect this settlement from damage."
+    }
+  }
+]

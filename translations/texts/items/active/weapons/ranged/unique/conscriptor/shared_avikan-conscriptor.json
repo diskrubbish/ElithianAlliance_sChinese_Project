@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/conscriptor/avikan-conscriptor-npc.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/unique/conscriptor/avikan-conscriptor.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;An intimidating revolver once held by the elder of Vathra."
+    }
+  }
+]

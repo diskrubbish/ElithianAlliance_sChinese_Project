@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/generic/avikanthickpiperight.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The right half of a very thick pipe."
+    }
+  }
+]

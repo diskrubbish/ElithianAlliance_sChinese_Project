@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian generator. It provides an incredible amount of energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generator of Trinkian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generator of Trinkian design. It is rather powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generator of alien design. It looks rather powerful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generator of sorts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A generator. It could provide energy for a significant portion of a Terve."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large generator. This could power an entire village."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big box makesss energy..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Generator make power, Akki use power to make things happen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could make good use of all this energy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The efficiency of this generator can only be optimized slightly further."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This generator is powerful for its size."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This generator looks like it could power an entire city block!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Generator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian generators are amongst the most efficient generators in the Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian generators are incredibly efficient. We built the Trinks well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warning. Readings indicate strong electrical fields."
+    }
+  }
+]

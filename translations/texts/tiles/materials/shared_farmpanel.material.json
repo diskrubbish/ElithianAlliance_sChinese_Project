@@ -1,0 +1,58 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancefarmpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanfarmpanel.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Fertile dirt captured in a metal container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancefarmpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanfarmpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirt captured in a metal container, for indoor farming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancefarmpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanfarmpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dirt isss for farming."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancefarmpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanfarmpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some dirty lookin' metal panel."
+    }
+  }
+]

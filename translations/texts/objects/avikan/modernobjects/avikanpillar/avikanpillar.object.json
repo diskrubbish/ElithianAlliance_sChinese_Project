@@ -1,0 +1,179 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal pillar from home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal pillar, capable of supporting a heavy roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal pillar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal pillar. Effective, but not too pretty."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal pillar. I wonder if it would rust?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pillar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny metal pillar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong supporting pillar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/apexDescription",
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal pillar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy pillar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A supporting pillar made of metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A supporting pillar. It can carry a lot of weight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Pillar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal pillarsss look like large sspearsss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pillar-long, for supporting roof-heavy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Supporting pillar. Failed to estimate maximum supported weight."
+    }
+  }
+]

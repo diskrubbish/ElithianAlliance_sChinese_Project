@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/lostavikanarmring.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "A friend of mine gave me an ^orange;arm ring ^white;a few years back, as a token of our friendship. I've worn it ever since, but it fell from my arm the other day and now I can't find it! Could you look for it? ^green;I think it may have fallen into one of the pipes running through the lower parts of the ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/lostavikanarmring.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Arthan ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/lostavikanarmring.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thank you for bringing my arm ring back to me! Here, take this, you've earned it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/lostavikanarmring.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Lost in the Pipeline"
+    }
+  }
+]

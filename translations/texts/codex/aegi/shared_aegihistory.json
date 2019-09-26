@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aegihistory1.codex": [
+        "/description"
+      ],
+      "codex/aegi/aegihistory2.codex": [
+        "/description"
+      ],
+      "codex/aegi/aegihistory3.codex": [
+        "/description"
+      ],
+      "codex/aegi/aegihistory4.codex": [
+        "/description"
+      ],
+      "codex/aegi/aegihistory5.codex": [
+        "/description"
+      ],
+      "codex/aegi/aegihistory6.codex": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The summarized recorded history of the Aeginian people."
+    }
+  }
+]

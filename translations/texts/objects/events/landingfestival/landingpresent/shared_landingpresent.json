@@ -1,0 +1,342 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/humanDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/humanDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/humanDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big present! I wanna open it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/erixianDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/erixianDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/erixianDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gift for some lucky recipient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/trinkDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/trinkDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/trinkDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gift wrapped in decorative paper. Not very efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/apexDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/apexDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/apexDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gift! Who is it for?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gift. Apparently wrapping these up is an ancient Aeginian tradition."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/aegiDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/aegiDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/aegiDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A nicely wrapped gift, just asking to be unwrapped..,"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/description"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/description"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/description"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wrapped present for the Landing Festival."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/akkimariDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki want to see inside!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/drodenDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/drodenDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/drodenDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyzing. Detected boxed product. Low material value."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/novakidDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/novakidDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/novakidDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Could there be a new revolver inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/floranDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/floranDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/floranDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran want presssent! Floran hopesss it'ss a new knife for ssstabbing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/notixDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/notixDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/notixDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I think it's a box."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/avianDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/avianDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/avianDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder who this present is for."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/avikanDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/avikanDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/avikanDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a box of some sort. I'm not sure what all that decoration is good for."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/hymidDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/hymidDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/hymidDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi love wrapping their gifts. I've never really understood why, but I like getting presents regardless."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/hylotlDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The tradition of gift-giving is a very positive one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who is this gift for?"
+    }
+  }
+]

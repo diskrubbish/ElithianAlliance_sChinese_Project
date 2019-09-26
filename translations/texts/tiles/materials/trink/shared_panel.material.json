@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkpanel.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/trink/trinksmoothpanel.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal panel, plain an' simple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/trink/trinksmoothpanel.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkpanel.material": [
+        "/description"
+      ],
+      "tiles/materials/trink/trinksmoothpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple metal panel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkpanel.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/trink/trinksmoothpanel.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Metal plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/trink/trinkpanel.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/trink/trinksmoothpanel.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark metal panelsss."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/kelbethide.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Kelbet's fur, an illegal luxury in most Union territories."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/kelbethide.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kelbet Hide"
+    }
+  }
+]

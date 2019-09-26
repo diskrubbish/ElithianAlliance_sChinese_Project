@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Droden Legion Terminal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Recruit Droden Legion units"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/lblTradeItemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Token of Merit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/lblInformationText/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trade tokens to recruit Droden crewmembers"
+    }
+  }
+]

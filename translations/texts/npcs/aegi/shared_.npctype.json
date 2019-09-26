@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/aegi/aegidoctor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/aegi/aegimedic.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you in need of aid?"
+    }
+  }
+]

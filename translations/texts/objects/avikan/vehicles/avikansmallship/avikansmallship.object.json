@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Skoff, built by the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Skoff. Small, fast and powerful too, these ships are an excellent example of Avikan engineering."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small Avikan spaceship built for scouting purposes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small alien spaceship, but it looks fast and strong as well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small alien spaceship. Let's hijack it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly efficient spaceship, built by the Avikan. I believe it is called a Skoff."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan Skoff, these ships use some reverse-engineered Centensian technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan Skoff. I doubt it would function underwater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan Skoff. It can carry a small crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan Skoff. It looks a bit cramped on the inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien spaceship. It can achieve flight without wings!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien spaceship. It could fit a small crew."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Skoff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Skoff. Occupants: zero."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not like sssmall sshipsss for sspace..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure she'll fly like a charm."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship-alien, Akki want to fly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This small ship must be a joy to ride."
+    }
+  }
+]

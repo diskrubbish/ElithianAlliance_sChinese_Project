@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancesupport.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/alliance/alliancesupport.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Support Beam"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancesupport.matitem": [
+        "/description"
+      ],
+      "tiles/materials/alliance/alliancesupport.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Heavy structural support beams."
+    }
+  }
+]

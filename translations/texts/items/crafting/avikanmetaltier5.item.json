@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanmetaltier5.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hard Kavanite Plate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanmetaltier5.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hardened metal plating for use in high-quality equipment."
+    }
+  }
+]

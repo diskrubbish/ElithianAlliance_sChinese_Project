@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/space/rimdwellermissilelauncher/rimdwellermissilelauncher.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim Missile System"
+    }
+  }
+]

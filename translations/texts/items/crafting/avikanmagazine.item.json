@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanmagazine.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vital part of any of the Vanguard's ballistic rifles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/avikanmagazine.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Magazine"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Long Avikan Tapestry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantapestry1/avikantapestry1.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tapestry-long, for decoration."
+    }
+  }
+]

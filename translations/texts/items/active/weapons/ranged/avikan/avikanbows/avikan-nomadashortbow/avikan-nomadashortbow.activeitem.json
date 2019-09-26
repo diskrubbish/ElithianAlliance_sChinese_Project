@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikanbows/avikan-nomadashortbow/avikan-nomadashortbow.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Shortbow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikanbows/avikan-nomadashortbow/avikan-nomadashortbow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;A light and quick bow for harvesting monster parts."
+    }
+  }
+]

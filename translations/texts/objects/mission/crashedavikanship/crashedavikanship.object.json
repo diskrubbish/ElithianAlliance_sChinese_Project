@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/crashedavikanship/crashedavikanship.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crashed Avikan Skoff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/crashedavikanship/crashedavikanship.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Skoff. Status: crashed. Analysis: burn marks consistent with Thelean weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/crashedavikanship/crashedavikanship.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not like thiss... Sship wass attacked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/crashedavikanship/crashedavikanship.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship-crashed, destroyed by god-thieves."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/crashedavikanship/crashedavikanship.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone shot this ship down."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/crashedavikanship/crashedavikanship.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Avikan ship has suffered extreme damage. It looks like it was attacked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/crashedavikanship/crashedavikanship.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Skoff was shot down... The burn marks are consistent with Thelean weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/crashedavikanship/crashedavikanship.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This one ain't flying no more."
+    }
+  }
+]

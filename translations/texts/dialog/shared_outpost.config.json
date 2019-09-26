@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/allianceoutpost.config": [
+        "/converse/default/default/0"
+      ],
+      "dialog/avikanoutpost.config": [
+        "/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have nothing to say to you."
+    }
+  }
+]

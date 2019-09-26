@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/alliancemanipulator.questtemplate": [
+        "/title"
+      ],
+      "quests/avikanquests/avikanoutpost/avikanmanipulator.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Personalized Manipulation"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/returnavikanoutpost.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Back to the Starfarer's Refuge"
+    }
+  }
+]

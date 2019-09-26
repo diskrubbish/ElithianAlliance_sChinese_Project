@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/akrisgrassseeds.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Toss these on some damp tilled soil to grow valval, a grass native to Akris."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/akrisgrassseeds.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valval Seeds"
+    }
+  }
+]

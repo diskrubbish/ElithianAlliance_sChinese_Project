@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodytrinkproto.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old prototype for the MEGA-TRINK armour."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodytrinkproto.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "MEGA-TRINK-00 Mech Body"
+    }
+  }
+]

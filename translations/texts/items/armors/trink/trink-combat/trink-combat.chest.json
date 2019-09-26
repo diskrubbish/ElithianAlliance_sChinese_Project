@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-combat/trink-combat.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Combat Hull Arm Mod"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-combat/trink-combat.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;An arm mod built for combat situations."
+    }
+  }
+]

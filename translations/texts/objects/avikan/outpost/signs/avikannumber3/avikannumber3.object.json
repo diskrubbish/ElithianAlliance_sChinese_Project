@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien number. I believe it is three."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien symbol for the number three."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number Three"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number three in an alien script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number three, in the Avikan Script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number three."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number-alien. Three, Akki thinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number. Three."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems this number means three."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien symbol means three."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber3/avikannumber3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Three in some alien script."
+    }
+  }
+]

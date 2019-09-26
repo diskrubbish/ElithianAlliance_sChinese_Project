@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/akkimari/akkimari-strafegun-npc.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/akkimari/akkimari-strafegun.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/akkimari/akkimari-trackrifle-npc.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/akkimari/akkimari-trackrifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Akkimari weapon firing target-seeking plasma bolts."
+    }
+  }
+]

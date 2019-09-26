@@ -1,0 +1,42 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikandarkplatform.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikanplatform.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikanthickplatform.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "items/materials/trink/trinkplatform.matitem": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong metal platform."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikandarkplatform.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikanplatform.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/avikan/avikanthickplatform.matitem": [
+        "/floranDescription"
+      ],
+      "items/materials/trink/trinkplatform.matitem": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal platformsss"
+    }
+  }
+]

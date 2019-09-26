@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki bring vehicles-broken to alien. Alien fixes them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien engineer. Likely offers vehicle reparation services."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Faro's Vehicle Workshop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Faro's a skilled vehicle repairman working for Enerth Engineering. He can fix my vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran takesss broken vehicle to sstrange man. Ssstrange man fixess vehicle."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/chatOptions/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can rebuild any vehicles you've lost or forgotten. Just need a few Auto Chips!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/chatOptions/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can take a look at any broken vehicles you have."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/chatOptions/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you have a few Auto Chips, I can repair your vehicles for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancevehiclerepair/alliancevehiclerepair.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This engineer should be able to fix my vehicles."
+    }
+  }
+]

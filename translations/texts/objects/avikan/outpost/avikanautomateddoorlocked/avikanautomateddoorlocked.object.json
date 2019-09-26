@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanautomateddoorlocked/avikanautomateddoorlocked.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door. It's locked."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanautomateddoorlocked/avikanautomateddoorlocked.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Locked Nomada Door"
+    }
+  }
+]

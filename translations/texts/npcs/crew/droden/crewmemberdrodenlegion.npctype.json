@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenlegion.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Combat Unit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenlegion.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/droden/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden Legion Combat Unit available. Requesting permission to board ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenlegion.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legionnaire"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenlegion.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/droden/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Legionnaire unit <selfname> reporting for duty. Requesting permission to board ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/droden/crewmemberdrodenlegion.npctype": [
+        "/scriptConfig/dialog/crewmember/offer/droden/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unit <selfname> reporting in. Legionnaire unit requesting permission to board ship."
+    }
+  }
+]

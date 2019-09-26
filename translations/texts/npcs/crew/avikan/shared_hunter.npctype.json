@@ -1,0 +1,170 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/18"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Scavenger"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/16"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> and Provider"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> of Sandspitters"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/15"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> of the Desert"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role>'s Apprentice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clan's <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/14"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Feral <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunting"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/12"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primal <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reliable <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmemberclanhunter.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ],
+      "npcs/crew/avikan/crewmembernomadahunter.npctype": [
+        "/scriptConfig/crew/ranks/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandcrawler <field> Expert"
+    }
+  }
+]

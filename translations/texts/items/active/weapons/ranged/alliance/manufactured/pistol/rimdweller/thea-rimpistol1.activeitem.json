@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/pistol/rimdweller/thea-rimpistol1.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A handgun produced somewhere in the Rim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/pistol/rimdweller/thea-rimpistol1.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Broker RM1"
+    }
+  }
+]

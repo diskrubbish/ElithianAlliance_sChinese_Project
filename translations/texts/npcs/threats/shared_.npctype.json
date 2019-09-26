@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/avikan/avikanroguecaptain.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/avikan/avikanrogueleader.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ],
+      "npcs/threats/droden/drodenviolated.npctype": [
+        "/scriptConfig/dialog/attack/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Attack!"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/landingfestival/fireworks/landingfireworksblue.thrownitem": [
+        "/description"
+      ],
+      "items/events/landingfestival/fireworks/landingfireworksgreen.thrownitem": [
+        "/description"
+      ],
+      "items/events/landingfestival/fireworks/landingfireworkspurple.thrownitem": [
+        "/description"
+      ],
+      "items/events/landingfestival/fireworks/landingfireworksrainbow.thrownitem": [
+        "/description"
+      ],
+      "items/events/landingfestival/fireworks/landingfireworksred.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Colourful fireworks to celebrate the Landing Festival!"
+    }
+  }
+]

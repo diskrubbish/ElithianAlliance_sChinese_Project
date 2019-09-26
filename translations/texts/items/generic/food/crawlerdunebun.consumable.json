@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/crawlerdunebun.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dunebun shaped like a Sandcrawler. It makes you smell like a Sandcrawler, too!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/food/crawlerdunebun.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crawler Dunebun"
+    }
+  }
+]

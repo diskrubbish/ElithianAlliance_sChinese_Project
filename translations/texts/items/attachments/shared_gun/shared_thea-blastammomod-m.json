@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/machinegun/thea-blastammomod-machinegun.item": [
+        "/shortdescription"
+      ],
+      "items/attachments/minigun/thea-blastammomod-minigun.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blast Ammo"
+    }
+  }
+]

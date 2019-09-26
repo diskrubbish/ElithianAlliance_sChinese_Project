@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reasonably efficient vent that circulates the air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vent to recycle air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vent with a fan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A vent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ventilation fan that circulates fresh air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ventilation fan. It circulates the air."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Vent"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An uninspiring vent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected air current. Detected ventilation shaft."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can feel a ssslight breeze coming through here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a vent. Still, the air feels stuffy in here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some type of vent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The air flowing through here feels cold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The air recycling process isn't fully functional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vent makes a pleasant sound."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This vent makes sure the air is fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarivent/akkimarivent.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vent make air go around. Keeps fresh, Akki breathe easy."
+    }
+  }
+]

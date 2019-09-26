@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavily reinforced door covered in external scrap plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimarispacedoor/akkimarispacedoor.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/akkimari/akkimarishipdoorbroken/akkimarishipdoorbroken.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Reinforced Door"
+    }
+  }
+]

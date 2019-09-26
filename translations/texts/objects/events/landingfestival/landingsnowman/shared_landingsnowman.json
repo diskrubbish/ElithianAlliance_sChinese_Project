@@ -1,0 +1,226 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/trinkDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A silly snowman, but it's efficient in making people feel happy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/hylotlDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but well-made snowman."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/notixDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A snow-man, as the Aegi call it. Why not a snow-Notix?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/aegiDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A snowman. I love making these!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A snowman. The Aegi sure like their snow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/akkimariDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien made of snow. Aliens fun!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/drodenDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyzing construct. Detected frozen water source. Recommend immediate harvesting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/erixianDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't like the cold. I long for the heat of flames."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/avikanDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is that... an alien? Made of frozen water? The people here really are odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/humanDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a snow man!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/hymidDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a snow statue of some sort. The Aegi really like these."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/avianDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a snowman. It could use some wings!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/floranDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Man made of sssnow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snow always brings people together."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/shortdescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowman"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/novakidDescription"
+      ],
+      "objects/events/landingfestival/landingsnowman/landingsnowman2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's some sorta snow-man."
+    }
+  }
+]

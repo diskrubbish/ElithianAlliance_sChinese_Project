@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier3/aegi-tier3.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trooper's Chestplate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier3/aegi-tier3.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;An armoured chestplate worn by some Aeginian ground troops."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier3/aegi-tier3.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trooper's Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier3/aegi-tier3.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;An armoured helmet worn by some Aeginian ground troops."
+    }
+  }
+]

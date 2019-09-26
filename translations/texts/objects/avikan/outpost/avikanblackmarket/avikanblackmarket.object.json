@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
+        "/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  You never saw this place..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien-shady. Akki-shady too. Friends?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected unregistered merchant. Recommending caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I highly doubt this person's shop is legal..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssshady looking man can ssell Floran many goodsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This person looks a bit shady..."
+    }
+  }
+]

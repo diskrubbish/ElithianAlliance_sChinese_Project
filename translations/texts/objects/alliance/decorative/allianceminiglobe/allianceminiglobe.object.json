@@ -1,0 +1,233 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A globe of Elithia, our home planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A globe of a planet bountiful in life."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A globe of a seemingly bountiful planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A globe of some planet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A globe. What planet is it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small floating globe of Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small floating globe representing Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien world. I've heard someone call it Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected miniature globe. Planet unknown."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithia, birthplace of the Elithian Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithia, home of our closest allies, and home to many of my kind as well."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithia, home of the Aeginian people."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithia, our home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Elithia. The home world of the Elithia Alliance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Globe of Elithia"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks a bit like Earth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Planet-tiny. Akki feel giant now!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some kinda globe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This globe represents Elithia, home of the Aegi."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tiny world makess Floran feel ssstrong!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What world is this?"
+    }
+  }
+]

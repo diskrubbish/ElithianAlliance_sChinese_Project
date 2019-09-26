@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "biomes/instance/avikanoutpost.biome": [
+        "/friendlyName"
+      ],
+      "interface/warping/avikanoutpostteleporter.config": [
+        "/bookmarkName"
+      ],
+      "interface/warping/avikanoutpostwarp.config": [
+        "/destinations/0/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Starfarer's Refuge"
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-ambassador.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here on official business?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-ambassador.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can I assist you on anything?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-ambassador.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can I be of assistance?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-ambassador.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'd be happy to offer some advice or counseling if you need it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-ambassador.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you need some information on the Trink Circuit, I'll be happy to help."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-ambassador.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let me know if I can help you with anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-ambassador.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi built a great embassy here. I am glad to be an ambassador."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-ambassador.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Creon Embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-ambassador.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the great embassy of Creon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-ambassador.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "What do you think of our embassy?"
+    }
+  }
+]

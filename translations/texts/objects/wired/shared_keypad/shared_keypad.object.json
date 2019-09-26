@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keypad, for locking doors with a passcode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A keypad, for locking doors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A programmable keypad for locking doors with a passcode."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran presssess buttonss, Floran unlockss doorss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've never been good at remembering passcodes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This seems to be a keypad."
+    }
+  }
+]

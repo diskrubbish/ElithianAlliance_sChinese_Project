@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/generic/avikanthickpiperight.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/generic/avikanthickpiperight.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big Pipe Right"
+    }
+  }
+]

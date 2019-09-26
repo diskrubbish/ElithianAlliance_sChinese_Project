@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-asacoat/aegi-asacoat.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "ASA Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-asacoat/aegi-asacoat.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A skirt often worn by high-ranking ASA officials."
+    }
+  }
+]

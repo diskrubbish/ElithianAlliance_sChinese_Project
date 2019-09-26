@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-modern/avikan-modern.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Modern Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-modern/avikan-modern.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;A leather skirt worn by Nomada civilians."
+    }
+  }
+]

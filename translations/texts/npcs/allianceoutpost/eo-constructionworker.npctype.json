@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs builds ships, but we do general construction work too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs has sent some incredibly skilled construction workers to help us build this place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Briggs offered to help out with the construction of the Creon Embassy. I'm glad to be a part of the project."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm working here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some of the Embassy is still under construction. We're working as quickly as we can to finish it all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sorry, I've got to concentrate on my work."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/aegi/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Embassy is open, but not everything is finished yet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trink are happy to help with the construction of this new embassy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Watch your head in the construction zones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "We'll get this place up and running as soon as we can."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/eo-constructionworker.npctype": [
+        "/scriptConfig/dialog/converse/trink/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Working together with the Aegi has been great."
+    }
+  }
+]

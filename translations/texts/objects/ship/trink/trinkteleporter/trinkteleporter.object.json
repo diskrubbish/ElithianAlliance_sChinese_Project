@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A teleporter of Trink design."
+    }
+  }
+]

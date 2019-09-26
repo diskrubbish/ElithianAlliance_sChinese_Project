@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/sundrainerframe.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Part of the frame of an ancient and powerful weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/sundrainerframe.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Ancient Weapon Frame^white;"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimariscrap.matitem": [
+        "/description"
+      ],
+      "tiles/materials/akkimari/akkimariscrap.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heap of scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimariscrap.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/akkimari/akkimariscrap.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scrap Metal"
+    }
+  }
+]

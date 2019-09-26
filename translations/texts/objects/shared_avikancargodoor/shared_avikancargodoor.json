@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancargodoor/avikancargodoor.object": [
+        "/shortdescription"
+      ],
+      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Cargo Door"
+    }
+  }
+]

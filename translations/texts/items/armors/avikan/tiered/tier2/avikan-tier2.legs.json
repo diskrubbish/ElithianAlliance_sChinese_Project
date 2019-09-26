@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier2/avikan-tier2.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hunter's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/tiered/tier2/avikan-tier2.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Bone padding and a leather skirt, worn by Avikan hunters."
+    }
+  }
+]

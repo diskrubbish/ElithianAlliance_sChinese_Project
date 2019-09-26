@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone. It can hover very quietly."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lightweight AAE drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small AAE drone. It's quite robust."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small drone built by AAE."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small hoverin' construct."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Drone"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien vehicle. It looks a bit like the Drahl."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient drone design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Awesome, it's a drone!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien vehicle. Similarities to Vanguard Drahl units noted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drone-small, for flying. Akki use to spy?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran seesss a drone, Floran wantss to fly it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's just a small drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This drone was likely manufactured by AAE."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "To others these drones may seem quiet, but I can always clearly hear them."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-friendlymonsteraura/thea-friendlymonsteraura.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Friendly Aura"
+    }
+  }
+]

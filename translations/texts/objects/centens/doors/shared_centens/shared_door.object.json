@@ -1,0 +1,45 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensblastdoor/centensblastdoor.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensblastdoor/centensblastdoor.object": [
+        "/avianDescription"
+      ],
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "How has this ancient door remained in such a fine state?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/doors/centensblastdoor/centensblastdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/centens/doors/centensdoor/centensdoor.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Old metal doorsss. It ssshinesss..."
+    }
+  }
+]

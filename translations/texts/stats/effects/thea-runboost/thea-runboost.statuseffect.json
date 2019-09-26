@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-runboost/thea-runboost.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Run Boost"
+    }
+  }
+]

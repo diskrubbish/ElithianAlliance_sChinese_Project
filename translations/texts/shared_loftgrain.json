@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/loftgrain.item": [
+        "/description"
+      ],
+      "objects/farmables/loftgrain/loftgrainseed.object": [
+        "/description"
+      ],
+      "objects/farmables/loftgrain/wildloftgrainseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fast-growing grain harvested by the Union."
+    }
+  }
+]

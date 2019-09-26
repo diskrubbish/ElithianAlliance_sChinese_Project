@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/vehiclecontroller/alliancehovercarbluecontroller.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/vehiclecontroller/alliancehovercarredcontroller.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aventor Galliot Controller"
+    }
+  }
+]

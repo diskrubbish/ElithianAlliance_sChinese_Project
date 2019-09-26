@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier4/aegi-tier4.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Commando's Chestplate"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/tiered/tier4/aegi-tier4.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A strong metal chestpiece worn by Aeginian commandos."
+    }
+  }
+]

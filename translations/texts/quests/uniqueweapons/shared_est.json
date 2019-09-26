@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/seekerdronecapture.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationavikan.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Vanhas ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  }
+]

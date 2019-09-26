@@ -1,0 +1,648 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Circuit Assembler"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Circuit Constructor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Circuit Fabricator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " ^#b9b5b2;Trinkian items and equipment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/hymidDescription",
+        "/upgradeStages/0/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian worktable. It comes with few tools, but Trinks don't need a lot of tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/erixianDescription",
+        "/upgradeStages/0/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian worktable. Simplistic, but of a very high quality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big an' bold machine, surely useful for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A big machine for assisting craftsmen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fully automatic Trinkian manufactoring machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly advanced printing system allows this machine to construct almost anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly efficient 3D printing system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hyper-advanced 3D printer, capable of printing weapons, armour, and much more!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine capable of producing many things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine that can help produce many items, both large and small."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine-built crafting station. Better be careful with my flaps around that thing..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A manufactoring machine. It can construct various items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A partially automated Trinkian manufactoring machine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/avianDescription",
+        "/upgradeStages/0/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple but spacious worktable. Many things could be crafted here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple craftin' workshop. It could use a few more tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/hylotlDescription",
+        "/upgradeStages/0/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A true artisan doesn't need many tools to do their crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/avikanDescription",
+        "/upgradeStages/0/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A worktable built by machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/jorgasianDescription",
+        "/upgradeStages/0/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A worktable for crafting Trinkian items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/apexDescription",
+        "/upgradeStages/0/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A worktable. Useful for crafting a variety of items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An advanced 3D printing machine. No skill is needed to use this, only blueprints."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/description",
+        "/upgradeStages/0/itemSpawnParameters/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An assembly table for crafting Trinkian items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated crafting station, built by machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient crafting station. Built by the Trinks, no doubt."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient printing system. Insert a blueprint and the necessary materials, and you're good to go."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big press, make things flat. Akki use for crafting."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected crafting station. Origin: machine-built."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/drodenDescription",
+        "/upgradeStages/0/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected machine-built worktable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected printing system. Analysis: machine-built."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fabricator-automated, make anything Akki need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Given the right blueprints and materials, this machine can print almost anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insert a compatible blueprint and the required materials, and this station will construct almost anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's do some crafting!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Like any Trinkian tech, this crafting station is incredibly efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machine helpsss Floran with making thingss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machine makesss thingss from blueprintss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metalmen make many thingsss here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of 3D printing machine, but far more advanced."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/aegiDescription",
+        "/upgradeStages/0/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trink don't need many tools, as their own bodies are already equipped with so much."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/notixDescription",
+        "/upgradeStages/0/itemSpawnParameters/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trinks need few tools. Their bodies are equipped with almost all they need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine can assist in producing many things. The rebels could use it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine can assist my crafting skills, but it still requires some of my input."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine can craft far more than I can myself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine can print almost anything using the right blueprints."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine can print almost anything, using the right blueprints."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine can print weapons? What magic is this?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine can produce much, yes, but it still requires an artisan to operate it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine will do much of the crafting for you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This worktable is simplistic, but it still has the tools needed to craft a great many things."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/trinkDescription",
+        "/upgradeStages/0/itemSpawnParameters/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "We Trinks don't need many tools. Our hands are enough to craft most of what we need."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "With the help of this machine, crafting becomes a breeze!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/shortdescription",
+        "/upgradeStages/0/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Circuit Assembler^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/1/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Circuit Constructor^white;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
+        "/upgradeStages/2/itemSpawnParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Circuit Fabricator^white;"
+    }
+  }
+]

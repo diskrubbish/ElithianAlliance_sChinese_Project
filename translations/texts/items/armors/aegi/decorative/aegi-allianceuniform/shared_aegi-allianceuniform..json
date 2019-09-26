@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-allianceuniform/aegi-allianceuniform.chest": [
+        "/description"
+      ],
+      "items/armors/aegi/decorative/aegi-allianceuniform/aegi-allianceuniform.head": [
+        "/description"
+      ],
+      "items/armors/aegi/decorative/aegi-allianceuniform/aegi-allianceuniform.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The official uniform of Elithian Alliance officials."
+    }
+  }
+]

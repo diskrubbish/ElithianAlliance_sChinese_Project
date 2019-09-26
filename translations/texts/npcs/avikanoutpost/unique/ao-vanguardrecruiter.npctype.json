@@ -1,0 +1,65 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-vanguardrecruiter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/glitch/0",
+        "/scriptConfig/dialog/converse/avikan/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I doubt the Vanguard has a place for you, but we'll see."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-vanguardrecruiter.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rokhan"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-vanguardrecruiter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Vanguard could use a Captain such as yourself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-vanguardrecruiter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Vanguard uses many Droden, but none have enlisted out of their free will. Will you be the first?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-vanguardrecruiter.npctype": [
+        "/scriptConfig/dialog/converse/avikan/apex/0",
+        "/scriptConfig/dialog/converse/avikan/avian/0",
+        "/scriptConfig/dialog/converse/avikan/default/0",
+        "/scriptConfig/dialog/converse/avikan/floran/0",
+        "/scriptConfig/dialog/converse/avikan/human/0",
+        "/scriptConfig/dialog/converse/avikan/hylotl/0",
+        "/scriptConfig/dialog/converse/avikan/novakid/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You think you have what it takes to join the Vanguard?"
+    }
+  }
+]

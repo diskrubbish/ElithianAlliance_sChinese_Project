@@ -1,0 +1,68 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/akkimarirail.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki ride rails, Akki have fun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/akkimarirail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Rail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/akkimarirail.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected rails. Material analysis: assorted scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/akkimarirail.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal railsss made of sscrap."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/akkimarirail.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty ol' rails, that won't do."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/akkimarirail.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This rail does not look very sturdy."
+    }
+  }
+]

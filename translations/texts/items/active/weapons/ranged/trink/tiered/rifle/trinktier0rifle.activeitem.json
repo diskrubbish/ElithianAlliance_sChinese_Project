@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/tiered/rifle/trinktier0rifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An outdated Trink laser rifle. Taken out of commission years ago, but it still packs a punch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/tiered/rifle/trinktier0rifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Rifle Mk I"
+    }
+  }
+]

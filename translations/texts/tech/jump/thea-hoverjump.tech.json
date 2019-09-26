@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/thea-hoverjump.tech": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hold ^green;[space] ^reset; to hover after jumping the air!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tech/jump/thea-hoverjump.tech": [
+        "/shortDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hover Jump"
+    }
+  }
+]

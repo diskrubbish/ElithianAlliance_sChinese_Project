@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/trink-weldingtorch/trink-weldingtorch.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A welding torch of Trinkian design. It burns incredibly hot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/trink/trink-weldingtorch/trink-weldingtorch.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Welding Torch"
+    }
+  }
+]

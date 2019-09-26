@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-hologram/avikan-hologram.chest": [
+        "/description"
+      ],
+      "items/armors/avikan/decorative/avikan-hologram/avikan-hologram.head": [
+        "/description"
+      ],
+      "items/armors/avikan/decorative/avikan-hologram/avikan-hologram.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;Makes you appear like an Avikan hologram."
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/legendary/keffridersspear/avikan-keffridersspear.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;A spear given to true Keffriders."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/legendary/keffridersspear/avikan-keffridersspear.activeitem": [
+        "/upgradeParameters/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Keffrider's Spear ^yellow;^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/legendary/keffridersspear/avikan-keffridersspear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Keffrider's Spear^reset;"
+    }
+  }
+]

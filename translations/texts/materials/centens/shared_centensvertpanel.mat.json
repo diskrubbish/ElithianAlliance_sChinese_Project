@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensvertpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/centens/centensvertpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vertical Centensian Panel"
+    }
+  }
+]

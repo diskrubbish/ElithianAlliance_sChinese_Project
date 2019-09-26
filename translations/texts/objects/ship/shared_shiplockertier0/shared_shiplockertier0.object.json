@@ -1,0 +1,322 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/hymidDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken locker, it won't open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/erixianDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A broken ship locker, no way to open it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/avianDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A device that holds many items for safe keeping. It's broken at the moment."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/novakidDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locker. Ain't much use 'til it's fixed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/humanDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A storage locker. It doesn't seem to be working."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/hylotlDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An elegant storage solution. It's not currently powered."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/drodenDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ship locker. Status: jammed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssstorage. It'sss not working."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/description"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/description"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/description"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Store some stuff, why don't you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/aegiDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The panel is broken. No way to access the ship locker until I fix it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/avikanDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship locker is jammed. I should get it fixed as soon as possible."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The ship's storage system. It's not currently functional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/notixDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This isn't going to open until I fix up the ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship locker is broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/trinkDescription"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship locker will not open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/aegi/aegishiplockertier0/aegishiplockertier0.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/akkimari/akkimarishiplockertier0/akkimarishiplockertier0.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/avikan/avikanshiplockertier0/avikanshiplockertier0.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/ship/trink/trinkshiplockertier0/trinkshiplockertier0.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship's storage system is malfunctioning."
+    }
+  }
+]

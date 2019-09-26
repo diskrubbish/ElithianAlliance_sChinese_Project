@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "  Craft your unified Alliance items here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "  UNIFIED ALLIANCE CRAFTING STATION"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/theacraftingstation.config": [
+        "/tooltip/itemList/schema/listTemplate/itemName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Golden Moustache"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lvl. 100"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "PRODUCT"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "SCHEMATICS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/theacraftingstation.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "x?\\d{0,3}"
+    }
+  }
+]

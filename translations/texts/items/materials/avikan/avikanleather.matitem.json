@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanleather.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple leather wall tapestry."
+    }
+  }
+]

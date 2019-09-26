@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/avikan/generated/avikan-nomadaspear/avikan-nomadaspear.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/melee/avikan/spear/avikantier5spear.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Spear"
+    }
+  }
+]

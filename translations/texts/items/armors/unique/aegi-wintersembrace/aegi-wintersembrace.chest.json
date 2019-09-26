@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/aegi-wintersembrace/aegi-wintersembrace.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A strange chestplate imbued with the cold of winter. It freezes its surroundings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/unique/aegi-wintersembrace/aegi-wintersembrace.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Winter's Embrace^reset;"
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/erixianDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door. It looks like it can withstand anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blast door. What might lie beyond it?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/trinkDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong blast door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/aegiDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick blast door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
+        "/hymidDescription"
+      ],
+      "objects/rimdweller/doors/rimblastdoor/rimblastdoor.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thick blast door. It won't be breached easily."
+    }
+  }
+]

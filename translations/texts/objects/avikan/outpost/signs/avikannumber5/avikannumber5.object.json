@@ -1,0 +1,123 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien number. I believe it is five."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien symbol for the number five."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Five in some alien script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number Five"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number five in an alien script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number five, in the Avikan Script."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number five."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number-alien. Five, Akki thinks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Number. Five."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seems this number means five."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/signs/avikannumber5/avikannumber5.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This alien symbol means five."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/avikanmetalshield.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy metal shield issued to Avikan soldiers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/shields/avikanmetalshield.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Shield"
+    }
+  }
+]

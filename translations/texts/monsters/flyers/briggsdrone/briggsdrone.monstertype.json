@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/briggsdrone/briggsdrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large utility drone equipped with a powerful electromagnet."
+    }
+  }
+]

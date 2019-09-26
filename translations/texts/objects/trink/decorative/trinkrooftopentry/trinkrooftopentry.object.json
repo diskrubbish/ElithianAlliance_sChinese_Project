@@ -1,0 +1,125 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal rooftop entrance. Surpisingly, it is packed with sensors and communication systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small metal rooftop entrance, built by machines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small metal rooftop entrance, built by the Notician robots."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/apexDescription",
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small modular rooftop entrance."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small rooftop entrance piece of modular Trinkian buildings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small, rooftop entrance decorated with green lights."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki enter through roof here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Trinks are big fans of modular buildings. This small rooftop entrance will fit on pretty much every Trinkian construction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This modular rooftop entrance piece is packed with sensors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Rooftop Entry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian rooftop entrances are modular, and fit ontop of almost any Trinkian structure."
+    }
+  }
+]

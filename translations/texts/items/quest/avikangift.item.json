@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikangift.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small metal trinket, a token of gratitude amongst the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikangift.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Gift"
+    }
+  }
+]

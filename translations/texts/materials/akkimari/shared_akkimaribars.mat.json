@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimaribars.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/akkimari/akkimaribars.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Bars"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimaribars.matitem": [
+        "/description"
+      ],
+      "tiles/materials/akkimari/akkimaribars.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Incredibly sturdy metal bars."
+    }
+  }
+]

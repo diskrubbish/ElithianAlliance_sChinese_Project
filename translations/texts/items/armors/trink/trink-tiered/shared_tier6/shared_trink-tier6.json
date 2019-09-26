@@ -1,0 +1,53 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier6a/trink-tier6a.chest": [
+        "/description"
+      ],
+      "items/armors/trink/trink-tiered/tier6m/trink-tier6m.chest": [
+        "/description"
+      ],
+      "items/armors/trink/trink-tiered/tier6s/trink-tier6s.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;CHEST SLOT. ^white;A very high-grade solarium-enhanced arm mod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier6a/trink-tier6a.head": [
+        "/description"
+      ],
+      "items/armors/trink/trink-tiered/tier6m/trink-tier6m.head": [
+        "/description"
+      ],
+      "items/armors/trink/trink-tiered/tier6s/trink-tier6s.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;HEAD SLOT. ^white;A very high-grade solarium-enhanced optics mod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/trink/trink-tiered/tier6a/trink-tier6a.legs": [
+        "/description"
+      ],
+      "items/armors/trink/trink-tiered/tier6m/trink-tier6m.legs": [
+        "/description"
+      ],
+      "items/armors/trink/trink-tiered/tier6s/trink-tier6s.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Trink. ^orange;LEG SLOT. ^white;A very high-grade solarium-enhanced body mod."
+    }
+  }
+]

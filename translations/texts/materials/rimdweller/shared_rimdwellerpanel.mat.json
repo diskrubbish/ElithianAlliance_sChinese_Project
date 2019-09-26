@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rimdweller/rimdwellerpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/rimdweller/rimdwellerpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rimdweller/rimdwellerpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/rimdweller/rimdwellerpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rusty old metal panels."
+    }
+  }
+]

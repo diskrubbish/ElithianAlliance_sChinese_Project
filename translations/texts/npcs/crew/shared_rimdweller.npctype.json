@@ -1,0 +1,128 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegirimdweller.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ],
+      "npcs/crew/trink/crewmembertrinkrimdweller.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Smuggler"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegirimdweller.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ],
+      "npcs/crew/trink/crewmembertrinkrimdweller.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field>-born Criminal"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegirimdweller.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ],
+      "npcs/crew/trink/crewmembertrinkrimdweller.npctype": [
+        "/scriptConfig/crew/ranks/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "<role> Mercenary"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegirimdweller.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ],
+      "npcs/crew/trink/crewmembertrinkrimdweller.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anonymous <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegirimdweller.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ],
+      "npcs/crew/trink/crewmembertrinkrimdweller.npctype": [
+        "/scriptConfig/crew/ranks/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mercenary from the <field>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegirimdweller.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/trink/crewmembertrinkrimdweller.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegirimdweller.npctype": [
+        "/scriptConfig/crew/role/name"
+      ],
+      "npcs/crew/trink/crewmembertrinkrimdweller.npctype": [
+        "/scriptConfig/crew/role/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rimdweller"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegirimdweller.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ],
+      "npcs/crew/trink/crewmembertrinkrimdweller.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rogue <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegirimdweller.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ],
+      "npcs/crew/trink/crewmembertrinkrimdweller.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Self-trained <role>"
+    }
+  }
+]

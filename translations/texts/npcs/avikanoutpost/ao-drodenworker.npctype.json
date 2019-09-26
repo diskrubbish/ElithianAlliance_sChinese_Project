@@ -1,0 +1,146 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/avikan/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beginning conversation. Welcome, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/droden/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Droden unit. Detected civilian status. Error."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/droden/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Droden unit. Welcome."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected unknown species. Aborting conversation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/avikan/4",
+        "/scriptConfig/dialog/converse/droden/droden/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error. Conversation protocol not found. Resuming work."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Error. Species unknown. Aborting conversation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/avikan/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "For inquiries about job offers, please contact the Council of Elders Representative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am a bug! Please report me. Beep beep."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/droden/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please do not interrupt. This unit is busy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unit does not comprehend freedom. Resuming duties."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/avikan/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This unit is at your service, Captain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unknown species detected. Ending conversation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/ao-drodenworker.npctype": [
+        "/scriptConfig/dialog/converse/droden/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Starfarer's Refuge, Captain. I am at your service."
+    }
+  }
+]

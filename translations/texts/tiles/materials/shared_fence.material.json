@@ -1,0 +1,44 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancefence.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanfence.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong lookin' metal fence. Might be useful for buildin' a ranch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancefence.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanfence.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sturdy fence like this will keep out any unwanted creatures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/alliance/alliancefence.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanfence.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Metal fencing."
+    }
+  }
+]

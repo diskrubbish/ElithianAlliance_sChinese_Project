@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaributton/akkimaributton.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A touch-screen button."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimaributton/akkimaributton.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Wall Button"
+    }
+  }
+]

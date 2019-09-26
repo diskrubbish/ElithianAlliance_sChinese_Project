@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cushion-large, Akki sit, Akki rest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanlargechair/avikanlargechair.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Avikan Cushion"
+    }
+  }
+]

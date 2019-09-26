@@ -1,0 +1,104 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rails/akkimarirail.matitem": [
+        "/description"
+      ],
+      "tiles/rails/akkimarirail.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rail made of assorted scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rails/alliancerail.matitem": [
+        "/description"
+      ],
+      "items/materials/rails/avikandarkrail.matitem": [
+        "/description"
+      ],
+      "items/materials/rails/avikanrail.matitem": [
+        "/description"
+      ],
+      "items/materials/rails/trinkrail.matitem": [
+        "/description"
+      ],
+      "tiles/rails/alliancerail.material": [
+        "/description"
+      ],
+      "tiles/rails/avikandarkrail.material": [
+        "/description"
+      ],
+      "tiles/rails/avikanrail.material": [
+        "/description"
+      ],
+      "tiles/rails/trinkrail.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong reinforced rail."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rails/alliancerail.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/rails/alliancerail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Rail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rails/avikanrail.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/rails/avikanrail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Rail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rails/avikandarkrail.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/rails/avikandarkrail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dark Avikan Rail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/rails/trinkrail.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/rails/trinkrail.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Rail"
+    }
+  }
+]

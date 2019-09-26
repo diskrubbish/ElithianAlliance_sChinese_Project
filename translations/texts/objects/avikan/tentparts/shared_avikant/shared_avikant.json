@@ -1,0 +1,527 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bland leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crude leather sheet. How primitive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/description"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/description"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet used as a roof for Avikan tents."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet. Not very well crafted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather top sheet used as a tent roof. Basic, but functional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather top sheet. An essential part of a good tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive leather sheet, used for making tents."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive leather sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple tent roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple top sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple-coloured tent roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sheet of purple fabric, it functions as a tent roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather sheet used in the construction of tents."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather top sheet. Keeps tents cool on the inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/description"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/description"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent roof decorated in the style of the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent roof made of a purple fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent roof made of purple fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A top sheet decorated with the colours of the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A top sheet made of leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An oddly-coloured top sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Top Sheet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Purple tent roofsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhaiod Top Sheet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The colour of this tent roof reminds me of the Gods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The top sheet of a Rhaiod tent. It always stands out in our camps."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This tent roof is coloured an odd purple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This top sheetis decorated with the colours of the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This'll keep a tent cool on the inside."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop3/avikantalltenttop3.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop3/avikantenttop3.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopflat/avikantenttopflat.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Top sheet. Colour suggests this tent belongs to the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentparts/avikantalltenttop2/avikantalltenttop2.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop2/avikantenttop2.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Top sheet. Used to keep the interior of a tent cool."
+    }
+  }
+]

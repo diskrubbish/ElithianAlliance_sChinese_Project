@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/clothing/akkimari-weaver/akkimari-weaver.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weaver's Sling"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/clothing/akkimari-weaver/akkimari-weaver.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A silken cloth worn by silk-weavers."
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-ammogun-mf-unique.itemdescription": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-patreon.itemdescription": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-unique.itemdescription": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogunnoreload-patreon.itemdescription": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-patreon.itemdescription": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique-mf.itemdescription": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique.itemdescription": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-patreon.tooltip": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-unique.tooltip": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogunnoreload-patreon.tooltip": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-patreon.tooltip": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique-mf.tooltip": [
+        "/magazineSizeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique.tooltip": [
+        "/magazineSizeTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Magazine Size:"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/thea-ammogun-mf-unique.itemdescription": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-patreon.itemdescription": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogun-unique.itemdescription": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-ammogunnoreload-patreon.itemdescription": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-patreon.itemdescription": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique-mf.itemdescription": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/itemdescriptions/thea-chargedammogun-unique.itemdescription": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-patreon.tooltip": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogun-unique.tooltip": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-ammogunnoreload-patreon.tooltip": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-patreon.tooltip": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique-mf.tooltip": [
+        "/reloadTimeTitleLabel/value"
+      ],
+      "interface/tooltips/thea-chargedammogun-unique.tooltip": [
+        "/reloadTimeTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reload Time:"
+    }
+  }
+]

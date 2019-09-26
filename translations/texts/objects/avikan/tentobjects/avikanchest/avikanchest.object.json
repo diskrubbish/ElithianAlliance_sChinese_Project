@@ -1,0 +1,191 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crudely crafted leather bag. It wouldn't last long on Heragon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather bag, perfect for storing your goodies!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather bag."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather bag. Might be full of goodies!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather bag. Not as well protected as a chest, but much cheaper."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A poorly crafted leather bag."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive leather bag, for storing your belongings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive leather bag."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A primitive storage bag."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/dremetonDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather bag."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather bag. What's inside?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unimpressive leather bag."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Bag"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bag-leather, easy to steal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bagsss full of goodiesss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting. The Avikan nomads use leather bags, as stronger materials are rare in the desert."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanchest/avikanchest.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning content."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A table made of bone, covered in leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/boneobjects/avikanbonetable/avikanbonetable.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Table-bone. Covered with sheet-leather."
+    }
+  }
+]

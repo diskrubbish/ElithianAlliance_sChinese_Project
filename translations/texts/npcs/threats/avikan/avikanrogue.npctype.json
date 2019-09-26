@@ -1,0 +1,120 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/4",
+        "/scriptConfig/dialog/attack/avikan/droden/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Captain! Get them!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/5",
+        "/scriptConfig/dialog/attack/avikan/droden/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to drag me back to the Nomada?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/0",
+        "/scriptConfig/dialog/attack/avikan/default/4",
+        "/scriptConfig/dialog/attack/avikan/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't let you report me!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/1",
+        "/scriptConfig/dialog/attack/avikan/droden/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm never going back to the Nomada!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is the wrong place for you to be!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/7",
+        "/scriptConfig/dialog/attack/avikan/default/1",
+        "/scriptConfig/dialog/attack/avikan/droden/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made a mistake coming here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You shouldn't have come here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/avikan/2",
+        "/scriptConfig/dialog/attack/avikan/droden/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You won't take me back to the Nomada!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've crossed paths with the wrong Avikan!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/threats/avikan/avikanrogue.npctype": [
+        "/scriptConfig/dialog/attack/avikan/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've seen too much!"
+    }
+  }
+]

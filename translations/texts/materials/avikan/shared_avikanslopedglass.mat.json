@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanslopedglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanslopedglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Sloped Glass"
+    }
+  }
+]

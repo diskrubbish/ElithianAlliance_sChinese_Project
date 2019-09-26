@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikanglowstick.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long-lasting glow stick, cheap to produce but not as bright as a flare."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikanglowstick.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Glowstick"
+    }
+  }
+]

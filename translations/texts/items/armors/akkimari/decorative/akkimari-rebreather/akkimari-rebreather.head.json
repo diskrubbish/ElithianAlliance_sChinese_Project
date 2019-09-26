@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-rebreather/akkimari-rebreather.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rebreather"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-rebreather/akkimari-rebreather.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A rebreather built to allow the Akkimari to breathe on alien planets."
+    }
+  }
+]

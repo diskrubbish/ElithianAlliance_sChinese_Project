@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Automated Door"
+    }
+  }
+]

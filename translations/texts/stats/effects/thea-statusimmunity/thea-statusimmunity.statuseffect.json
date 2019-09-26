@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-statusimmunity/thea-statusimmunity.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Status Immunity"
+    }
+  }
+]

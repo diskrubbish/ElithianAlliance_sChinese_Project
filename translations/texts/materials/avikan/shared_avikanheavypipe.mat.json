@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanheavypipe.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanheavypipe.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Heavy Pipe"
+    }
+  }
+]

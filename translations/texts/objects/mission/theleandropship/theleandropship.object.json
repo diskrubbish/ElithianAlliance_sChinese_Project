@@ -1,0 +1,211 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Thelean-built dropship. Small, to Thelean standards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Thell dropship - its owners can't be far."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dropship of Thelean origin. It means that Thelean troops can't be far."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive Thelean dropship. No use trying to hijack it - Thelean technology only works for Theleans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive dropship - how big must the regular ships be?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive dropship for certain - the Theleans build to intimidate."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien dropship - it's massive!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An enormous dropship. I fear for what the regular ships must be like..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Thelean dropship. Warning: exercise extreme caution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran not ssscared by giant ssshipss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "God-thief-dropship. Akki careful, look for god-thieves. Kill them."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If the dropships are this big, how big must the regular ships be?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "One of our dropships. My kin must be near..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "T'is a dropship, alright, and a big one at that!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "That dropship is massive!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Theleans certainly know how to build large ships."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Dropship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean dropships are massive. But compared to regular Thelean ships, this one is tiny."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleandropship/theleandropship.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean dropships have always scared me..."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/trink/trink-wrench/trink-wrench.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Trinkian wrench."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/trink/trink-wrench/trink-wrench.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Wrench"
+    }
+  }
+]

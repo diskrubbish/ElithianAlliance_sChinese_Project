@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gigantic propulsion engine for a large ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A huge engine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive engine for a large Akkimari cruiser."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive engine for a large alien ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive engine for a massive ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive engine. It's surprisingly efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive propulsion engine, for an equally massive ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive propulsion engine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ship engine of massive proportions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Cruiser Engine"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big engine for ssship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected ship engine. Detected unusual proportions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Engine-massive for flying ship. Take fuel-much, give thrust-more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't think I want to hear what this engine sounds like when activated..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now THAT's an engine!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The massive propulsion engine of an Akris cruiser."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a massive engine!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipengine/akkimarishipengine.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a massive engine."
+    }
+  }
+]

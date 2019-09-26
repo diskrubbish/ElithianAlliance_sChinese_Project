@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/10ksubscribercelebration.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I received a special gift from an Aeginian friend. Let's open it!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/10ksubscribercelebration.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems you've made friends somewhere! I've got a special delivery for you, courtesy of an Aegi who wouldn't share their name, but who greatly appreciates your continued support. Enjoy your present!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/10ksubscribercelebration.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;A Special Gift"
+    }
+  }
+]

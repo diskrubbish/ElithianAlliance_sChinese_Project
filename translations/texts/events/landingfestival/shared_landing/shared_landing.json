@@ -1,0 +1,28 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/events/landingfestival/landingcache/landingcache.activeitem": [
+        "/shortdescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent1.object": [
+        "/shortdescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent2.object": [
+        "/shortdescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent3.object": [
+        "/shortdescription"
+      ],
+      "objects/events/landingfestival/landingpresent/landingpresent4.object": [
+        "/shortdescription"
+      ],
+      "objects/events/landingfestival/landingpresentbig/landingpresentbig.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Landing Festival Present"
+    }
+  }
+]

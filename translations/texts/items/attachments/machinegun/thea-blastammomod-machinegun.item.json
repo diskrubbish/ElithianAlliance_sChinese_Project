@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/machinegun/thea-blastammomod-machinegun.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machinegun ammunition that explodes on impact."
+    }
+  }
+]

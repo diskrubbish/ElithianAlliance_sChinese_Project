@@ -1,0 +1,189 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gorgeous palm tree! We don't have those on Heragon..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A palm tree to decorate your interiors."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A palm tree."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A palm tree. It requires a warm climate to survive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A palm tree. It smells fresh."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A palm tree. The home planet of my Masters is far too cold for such a tree to survive there."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A palm tree. This reminds me of the grand beaches on Hyzolia..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tree. This was a true sign of wealth on Kadavan, where trees were rare."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Lobby Tree"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cool, a palm tree for inside!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desert treesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected native Kadavan flora. Please handle with care."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Life prospers even in the harshest of environments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The leaves of these trees remind me of wings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This palm tree has been planted in alien soil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This palm tree is a sign of wealth amongst the Avikan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tree-tall. Akki climb it?"
+    }
+  }
+]

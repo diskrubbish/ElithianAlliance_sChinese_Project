@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-combat/droden-combat.chest": [
+        "/description"
+      ],
+      "items/armors/droden/decorative/droden-combat/droden-combat.head": [
+        "/description"
+      ],
+      "items/armors/droden/decorative/droden-combat/droden-combat.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A specialized Droden war frame, it is far more durable than regular frames."
+    }
+  }
+]

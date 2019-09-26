@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon of some sort."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange device, likely some alien beacon. I hope it's not calling anything here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weird beacon. What is it doing here?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weird device built by some weird alien."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki use beacon to contact home. Akki call for help, Akkimari come."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akkimari technology is impressive, but something about this beacon makes me feel uneasy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Beacon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An beacon sending out some unknown signal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran uneasssy near thiss beacon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I doubt others can hear it, but this beacon is sending out a signal that makes me nauseous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm feeling a bit ill approaching this beacon..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm feeling a bit uneasy. I'm not sure this beacon is safe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interference from this beacon is messing up my systems. Is it a scrambler?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scanning... System failure. Analysis incomplete."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's something off about this beacon..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon feels ominous somehow."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon makes me feel like something's coming for me..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon makes me feel odd."
+    }
+  }
+]

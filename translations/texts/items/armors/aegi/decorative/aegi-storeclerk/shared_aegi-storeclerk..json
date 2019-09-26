@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-storeclerk/aegi-storeclerk.chest": [
+        "/shortdescription"
+      ],
+      "items/armors/aegi/decorative/aegi-storeclerk/aegi-storeclerk.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Store Clerk Apron"
+    }
+  }
+]

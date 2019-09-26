@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/avikangunrangeunlock.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ],
+      "quests/avikanquests/avikanoutpost/avikanmechunlock.questtemplate": [
+        "/scriptConfig/descriptions/turnIn"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Rokhan^reset; in the ^orange;Starfarer's Refuge^reset;"
+    }
+  }
+]

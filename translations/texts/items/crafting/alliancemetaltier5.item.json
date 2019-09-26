@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancemetaltier5.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Allosteel with a high concentration of ferroverium."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancemetaltier5.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reinforced Allosteel"
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestoryhidden.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Story - Initial Setup"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestoryhidden.questtemplate": [
+        "/completionText",
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "This quest acts as a prerequisite to the Alliance storyline. You shouldn't be able to see this in your log."
+    }
+  }
+]

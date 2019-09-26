@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/kelbetmeat.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw Kelbet Venison"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/meat/kelbetmeat.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Raw venison banned from sale in most Union territories."
+    }
+  }
+]

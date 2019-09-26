@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/produce/loftgrain.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Loftgrain"
+    }
+  }
+]

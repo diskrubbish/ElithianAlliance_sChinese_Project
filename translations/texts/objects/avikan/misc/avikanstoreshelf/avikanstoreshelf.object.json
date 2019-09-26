@@ -1,0 +1,90 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A seemingly random collection of goods. Is this all for sale?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shelf full of Avikan goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shelf full of common Avikan goods."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shelf full of goods, both edible and decorative."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki go shopping here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An odd collection of goods and supplies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Store Shelf"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanstoreshelf/avikanstoreshelf.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This shelf has all I need to prepare a good meal."
+    }
+  }
+]

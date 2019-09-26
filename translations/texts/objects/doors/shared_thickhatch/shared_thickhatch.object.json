@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatch/alliancethickhatch.object": [
+        "/drodenDescription"
+      ],
+      "objects/rimdweller/doors/rimthickhatch/rimthickhatch.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien hatch."
+    }
+  }
+]

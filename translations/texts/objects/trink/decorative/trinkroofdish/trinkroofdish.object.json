@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A satellite dish for receiving signals, built to fit on top of a Trinkian roof."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dish-tiny, spin, spin and spin around!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Roof Dish"
+    }
+  }
+]

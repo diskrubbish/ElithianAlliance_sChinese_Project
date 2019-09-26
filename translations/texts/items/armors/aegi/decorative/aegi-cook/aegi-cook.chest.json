@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-cook/aegi-cook.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Culinarian's Top"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-cook/aegi-cook.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The upper part of a master chef's outfit."
+    }
+  }
+]

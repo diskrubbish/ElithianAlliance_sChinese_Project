@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/alliancequests/allianceoutpost/allianceuniform-aegi.questtemplate": [
+        "/title"
+      ],
+      "quests/alliancequests/allianceoutpost/allianceuniform-trink.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Suiting Up"
+    }
+  }
+]

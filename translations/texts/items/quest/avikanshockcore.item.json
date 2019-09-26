@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanshockcore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small electrical generator often found in Avikan machinery."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/avikanshockcore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Avikan Shock Core^white;"
+    }
+  }
+]

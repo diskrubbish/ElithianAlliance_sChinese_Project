@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large standardized metal container."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Alliance Crate"
+    }
+  }
+]

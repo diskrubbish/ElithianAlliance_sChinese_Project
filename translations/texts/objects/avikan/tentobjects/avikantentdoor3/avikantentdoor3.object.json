@@ -1,0 +1,147 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fabric tent door coloured in an odd shade of purple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pruple tent door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple tent door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A purple-coloured tent door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simplistically decorated tent door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/aegiDescription",
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent door decorated in the style of the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent door made of a purple fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/erixianDescription",
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tent door made of purple fabric."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected tent door. Colour suggests this tent belongs to the Rhaiod."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Door-purple. Sway in the wind."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhaiod Tent Door"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The door to a Rhaiod tent."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The door to a tent."
+    }
+  }
+]

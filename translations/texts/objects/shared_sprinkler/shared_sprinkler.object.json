@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated soil watering solution."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is an automated soil watering solution. I enjoy watering my plants by hand."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is used to water crops. Simple, but rather clever."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a machine that waters crops automatically."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waterin' crops made simple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Waters cropss.."
+    }
+  }
+]

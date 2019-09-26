@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier1/droden-tier1.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iron Chassis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/tiered/tier1/droden-tier1.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A basic iron chassis upgrade."
+    }
+  }
+]

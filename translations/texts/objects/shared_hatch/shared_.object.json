@@ -1,0 +1,109 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatch/alliancethickhatch.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanhatch/avikanhatch.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanhatchlong/avikanhatchlong.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatch/avikanthickhatch.object": [
+        "/description"
+      ],
+      "objects/rimdweller/doors/rimthickhatch/rimthickhatch.object": [
+        "/description"
+      ],
+      "objects/trink/doors/trinkhatch/trinkhatch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal hatch, for closing off vertical compartments."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatch/alliancethickhatch.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanescapehatch/avikanescapehatch.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanhatch/avikanhatch.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanhatchlong/avikanhatchlong.object": [
+        "/novakidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatch/avikanthickhatch.object": [
+        "/novakidDescription"
+      ],
+      "objects/rimdweller/doors/rimthickhatch/rimthickhatch.object": [
+        "/novakidDescription"
+      ],
+      "objects/trink/doors/trinkhatch/trinkhatch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal hatch, like a modern trapdoor."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatch/alliancethickhatch.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanhatch/avikanhatch.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanhatchlong/avikanhatchlong.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatch/avikanthickhatch.object": [
+        "/floranDescription"
+      ],
+      "objects/rimdweller/doors/rimthickhatch/rimthickhatch.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/doors/trinkhatch/trinkhatch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal hatchesss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatch/alliancethickhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanhatch/avikanhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanhatchlong/avikanhatchlong.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanthickhatch/avikanthickhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/rimdweller/doors/rimthickhatch/rimthickhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/trink/doors/trinkhatch/trinkhatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a metal hatch."
+    }
+  }
+]

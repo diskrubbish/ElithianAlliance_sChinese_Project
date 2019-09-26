@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessleather.material": [
+        "/novakidDescription"
+      ],
+      "tiles/materials/avikan/avikanleather.material": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather sheet great for makin' tents, but otherwise it's rather dull."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessleather.material": [
+        "/description"
+      ],
+      "tiles/materials/avikan/avikanleather.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather wall sheet for decoration and insulation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessleather.material": [
+        "/drodenDescription"
+      ],
+      "tiles/materials/avikan/avikanleather.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Leather wall sheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessleather.material": [
+        "/floranDescription"
+      ],
+      "tiles/materials/avikan/avikanleather.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss reminded of home by leather ssheets."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessleather.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/avikan/avikanleather.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather-tough. Akki like the pattern."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/avikan/avikanborderlessleather.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanleather.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This leather wall sheet can easily catch fire."
+    }
+  }
+]

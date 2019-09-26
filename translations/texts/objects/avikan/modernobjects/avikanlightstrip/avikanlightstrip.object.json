@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanlightstrip/avikanlightstrip.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light"
+    }
+  }
+]

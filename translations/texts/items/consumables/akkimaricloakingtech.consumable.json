@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/akkimaricloakingtech.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A single-use projector that temporarily hides the user from view."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/akkimaricloakingtech.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Cloaking Projector"
+    }
+  }
+]

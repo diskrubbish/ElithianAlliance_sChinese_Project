@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier2/akkimari-tier2.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vandal's Hood"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier2/akkimari-tier2.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A hood worn by those who scrap alien ships for parts."
+    }
+  }
+]

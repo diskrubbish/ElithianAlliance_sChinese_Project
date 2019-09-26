@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatchmother's Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/clothes/avikan-hatchmother/avikan-hatchmother.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;The skirt of an Avikan hatchmother."
+    }
+  }
+]

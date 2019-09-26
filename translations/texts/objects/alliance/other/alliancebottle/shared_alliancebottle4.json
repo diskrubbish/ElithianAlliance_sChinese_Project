@@ -1,0 +1,132 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of Vahlberry juice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of juice from the Union."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/hymidDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bottle of juice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A full bottle of juice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A highly nutritional juice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I love this alien juice!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just a bottle of Vahlberry juice, produced somewhere in the Union."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Many Aegi enjoy this Vahlberry juice."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/alliancebottle/alliancebottle4-decorative.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/other/alliancebottle/alliancebottle4.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi make great drinks."
+    }
+  }
+]

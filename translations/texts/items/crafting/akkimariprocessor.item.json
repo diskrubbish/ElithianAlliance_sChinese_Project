@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimariprocessor.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful, compact processor unit that offers incredible processing power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimariprocessor.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Omnicore"
+    }
+  }
+]

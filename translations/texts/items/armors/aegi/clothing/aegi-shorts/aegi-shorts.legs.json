@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-shorts/aegi-shorts.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shorts and Shoes"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/clothing/aegi-shorts/aegi-shorts.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;Shorts and shoes popular amongst Union citizens."
+    }
+  }
+]

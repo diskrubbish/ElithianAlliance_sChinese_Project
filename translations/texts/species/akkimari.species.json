@@ -1,0 +1,101 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/akkimari.species": [
+        "/charGenTextLabels/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "AKKIMARI"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/akkimari.species": [
+        "/charCreationTooltip/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akkimari"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/akkimari.species": [
+        "/charGenTextLabels/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chestwear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/akkimari.species": [
+        "/charGenTextLabels/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chestwear colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/akkimari.species": [
+        "/charGenTextLabels/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ear Size"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/akkimari.species": [
+        "/charGenTextLabels/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fur colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/akkimari.species": [
+        "/charGenTextLabels/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skin Colour"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/akkimari.species": [
+        "/charCreationTooltip/subTitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spacefaring scavengers"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/akkimari.species": [
+        "/charCreationTooltip/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Akkimari are a broken race, their society still recovering from the loss of the AI that ruled them. Now, many Akkimari roam the galaxy as scavengers and bounty hunters, searching for their AI and riches both."
+    }
+  }
+]

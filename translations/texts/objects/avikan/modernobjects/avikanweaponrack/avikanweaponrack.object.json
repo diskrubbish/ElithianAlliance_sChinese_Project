@@ -1,0 +1,79 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponrack/avikanweaponrack.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall-mounted weapons rack with a magnetic lock. There's place for more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponrack/avikanweaponrack.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Weapon Rack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponrack/avikanweaponrack.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Nomada-approved weapons rack. Analysis indicates one weapon has been signed out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponrack/avikanweaponrack.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran doesss not want to hang weaponss here. Floran keepss their weaponsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponrack/avikanweaponrack.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a type of wall-mounted weapon storage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponrack/avikanweaponrack.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wall-mounted weapons rack uses a magnetic lock to keep the weapons secure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanweaponrack/avikanweaponrack.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Weapons-alien. Akki take them, use against aliens. Akki laugh!"
+    }
+  }
+]

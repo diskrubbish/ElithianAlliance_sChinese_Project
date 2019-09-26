@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier4/akkimari-tier4.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marauder's Greaves"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/tiered/tier4/akkimari-tier4.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;Greaves and a tactical belt worn by cunning raiders."
+    }
+  }
+]

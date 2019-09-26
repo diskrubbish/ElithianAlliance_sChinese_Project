@@ -1,0 +1,86 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliancetailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Come to me if you want to update your crew's uniform!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ],
+      "npcs/crew/alliance/crewmemberalliancetailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Incredible fashion sense, captain!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ],
+      "npcs/crew/alliance/crewmemberalliancetailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looking good!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
+      ],
+      "npcs/crew/alliance/crewmemberalliancetailor.npctype": [
+        "/scriptConfig/dialog/crewmember/roleDescription/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My tailoring skills let me update your crew's uniform. Just speak to me when you need my services!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ],
+      "npcs/crew/alliance/crewmemberalliancetailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "That look is definitely in this season!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegitailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ],
+      "npcs/crew/alliance/crewmemberalliancetailor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "This outfit will make your crew really stand out. Great choice, captain!"
+    }
+  }
+]

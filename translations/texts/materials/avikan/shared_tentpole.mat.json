@@ -1,0 +1,48 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanfabrictentpole.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "items/materials/avikan/avikantentpole.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanfabrictentpole.material": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikanpurplefabrictentpole.material": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/avikan/avikantentpole.material": [
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal tent pole."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanfabrictentpole.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/avikan/avikantentpole.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanfabrictentpole.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikantentpole.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Tent Pole"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikantentdoor/avikantentdoor.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikancanopy/avikancanopy.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikanentry/avikanentry.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikantalltenttop/avikantalltenttop.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttop/avikantenttop.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/tentparts/avikantenttopmid/avikantenttopmid.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather makesss Floran want to huntsss."
+    }
+  }
+]

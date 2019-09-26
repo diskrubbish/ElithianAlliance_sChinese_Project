@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/primecore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An experimental mobile generator using state-of-the-art Trinkian technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/primecore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Prime Core^white;"
+    }
+  }
+]

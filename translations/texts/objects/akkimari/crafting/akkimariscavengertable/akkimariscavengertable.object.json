@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A workshop full of recycling tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A worktable for recycling weapons into scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A worktable full of recycling tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A worktable where I can scrap items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki take weapons here, make metal-scrap. Use metal-scrap to make weapons-new!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis complete. Workshop. Specialized tools for the recycling of metals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Crude tools for scrapping weapons into their base components."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran take weaponsss here, break them apart!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could scrap some items here and get scrap metal in return."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could scrap some items with these tools."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I don't want my guns anywhere near this."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scavenger's Worktable"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These alien tools seem to have been made for the recycling of metals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These are specialized tools for the recycling of various metals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tools are used to scrap items into scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tools are useful for recycling items."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tools for recycling metal. I don't feel comfortable here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tools for recycling metals into scrap metal"
+    }
+  }
+]

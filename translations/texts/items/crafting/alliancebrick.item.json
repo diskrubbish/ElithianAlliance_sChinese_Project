@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancebrick.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy and extremely hard stone brick."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancebrick.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Brick"
+    }
+  }
+]

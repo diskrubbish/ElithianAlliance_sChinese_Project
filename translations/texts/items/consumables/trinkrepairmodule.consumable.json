@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/trinkrepairmodule.consumable": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic self-repair module. Restores 500 health over 30 seconds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/consumables/trinkrepairmodule.consumable": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Repair Module"
+    }
+  }
+]

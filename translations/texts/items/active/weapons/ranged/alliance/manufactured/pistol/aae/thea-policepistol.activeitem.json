@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/pistol/aae/thea-policepistol.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "P-ASA Enforcer P-6"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/pistol/aae/thea-policepistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The standard handgun held by P-ASA officers."
+    }
+  }
+]

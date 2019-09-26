@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponcollection/uniqueweaponcollectiongui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Reclaim lost Unique equipment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponcollection/uniqueweaponcollectiongui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Unique Equipment Reforger"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponcollection/uniqueweaponcollectiongui.config": [
+        "/gui/essenceCostDescription/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "REQUIRED ESSENCE"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponcollection/uniqueweaponcollectiongui.config": [
+        "/gui/btnReconstruct/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Reclaim"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponcollection/uniqueweaponcollectiongui.config": [
+        "/gui/emptyLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't have Unique Equipment in your Collections!"
+    }
+  }
+]

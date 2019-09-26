@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/thea-bubbleshieldaugment1.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bubble Shield Augment I"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/thea-bubbleshieldaugment1.augment": [
+        "/augment/displayName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bubble Shield I"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/thea-bubbleshieldaugment1.augment": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Provides a shield that absorbs a small amount of damage before breaking."
+    }
+  }
+]

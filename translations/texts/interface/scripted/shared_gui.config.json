@@ -1,0 +1,100 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponcollection/uniqueweaponcollectiongui.config": [
+        "/gui/essenceCost/value"
+      ],
+      "interface/scripted/vehiclerepair/alliance-vehiclerepairgui.config": [
+        "/gui/chipCost/value"
+      ],
+      "interface/scripted/vehiclerepair/avikan-vehiclerepairgui.config": [
+        "/gui/chipCost/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "0 / --"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/lblTradeItemQuantity/value"
+      ],
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/lblTradeItemQuantity/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "20/20"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/uniqueweaponcollection/uniqueweaponcollectiongui.config": [
+        "/gui/btnCancel/caption"
+      ],
+      "interface/scripted/vehiclerepair/alliance-vehiclerepairgui.config": [
+        "/gui/cancel/caption"
+      ],
+      "interface/scripted/vehiclerepair/avikan-vehiclerepairgui.config": [
+        "/gui/cancel/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cancel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/akkimariscavenging/akkimariscavenginggui.config": [
+        "/gui/btnDismantle/caption"
+      ],
+      "interface/scripted/allianceweaponattachment/allianceweaponattachmentgui.config": [
+        "/gui/btnDetach/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dismantle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/lblWarningText/value"
+      ],
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/lblWarningText/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Make sure your crew isn't full. No refunds possible!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/alliancerecruitment/alliancerecruitmentgui.config": [
+        "/gui/btnRecruitCombat/caption",
+        "/gui/btnRecruitEngineer/caption",
+        "/gui/btnRecruitJanitor/caption",
+        "/gui/btnRecruitMechanic/caption",
+        "/gui/btnRecruitMedic/caption",
+        "/gui/btnRecruitTailor/caption"
+      ],
+      "interface/scripted/avikandrodenshop/avikandrodenshopgui.config": [
+        "/gui/btnRecruitCombat/caption",
+        "/gui/btnRecruitEngineer/caption",
+        "/gui/btnRecruitMechanic/caption",
+        "/gui/btnRecruitMedic/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Recruit"
+    }
+  }
+]

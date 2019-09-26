@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikanjavelin.thrownitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sharp javelin made of monster bone. It harvests special hunting materials."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/throwables/avikanjavelin.thrownitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Javelin"
+    }
+  }
+]

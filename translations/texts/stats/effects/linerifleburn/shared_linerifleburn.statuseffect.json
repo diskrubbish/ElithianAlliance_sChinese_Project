@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/linerifleburn/linerifleburn.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/linerifleburn/violatedlinerifleburn.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Linecharge Burn"
+    }
+  }
+]

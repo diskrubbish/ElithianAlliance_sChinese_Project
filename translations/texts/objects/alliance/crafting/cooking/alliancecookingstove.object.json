@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Alliance Stove"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic stove of Aeginian design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic stove."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard model stove, for cooking food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard model stove, found in almost any Aeginian kitchen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stove, just like the ones we had back home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki cook food, make tasty-more."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An alien stove, but I'm certain I can get it to work."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien stove. Organic food can be used as unit fuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's do some cooking!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Like many Aeginian machines, this stove is unusually efficient."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Alliance Stove^white;"
+    }
+  }
+]

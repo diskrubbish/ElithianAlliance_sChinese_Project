@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-embassyrepresentative.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mumam"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-embassyrepresentative.npctype": [
+        "/scriptConfig/dialog/converse/default/aegi/0",
+        "/scriptConfig/dialog/converse/default/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome back to the Creon Embassy, ambassador <entityname>."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-embassyrepresentative.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to the Creon Embassy, traveler."
+    }
+  }
+]

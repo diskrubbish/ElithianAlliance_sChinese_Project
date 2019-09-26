@@ -1,0 +1,722 @@
+[
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alpha"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "BIT"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "BYTE"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/19"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beta"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/45"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "CLOUD"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "CPU"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "DATA"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "DISK"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "DRIVE"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/21"
+      ]
+    },
+    "Texts": {
+      "Eng": "Delta"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/42"
+      ]
+    },
+    "Texts": {
+      "Eng": "Down"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/22"
+      ]
+    },
+    "Texts": {
+      "Eng": "Epsilon"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/24"
+      ]
+    },
+    "Texts": {
+      "Eng": "Eta"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exa"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "Exbi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "FLOP"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "FLUX"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/20"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gamma"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/12"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gibi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Giga"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "HERTZ"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/43"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/26"
+      ]
+    },
+    "Texts": {
+      "Eng": "Iota"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/27"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kappa"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kibi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kilo"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/15"
+      ]
+    },
+    "Texts": {
+      "Eng": "LOAD"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/28"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lambda"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/11"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mebi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mega"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/29"
+      ]
+    },
+    "Texts": {
+      "Eng": "Mu"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "NYBBLE"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Niv"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "OS"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/40"
+      ]
+    },
+    "Texts": {
+      "Eng": "Omega"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/31"
+      ]
+    },
+    "Texts": {
+      "Eng": "Omicron"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/14"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pebi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peta"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/37"
+      ]
+    },
+    "Texts": {
+      "Eng": "Phi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/32"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/39"
+      ]
+    },
+    "Texts": {
+      "Eng": "Psi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "RAM"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "ROM"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/33"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rho"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/34"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sigma"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/35"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tau"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/13"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tebi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tera"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/25"
+      ]
+    },
+    "Texts": {
+      "Eng": "Theta"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/41"
+      ]
+    },
+    "Texts": {
+      "Eng": "Up"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/36"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upsilon"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/2/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "WARE"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/44"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/30"
+      ]
+    },
+    "Texts": {
+      "Eng": "Xi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/17"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yobi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yotta"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/16"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zebi"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/23"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zeta"
+    }
+  },
+  {
+    "Comment": "Characters names",
+    "DeniedAlternatives": [],
+    "Files": {
+      "species/trinknamegen.config": [
+        "/names/1/1/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Zetta"
+    }
+  }
+]

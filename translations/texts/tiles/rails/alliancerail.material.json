@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/alliancerail.material": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected rail."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/rails/alliancerail.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rails-shiny, Akki ride them fast!"
+    }
+  }
+]

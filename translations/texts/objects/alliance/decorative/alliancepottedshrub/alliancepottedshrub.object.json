@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancepottedshrub/alliancepottedshrub.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shrub native to Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancepottedshrub/alliancepottedshrub.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant-small, not like Akris."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancepottedshrub/alliancepottedshrub.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Potted Elithian Shrub"
+    }
+  }
+]

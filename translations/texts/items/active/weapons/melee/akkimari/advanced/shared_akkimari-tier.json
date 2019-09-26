@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/melee/akkimari/advanced/broadsword/akkimari-tier4broadsword.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/akkimari/advanced/dagger/akkimari-tier5dagger.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/melee/akkimari/advanced/shortsword/akkimari-tier4shortsword.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heated blade used by bounty hunters of the Kelraaki."
+    }
+  }
+]

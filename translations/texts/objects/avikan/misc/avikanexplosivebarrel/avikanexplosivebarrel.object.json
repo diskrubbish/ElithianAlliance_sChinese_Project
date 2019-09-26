@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barrel filled with explosive fuel. I'd better be careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barrel filled with highly volatile fuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A barrel full of explosive fuel..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fuel-filled barrel. It could ignite if the barrel is broken."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal barrel filled with explosive fuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An exlosive barrel. You can tell by its red colour, if games have taught me anything."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Explosive Barrel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Barrel-fuel. Akki ignite, then big boom!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Explosive substance detected."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran afraid of fire barrelsss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If my videogame experiences have taught me anything, it's that this will likely blow up if I shoot it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like alien dynamite, this'll make a big bad boom."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fuel inside is highly flammable. This barrel makes for a good makeshift bomb."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This barrel is filled with a volatile fuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This barrel is shut for a good reason. Its content might be explosive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This barrel resonates quite pleasantly. The sound of it exploding would be less pleasant..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This container is filled with a highly explosive compound, most likely some alien spaceship fuel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This container is filled with explosive fuel."
+    }
+  }
+]

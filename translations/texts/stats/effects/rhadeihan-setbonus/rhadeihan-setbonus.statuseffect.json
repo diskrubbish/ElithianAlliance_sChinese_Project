@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/rhadeihan-setbonus/rhadeihan-setbonus.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "SET BONUS: Damage increase at full health"
+    }
+  }
+]

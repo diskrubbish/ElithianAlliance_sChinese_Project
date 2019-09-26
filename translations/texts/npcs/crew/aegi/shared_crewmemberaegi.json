@@ -1,0 +1,120 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ],
+      "npcs/crew/aegi/crewmemberaegipolice.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Administrative Worker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Calibrator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/ranks/8"
+      ],
+      "npcs/crew/aegi/crewmemberaegipolice.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Clerk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Master <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/ranks/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Novice"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ],
+      "npcs/crew/aegi/crewmemberaegimedic.npctype": [
+        "/scriptConfig/crew/ranks/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Specialist"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/ranks/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Technician"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/aegi/crewmemberaegiengineer.npctype": [
+        "/scriptConfig/crew/role/field"
+      ],
+      "npcs/crew/aegi/crewmemberaegimechanic.npctype": [
+        "/scriptConfig/crew/role/field"
+      ]
+    },
+    "Texts": {
+      "Eng": "Enerth"
+    }
+  }
+]

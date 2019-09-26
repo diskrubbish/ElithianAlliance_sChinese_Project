@@ -1,0 +1,36 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariwallswitch/akkimariwallswitch.object": [
+        "/description"
+      ],
+      "objects/alliance/wired/alliancewallswitch/alliancewallswitch.object": [
+        "/description"
+      ],
+      "objects/avikan/wired/avikanwallswitch/avikanwallswitch.object": [
+        "/description"
+      ],
+      "objects/trink/wired/trinkwallswitch/trinkwallswitch.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small wall-mounted switch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/wired/akkimariwallswitch/akkimariwallswitch.object": [
+        "/shortdescription"
+      ],
+      "objects/alliance/wired/alliancewallswitch/alliancewallswitch.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Wall Switch"
+    }
+  }
+]

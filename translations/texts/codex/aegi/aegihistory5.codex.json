@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aegihistory5.codex": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Aeginian History - Part 5"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aegihistory5.codex": [
+        "/contentPages/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The planet was named Elithia, and after a suitable landing location was located, the landing procedure was initiated. The descend into the atmosphere was rough, and while many of the ships were damaged on approach, all of the crew survived the landing.\n\nThe settlers located a plot of land suitable to their needs and created the first Human settlement on Elithia: Creon City."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aegihistory5.codex": [
+        "/contentPages/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The spaceships that were too badly damaged to fly again were dismantled and used as resources for the construction of this new settlement, while the surviving spaceships were used as temporary housing. These ships would later be stored in a large hangar for future use."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "codex/aegi/aegihistory5.codex": [
+        "/contentPages/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Chapter 4 - First Contact^reset;\n\nIn 4 AA, the settlers encountered a sentient, aquatic species native to Elithia: the Dremetons. This species was in a tribal stage of evolution and were initially hostile towards the settlers. The settlers argued over how to deal with the Dremeton, but were unable to come to an agreement."
+    }
+  }
+]

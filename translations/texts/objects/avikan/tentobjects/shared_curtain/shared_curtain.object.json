@@ -1,0 +1,128 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crude leather curtain."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A curtain made of leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A curtain made of leather. Unusual."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
+        "/description"
+      ],
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather curtain. Common decoration for Avikan homes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather curtain. Not very colourful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather curtain. They were never quite as popular as tapestries for home decoration."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather curtain. What creature was this made from?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather curtain. Not very well crafted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/tentobjects/avikanlongcurtain/avikanlongcurtain.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather curtains would not last long on Heragon."
+    }
+  }
+]

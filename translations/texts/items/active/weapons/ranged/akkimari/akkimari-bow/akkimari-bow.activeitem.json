@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/akkimari/akkimari-bow/akkimari-bow.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Makeshift Bow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/akkimari/akkimari-bow/akkimari-bow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^gray;A makeshift metal bow, used to harvest meat and materials."
+    }
+  }
+]

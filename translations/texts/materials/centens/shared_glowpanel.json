@@ -1,0 +1,34 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/centens/centensglowpanel.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/centens/centensglowpanel2.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/centens/centensvertglowpanel.matitem": [
+        "/shortdescription"
+      ],
+      "items/materials/centens/centensvertglowpanel2.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/centens/centensglowpanel.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/centens/centensglowpanel2.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/centens/centensvertglowpanel.material": [
+        "/shortdescription"
+      ],
+      "tiles/materials/centens/centensvertglowpanel2.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glowing Centensian Panel"
+    }
+  }
+]

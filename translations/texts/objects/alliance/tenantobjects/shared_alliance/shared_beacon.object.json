@@ -1,0 +1,262 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon for summoning Alliance guard tenants. I'd love to meet some more desert folk!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon for summoning an armed alien tenant. I'd better be careful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon for summoning armed Alliance tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/dremetonDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beacon that can summon an Alliance guard if used in the right place."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Beacon call in tenants, tenants fight for Akki."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected beacon. Use in combination with a colony deed to summon armed Alliance tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/description"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/description"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/description"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/description"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/description"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon could attract an armed Alliance tenant in combination with a colony deed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon summons Alliance guards. I am not sure if it's a good idea to use it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon will attract armed Alliance tenants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/tenantobjects/alliancesoldierbeacon/alliancesoldierbeacon.object": [
+        "/centensDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier2beacon/alliancetier2beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier3beacon/alliancetier3beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier4beacon/alliancetier4beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier5beacon/alliancetier5beacon.object": [
+        "/centensDescription"
+      ],
+      "objects/alliance/tenantobjects/alliancetier6beacon/alliancetier6beacon.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This beacon will summon an armed tenant. I wonder what sort of primitive weaponry they will use?"
+    }
+  }
+]

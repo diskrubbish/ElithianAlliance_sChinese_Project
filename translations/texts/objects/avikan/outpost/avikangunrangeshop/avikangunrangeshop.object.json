@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunrangeshop/avikangunrangeshop.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Robot sell things. Akki rather steal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikangunrangeshop/avikangunrangeshop.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title",
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Token Exchange"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-meltdown/thea-meltdown.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meltdown"
+    }
+  }
+]

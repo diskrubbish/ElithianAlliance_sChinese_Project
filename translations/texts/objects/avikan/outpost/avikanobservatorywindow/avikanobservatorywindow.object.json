@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanobservatorywindow/avikanobservatorywindow.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Observatory Window"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanobservatorywindow/avikanobservatorywindow.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/dremetonDescription",
+        "/erixianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/novakidDescription",
+        "/theleanDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This window provides an excellent view."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanobservatorywindow/avikanobservatorywindow.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "View-beautiful. Akki like."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimarimetaltier6.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "High quality scrap metal integrated with Akkimari tech."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/akkimarimetaltier6.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Integrated Scrap Metal"
+    }
+  }
+]

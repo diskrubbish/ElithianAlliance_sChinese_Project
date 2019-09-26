@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Farewell, traveller."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Here we are. Let's do some trading, then."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got plenty of good Gad'hur for sale here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've got plenty of good Gad'hur for sale."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "My ranch is this way, traveller."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps you'd be interested in purchasing a mount?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/follow/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please, follow me to my ranch."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhadeis guide you, traveller."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/welcome/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is my ranch. See a mount you like yet?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/end/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Walk well, traveller."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/tout/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you be interested in a mount?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikan/merchants/avikangadhurherder.npctype": [
+        "/scriptConfig/dialog/merchant/start/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Would you like to buy a Gad'hur?"
+    }
+  }
+]

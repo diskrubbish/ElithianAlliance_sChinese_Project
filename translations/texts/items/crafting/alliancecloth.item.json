@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancecloth.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small piece of woven cloth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/alliancecloth.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Woven Cloth"
+    }
+  }
+]

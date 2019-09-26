@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkgroundpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/trink/trinkgroundpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Floor"
+    }
+  }
+]

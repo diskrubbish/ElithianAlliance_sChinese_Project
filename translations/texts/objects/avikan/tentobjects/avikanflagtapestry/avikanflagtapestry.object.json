@@ -1,0 +1,167 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crude leather tapestry decorated with the Avikan flag."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A decorated leather tapestry. Are those wings?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather tapestry decorated with an emblem. I wonder what it means."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A leather tapestry, decorated with the Avikan flag."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple leather tapestry, decorated with some sort of emblem. Not very well crafted."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tapestry, decorated with our flag. One day, we will return to Kadavan and reclaim our home."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An emblem symbolizing the Avikan exodus at the hands of the Thelean invaders. Touching."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Flag Tapestry"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Icon-alien. Akki think it mean Nomada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/centensDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Interesting. The Avikan almost always decorate their homes with memories of their lost homeplanet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This emblem is not available in my database."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This emblem symbolizes a grand exodus."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/dremetonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This emblem symbolizes a great tragedy - the Avikan exile from their homeplanet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This emblem symbolizes the Avikan exodus from Kadavan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/tentobjects/avikanflagtapestry/avikanflagtapestry.object": [
+        "/hyvonDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unimpressive, like the people it belongs to."
+    }
+  }
+]

@@ -1,0 +1,1807 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-voiceofrhadeis/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Centensian weapon which can adapt to any situation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-ayurinswrath/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Vanguard Missile Pod modified by Ayurin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-jackofkings/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A beastly, multi-purpose hand cannon and plasma blade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-karchaablade/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A blade used by the savage Karchaa tribe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-shalakkaritualstaff/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bladed staff used in the rituals of Shalakka shamans."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikanteslaspear/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bone spear built around an electric shock generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-hallakhantooth/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bow ground down from a tooth of Halla'Khan."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-shakkar/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A brutal spear with an electrified blade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-sidewinder/description",
+        "/collectables/thea-skylighter/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A classic revolver-style sidearm using a conventional magazine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trink-arclighter/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A close-range electric weapon capable of dealing massive sustained damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/notix-snowpiercer/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A devastating cryogenic weapon designed by the Notix."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-vaulaar/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dual-barrel assault rifle for causing mayhem."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-nauroo/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dual-barrel rocket launcher built to impress."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-supremacy/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fast assault rifle with a built-in heat sink system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-erito/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A graceful longsword with a near-unbreakable edge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-excalibur/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A grand Aevis crafted in honor of the Taemera family."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-wrathofrhadeis/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hammer wielding the strength of a Centensian god."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-vhalakinlongbow/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy linebow built by the secluded clans of Vhalakis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-linebreaker/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A heavy weapon housing multiple linecharge systems."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-defiant/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high precision laser rifle which ramps up in power over time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-breacher/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high-power railgun capable of firing through solid walls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-siegerunner/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A hybrid assault rifle utilizing a conventional magazine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-airstrike/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A laser linked to the ship's Orbital Targeting System."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-stinger/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A lightweight driftrifle built for tactical incursions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-vhalakinbow/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A linebow built by the secluded clans of Vhalakis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-guardbreakersbow/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A linerifle built for elite Vanguard troops."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-corruptorsbow/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A linerifle corrupted by Thelean vesomeyr."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-nulldrivevector/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A linerifle using a unique drive for near-instant charging."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-tributelance/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long and powerful lance forged in tribute to Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-rhakorilongbow/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A longbow built by the clans of the Rhakori Highlands."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-sawbladelauncher/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A makeshift Akkimari weapon firing razor-sharp sawblades."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-blastsling/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A makeshift slingshot loaded with various bombs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trink-debilitator/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massive shock baton built to incapacitate enemies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-primeinitiative/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A massively powerful linerifle built to rip through enemy lines."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-sandcannon/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A merciless stream of sand to keep your enemies at bay."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-branditzer/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A minimalistic railgun firing dual overheated slugs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/zaheedsword/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modified Droden longsword used by commander Zaheed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-skoffwreckersbow/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A monstrous linerifle capable of downing ships in flight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-deathseeker/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A mysterious weapon that fires enemy-seeking orbs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-meltdown/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful beam rifle that causes its targets to overheat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-tributebow/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful bow crafted in tribute to Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-lightstalker/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful linebow that doubles as a spear."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-oculusshield/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful shield projector built using Centensian technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-scrapyard/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful shrapnel cannon popular amongst scavengers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-excelsior/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful sidearm with a built-in heat sink system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/drodenlegion/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pre-Exodus switchgear blade, made for the Droden Legion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-seekersmg/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A prototype compact linerifle developed by the Seekers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-lightrunner/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A prototype weapon born from a classified research project."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-razaara/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A razor-sharp whirlblade that slices through flesh and bone with ease."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-chraakcannon/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A re-purposed artillery cannon that doubles as a spiked hammer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-vhelinsrifle/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reproduction of Ilyalat Ande Vhelin's legendary weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trink-shockbolter/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reverse-engineered Thelean design built to shock foes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-oathbreaker/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shotgun firing a single devastating slug."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-anakahrstaff/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A staff armed with dual static linecharge drives."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/aegi-wintersembrace/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange chestplate imbued with the cold of winter. It freezes its surroundings."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-shadowsembrace/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sword cloaked in shadows, built for the Harrowing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-errasslayerslance/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A unique line rifle built to decimate the Errasmeyr."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-jumpfireprotocol/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A unique weapon built using Centensian and Avikan tech."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-terveleadersbow/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A versatile linerifle worthy of a true Terve leader."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-thellhuntersbow/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weapon once held by the Thellhunter of legend."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-handofrhadeis/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A weapon said to have been held by Rhadeis himself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-corsair/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A well-balanced weapon favoured by pirates from the Rim."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-achaari/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Achaari Adviser"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-violator/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Ion Cannon enhanced with Thelean technology."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-achaari/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An accurate driftrifle equipped with a lightweight disposable magazine."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-kelchisdecree/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An agile scathe used by the chosen warriors of Kel'chis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-charakkiblade/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An agile scathe used by the ferocious Charakki tribe."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-vhaleihanspear/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient spear powered by a shard of the Xanafir."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-voideater/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient weapon built to bend space-time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-sundrainer/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ancient weapon that drains stars for power."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trinkprimecircuit/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An eletric prod powered by an overcharged generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trink-energizer/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An energy rifle built for tactical incursions."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-thorn/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An extending lance with incredible reach, favoured by Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trink-frostlaser/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ice-cold laser that freezes its targets solid."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-conscriptor/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An intimidating revolver once held by the elder of Vathra."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-vengeance/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old Vaash rifle that has avenged many lives."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-offender/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old break-action Vaash gun once used to commit numerous crimes."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-tributesword/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ultra-sharp blade forged in tribute to Elithia."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-ashatok/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An unstable makeshift weapon that randomly fires highly volatile projectiles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-anakahrstaff/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Anakahr Staff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-ashatok/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ashatok"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-ayurinswrath/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ayurin's Wrath"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-tributesword/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blade of the Elithian"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-blastsling/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Blastsling"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikanteslaspear/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bone Coil Spear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-tributebow/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bow of the Elithian"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-branditzer/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Branditzer Type-1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-breacher/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Breacher K-1"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-excelsior/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "C22 Excelsior"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-supremacy/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "C30 Supremacy"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-lightrunner/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "C42 Lightrunner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-defiant/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "C56 Defiant"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-meltdown/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "C66 Meltdown"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-architect/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Centensian components allow this weapon to summon constructs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-charakkiblade/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Charakki Blade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-chraakcannon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Chraak Cannon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-conscriptor/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Conscriptor"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-corruptorsbow/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corruptor's Bow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-corsair/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Corsair Type-2"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trink-frostlaser/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "DS-03 FROST"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-deathseeker/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Deathseeker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-sandcannon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Desert's Embrace"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-erito/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Erito"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-errasslayerslance/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Errasslayer's Lance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-eventhorizon/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Event Horizon"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-excalibur/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Excalibur"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-fireworkattachment/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fireworks Launcher"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-guardbreakersbow/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Guardbreaker's Bow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trink-energizer/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "HL-5 Energizer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-handofrhadeis/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hand of Rhadeis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-jackofkings/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jack of Kings"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-jumpfireprotocol/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Jumpfire Protocol"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-karchaablade/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Karchaa Blade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-kelchisdecree/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kelchis's Decree"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-tributelance/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lance of the Elithian"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-lightstalker/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lightstalker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-linebreaker/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Linebreaker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-lyiinsrifle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lyiin's Rifle"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-nauroo/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nauroo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-nulldrivevector/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Null-Drive Vector"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-oathbreaker/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oathbreaker's Sorrow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-oculusshield/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oculus Ward"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-offender/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Offender"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-primeinitiative/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prime Initiative"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-razaara/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Razaara"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-sawbladelauncher/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Razorrail"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-rhakorilongbow/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rhakori Longbow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trink-debilitator/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "SB-4 Debilitator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trink-shockbolter/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "SDL-02 Shockbolter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/trink-arclighter/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "SDL-05 Arclighter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-sandstalkersbane/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandstalker's Bane"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-scrapyard/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scrapyard"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-seekersmg/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Seeker MLR-02"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-shadowsembrace/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shadow's Embrace"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-shakkar/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shakkar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-shalakkaritualstaff/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shalakka Ritual Staff"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centensbeamaxe/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shardbreaker"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-sidewinder/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sidewinder"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-siegerunner/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Siegerunner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-skoffwreckersbow/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skoffwrecker's Bow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-skylighter/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Skylighter"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/notix-snowpiercer/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Snowpiercer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-stinger/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stinger"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-sundrainer/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sun Drainer"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-terveleadersbow/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Terveleader's Bow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-architect/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Architect"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-lyiinsrifle/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The personal firearm of Lyiin Taemera, inspired by weapons of alien design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-eventhorizon/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The point of no return embodied in a powerful weapon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-thellhuntersbow/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thellhunter's Bow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-sandstalkersbane/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This grand bow fires arrows which shatter on impact."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-thorn/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thorn"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-hallakhantooth/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tooth of Halla'Khan"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Unique Equipment"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-airstrike/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard OTS.M-12"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/thea-vaulaar/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vaulaar"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/akkimari-vengeance/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vengeance"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-vhaleihanspear/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vha'leihan Spear"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-vhalakinbow/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vhalakin Bow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-vhalakinlongbow/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vhalakin Longbow"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-vhelinsrifle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vhelin's Command"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/avikan-violator/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Violation Protocol"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-voiceofrhadeis/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Voice of Rhadeis"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/centens-voideater/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Void Eater"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "collections/thea_weapons.collection": [
+        "/collectables/aegi-wintersembrace/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Winter's Embrace"
+    }
+  }
+]

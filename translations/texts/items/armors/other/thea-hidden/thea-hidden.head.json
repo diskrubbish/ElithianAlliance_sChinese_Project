@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-hidden/thea-hidden.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small device that hides armour in your headwear slot."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/thea-hidden/thea-hidden.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Headwear Cloaker"
+    }
+  }
+]

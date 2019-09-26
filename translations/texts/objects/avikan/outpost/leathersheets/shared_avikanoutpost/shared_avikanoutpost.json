@@ -1,0 +1,70 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet1/avikanoutpostmediumsheet1.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet2/avikanoutpostmediumsheet2.object": [
+        "/description"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostsmallsheet1/avikanoutpostsmallsheet1.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sheet of leather."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet1/avikanoutpostmediumsheet1.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet2/avikanoutpostmediumsheet2.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostsmallsheet1/avikanoutpostsmallsheet1.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Leather Sheet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet1/avikanoutpostmediumsheet1.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet2/avikanoutpostmediumsheet2.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostsmallsheet1/avikanoutpostsmallsheet1.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sssimple leather ssheet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet1/avikanoutpostmediumsheet1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostmediumsheet2/avikanoutpostmediumsheet2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/outpost/leathersheets/avikanoutpostsmallsheet1/avikanoutpostsmallsheet1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This is a leather sheet."
+    }
+  }
+]

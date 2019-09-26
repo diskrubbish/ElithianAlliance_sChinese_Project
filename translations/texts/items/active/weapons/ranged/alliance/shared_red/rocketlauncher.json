@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/alliance/manufactured/rocketlauncher/aae/thea-aaelauncher1.activeitem": [
+        "/description"
+      ],
+      "items/active/weapons/ranged/alliance/tiered/rocketlauncher/thea-tier5rocketlauncher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A standard-issue Alliance rocket launcher."
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/centensiangravityrepel/centensiangravityrepel.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gravity Field Distortion"
+    }
+  }
+]

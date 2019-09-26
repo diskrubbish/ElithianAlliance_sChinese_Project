@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple snowman adorned with an Elithian Alliance hat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingsnowman/landingsnowman.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A snowman with a funny hat."
+    }
+  }
+]

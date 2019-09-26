@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/alliancetransportdrone/alliancetransportdrone.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small but powerful drone built for carrying cargo."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/alliancetransportdrone/alliancetransportdrone.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "AAE Transport Drone"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor-wired.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Background Door"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-shaman/akkimari-shaman.legs": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shalakka Skirt"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/akkimari/decorative/akkimari-shaman/akkimari-shaman.legs": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Akkimari. ^white;A skirt worn by Shalakka shamans."
+    }
+  }
+]

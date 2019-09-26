@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let me see that weapon of yours! It's an old Excalibur-class shieldblade, one of only very few ever made... I could repair it for you, if you have the right materials. ^green;Bring me ^orange;12 pieces of Integrated Allosteel^reset;, and I will start reforging the blade."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "That's just what I needed, thanks! I'll start working on the blade, but I need you to find some more materials before I can completely restore this weapon to its former glory."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationaegi.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Excalibur Reborn"
+    }
+  }
+]

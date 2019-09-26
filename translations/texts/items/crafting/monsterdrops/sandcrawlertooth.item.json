@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/sandcrawlertooth.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sandcrawler's Tooth"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/sandcrawlertooth.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The tooth of a Kadavan Sandcrawler."
+    }
+  }
+]

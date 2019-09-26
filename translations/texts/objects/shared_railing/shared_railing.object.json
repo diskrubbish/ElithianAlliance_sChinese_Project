@@ -1,0 +1,257 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/aegiDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic safety railing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/notixDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal railing, plain and simple."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/hylotlDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal railing. A basic safety measure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/avikanDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A thin but sturdy safety railing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very basic metal railing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/drodenDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected safety railing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran is sssure Floran could jump this fence! But Floran won't try."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/hymidDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder how quickly this railing would rust underwater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/humanDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm sure this railing is here for a purpose. Better not try to jump over it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/avianDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If I had wings, I could easily leap over this railing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/erixianDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Part of a metal railing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/description"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Part of a metal safety railing."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/trinkDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This railing is a basic but effective safety measure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This railing is sturdy despite its thin frame."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+        "/apexDescription"
+      ],
+      "objects/alliance/decorative/alliancerailing/alliancerailing.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This railing looks rather sturdy."
+    }
+  }
+]

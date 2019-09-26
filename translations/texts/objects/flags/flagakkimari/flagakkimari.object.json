@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Covenant flag. I can bookmark its location so my teleporter can return me here at any time."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Covenant flag. I can save its location for my teleporter, allowing me to return here later."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Covenant flag. I can use this as a waypoint for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A locator module inside this Covenant flag allows my ship's teleporter to bookmark this location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small locator module attached to this Covenant flag allows it to be bookmarked for teleportation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Covenant Flag"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Covenant flag makess good point to teleport back to ussing teleporter!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Covenant flag. Detected locator module. Ship teleportation system can lock on to this location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flag of Covenant-Kel'chis. Akki long for home..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can bookmark this Covenant flag for quick teleportin'."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Covenant flag. My ship's teleporter can sync with its location so I can return here later."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Covenant flag. The ship's teleporter can lock on to the locator module inside it, so I can return here later."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flag of the Covenant people. My teleporter can bookmark its location for later use."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flag of the Covenant. I can save its location and return to it later using my teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flag of the Kel'chis Covenant. Use ^green;[E]^white; to bookmark a teleportation location."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Covenant flag can act as a way point, enabling me to return to this point using a teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Covenant flag can be bookmarked as a destination for my ship teleporter."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/flags/flagakkimari/flagakkimari.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Covenant flag can be saved as a location for my teleporter. Then I can return to it any time."
+    }
+  }
+]

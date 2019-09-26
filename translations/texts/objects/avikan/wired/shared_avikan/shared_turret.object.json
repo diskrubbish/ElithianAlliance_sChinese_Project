@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Nomada-built turret, very useful when there is a shortage of guards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Avikan-built turret. I hope its targeting system won't see me as a threat."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An automated Nomada Defense Turret. Highly efective."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/drodenDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Nomada-approved Automated Defense Turret."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanmissileturret/avikanmissileturret.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/wired/avikanturret/avikanturret.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Such turrets are often used to protect Avikan colonies from attacks."
+    }
+  }
+]

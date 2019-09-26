@@ -1,0 +1,72 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/10"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Mastermind"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "<field> Weapons Calibrator"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Primary Ship <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/18"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/18"
+      ]
+    },
+    "Texts": {
+      "Eng": "Recently Graduated <role>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/crew/avikan/crewmembernomadaengineer.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ],
+      "npcs/crew/avikan/crewmembernomadamechanic.npctype": [
+        "/scriptConfig/crew/ranks/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Secondary Ship <role>"
+    }
+  }
+]

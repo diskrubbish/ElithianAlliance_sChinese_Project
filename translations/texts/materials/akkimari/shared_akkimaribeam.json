@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimaribeam.matitem": [
+        "/description"
+      ],
+      "items/materials/akkimari/akkimaribeamvert.matitem": [
+        "/description"
+      ],
+      "tiles/materials/akkimari/akkimaribeam.material": [
+        "/description"
+      ],
+      "tiles/materials/akkimari/akkimaribeamvert.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strong metal beam."
+    }
+  }
+]

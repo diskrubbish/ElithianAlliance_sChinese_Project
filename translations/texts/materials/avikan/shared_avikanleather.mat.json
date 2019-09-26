@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanleather.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/avikan/avikanleather.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Leather"
+    }
+  }
+]

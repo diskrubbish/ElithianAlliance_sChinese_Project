@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancestoneplatform.matitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Stone Stairs"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/alliance/alliancestoneplatform.matitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stone stairs."
+    }
+  }
+]

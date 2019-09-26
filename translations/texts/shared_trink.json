@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/trinkglassitem.item": [
+        "/shortdescription"
+      ],
+      "items/materials/trink/trinkglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/trink/trinkglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Glass"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/trink/trinkplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/trinkplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Trinkian Platform"
+    }
+  }
+]

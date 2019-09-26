@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanfabric.matitem": [
+        "/florandescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fabric wallsss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/avikan/avikanfabric.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Simple fabric wall tapestry."
+    }
+  }
+]

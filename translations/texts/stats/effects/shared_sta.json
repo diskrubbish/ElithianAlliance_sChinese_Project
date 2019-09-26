@@ -1,0 +1,25 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/akrisstalker-head/akrisstalker-marked/akrisstalker-marked.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/akrisstalker-head/akrisstalker-markedpassive/akrisstalker-markedpassive.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/targethighlight/targethighlight-noweakness.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/targethighlight/targethighlight.statuseffect": [
+        "/label"
+      ],
+      "stats/effects/targethighlight/targethighlightpassive.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Marked"
+    }
+  }
+]

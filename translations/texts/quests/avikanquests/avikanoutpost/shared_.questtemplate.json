@@ -1,0 +1,22 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/avikanquests/avikanoutpost/keffrider.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/avikanquests/avikanoutpost/keffrider2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/avikanquests/avikanoutpost/keffrider3.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ],
+      "quests/avikanquests/avikanoutpost/keffrider4.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to ^orange;Vethuri ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  }
+]

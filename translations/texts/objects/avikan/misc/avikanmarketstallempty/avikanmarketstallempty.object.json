@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Empty Avikan Stall"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikanmarketstallempty/avikanmarketstallempty.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stall-empty."
+    }
+  }
+]

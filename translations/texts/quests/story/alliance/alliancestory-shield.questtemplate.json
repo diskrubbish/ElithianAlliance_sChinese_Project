@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-shield.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Report to Admiral Lyiin"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-shield.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Report to ^orange;Admiral Lyiin ^reset;in the ^orange;Creon Embassy^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-shield.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome back to Creon, Ambassador. Please accept this: it's a shield adorned with the Alliance's emblem. It was meant as a gift to the Protectorate, but now that they are gone, I wanted you to have it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/story/alliance/alliancestory-shield.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Admiral Lyiin ^reset;has requested that you ^green;join him in the ^orange;Command Center^reset;, ambassador. Please go and visit him as soon as possible, and make sure you bring your ^orange;Ambassador's Pass ^reset;with you."
+    }
+  }
+]

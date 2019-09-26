@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/aegi-pumpkin/aegi-pumpkin.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Pumpkin Mask"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/events/harrowing/aegi-pumpkin/aegi-pumpkin.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;A pumpkin mask to celebrate the Harrowing!"
+    }
+  }
+]

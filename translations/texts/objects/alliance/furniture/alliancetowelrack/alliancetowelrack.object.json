@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clean towel to dry yourself with after taking a shower."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clean white towel. Useful."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dry, clean towel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rack for hanging your towels on."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A rack with a clean towel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A towel rack."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A towel rack. Nothing special about it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A towel rack. One can hang their towels here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alliance Towel Rack"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clean cloth to dry yourself with."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected cloth hanging rack."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran usesss cloth to dry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Gotta be careful not to burn this towel."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I prefer staying wet. It's better for my skin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Akki wet, Akki dry here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some sort of cleaning cloth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This towel is quite clean."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This towel was recently washed."
+    }
+  }
+]

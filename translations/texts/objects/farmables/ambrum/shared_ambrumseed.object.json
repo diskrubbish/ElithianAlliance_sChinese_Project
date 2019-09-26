@@ -1,0 +1,254 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/erixianDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A strange plant growing soft fluffy fibers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/shortdescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ambrum Seed"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/notixDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ambrum fibers are soft, and easily woven into cloth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An Elithian plant often harvested for its soft fluffy fibers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/aegiDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An ambrum plant. The fibers protecting its seeds can be woven into cloth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/drodenDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected alien plantlife. Analysis: soft protective fibers are compatible for cloth-weaving."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/floranDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can make thingsss from ssoft fluffss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could use these fibers to weave cloth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/avianDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could weave these fibers into cloth, I think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/hylotlDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If this is anything like cotton, I could weave a new kimono from these fibers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/novakidDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Looks like cotton, yet it doesn't feel quite like cotton."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Plant-alien, make fibers-white. Remind Akki of silk-Akkimari."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/avikanDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Soft fluffy fibers. Used to weave cloth, perhaps?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/hymidDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi can weave the most comfortable types of cloth from ambrum fibers."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/trinkDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Aegi commonly use ambrum to weave cloth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/apexDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The fibers harvested from this plant can be woven into cloth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/description"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The soft fluffy fibers of this plant can be woven into cloth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/ambrum/ambrumseed.object": [
+        "/humanDescription"
+      ],
+      "objects/farmables/ambrum/wildambrumseed.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks a bit like cotton. Maybe it has similar uses too?"
+    }
+  }
+]

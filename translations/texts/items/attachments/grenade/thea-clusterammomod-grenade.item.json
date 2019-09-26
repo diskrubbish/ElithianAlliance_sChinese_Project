@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/grenade/thea-clusterammomod-grenade.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cluster Ammo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/grenade/thea-clusterammomod-grenade.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grenade launcher ammunition that releases small cluster grenades on detonation."
+    }
+  }
+]

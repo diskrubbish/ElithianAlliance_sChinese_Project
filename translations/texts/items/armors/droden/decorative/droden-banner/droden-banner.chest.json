@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-banner/droden-banner.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden Banner"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/droden/decorative/droden-banner/droden-banner.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Droden. ^white;A leather banner worn by Droden to identify their owners."
+    }
+  }
+]

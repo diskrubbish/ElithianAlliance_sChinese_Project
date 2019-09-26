@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/space/rimdwellerautocannon/rimdwellerautocannon.monstertype": [
+        "/description"
+      ],
+      "monsters/space/rimdwellermissilelauncher/rimdwellermissilelauncher.monstertype": [
+        "/description"
+      ],
+      "monsters/space/rimdwellerspaceturret/rimdwellerspaceturret.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful automated defense turret produced somewhere in the Rim."
+    }
+  }
+]

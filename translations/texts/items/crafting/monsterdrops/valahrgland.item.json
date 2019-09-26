@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/valahrgland.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An organ used by the Valahr to create potent poisons."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/valahrgland.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valahr Poison Gland"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/shotgun/thea-ricochetammomod-shotgun.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ricochet Ammo"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/shotgun/thea-ricochetammomod-shotgun.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shotgun ammunition that pierces targets and ricochets off walls."
+    }
+  }
+]

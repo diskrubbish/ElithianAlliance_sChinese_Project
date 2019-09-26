@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Circuit Beacon Mark IV"
+    }
+  }
+]

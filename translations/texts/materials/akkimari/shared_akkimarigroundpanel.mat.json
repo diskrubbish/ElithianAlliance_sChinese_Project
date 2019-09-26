@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimarigroundpanel.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/akkimari/akkimarigroundpanel.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Floor Panel"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimarigroundpanel.matitem": [
+        "/description"
+      ],
+      "tiles/materials/akkimari/akkimarigroundpanel.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scrap metal panels acting as a floorboard."
+    }
+  }
+]

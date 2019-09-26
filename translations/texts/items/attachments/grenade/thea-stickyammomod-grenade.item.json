@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/grenade/thea-stickyammomod-grenade.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grenade launcher ammunition that sticks to surfaces, exploding on proximity."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/attachments/grenade/thea-stickyammomod-grenade.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sticky Ammo"
+    }
+  }
+]

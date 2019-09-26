@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterleather.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Monster Leather"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterleather.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tough leather made by tanning monster skin."
+    }
+  }
+]

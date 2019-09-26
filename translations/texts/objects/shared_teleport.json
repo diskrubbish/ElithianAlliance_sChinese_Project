@@ -1,0 +1,64 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/other/allianceblackmarketteleporter/allianceblackmarketteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/other/allianceteleportshop/allianceteleportshop2.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanblackmarketteleporter/avikanblackmarketteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostteleporter/avikanoutpostteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanoutpostteleportersmall/avikanoutpostteleportersmall.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/outpost/avikanteleportshop/avikanteleportshop2.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/avikanrefugeteleporter/avikanrefugeteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/centensianmidteleporter/centensianmidteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/centensianteleporter/centensianteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter-akkimari/creonembassyteleporter-akkimari.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter-trink/creonembassyteleporter-trink.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/creonembassyteleporter/creonembassyteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
+        "/floranDescription"
+      ],
+      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien teleporter makesss Floran sssick..."
+    }
+  }
+]

@@ -1,0 +1,319 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Adako"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you a truth-seeker as well, wise one?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avian/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "God or no, your Kluex intrigues me."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, Captain. Have you found any Centensian ruins on your journeys?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings, wise one. We Centlars might be able to use someone like you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avian/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ever considered that your Kluex might be a Centens, like our Rhadeis is?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/human/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Have you ever met your God?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/apex/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am a Centlar, truth-seeker of the Avikan Nomada."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/human/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I doubt you even know what a Centlar is."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "In all my studies of the Centens, I have never before seen a species of plants achieve spaceflight."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avian/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is your Kluex real, like our Rhadeis is?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/1",
+        "/scriptConfig/dialog/converse/avikan/glitch/1",
+        "/scriptConfig/dialog/converse/avikan/trink/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Machines are part of evolution. They are neither good nor evil."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/novakid/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Never in my studies have I come across a creature quite like you."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/novakid/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Of all species I have seen, you are the only that shows no sign of Centensian involvement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Protect the relics of the Centens, captain. They are our keys to the truth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Centens may have had a hand in your creation, too."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/avikan/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Centlars could use the information you gather during your travels."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/1",
+        "/scriptConfig/dialog/converse/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Centlars seek only the truth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/2",
+        "/scriptConfig/dialog/converse/avikan/glitch/2",
+        "/scriptConfig/dialog/converse/avikan/trink/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The only difference between us and your kind is the manner in which we were created."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The truth shall always reveal itself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/2",
+        "/scriptConfig/dialog/converse/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The truth will always reveal itself to a Centlar."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/human/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "We Centlars are truth-seekers. What are you?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/droden/0",
+        "/scriptConfig/dialog/converse/avikan/glitch/0",
+        "/scriptConfig/dialog/converse/avikan/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We Centlars neither hate nor love machines. We see only the truth."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/default/0",
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "We Centlars seek the truth. What do you seek?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/apex/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "What do you call researchers of ancient civilizations in your society?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/hylotl/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You would make for a fine truth-seeker, wise one."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/apex/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your evolution is full of signs of Centensian involvement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/avikanoutpost/unique/ao-avikancentlar.npctype": [
+        "/scriptConfig/dialog/converse/avikan/novakid/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Your kind intrigues me, child of the stars."
+    }
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/apexDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A high antenna, it must have a very long range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/aegiDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large antenna. I wonder what the leather sheet is for?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/humanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A long antenna. What's that leather sheet for?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/erixianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tall radio antenna. It looks especially cool at night."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna adorned with a leather sheet. Odd."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/hylotlDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna like this wouldn't function underwater."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna of sorts."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/description"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna, for sending and receiving radio messages."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/hymidDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An antenna. I wonder what sort of messages it is receiving."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/akkimariDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antenna-strong, receive signals."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/avikanDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Antennas like these allow our colonies to contact the fleet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/shortdescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Antenna"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal antenna makesss for good spearsss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/notixDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This antenna has a very large range."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/trinkDescription"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This antenna is jamming my own radio transmitters."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device is causing my communication systems to malfunction."
+    }
+  }
+]

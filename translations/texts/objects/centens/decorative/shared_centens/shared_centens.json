@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
+        "/drodenDescription"
+      ],
+      "objects/centens/decorative/centensstatue/centensstatue.object": [
+        "/drodenDescription"
+      ],
+      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analyzing statue. Detected Centensian craftsmanship."
+    }
+  }
+]

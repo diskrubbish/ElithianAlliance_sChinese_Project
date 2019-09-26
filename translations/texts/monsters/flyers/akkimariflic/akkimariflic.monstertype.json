@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/akkimariflic/akkimariflic.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small drone used for Akkimari law enforcement."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/akkimariflic/akkimariflic.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Flic"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/connectorstrip.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bunch of gold-plated connectors, for use in electronics."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/connectorstrip.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Connector Strip"
+    }
+  }
+]

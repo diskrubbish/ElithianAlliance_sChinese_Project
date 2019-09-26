@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatchplatform/alliancethickhatchplatform.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hatch, platform is built in."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/doors/alliancethickhatchplatform/alliancethickhatchplatform.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thick Alliance Platform Hatch"
+    }
+  }
+]

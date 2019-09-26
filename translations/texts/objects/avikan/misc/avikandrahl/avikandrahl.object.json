@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Drahl like this would be a useful companion, I'm sure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone capable of reconnaissance and combat both."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone that can offer minor combat support."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone. It's equipped with some basic weaponry."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A drone. Not sure if it'll be flyin' any longer."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A reconnaissance drone, I think."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple combat and reconnaissance drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A versatile drone. It's quick, durable and efficient all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An inactive combat and reconnaissance drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Can Floran ride on top of dronesss?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Drahl unit. Status: inactive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Drone-small, Akki fight?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wish I could fly like this drone can."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I would love to have a drone like this accompany me on my journeys."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Inactive Drahl"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is this a remote-control drone, or an autonomous one?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan call these drone Drahls."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/misc/avikandrahl/avikandrahl.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This drone's energy usage is surprisingly efficient."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/stingwingqueen.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stingwing Queen"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/stingwingqueen.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The queen of a Kadavan Stingwing swarm."
+    }
+  }
+]

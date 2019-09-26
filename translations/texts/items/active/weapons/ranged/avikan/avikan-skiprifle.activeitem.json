@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-skiprifle.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A compact skiprifle issued to Avikan military forces."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikan-skiprifle.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Vanguard Skiprifle"
+    }
+  }
+]

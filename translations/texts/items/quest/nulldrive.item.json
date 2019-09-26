@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/nulldrive.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A unique line rifle drive, capable of near-instantenous charging."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/nulldrive.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Null-Drive^white;"
+    }
+  }
+]

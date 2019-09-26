@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-medic/aegi-medic.chest": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Meditek Uniform"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/aegi/decorative/aegi-medic/aegi-medic.chest": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Aegi. ^white;The uniform worn by Union medical workers."
+    }
+  }
+]

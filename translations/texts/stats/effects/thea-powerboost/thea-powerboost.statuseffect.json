@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/thea-powerboost/thea-powerboost.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rage"
+    }
+  }
+]

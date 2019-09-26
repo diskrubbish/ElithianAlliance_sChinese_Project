@@ -1,0 +1,228 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimaricrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/avikanleathercrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ],
+      "interface/windowconfig/trinkcrafting.config": [
+        "/paneLayout/btnCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Forge"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimaricrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/akkimariinventorcrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/avikanleathercrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/drodenframecrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/jumpgateuplinkstationcrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ],
+      "interface/windowconfig/trinkcrafting.config": [
+        "/paneLayout/btnStopCraft/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimaricrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/akkimariinventorcrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/avikanleathercrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/drodenframecrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/jumpgateuplinkstationcrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ],
+      "interface/windowconfig/trinkcrafting.config": [
+        "/paneLayout/lblSchematics/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;BLUEPRINTS"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimaricrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/akkimariinventorcrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/avikanleathercrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/drodenframecrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/jumpgateuplinkstationcrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ],
+      "interface/windowconfig/trinkcrafting.config": [
+        "/paneLayout/lblProducttitle/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#b9b5b2;PRODUCT"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/windowconfig/akkimaricrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/akkimarifurnacecrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/akkimariinventorcrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/alliancecrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/alliancefurnacecrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/allianceinventorcrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/avikanbonecrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/avikanfurnacecrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/avikaninventorcrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/avikanleathercrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/avikanmetalcrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/drodenframecrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/jumpgateuplinkstationcrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ],
+      "interface/windowconfig/trinkcrafting.config": [
+        "/paneLayout/tbSpinCount/regex"
+      ]
+    },
+    "Texts": {
+      "Eng": "x?\\d{0,4}"
+    }
+  }
+]

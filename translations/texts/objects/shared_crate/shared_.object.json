@@ -1,0 +1,51 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/avianDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/avianDescription"
+      ],
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny metal crate. What is it carrying?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
+        "/floranDescription"
+      ],
+      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikancrate/avikancrate.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikancratecovered/avikancratecovered.object": [
+        "/floranDescription"
+      ],
+      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
+        "/floranDescription"
+      ],
+      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
+        "/floranDescription"
+      ],
+      "objects/trink/container/trinkcrate/trinkcrate.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cratesss full of goodiesss!"
+    }
+  }
+]

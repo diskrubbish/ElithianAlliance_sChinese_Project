@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Astronaut's Helmet"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/avikan/decorative/avikan-astronaut/avikan-astronaut.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Avikan. ^white;An old design, this type of helmet was worn by early Avikan astronauts."
+    }
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/hylotlDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A crude protection device."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/erixianDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/erixianDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful shield generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A regular shield generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/description"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/description"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shield generator capable of protecting structures you've built from damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/aegiDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/aegiDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shield generator used for protecting colonies."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/apexDescription",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shield generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/notixDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/notixDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A silent but powerful shield generator."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/drodenDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected shield generator. Generates a shield to protect the surrounding area."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/akkimariDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/akkimariDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Generator-shield, protect regions from destruction."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/floranDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/floranDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shieldsss!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/hymidDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/hymidDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The shield generated by this device is unbreakable, but the generator itself remains vulnerable."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/trinkDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/trinkDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This device will generate a shield to defend colonies from damage."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/avianDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/avianDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This generates a shield."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/humanDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/humanDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This'll keep me safe!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
+        "/novakidDescription"
+      ],
+      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
+        "/novakidDescription"
+      ],
+      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Who needs a shield anyhow?"
+    }
+  }
+]

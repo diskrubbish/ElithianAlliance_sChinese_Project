@@ -1,0 +1,169 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light on the ground, to illuminate something above it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light shinin' upward, like an upside-down sun."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light shining upward, often found in shipyards."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light that shines upward. Inefficient during the day."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple light shining upward."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small light on the ground to illuminate something above it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small light pointing at the sky."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small light pointing upward."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small, bright light pointing upward."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Ground Light"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran sstand on top of lightsss, Floran getss warm feet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Light. Illuminates objects above."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light illuminates something above."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/avianDescription",
+        "/glitchDescription/glitchEmotedText",
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light shines directly upward."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This light shines upward."
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A gently flickering light strip."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Light Strip"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikanbows/avikan-nomadacrossbow/avikan-nomadacrossbow.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Nomada-built crossbow. It harvests monsters bones and hides."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/avikan/avikanbows/avikan-nomadacrossbow/avikan-nomadacrossbow.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Crossbow"
+    }
+  }
+]

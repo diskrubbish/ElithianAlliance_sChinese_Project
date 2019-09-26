@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/crafting/monsterdrops/theleantissue.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sample of Thelean muscle tissue. It still moves."
+    }
+  }
+]

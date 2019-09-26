@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-avikanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/avikan/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you here on Nomada business, Captain? It's good to finally see another Avikan again."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-avikanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/droden/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not the biggest fan of the Droden, but seeing one of your kind is still a relief after so long in alien territory."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-avikanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/trink/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It seems all machines are accepted here. Don't expect the same if you ever visit the Nomada. Just a warning."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-avikanvisitor.npctype": [
+        "/scriptConfig/dialog/converse/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan Nomada has heard of this place. I was sent here to visit, and so far, I'm impressed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/allianceoutpost/unique/eo-avikanvisitor.npctype": [
+        "/npcname"
+      ]
+    },
+    "Texts": {
+      "Eng": "Valyakan"
+    }
+  }
+]

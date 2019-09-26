@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipthruster/akkimarishipthruster.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A pivoting thruster for rotating ships around."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/akkimarishipthruster/akkimarishipthruster.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Ship Thruster"
+    }
+  }
+]

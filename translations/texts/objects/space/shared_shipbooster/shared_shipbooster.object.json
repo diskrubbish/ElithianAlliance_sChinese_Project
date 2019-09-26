@@ -1,0 +1,19 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/space/allianceshipbooster/allianceshipbooster.object": [
+        "/shortdescription"
+      ],
+      "objects/space/avikanshipbooster/avikanshipbooster.object": [
+        "/shortdescription"
+      ],
+      "objects/space/theashipbooster/theashipbooster.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Damaging Large Booster Flame"
+    }
+  }
+]

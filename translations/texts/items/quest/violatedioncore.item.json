@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/violatedioncore.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The core of a Violated Elite Drahl's Ion Cannon."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/quest/violatedioncore.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#BA66FF;Violated Ion Core^white;"
+    }
+  }
+]

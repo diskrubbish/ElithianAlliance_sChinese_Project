@@ -1,0 +1,46 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationavikan2.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Is that truly a Vha'leihan Spear? Incredible! I would be honoured to repair it for you, Captain!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationavikan2.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Now that we have a shard of the Xanafir, we can start repairing the weapon. The weaponsmith, Ayurin, can help us with that. ^green;Take your ^orange;Broken Spear ^green;and the ^orange;Xanafian Shard ^green;to Ayurin^white;, and he'll tell you what he needs to make the repairs."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationavikan2.questtemplate": [
+        "/scriptConfig/turnInDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Visit ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/weaponrestoration/weaponrestorationavikan2.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Restoring The Past II"
+    }
+  }
+]

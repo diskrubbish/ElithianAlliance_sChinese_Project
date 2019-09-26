@@ -1,0 +1,35 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/violatedioncannon.questtemplate": [
+        "/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "I found the core of a Violated Elite Drahl's ion cannon. The weapon itself is damaged beyond repair, but perhaps this core can still be repurposed. ^green;I should visit the weaponsmith in the Starfarer's Refuge ^white;- if anyone can build a weapon with this, it is Ayurin."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/violatedioncannon.questtemplate": [
+        "/completionText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have never seen anything like this before, Captain! I can try to build a weapon from it, but it will be a challenge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/uniqueweapons/violatedioncannon.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "^orange;Harnessing the Corruption"
+    }
+  }
+]

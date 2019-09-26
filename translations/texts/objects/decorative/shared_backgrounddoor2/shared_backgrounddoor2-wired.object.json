@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/alliancebackgrounddoor2/alliancebackgrounddoor2-wired.object": [
+        "/description"
+      ],
+      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2-wired.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sliding door. It can be linked to other background doors."
+    }
+  }
+]

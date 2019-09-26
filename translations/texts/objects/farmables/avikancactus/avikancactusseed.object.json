@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/avikancactus/avikancactusseed.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Refreshin' water can be found inside o' these cacti. Watch the spines, though."
+    }
+  }
+]

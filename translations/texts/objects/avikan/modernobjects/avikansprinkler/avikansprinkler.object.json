@@ -1,0 +1,134 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple irrigation system. It doesn't cover a very wide area."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A sort of sprinkler, but for more efficient than regular ones."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly efficient irrigation system. The Avikan are careful whenever water is involved."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very efficient irrigation system. The Avikan place great value in water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An efficient irrigation system."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Avikan Irrigation System"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected irrigation system. Water usage efficiency levels at 98%."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I could use some water myself."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Irrigation-automated, keep plants watered. Otherwise plants die, Akkimari no food."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's like a sprinkler, but more efficient. This is no fun to run through!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Some consider such irrigation systems a waste of water, but the value of automated irrigation is worth the cost of the water."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Avikan are quite careful with their water supply. Even the sprinklers use only little water."
+    }
+  }
+]

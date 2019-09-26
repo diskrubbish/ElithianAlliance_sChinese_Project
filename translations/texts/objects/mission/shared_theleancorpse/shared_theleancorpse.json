@@ -1,0 +1,165 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpse1/theleancorpse1.object": [
+        "/avikanDescription"
+      ],
+      "objects/mission/theleancorpse2/theleancorpse2.object": [
+        "/avikanDescription"
+      ],
+      "objects/mission/theleancorpse3/theleancorpse3.object": [
+        "/avikanDescription"
+      ],
+      "objects/mission/theleancorpse4/theleancorpse4.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Thelean as he should be: dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpse1/theleancorpse1.object": [
+        "/description"
+      ],
+      "objects/mission/theleancorpse2/theleancorpse2.object": [
+        "/description"
+      ],
+      "objects/mission/theleancorpse3/theleancorpse3.object": [
+        "/description"
+      ],
+      "objects/mission/theleancorpse4/theleancorpse4.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dead Thelean."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpse1/theleancorpse1.object": [
+        "/theleanDescription"
+      ],
+      "objects/mission/theleancorpse2/theleancorpse2.object": [
+        "/theleanDescription"
+      ],
+      "objects/mission/theleancorpse3/theleancorpse3.object": [
+        "/theleanDescription"
+      ],
+      "objects/mission/theleancorpse4/theleancorpse4.object": [
+        "/theleanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A dead brother. He was weak."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpse1/theleancorpse1.object": [
+        "/drodenDescription"
+      ],
+      "objects/mission/theleancorpse2/theleancorpse2.object": [
+        "/drodenDescription"
+      ],
+      "objects/mission/theleancorpse3/theleancorpse3.object": [
+        "/drodenDescription"
+      ],
+      "objects/mission/theleancorpse4/theleancorpse4.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected Thelean. Analysis: dead."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpse1/theleancorpse1.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/theleancorpse2/theleancorpse2.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/theleancorpse3/theleancorpse3.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/theleancorpse4/theleancorpse4.object": [
+        "/floranDescription"
+      ],
+      "objects/mission/theleancorpsepile/theleancorpsepile.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran pokesss dead bodiess with ssstickss..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpse1/theleancorpse1.object": [
+        "/akkimariDescription"
+      ],
+      "objects/mission/theleancorpse2/theleancorpse2.object": [
+        "/akkimariDescription"
+      ],
+      "objects/mission/theleancorpse3/theleancorpse3.object": [
+        "/akkimariDescription"
+      ],
+      "objects/mission/theleancorpse4/theleancorpse4.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "God-thief-dead. Akki pleased."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpse1/theleancorpse1.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/theleancorpse2/theleancorpse2.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/theleancorpse3/theleancorpse3.object": [
+        "/shortdescription"
+      ],
+      "objects/mission/theleancorpse4/theleancorpse4.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Corpse"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/theleancorpse1/theleancorpse1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/theleancorpse2/theleancorpse2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/theleancorpse3/theleancorpse3.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/mission/theleancorpse4/theleancorpse4.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Thelean has been dead for decades, but its body is still in good shape."
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/avikanoutpostwarp.config": [
+        "/destinations/0/planetName"
+      ],
+      "interface/warping/returnavikanoutpost.config": [
+        "/destinations/0/planetName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nomada Fleet"
+    }
+  }
+]

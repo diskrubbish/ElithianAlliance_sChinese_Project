@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/drodenfossil2.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fossilised Droden chassis."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/fossils/humanoid/drodenfossil2.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Droden Chassis"
+    }
+  }
+]

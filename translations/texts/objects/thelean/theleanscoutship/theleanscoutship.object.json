@@ -1,0 +1,200 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Thelean Va'rahk. Officially a scouting ship, but it can easily tear through a Destroyer..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A Thelean ship. I had best be careful around here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small Thelean scouting ship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even Thelean scouting vessels are built for combat..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Even the sound these Thelean ships make is unsettling..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran dissslike sstrange shipss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "God-thieves here, Akki careful. Sneak up, kill them all."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I generally like spaceships, but this one creeps me out."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wouldn't want to meet whatever piloted this ship..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm getting a bad feeling from this ship..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If only we understood how these Thelean ships function, we might be able to devise an efficient countermeasure."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a Thelean ship. This won't end well..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's a Thell ship. This does not bode well..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thelean Va'rahk"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship feels like a bad omen. Nothing good will come of its presence here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship looks ominous."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This ship looks unsettling. I hope it isn't some new Miniknog design."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/thelean/theleanscoutship/theleanscoutship.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Warning: Detected Thelean ship. Recommending extreme caution."
+    }
+  }
+]
