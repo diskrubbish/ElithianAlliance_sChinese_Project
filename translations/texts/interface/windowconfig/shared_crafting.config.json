@@ -22,6 +22,7 @@
       ]
     },
     "Texts": {
+      "Chs": "锻造",
       "Eng": "Forge"
     }
   },
@@ -72,6 +73,7 @@
       ]
     },
     "Texts": {
+      "Chs": "停止",
       "Eng": "Stop"
     }
   },
@@ -122,6 +124,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#b9b5b2;蓝图",
       "Eng": "^#b9b5b2;BLUEPRINTS"
     }
   },
@@ -172,6 +175,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#b9b5b2;产品",
       "Eng": "^#b9b5b2;PRODUCT"
     }
   },

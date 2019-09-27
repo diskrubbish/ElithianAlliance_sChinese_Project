@@ -19,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "制作",
       "Eng": "Craft"
     }
   },
@@ -72,6 +73,7 @@
       ]
     },
     "Texts": {
+      "Chs": "可获得的材料",
       "Eng": "MATERIALS AVAILABLE"
     }
   },
@@ -125,6 +127,7 @@
       ]
     },
     "Texts": {
+      "Chs": "搜索",
       "Eng": "Search"
     }
   }

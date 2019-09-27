@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "天线颜色",
       "Eng": "Antenna colour"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "臂部模块颜色",
       "Eng": "Arm mod"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "臂部模块颜色",
       "Eng": "Arm mod colour"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "身体模块",
       "Eng": "Body Mod"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "身体模块颜色",
       "Eng": "Body mod colour"
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "由晶柱人创造，这些雏机人是一支有意识的机器人种族，他们与他们的创造者和谐共处。他们把效率看得比什么都重要，并且对以利提亚联盟的许多技术进步负有责任。",
       "Eng": "Created by the Notix, the Trinks are a race of sentient robots who live in harmony with their creators. They value efficiency above all, and are responsible for many of the technological advancements of the Elithian Alliance."
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "嘴部颜色",
       "Eng": "Mouth colour"
     }
   },
@@ -84,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "感知机器人",
       "Eng": "Sentient Robots"
     }
   },
@@ -95,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "雏机人",
       "Eng": "TRINK"
     }
   },
@@ -106,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "雏机人",
       "Eng": "Trink"
     }
   }

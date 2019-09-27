@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "主要颜色",
       "Eng": "Accent colour"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "战机人",
       "Eng": "DRODEN"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "战机人",
       "Eng": "Droden"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "阿维坎人的从者",
       "Eng": "Servants of the Avikan"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "战机人是由阿维坎人创建的，作为在对抗特尔提勒族的战争中可以牺牲的士兵。战机人战争期间他们的起义失败后，创造新的AI被禁止，现在只有少数真正的AI存在。",
       "Eng": "The Droden were created by the Avikan as expendable soldiers to use in their war against the Theleans. After their failed uprising during the Droden War, a ban was placed on the creation of new AIs, and nowadays only few true AI remain."
     }
   }

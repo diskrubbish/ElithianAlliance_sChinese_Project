@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "天线",
       "Eng": "Antenna"
     }
   },
@@ -24,6 +25,7 @@
       ]
     },
     "Texts": {
+      "Chs": "襟翼颜色",
       "Eng": "FLAP COLOR"
     }
   },
@@ -38,6 +40,7 @@
       ]
     },
     "Texts": {
+      "Chs": "头部形状",
       "Eng": "HEAD SHAPE"
     }
   },
@@ -55,6 +58,7 @@
       ]
     },
     "Texts": {
+      "Chs": "腿甲",
       "Eng": "Legwear"
     }
   },
@@ -72,6 +76,7 @@
       ]
     },
     "Texts": {
+      "Chs": "腿甲颜色",
       "Eng": "Legwear colour"
     }
   },
@@ -95,6 +100,7 @@
       ]
     },
     "Texts": {
+      "Chs": "无",
       "Eng": "N/A"
     }
   },
@@ -109,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "裤子",
       "Eng": "PANTS"
     }
   },
@@ -123,6 +130,7 @@
       ]
     },
     "Texts": {
+      "Chs": "裤子颜色",
       "Eng": "PANTS COLOR"
     }
   },
@@ -137,6 +145,7 @@
       ]
     },
     "Texts": {
+      "Chs": "个性",
       "Eng": "PERSONALITY"
     }
   },
@@ -151,6 +160,7 @@
       ]
     },
     "Texts": {
+      "Chs": "油漆颜色",
       "Eng": "Paint colour"
     }
   },
@@ -174,6 +184,7 @@
       ]
     },
     "Texts": {
+      "Chs": "个性",
       "Eng": "Personality"
     }
   },
@@ -188,6 +199,7 @@
       ]
     },
     "Texts": {
+      "Chs": "衬衫",
       "Eng": "SHIRT"
     }
   },
@@ -202,6 +214,7 @@
       ]
     },
     "Texts": {
+      "Chs": "衬衫颜色",
       "Eng": "SHIRT COLOR"
     }
   },
@@ -216,6 +229,7 @@
       ]
     },
     "Texts": {
+      "Chs": "肤色",
       "Eng": "SKIN COLOR"
     }
   },
@@ -230,6 +244,7 @@
       ]
     },
     "Texts": {
+      "Chs": "衬衫",
       "Eng": "Shirt"
     }
   },
@@ -244,6 +259,7 @@
       ]
     },
     "Texts": {
+      "Chs": "衬衫颜色",
       "Eng": "Shirt colour"
     }
   },
@@ -258,6 +274,7 @@
       ]
     },
     "Texts": {
+      "Chs": "肤色",
       "Eng": "Skin colour"
     }
   }
