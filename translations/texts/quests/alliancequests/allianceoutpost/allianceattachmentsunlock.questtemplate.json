@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "想要更好的武器配件吗？ 如果你能向我证明你是一个优秀的战士，我会向你开放更多的我的库存！ 我给你的挑战是^green;找到并击杀^orange;20只远行羽蛇^green;——一种你会在葱郁和森林星球上，发现的绿色飞行怪物。^reset;",
       "Eng": "Want to get your hands on some better weapon attachments? If you can prove to me that you're a good fighter, I'll open up more of my inventory to you! My challenge for you is to ^green;find and kill ^orange;20 Faryth ^green;- you'll find the green flying monsters on lush and forest planets.^reset;"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "干得好，那些远行羽蛇可不是容易对付的目标！你现在现在可以获取一些更有用的武器配件，但接下来还有很多事情可以做。",
       "Eng": "Well done, those Faryth aren't easy targets! You can now access a few more useful weapon attachments, but there's much more to come."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;个人战备",
       "Eng": "^green;Personalized Warfare"
     }
   }

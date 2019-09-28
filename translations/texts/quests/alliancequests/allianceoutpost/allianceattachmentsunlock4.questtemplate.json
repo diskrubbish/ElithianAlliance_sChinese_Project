@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我刚收到AAE的新库存，我想你可能会喜欢这些新的配件。如果你能为我做点什么的话，我会让你看看新库存。我听说过^orange;阿基马里的无人机配备有隐形科技^reset;——^green;干掉几个^reset;, 我会为你开启新的库存。",
       "Eng": "I just received new inventory from AAE, and I think you might like these new attachments. I'll let you see the new inventory if you can do a little something for me. I've heard talk about ^orange;Akkimari drones equipped with stealth tech^reset; - ^green;take down a few of them^reset;, and I'll open up the new inventory for you."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "又一次，干得漂亮！你和这些无人机的战斗让我们在大使馆学到了很多关于这个新威胁的知识，所以你做的贡献远比这些新武器附件更具价值。",
       "Eng": "Well done, once again! Your fighting these drones teaches us at the Embassy a lot about this new threat, so you've more than earned access to these new weapon attachments."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;个人战备IV",
       "Eng": "^green;Personalized Warfare IV"
     }
   }

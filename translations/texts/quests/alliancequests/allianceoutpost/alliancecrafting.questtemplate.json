@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你能帮我完成一个小任务吗？我正在做一些关于远行羽蛇的研究，所以我需要更多的鳞片样本。^green;请问您能否为我找到^orange;5片远行羽蛇的鳞片^green;，之后我会给你一本^orange;联盟工艺指南^reset;。我甚至会带上一张^orange;艾利托安全武器^reset;的蓝图作为额外奖励！",
       "Eng": "Can you help me out with a small task? I'm doing some research on the Faryth, and need more samples of their scales. ^green;Find me ^orange;5 Faryth Scales^green;, and I'll give you an ^orange;Alliance Crafting Guide^reset;. I'll even throw in a bonus blueprint for an ^orange;Erito Security weapon^reset;!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "出色的工作，这些鳞片将为我的研究提供完美无缺的证明！拿好，我答应过你的联盟工艺指南和武器蓝图。",
       "Eng": "Outstanding work, these scales will prove incredibly useful for my research! Here you go, the crafting guide and weapon blueprint I promised you."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;克里翁大使馆^reset;的^orange;阿维拉^reset;处",
       "Eng": "Return to ^orange;Aviira ^reset;in the ^orange;Creon Embassy^reset;"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;联盟工艺技术",
       "Eng": "^green;Alliance Crafting Techniques"
     }
   }

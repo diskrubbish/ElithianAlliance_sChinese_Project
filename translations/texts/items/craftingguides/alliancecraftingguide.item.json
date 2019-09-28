@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "一本联盟工艺指南。解锁大多数联盟工艺配方，无论种族。",
       "Eng": "A guide to Alliance crafting. Unlocks most Alliance crafting recipes, regardless of race."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#BA66FF;联盟工艺指南^white;",
       "Eng": "^#BA66FF;Alliance Crafting Guide^white;"
     }
   }

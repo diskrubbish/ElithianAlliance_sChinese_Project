@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "喷砂虫",
       "Eng": "Sandspitter"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "喷砂虫吐出沙子来减慢敌人的速度。",
       "Eng": "The Sandspitter spits sand to slow down its foes."
     }
   }

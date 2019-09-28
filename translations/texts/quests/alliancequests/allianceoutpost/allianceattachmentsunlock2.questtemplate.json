@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我之前不确定你是否能打败那玩意，但我现在看来我的怀疑是错的！你已经为自己赢得了一些更强大的武器配件！",
       "Eng": "I wasn't sure if you'd beat that one, but I guess I was wrong to doubt you! You've earned yourself access to a few more powerful weapon attachments!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我为你准备了更多的武器配件，前提是你能完成我指定的下一个挑战。我要你去^green;找到并击杀^orange;5只喷砂虫^reset;，但这并不容易！^green;你可以在沙漠世界找到这种大型蠕虫状野兽^reset;——小心它们朝你吐的沙子！",
       "Eng": "I've got some more weapon attachments in store for you, if you can beat my next challenge. I want you to ^green;find and kill ^orange;5 Sandspitters^reset;, but it won't be easy! ^green;You can find the large worm-like beasts on desert worlds ^reset;- watch out for the sand they spit at you!"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;个人战备II",
       "Eng": "^green;Personalized Warfare II"
     }
   }
