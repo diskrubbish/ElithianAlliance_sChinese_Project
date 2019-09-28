@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "卡达文野生动物的简要概述。 瓦斯灯下阅读最佳。",
       "Eng": "A brief overview of Kadavan wildlife. Best read by gaslight."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "卡达文的 动物寓言",
       "Eng": "Kadavan Bestiary"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "Vas Vha'leih，年轻的猎人。 在整个银河系中，在干旱的沙漠世界中，您可能会发现原产于卡达文的野生动物。 此因阿威坎人散布于穿越星空之中时，他们都带着引发他们思乡之情的动物。 现在，这些生物在外星世界上茁壮成长，使您有机会参与阿威坎式的传统狩猎。\n\n在这简短的卷轴里，您将学习如何识别来自卡达文的这些生物。",
       "Eng": "Vas Vha'leih, young hunter. All across the galaxy, on arid desert worlds, you may find wildlife originally native to Kadavan. As the Avikan spread across the stars, they took with them animals that reminded them of home. Now, these creatures thrive on alien worlds, granting you the opportunity to partake in the traditional hunts of the Avikan people.\n\nIn this short scroll, you will learn how to identify these creatures of Kadavan."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;沙虫: ^reset; 沙虫也许是最具标志性的卡达文动物，它是一种钻在沙下的蠕虫状大型生物。 沙虫会通过土层中的振动来探寻猎物，并且当猎物足够靠近时，会立刻“露面”。\n\n沙虫可以在流沙丰富的地方找到：它们最常见于沙漠星球。 若在地面上找寻一小堆松散的沙子，您也许很快就会撞上一条沙虫。",
       "Eng": "^orange;Sandcrawler: ^reset;Perhaps the most iconic of Kadavan animals, the Sandcrawler is a large worm-like creature that burrows beneath the sand. It detects its prey through vibrations in the earth, and will surface when its prey draws close enough.\n\nThe Sandcrawler can be found in places rich in quicksand: these are most commonly found on desert planets. Look for small piles of loose sand along the ground, and you'll run into a Sandcrawler soon enough."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;砂喷子：^reset;对巨大的砂喷子最形象的描述是蠕虫状的野兽，它使用不成比例的小腿走路和爬行。 这野兽直立而起时比一般的阿威坎人都高，并且很容易从它会吐出拖住猎物的沙子这一点来识别。\n\n虽然不像沙虫常见，但在流沙生物群落中也可以找到砂喷子。 它们位于地表之上，即使不经训练的眼睛也很容易发现。",
       "Eng": "^orange;Sandspitter: ^reset;The great Sandspitter is best described as a worm-like beast that uses disproportionately small legs to walk and crawl around. The beast stands taller than the average Avikan, and is easily recognized by the sand it spits to slow down its prey.\n\nWhile less common than the Sandcrawler, the Sandspitter can also be found in quicksand biomes. They are found above the surface, and are easy to spot even to the untrained eye."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange; 蜇翅：^reset; 蜇翅是一种小型飞行昆虫，以密集的一大群进行迁徙。 它们飞行时发出嗡嗡的噪音，除非群中的女王被击杀，否则它们绝不会停止攻击。\n\n在流沙生物群系中可以发现蜇翅群，它们喜欢在充当巢穴的浅坑中徘徊。 偶尔也会发现它们在流沙生物群系的其他区域飞行。 聆听活跃的虫群发出的标志性嗡嗡声，您很快就会发现它们。",
       "Eng": "^orange;Stingwing: ^reset;The Stingwing is a small flying insect that travels in dense swarms. They make a loud buzzing noise, and will attack relentlessly until the queen of the swarm is taken down.\n\nStingwing swarms are found in quicksand biomes, where they like to hang around in shallow pits that act as their nests. They can also occasionally be found flying around other areas of the quicksand biome. Listen for the iconic buzzing sound of an active swarm, and you will find them soon enough."
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange；凡拉赫: ^reset；会飞的凡拉赫是一种有翼的蠕虫状生物，皮肤深蓝色。 它喜欢藏在洞穴中，睡觉时唾液经常从口中滴下。\n\n凡拉赫最常见于小洞穴和流沙生物群落的岩石悬突里。 他们经常成群结队生活，往往倒挂在洞穴顶。",
       "Eng": "^orange;Valahr: ^reset;The flying Valahr is a winged worm-like creature with a dark blue skin. It likes to hide in caves, and saliva often drips from its mouth while it sleeps.\n\nThe Valahr is most commonly found in small caverns and rocky overhangs in quicksand biomes. They often live in small groups, and tend to rest hanging upside-down from the cavern ceiling."
     }
   }
