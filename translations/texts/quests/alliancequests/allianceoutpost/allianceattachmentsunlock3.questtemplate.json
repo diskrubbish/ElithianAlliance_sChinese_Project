@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我有最后一个挑战给你！我要你^green;找到并摧毁一台^orange;天人之眼^reset;，之后你会赚到我最好的武器配件。^green;我听说这种古代无人机可以在高度特殊的空间异常中被发现^reset;——你最好做好准备，因为这会是一场激烈的战斗。",
       "Eng": "I've got one final challenge for you! I want you to ^green;find and destroy a ^orange;Ce'Tennan Oculus^reset;, and you'll earn yourself access to the best weapon attachments I have. ^green;I've heard the ancient drones can be found in highly peculiar space anomalies ^reset;- you'd better come prepared, as it'll put up a heck of a fight."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你已经是个战斗大师了！你现在可以获取我最好的武器配件——你已经比它们更值价了。",
       "Eng": "You're a master at fighting alright! You can now access my best weapon attachments - you've more than earned it."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;个人战备III",
       "Eng": "^green;Personalized Warfare III"
     }
   }
