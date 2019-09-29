@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;克里昂大使馆^reset;的^orange;莱因将军^reset;处",
       "Eng": "Return to ^orange;Admiral Lyiin ^reset;in the ^orange;Creon Embassy^reset;"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "谢谢你收回这些模块，使者。这些模块对于我们的研究人员来说是无价的。这是我答应给你的奖励: 一些你自己的物质操纵枪的新外壳。",
       "Eng": "Thank you for retrieving these modules, ambassador. They will prove invaluable to our researchers. Here is the reward I promised you: some new casings for your own Matter Manipulator."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "联盟非常想研究你从大地守护团收到的物质操纵枪。^green;我希望你能找回^orange;20个物质枪模块^green;以便我们的研究人员开始研究。^reset;同时，我会要求他们开始为你设计一个小小的奖励。",
       "Eng": "The Alliance would very much like to study the Matter Manipulator you received from the Protectorate. ^green;I want you to retrieve ^orange;20 Manipulator Modules ^green;so that our researchers can start investigating the technology. ^reset;In the mean time, I will ask them to start working on a small reward for you."
     }
   }
