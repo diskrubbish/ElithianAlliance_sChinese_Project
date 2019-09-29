@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^orange；一年一度的节日大厅开放^reset； \n\n节日大厅再次向公众开放！ 快来与亲友一起在克里昂市外白雪皑皑的仙境中庆祝落地节。 与寻路者和他的朝圣徒见面，或参观伟大的节日之树拿起免费礼物！\n\n对于国际游客，您可以使用克里昂使馆提供的公共交通工具轻松前往^green节日大厅^reset。",
+      "Chs": "^orange;一年一度的节日大厅开放^reset; \n\n节日大厅再次向公众开放！ 快来与亲友一起在克里昂市外白雪皑皑的仙境中庆祝落地节。 与寻路者和他的朝圣徒见面，或参观伟大的节日之树拿起免费礼物！\n\n对于国际游客，您可以使用克里昂使馆提供的公共交通工具轻松前往^green;节日大厅^reset;。",
       "Eng": "^orange;Opening of the annual Festival Hall^reset;\n\nThe Festival Hall opens its doors to the public yet again! Come and celebrate the Landing Festival with friends and family in a snowy wonderland just outside of Creon City. Meet the Pathfinder and his Pilgrims, or visit the great Festival Tree to pick up a free present!\n\nFor international visitors, you can easily travel to the Festival Hall using public transportation available at the Creon Embassy."
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^orange；落地节^reset； \n\n在落地节期间，我们以周年纪念庆祝祖先首次登陆以利提亚。 节日标志着今年的结束，而登陆日（节日的最后一天）标志着一个崭新日历年的开始。 联盟鼓励大家在这次庆祝活动中与朋友和家人共度时光！",
+      "Chs": "^orange;落地节^reset; \n\n在落地节期间，我们以周年纪念庆祝祖先首次登陆以利提亚。 节日标志着今年的结束，而登陆日（节日的最后一天）标志着一个崭新日历年的开始。 联盟鼓励大家在这次庆祝活动中与朋友和家人共度时光！",
       "Eng": "^orange;The Landing Festival^reset;\n\nDuring the Landing Festival, we celebrate the anniversary of our ancestors' first landing on Elithia. The Festival marks the end of the year, while Landing Day - the final day of the Festival - marks the beginning of a brand new calendar year. The Union encourages everyone to spend time with friends and family during this time of celebration!"
     }
   },
@@ -55,7 +55,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^orange；寻路人和朝圣徒^reset； \n\n寻路人每年都会返回以利提亚，将礼物带给联盟的好公民们。 他和他的朝圣徒总会从他们全年探索的遥远星系中带回异国情调的货品，并将其赠与人民。",
+      "Chs": "^orange;寻路人和朝圣徒^reset; \n\n寻路人每年都会返回以利提亚，将礼物带给联盟的好公民们。 他和他的朝圣徒总会从他们全年探索的遥远星系中带回异国情调的货品，并将其赠与人民。",
       "Eng": "^orange;The Pathfinder and the Pilgrims^reset;\n\nThe Pathfinder returns to Elithia every year to bring presents to the good citizens of the Union. He and his Pilgrims bring back exotic goods from the far-away systems that they explore year-round, and gift them to the people."
     }
   }
