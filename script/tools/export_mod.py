@@ -14,7 +14,7 @@ def uopen(path, mode):
     return copen(path, mode, "utf-8")
 
 
-translations_dir = "FrackinUniverse-sChinese-Project/translations"
+translations_dir = "F:\ElithianAlliance_sChinese_Project/translations/"
 mod_dir = "mods"
 
 checker = regex('([^\n\s\t\r]+|\r?[\n\s\t])')
