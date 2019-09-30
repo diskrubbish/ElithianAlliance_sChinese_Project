@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我猜马克汉给了你那把骨制十字弩的图纸？他的本意是好的，但是他的骨制武器已经过时了。我有一张^orange;改进十字弩的蓝图^white;，但我不能免费送人。为了我的研究我需要一些^orange;特尔提勒钢^white;——^green;给我找到一块碎片，然后蓝图就是你的了^white;。",
       "Eng": "Makhan gave you the schematics for that Bone Crossbow, I guess? He means well, but his bone weaponry is simply outdated. I have the ^orange;blueprints for an improved crossbow^white;, but I can't give them away for free. I need some ^orange;Thelean Metal ^white;for my research - ^green;find me a piece, and the blueprints are yours^white;."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "谢谢你，船长。用这块金属碎片，我终于可以完成我的研究了！也许我很快就会再次需要你...不管怎样，这是我答应你的蓝图。好好利用它们。",
       "Eng": "Thank you, Captain. With this metal fragment, I can finally finish my research! Perhaps I'll have need of you again soon... Either way, here are the blueprints I promised you. Put them to good use."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;金属弹道学",
       "Eng": "^green;Metal Ballistics"
     }
   }
