@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我看到你有自己的机甲！前卫队已经生产了一些与之兼容的部件，幸运的是，我有它们的设计蓝图。他们都是你的，只要你可以green;在漫游太空的时候给我找个^orange;回收纳米容器^white;。我需要一个来修理我自己的机甲...",
       "Eng": "I see you have your own mech! The Vanguard has produced a number of parts that should be compatible with it, and luckily for you, I have the blueprints for them. They're all yours, if you can ^green;find me a ^orange;Salvaged Nano Receptable ^white;while you're ^green;out in space^white;. I need one to repair my own mech..."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;远星庇护所^reset;的^orange;罗肯^reset;处",
       "Eng": "Return to ^orange;Rehkon ^reset;in the ^orange;Starfarer's Refuge^reset;"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这正是我需要的，谢谢。这是我答应你的蓝图。",
       "Eng": "That's exactly what I needed, thank you. Here's the blueprints I promised you."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;前卫队机甲部件",
       "Eng": "^green;Vanguard Mech Parts"
     }
   }
