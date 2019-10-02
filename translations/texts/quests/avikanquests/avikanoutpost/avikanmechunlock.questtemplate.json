@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "到达^orange;前卫队测试设施^reset;的尽头",
       "Eng": "Reach the end of the ^orange;Vanguard testing facility^reset;"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "与^orange;洛克汗^reset;交谈以进入^orange;测试设施^reset;",
       "Eng": "Talk to ^orange;Rokhan^reset; to enter the ^orange;testing facility^reset;"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "前卫队每天都在越来越多的地方部署座乘，我们需要对它们进行测试，以确保它们继续有效运行。我需要你^green;进入我们的测试设施并且驾驶^orange;前卫队刮刀型机甲^green;进行测试^reset;。你回来之后，我会批准^orange;扎克尔^reset;向你出售前卫队座乘。",
       "Eng": "The Vanguard is deploying its vehicles across more and more locations every day, and we need to test them to ensure they continue to operate effectively. I need you to ^green;enter our testing facility and put the ^orange;Vanguard Krahl ^green;to the test^reset;. In return, I'll allow ^orange;Jakhar ^reset;to sell you Vanguard vehicles."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "干得好，您在测试设施的驾驶已经为前卫队提供了许多信息来研究。扎克尔已经被告知，他现在可以卖给你先前卫队的座乘了: 记得一定要去拜访他。",
       "Eng": "Well done, your run through the testing facility has provided the Vanguard with a lot of information to study. Jakhar has been informed that he can now sell you Vanguard vehicles: make sure to pay him a visit."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;前卫队",
       "Eng": "^green;The Vanguard's Vehicles"
     }
   }

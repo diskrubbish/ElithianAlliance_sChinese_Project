@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "阿育林和我一直在研究一种崭新而功能强大的机甲热线系统，但我们需要一些^orange;天穹液^white;以优化其性能。如果你能带^green;bring ^orange;50单位的天穹液^green;给^orange;阿育林^white;, 他就会给你一份我们的设计图。",
       "Eng": "Ayurin and I have been working on a new, highly powerful linecharge system for a mech, but we need some of that ^orange;Centensian Liquid ^white;in order to optimize its performance. If you could ^green;bring ^orange;50 units of that liquid ^green;to ^orange;Ayurin^white;, he'll give you a copy of our blueprint."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这就行了，谢谢。正如罗肯所承诺的，这是我们热线机甲武器的蓝图。",
       "Eng": "This will do just fine, thank you. As Rehkon promised, here are the blueprints for our linerifle mech weapon."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;太空热线枪",
       "Eng": "^green;Linerifles in Space"
     }
   }
