@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": " 战机军团终端",
       "Eng": " Droden Legion Terminal"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": " 招募战机军团船员",
       "Eng": " Recruit Droden Legion units"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "功勋代币",
       "Eng": "Token of Merit"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "以代币交易来招募战机船员",
       "Eng": "Trade tokens to recruit Droden crewmembers"
     }
   }
