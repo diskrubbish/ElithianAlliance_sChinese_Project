@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;远星庇护所^reset;的^orange;内尼基^reset;处",
       "Eng": "Return to ^orange;Nenehki ^reset;in the ^orange;Starfarer's Refuge^reset;"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "谢谢你，我的新远星者伙伴！这正是我要找的。拿着这顶头盔和这些代币——这些都是你应得的！",
       "Eng": "Thank you, my fellow Starfarer! This is exactly what I was looking for. Take this helmet and these tokens - you have earned them!"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "朋友，你愿意帮助一位受苦的远星者吗？I'm 为我的一个小实验，我需要 一个^orange;砂喷子的沙袋^white;和一根^orange;沙爬虫的牙齿^white;，但现在我被困在这里，而我的船正在修理... 如果你能替我去^green;狩猎沙漠星球中的砂喷子和沙爬虫^white;，我将感激不尽！",
       "Eng": "Would you help out a fellow Starfarer, friend? I'm in need of a ^orange;Sandspitter's Sack ^white;and a ^orange;Sandcrawler's Tooth ^white;for a little experiment of mine, but I am stuck here while my ship is being repaired... If you could ^green;hunt down a Sandspitter and a Sandcrawler on a desert planet^white;, I would be most grateful!"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;一位远星者的请求",
       "Eng": "^green;A Starfarer's Request"
     }
   }
