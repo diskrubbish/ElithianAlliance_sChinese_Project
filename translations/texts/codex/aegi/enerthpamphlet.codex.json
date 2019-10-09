@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "包含有关安能工业信息的手册。",
       "Eng": "A leaflet with information about Enerth Engineering."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "安能工业宣传册",
       "Eng": "Enerth Engineering Pamphlet"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;安能工业 - 一次解决所有问题^reset;\n\n安能工业由乔拉赫（Jorah）和马润·安能（Marin Enerth）兄弟在102 AA建立，此后已发展成为埃癸人联盟以及以利提亚同盟最大的工业组织之一。 安能工业提供各种产品，从家用工具和计算机系统到模块化房屋，运输工具和渡轮，真正成为了联盟日常生活的一部分。",
       "Eng": "^orange;Enerth Engineering - A solution for Every Problem^reset;\n\nFounded in 102 AA by the brothers Jorah and Marin Enerth, Enerth Engineering has since grown to be one of the largest industrial organizations in the Aeginian Federal Union, and by extension, the Elithian Alliance. Offering a wide array of products, ranging from household tools and computer systems to modular homes, carriers and ferries, Enerth Engineering is truly a part of everyday life in the Union."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;工程师求职？^reset;\n\n安能工业一直在招募更多工程师，因此我们可以随时随地提供服务。 请访问您当地的安能工业办公室或招聘机构，了解如何帮助安能工业成长。",
       "Eng": "^orange;Looking for work as an Engineer?^reset;\n\nEnerth Engineering is always recruiting more engineers so we can provide our services everywhere, anytime. Visit your local Enerth Engineering office or recruitment agency and find out how you can help Enerth Engineering grow."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;安能可以为您做些什么？^reset;\n\n您的个人计算机或笔记本电脑是否出现故障？ 电视上的连接问题？ 家用系统无响应？ 请与您当地的安能工业办事处联系并要求工程师上门-我们可以保证在以利提亚的所有市区内响应时间不超过60分钟。 所有办事处全天候开放！",
       "Eng": "^orange;What can Enerth Engineering do for you?^reset;\n\nIs your personal computer or laptop malfunctioning? Connection issues on your TV? Household systems unresponsive? Contact your local Enerth Engineering office and ask for an engineer - we can guarantee a response time of no more than 60 minutes in all urban areas on Elithia. All offices are open all-day, all-week!"
     }
   }
