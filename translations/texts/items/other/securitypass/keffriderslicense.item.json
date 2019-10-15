@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs":  "这个执照是你作为开路骑士的官方证明。",
       "Eng": "This license is official proof of your status as Keffrider."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#BA66FF;开路骑士执照^white;",
       "Eng": "^#BA66FF;Keffrider's License^white;"
     }
   }
