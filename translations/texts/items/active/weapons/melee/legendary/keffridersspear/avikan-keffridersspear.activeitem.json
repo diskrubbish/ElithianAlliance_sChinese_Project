@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^#BA66FF;一把给予真正开路骑士的的长矛。",
+      "Chs": "^#BA66FF;一把给予真正开赴骑士的的长矛。",
       "Eng": "^#BA66FF;A spear given to true Keffriders."
     }
   },
@@ -19,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^#BA66FF;开路骑士之矛^yellow;^reset;",
+      "Chs": "^#BA66FF;开赴骑士之矛^yellow;^reset;",
       "Eng": "^#BA66FF;Keffrider's Spear ^yellow;^reset;"
     }
   },
@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^#BA66FF;开路骑士之矛^reset;",
+      "Chs": "^#BA66FF;开赴骑士之矛^reset;",
       "Eng": "^#BA66FF;Keffrider's Spear^reset;"
     }
   }
