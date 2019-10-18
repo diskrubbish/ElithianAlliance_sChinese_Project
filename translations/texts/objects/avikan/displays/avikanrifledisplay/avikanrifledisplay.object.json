@@ -124,17 +124,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/displays/avikanrifledisplay/avikanrifledisplay.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Gun-alien, for killing. Akki like."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/displays/avikanrifledisplay/avikanrifledisplay.object": [
         "/hymidDescription"
       ]
     },

@@ -42,16 +42,5 @@
     "Texts": {
       "Eng": "Metal panels for buildin' interior walls."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/alliance/alliancebackpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panel-wall-metal, cut-clean. Satisfying-very."
-    }
   }
 ]

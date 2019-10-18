@@ -64,16 +64,5 @@
     "Texts": {
       "Eng": "Lost Arm Ring"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanarmringdirt/avikanarmringdirt.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Muck-icky. Akki not want to get hands-dirty."
-    }
   }
 ]

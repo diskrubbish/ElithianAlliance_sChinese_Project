@@ -75,16 +75,5 @@
     "Texts": {
       "Eng": "Slim Avikan Table"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanslimtable/avikanslimtable.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Table-simple. Akki bored."
-    }
   }
 ]

@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Alliance Proximity Scanner"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/wired/alliancescanner/alliancescanner.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "If Akki comes close, sensor activates."
-    }
   }
 ]

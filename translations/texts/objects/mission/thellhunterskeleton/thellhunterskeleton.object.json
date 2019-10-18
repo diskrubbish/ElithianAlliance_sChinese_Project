@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Alien-dead. Look like Thellhunter."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/thellhunterskeleton/thellhunterskeleton.object": [
         "/drodenDescription"
       ]
     },

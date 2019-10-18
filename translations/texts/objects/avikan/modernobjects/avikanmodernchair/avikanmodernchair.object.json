@@ -51,7 +51,7 @@
       ]
     },
     "Texts": {
-      "Eng": "A heavy chair, but incredibly comfortable."
+      "Eng": "A heavy chair, but inctedibly comfortable."
     }
   },
   {
@@ -129,17 +129,6 @@
     },
     "Texts": {
       "Eng": "Avikan Chair"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanmodernchair/avikanmodernchair.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Chair-alien. Weird, but nice."
     }
   },
   {

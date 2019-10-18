@@ -180,17 +180,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/cooking/alliancekitchentable.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tools for cooking, Akki hungry."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/crafting/cooking/alliancekitchentable.object": [
         "/shortdescription"
       ]
     },

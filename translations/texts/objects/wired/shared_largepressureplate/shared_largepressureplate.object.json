@@ -2,9 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/wired/akkimarilargepressureplate/akkimarilargepressureplate.object": [
-        "/drodenDescription"
-      ],
       "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
         "/drodenDescription"
       ],
@@ -19,9 +16,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/wired/akkimarilargepressureplate/akkimarilargepressureplate.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
       "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
         "/glitchDescription/glitchEmotedText"
       ],
@@ -36,9 +30,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/wired/akkimarilargepressureplate/akkimarilargepressureplate.object": [
-        "/floranDescription"
-      ],
       "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
         "/floranDescription"
       ],
@@ -53,9 +44,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/wired/akkimarilargepressureplate/akkimarilargepressureplate.object": [
-        "/description"
-      ],
       "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
         "/description"
       ],

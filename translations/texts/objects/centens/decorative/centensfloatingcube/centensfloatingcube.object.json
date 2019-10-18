@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cube-large-floating, Akki wonder how it works."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/decorative/centensfloatingcube/centensfloatingcube.object": [
         "/drodenDescription"
       ]
     },

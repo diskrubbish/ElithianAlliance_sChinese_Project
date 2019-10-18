@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/trink/trinkhull.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hull-thick, keeps Akkimari safe."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/trink/trinkhull.material": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

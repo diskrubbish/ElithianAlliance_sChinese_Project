@@ -124,17 +124,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Frdige-cold, for keeping food-fresh."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanfridge/avikanfridge.object": [
         "/novakidDescription"
       ]
     },

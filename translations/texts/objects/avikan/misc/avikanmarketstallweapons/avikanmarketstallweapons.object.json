@@ -174,16 +174,5 @@
     "Texts": {
       "Eng": "Weapons of bone. How did they get them so sharp?"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanmarketstallweapons/avikanmarketstallweapons.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Weapons-bone, not strong-very."
-    }
   }
 ]

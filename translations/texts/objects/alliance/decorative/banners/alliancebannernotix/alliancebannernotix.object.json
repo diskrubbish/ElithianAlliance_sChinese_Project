@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/banners/alliancebannernotix/alliancebannernotix.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Icon for Federation-Notix."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/banners/alliancebannernotix/alliancebannernotix.object": [
         "/shortdescription"
       ]
     },

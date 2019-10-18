@@ -91,17 +91,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rifle-strange. Look like driftrifle?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/displays/avikanlinerifledisplay/avikanlinerifledisplay.object": [
         "/aegiDescription"
       ]
     },

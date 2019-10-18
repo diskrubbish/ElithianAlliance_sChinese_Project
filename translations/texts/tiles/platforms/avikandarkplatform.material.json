@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/platforms/avikandarkplatform.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki stand on platform-dark, make Akki look light."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/platforms/avikandarkplatform.material": [
         "/drodenDescription"
       ]
     },

@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Analysis complete. Centensian metal plating detected."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/centens/centensslopedpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panel-sloped. Slippery-very, Akki careful."
-    }
   }
 ]

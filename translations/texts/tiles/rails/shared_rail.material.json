@@ -3,23 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/rails/avikandarkrail.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/rails/avikanrail.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/rails/trinkrail.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki want to bend rails-metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/rails/avikandarkrail.material": [
         "/drodenDescription"
       ],
       "tiles/rails/avikanrail.material": [

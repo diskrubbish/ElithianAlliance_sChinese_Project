@@ -59,20 +59,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/avikan/avikanborderlessleather.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/avikan/avikanleather.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Leather-tough. Akki like the pattern."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/avikan/avikanborderlessleather.material": [
         "/glitchDescription/glitchEmotedText"
       ],
       "tiles/materials/avikan/avikanleather.material": [

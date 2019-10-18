@@ -102,17 +102,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Machine makes things for Akki. Akki happy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikanmetalcrafting/avikanmetalcrafting.object": [
         "/trinkDescription"
       ]
     },

@@ -317,32 +317,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/interfaces/allianceinterface2/allianceinterface2.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/interfaces/allianceinterface3/allianceinterface3.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/interfaces/allianceinterface4/allianceinterface4.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/interfaces/allianceinterface5/allianceinterface5.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/interfaces/allianceinterface6/allianceinterface6.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Interface-alien. Akki not can translate."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/interfaces/allianceinterface1/allianceinterface1.object": [
         "/erixianDescription",
         "/jorgasianDescription"
       ],

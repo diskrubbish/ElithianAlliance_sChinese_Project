@@ -2,9 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/windowconfig/akkimaricrafting.config": [
-        "/paneLayout/btnCraft/caption"
-      ],
       "interface/windowconfig/alliancecrafting.config": [
         "/paneLayout/btnCraft/caption"
       ],
@@ -29,15 +26,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/windowconfig/akkimaricrafting.config": [
-        "/paneLayout/btnStopCraft/caption"
-      ],
-      "interface/windowconfig/akkimarifurnacecrafting.config": [
-        "/paneLayout/btnStopCraft/caption"
-      ],
-      "interface/windowconfig/akkimariinventorcrafting.config": [
-        "/paneLayout/btnStopCraft/caption"
-      ],
       "interface/windowconfig/alliancecrafting.config": [
         "/paneLayout/btnStopCraft/caption"
       ],
@@ -80,15 +68,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/windowconfig/akkimaricrafting.config": [
-        "/paneLayout/lblSchematics/value"
-      ],
-      "interface/windowconfig/akkimarifurnacecrafting.config": [
-        "/paneLayout/lblSchematics/value"
-      ],
-      "interface/windowconfig/akkimariinventorcrafting.config": [
-        "/paneLayout/lblSchematics/value"
-      ],
       "interface/windowconfig/alliancecrafting.config": [
         "/paneLayout/lblSchematics/value"
       ],
@@ -131,15 +110,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/windowconfig/akkimaricrafting.config": [
-        "/paneLayout/lblProducttitle/value"
-      ],
-      "interface/windowconfig/akkimarifurnacecrafting.config": [
-        "/paneLayout/lblProducttitle/value"
-      ],
-      "interface/windowconfig/akkimariinventorcrafting.config": [
-        "/paneLayout/lblProducttitle/value"
-      ],
       "interface/windowconfig/alliancecrafting.config": [
         "/paneLayout/lblProducttitle/value"
       ],
@@ -182,15 +152,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/windowconfig/akkimaricrafting.config": [
-        "/paneLayout/tbSpinCount/regex"
-      ],
-      "interface/windowconfig/akkimarifurnacecrafting.config": [
-        "/paneLayout/tbSpinCount/regex"
-      ],
-      "interface/windowconfig/akkimariinventorcrafting.config": [
-        "/paneLayout/tbSpinCount/regex"
-      ],
       "interface/windowconfig/alliancecrafting.config": [
         "/paneLayout/tbSpinCount/regex"
       ],

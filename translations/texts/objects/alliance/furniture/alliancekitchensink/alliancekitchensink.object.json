@@ -71,17 +71,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki wash hands here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancekitchensink/alliancekitchensink.object": [
         "/avikanDescription"
       ]
     },

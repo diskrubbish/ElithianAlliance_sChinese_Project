@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ship-door, shiny."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/trink/trinkshipdoor/trinkshipdoor.object": [
         "/shortdescription"
       ]
     },

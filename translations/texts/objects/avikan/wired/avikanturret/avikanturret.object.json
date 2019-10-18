@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Nomada Defense Turret"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/wired/avikanturret/avikanturret.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Turret-alien, kill enemies. Akki lazy."
-    }
   }
 ]

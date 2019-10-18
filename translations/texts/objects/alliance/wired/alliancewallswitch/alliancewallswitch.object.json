@@ -3,11 +3,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/wired/alliancewallswitch/alliancewallswitch.object": [
-        "/akkimariDescription"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Akki flip switch. Akki see what happens."
+      "Eng": "Alliance Wall Switch"
     }
   }
 ]

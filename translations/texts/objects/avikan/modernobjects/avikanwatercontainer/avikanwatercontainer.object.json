@@ -20,16 +20,5 @@
     "Texts": {
       "Eng": "Water in big boxesss."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanwatercontainer/avikanwatercontainer.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Water, for Akkimari-thirsty."
-    }
   }
 ]

@@ -8,9 +8,6 @@
       "npcs/threats/akkimari/akkimariscavenger.npctype": [
         "/scriptConfig/dialog/attack/default/default/3"
       ],
-      "npcs/threats/akkimari/akkimariscavengersoldier.npctype": [
-        "/scriptConfig/dialog/attack/default/default/3"
-      ],
       "npcs/threats/akkimari/akkimariscrapper.npctype": [
         "/scriptConfig/dialog/attack/default/default/3"
       ],
@@ -31,9 +28,6 @@
       "npcs/threats/akkimari/akkimariscavenger.npctype": [
         "/scriptConfig/dialog/attack/default/default/5"
       ],
-      "npcs/threats/akkimari/akkimariscavengersoldier.npctype": [
-        "/scriptConfig/dialog/attack/default/default/5"
-      ],
       "npcs/threats/akkimari/akkimariscrapper.npctype": [
         "/scriptConfig/dialog/attack/default/default/5"
       ],
@@ -51,9 +45,6 @@
       "npcs/threats/akkimari/akkimariscavenger.npctype": [
         "/scriptConfig/dialog/attack/default/default/2"
       ],
-      "npcs/threats/akkimari/akkimariscavengersoldier.npctype": [
-        "/scriptConfig/dialog/attack/default/default/2"
-      ],
       "npcs/threats/akkimari/akkimariscrapper.npctype": [
         "/scriptConfig/dialog/attack/default/default/2"
       ],
@@ -69,9 +60,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "npcs/threats/akkimari/akkimariscavenger.npctype": [
-        "/scriptConfig/dialog/attack/default/default/4"
-      ],
-      "npcs/threats/akkimari/akkimariscavengersoldier.npctype": [
         "/scriptConfig/dialog/attack/default/default/4"
       ],
       "npcs/threats/akkimari/akkimariscrapper.npctype": [
@@ -94,9 +82,6 @@
       "npcs/threats/akkimari/akkimariscavenger.npctype": [
         "/scriptConfig/dialog/attack/default/default/1"
       ],
-      "npcs/threats/akkimari/akkimariscavengersoldier.npctype": [
-        "/scriptConfig/dialog/attack/default/default/1"
-      ],
       "npcs/threats/akkimari/akkimariscrapper.npctype": [
         "/scriptConfig/dialog/attack/default/default/1"
       ],
@@ -115,9 +100,6 @@
         "/scriptConfig/dialog/attack/default/default/0"
       ],
       "npcs/threats/akkimari/akkimariscavenger.npctype": [
-        "/scriptConfig/dialog/attack/default/default/0"
-      ],
-      "npcs/threats/akkimari/akkimariscavengersoldier.npctype": [
         "/scriptConfig/dialog/attack/default/default/0"
       ],
       "npcs/threats/akkimari/akkimariscrapper.npctype": [

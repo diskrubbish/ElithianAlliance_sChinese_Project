@@ -91,17 +91,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/flags/flagakkimari/flagakkimari.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Flag of Covenant-Kel'chis. Akki long for home..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/flags/flagakkimari/flagakkimari.object": [
         "/novakidDescription"
       ]
     },

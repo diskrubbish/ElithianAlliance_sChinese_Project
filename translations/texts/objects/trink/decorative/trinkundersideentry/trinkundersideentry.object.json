@@ -49,17 +49,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki enter building here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinkundersideentry/trinkundersideentry.object": [
         "/avianDescription"
       ]
     },

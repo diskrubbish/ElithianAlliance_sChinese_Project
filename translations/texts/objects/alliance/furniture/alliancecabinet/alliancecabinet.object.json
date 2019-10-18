@@ -31,16 +31,5 @@
     "Texts": {
       "Eng": "Alliance Cabinet"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancecabinet/alliancecabinet.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Clothing-alien inside. Akki amke costume-funny!"
-    }
   }
 ]

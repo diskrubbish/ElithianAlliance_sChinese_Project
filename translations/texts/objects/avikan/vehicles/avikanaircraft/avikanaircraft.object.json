@@ -174,16 +174,5 @@
     "Texts": {
       "Eng": "This vehicle can fly in unusual ways."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/vehicles/avikanaircraft/avikanaircraft.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Vehicle-alien, like Chaseflight."
-    }
   }
 ]

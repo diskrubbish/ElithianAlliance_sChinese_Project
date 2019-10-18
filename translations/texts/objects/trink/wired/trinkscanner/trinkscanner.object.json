@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/wired/trinkscanner/trinkscanner.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Eye-alien, always watching..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/wired/trinkscanner/trinkscanner.object": [
         "/shortdescription"
       ]
     },

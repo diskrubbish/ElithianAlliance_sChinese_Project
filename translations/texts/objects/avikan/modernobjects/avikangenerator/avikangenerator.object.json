@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki not break glass. Akki would burn dead."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikangenerator/avikangenerator.object": [
         "/notixDescription"
       ]
     },

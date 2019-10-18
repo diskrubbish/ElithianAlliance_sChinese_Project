@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Container-huge. Akki could live inside."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanshippingcontainer/avikanshippingcontainer.object": [
         "/shortdescription"
       ]
     },

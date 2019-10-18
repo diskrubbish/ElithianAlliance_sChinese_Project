@@ -135,17 +135,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/wired/centensterminal/centensterminal.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Terminal for controlling things. Akki push buttons-all!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/wired/centensterminal/centensterminal.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

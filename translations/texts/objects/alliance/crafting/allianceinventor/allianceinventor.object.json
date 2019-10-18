@@ -82,6 +82,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A modern workstation."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
         "/upgradeStages/2/itemSpawnParameters/avikanDescription"
       ]
     },
@@ -174,12 +185,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
-        "/akkimariDescription",
-        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
+        "/upgradeStages/1/itemSpawnParameters/avikanDescription"
       ]
     },
     "Texts": {
-      "Eng": "Akki use blueprint. Craft things-alien."
+      "Eng": "Alien tools and blueprints. What do they craft here?"
     }
   },
   {
@@ -210,11 +220,46 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Board of light tellsss Floran how to make thingss."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription",
+        "/upgradeStages/1/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can make new thingsss here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
         "/upgradeStages/2/itemSpawnParameters/avianDescription"
       ]
     },
     "Texts": {
       "Eng": "I can display a variety of blueprints on this screen."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can show my crafting skill here."
     }
   },
   {
@@ -235,7 +280,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
-        "/erixianDescription",
         "/upgradeStages/0/itemSpawnParameters/erixianDescription"
       ]
     },
@@ -247,11 +291,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
-        "/upgradeStages/2/itemSpawnParameters/akkimariDescription"
+        "/erixianDescription"
       ]
     },
     "Texts": {
-      "Eng": "Screen-fancy, show blueprints-alien."
+      "Eng": "I should be craeful around this table, it can easily catch fire."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I wonder if I can download these blueprints for the rebellion."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/1/itemSpawnParameters/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Perhaps these blueprints could be used by the rebellion."
     }
   },
   {
@@ -275,6 +341,30 @@
     },
     "Texts": {
       "Eng": "These blueprints are incredibly useful!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/humanDescription",
+        "/upgradeStages/0/itemSpawnParameters/humanDescription",
+        "/upgradeStages/1/itemSpawnParameters/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These blueprints aren't too complicated. Let's get started!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This display is full of interesting blueprints."
     }
   },
   {
@@ -319,17 +409,6 @@
     },
     "Texts": {
       "Eng": "This workstation uses power quite efficiently."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
-        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tools for crafting, blueprint for ideas."
     }
   },
   {

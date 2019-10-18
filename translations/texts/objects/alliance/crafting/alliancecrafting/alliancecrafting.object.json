@@ -198,17 +198,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
-        "/upgradeStages/2/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki not sure how device construct items. Akki will find out."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
         "/upgradeStages/1/itemSpawnParameters/aegiDescription"
       ]
     },
@@ -288,11 +277,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
-        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
+        "/drodenDescription",
+        "/upgradeStages/0/itemSpawnParameters/drodenDescription"
       ]
     },
     "Texts": {
-      "Eng": "Device prints item. Akki need no tools!"
+      "Eng": "Analysis complete. Workshop. Detected various alien tools."
     }
   },
   {
@@ -355,6 +345,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Let's craft something!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
         "/upgradeStages/1/itemSpawnParameters/floranDescription",
         "/upgradeStages/2/itemSpawnParameters/floranDescription"
       ]
@@ -396,6 +398,18 @@
     },
     "Texts": {
       "Eng": "The most advanced fabrication unit on the market."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
+        "/novakidDescription",
+        "/upgradeStages/0/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "These tools are just waitin' to be used."
     }
   },
   {
@@ -517,12 +531,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
-        "/akkimariDescription",
-        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
+        "/floranDescription",
+        "/upgradeStages/0/itemSpawnParameters/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Tools-many. Akki use to craft things."
+      "Eng": "Workssshop for crafting thingss."
     }
   },
   {

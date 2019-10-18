@@ -20,16 +20,5 @@
     "Texts": {
       "Eng": "Small Avikan Stall"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanmarketstallsmall/avikanmarketstallsmall.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Stall-small-empty."
-    }
   }
 ]

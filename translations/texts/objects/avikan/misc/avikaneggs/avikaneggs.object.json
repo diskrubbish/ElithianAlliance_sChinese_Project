@@ -124,17 +124,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikaneggs/avikaneggs.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Eggs-alien, for cooking and eating. Akki hungry."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikaneggs/avikaneggs.object": [
         "/hymidDescription"
       ]
     },

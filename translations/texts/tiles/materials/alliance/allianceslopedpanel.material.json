@@ -20,16 +20,5 @@
     "Texts": {
       "Eng": "Metal panel ssshines."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/alliance/allianceslopedpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panel-strong, for building buildings."
-    }
   }
 ]

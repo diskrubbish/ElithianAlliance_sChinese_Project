@@ -115,20 +115,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-vault, keeps room secure."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor-flipped.object": [
         "/avikanDescription"
       ],
       "objects/avikan/modernobjects/avikanvaultdoor/avikanvaultdoor.object": [

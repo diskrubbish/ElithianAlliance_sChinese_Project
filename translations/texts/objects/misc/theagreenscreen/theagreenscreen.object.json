@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Green Screen"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/misc/theagreenscreen/theagreenscreen.object": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "It isn't green at all!"
-    }
   }
 ]

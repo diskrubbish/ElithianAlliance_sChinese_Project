@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanteleportshop/avikanteleportshop2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki bookmark teleporter, come back later."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanteleportshop/avikanteleportshop2.object": [
         "/shortdescription"
       ]
     },

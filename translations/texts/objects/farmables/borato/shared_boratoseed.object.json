@@ -59,20 +59,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/borato/boratoseed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/farmables/borato/wildboratoseed.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki see plant-fat, make Akki fat too?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/borato/boratoseed.object": [
         "/hymidDescription"
       ],
       "objects/farmables/borato/wildboratoseed.object": [

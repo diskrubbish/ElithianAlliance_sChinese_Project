@@ -148,17 +148,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentobjects/avikantapestryroll/avikantapestryroll.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tapestry-leather, all rolled up."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentobjects/avikantapestryroll/avikantapestryroll.object": [
         "/avikanDescription"
       ]
     },

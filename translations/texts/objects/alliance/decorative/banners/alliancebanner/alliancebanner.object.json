@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/banners/alliancebanner/alliancebanner.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki know this symbol! Alliance-Elithian."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/banners/alliancebanner/alliancebanner.object": [
         "/drodenDescription"
       ]
     },

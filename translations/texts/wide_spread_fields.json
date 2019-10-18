@@ -31,12 +31,6 @@
       "objects/events/landingfestival/landingtreemedium/landingtreemedium-event.object": [
         "/description"
       ],
-      "objects/mission/theacrowdsounds/theacrowdsounds.object": [
-        "/description"
-      ],
-      "objects/mission/theahiddenlight/theahiddenlight.object": [
-        "/description"
-      ],
       "tiles/materials/other/thea-hiddenmaterial.material": [
         "/description"
       ]
@@ -126,8 +120,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/avikanoutpost.config": [
-        "/converse/avikan/aegi/8",
-        "/converse/avikan/akkimari/8",
         "/converse/avikan/apex/8",
         "/converse/avikan/avian/8",
         "/converse/avikan/floran/8",

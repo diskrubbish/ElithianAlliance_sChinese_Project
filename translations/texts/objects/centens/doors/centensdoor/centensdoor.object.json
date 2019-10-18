@@ -91,17 +91,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/doors/centensdoor/centensdoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-ancient, built by god-makers."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/doors/centensdoor/centensdoor.object": [
         "/humanDescription"
       ]
     },

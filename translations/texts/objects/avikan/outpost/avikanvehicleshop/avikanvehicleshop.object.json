@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki get vehicles-new, ride around, fly around."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanvehicleshop/avikanvehicleshop.object": [
         "/floranDescription"
       ]
     },

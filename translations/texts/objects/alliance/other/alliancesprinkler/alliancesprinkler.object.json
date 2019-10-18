@@ -102,17 +102,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sprinkler-alien. Sprays water!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/other/alliancesprinkler/alliancesprinkler.object": [
         "/erixianDescription"
       ]
     },

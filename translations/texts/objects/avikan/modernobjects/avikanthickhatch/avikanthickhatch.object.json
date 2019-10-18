@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanthickhatch/avikanthickhatch.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hatch-thick."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanthickhatch/avikanthickhatch.object": [
         "/shortdescription"
       ]
     },

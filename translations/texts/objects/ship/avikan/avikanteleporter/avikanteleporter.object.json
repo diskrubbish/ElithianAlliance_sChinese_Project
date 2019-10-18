@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "A teleporter of Avikan design."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/avikan/avikanteleporter/avikanteleporter.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Teleporter-alien, make Akki dizzy."
-    }
   }
 ]

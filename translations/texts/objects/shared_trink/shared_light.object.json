@@ -130,19 +130,5 @@
     "Texts": {
       "Eng": "I've always wondered why the Trink use green light..."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/trink/trinkshiplight/trinkshiplight.object": [
-        "/akkimariDescription"
-      ],
-      "objects/trink/lights/trinklight/trinklight.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Light-green."
-    }
   }
 ]

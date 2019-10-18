@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/banners/alliancebannerhymid/alliancebannerhymid.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki think this is symbol Republic-Hymid."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/banners/alliancebannerhymid/alliancebannerhymid.object": [
         "/drodenDescription"
       ]
     },

@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/signs/avikannumber2/avikannumber2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Number-alien. Two, Akki thinks."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/signs/avikannumber2/avikannumber2.object": [
         "/drodenDescription"
       ]
     },

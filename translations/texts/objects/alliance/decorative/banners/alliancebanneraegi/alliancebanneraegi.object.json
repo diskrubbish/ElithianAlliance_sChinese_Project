@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/banners/alliancebanneraegi/alliancebanneraegi.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki believe this is Union-Aegi symbol."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/banners/alliancebanneraegi/alliancebanneraegi.object": [
         "/drodenDescription"
       ]
     },

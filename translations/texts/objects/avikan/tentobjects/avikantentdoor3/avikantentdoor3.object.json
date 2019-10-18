@@ -104,17 +104,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-purple. Sway in the wind."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentobjects/avikantentdoor3/avikantentdoor3.object": [
         "/shortdescription"
       ]
     },

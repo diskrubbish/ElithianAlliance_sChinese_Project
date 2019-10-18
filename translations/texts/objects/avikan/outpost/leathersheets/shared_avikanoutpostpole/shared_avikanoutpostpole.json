@@ -82,19 +82,5 @@
     "Texts": {
       "Eng": "Metal pole detected."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/leathersheets/avikanoutpostpole1/avikanoutpostpole1.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/outpost/leathersheets/avikanoutpostpole2/avikanoutpostpole2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Pole-metal."
-    }
   }
 ]

@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cabinet-medicine. Akki not want healing-alien."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanmedcabinet/avikanmedcabinet.object": [
         "/drodenDescription"
       ]
     },

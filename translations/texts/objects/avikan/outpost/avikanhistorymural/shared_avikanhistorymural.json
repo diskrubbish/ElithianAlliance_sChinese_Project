@@ -119,35 +119,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural2.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural3.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural4.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural5.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural6.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural7.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mural-big. Tell a story, but Akki no care."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanhistorymural/avikanhistorymural1.object": [
         "/description"
       ],
       "objects/avikan/outpost/avikanhistorymural/avikanhistorymural2.object": [

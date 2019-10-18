@@ -20,20 +20,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/akkimari/akkimaribeam.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/akkimari/akkimaribeamvert.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Beams-strong keep houses-Akkimari standing."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/akkimari/akkimaribeam.material": [
         "/novakidDescription"
       ],
       "tiles/materials/akkimari/akkimaribeamvert.material": [
@@ -56,6 +42,20 @@
     },
     "Texts": {
       "Eng": "Long beamsss made of metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimaribeam.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/akkimari/akkimaribeamvert.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strong beams keep Akkimari houses standing."
     }
   },
   {

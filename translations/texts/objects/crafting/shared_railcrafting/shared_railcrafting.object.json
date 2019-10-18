@@ -45,20 +45,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki craft rails here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/crafting/alliancerailcrafting/alliancerailcrafting.object": [
         "/trinkDescription"
       ],
       "objects/avikan/crafting/avikanrailcrafting/avikanrailcrafting.object": [

@@ -73,6 +73,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/mellowroot/mellowrootseed.object": [
+        "/akkimariDescription"
+      ],
+      "objects/farmables/mellowroot/wildmellowroot.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akki not like alien plants."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/farmables/mellowroot/mellowrootseed.object": [
         "/avikanDescription"
       ],
       "objects/farmables/mellowroot/wildmellowroot.object": [
@@ -151,20 +165,6 @@
     },
     "Texts": {
       "Eng": "Mellowroot Seed"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/mellowroot/mellowrootseed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/farmables/mellowroot/wildmellowroot.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plant-wet, juicy-very. Akki not sure what to think."
     }
   },
   {

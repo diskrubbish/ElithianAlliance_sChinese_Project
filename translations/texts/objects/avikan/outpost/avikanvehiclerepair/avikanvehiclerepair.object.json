@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "If Akki break vehicle, Akki come here. Alien repair vehicle."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanvehiclerepair/avikanvehiclerepair.object": [
         "/chatOptions/2"
       ]
     },

@@ -92,17 +92,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Glass-empty, no fun."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanemptyglass/avikanemptyglass.object": [
         "/avikanDescription"
       ]
     },

@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/crafting/uniqueweaponinfusion/uniqueweaponinfusion.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Energy-strange flowing here. Weapons-Akki resonate. Bathe them in the light?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/crafting/uniqueweaponinfusion/uniqueweaponinfusion.object": [
         "/shortdescription"
       ]
     },
@@ -118,6 +107,17 @@
     },
     "Texts": {
       "Eng": "Something about this construct draws me closer..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/centens/crafting/uniqueweaponinfusion/uniqueweaponinfusion.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Strange energy flows here. Akki's weapons resonate. Bathe them in the light?"
     }
   },
   {

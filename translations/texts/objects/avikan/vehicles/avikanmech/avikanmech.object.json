@@ -124,17 +124,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/vehicles/avikanmech/avikanmech.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mech-alien, Akki control! Akki stomp around, step on puny aliens!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/vehicles/avikanmech/avikanmech.object": [
         "/avikanDescription"
       ]
     },

@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki tan hides, make leather."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikantanningrack/avikantanningrack.object": [
         "/shortdescription"
       ]
     },

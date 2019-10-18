@@ -73,20 +73,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancechair/alliancechair.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/furniture/alliancechair2/alliancechair2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki sit."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancechair/alliancechair.object": [
         "/hymidDescription"
       ],
       "objects/alliance/furniture/alliancechair2/alliancechair2.object": [

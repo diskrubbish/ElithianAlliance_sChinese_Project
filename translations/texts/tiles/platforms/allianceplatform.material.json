@@ -20,16 +20,5 @@
     "Texts": {
       "Eng": "Part of a metal platform."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/platforms/allianceplatform.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Platform-metal, clean-very."
-    }
   }
 ]

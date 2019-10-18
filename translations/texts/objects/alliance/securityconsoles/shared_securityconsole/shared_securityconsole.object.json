@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/securityconsoles/alliancegunrangesecurityconsole/alliancegunrangesecurityconsole.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/securityconsoles/allianceoutpostsecurityconsole/allianceoutpostsecurityconsole.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki need pass-security."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/securityconsoles/alliancegunrangesecurityconsole/alliancegunrangesecurityconsole.object": [
         "/drodenDescription"
       ],
       "objects/alliance/securityconsoles/allianceoutpostsecurityconsole/allianceoutpostsecurityconsole.object": [

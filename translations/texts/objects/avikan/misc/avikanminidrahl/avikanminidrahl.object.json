@@ -135,17 +135,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Drone-puny, funny."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanminidrahl/avikanminidrahl.object": [
         "/erixianDescription"
       ]
     },

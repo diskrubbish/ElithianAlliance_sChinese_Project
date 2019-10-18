@@ -117,7 +117,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Detected Centensian stasis pod. Occupant status: unknown."
+      "Eng": "Detected Centensian stasis. Occupant status: unknown."
     }
   },
   {
@@ -129,17 +129,6 @@
     },
     "Texts": {
       "Eng": "Is anyone inside the stasis pod?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/decorative/centensstasispod/centensstasispod.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Pod-stasis, for sleeping time-long. Is god-maker inside?"
     }
   },
   {

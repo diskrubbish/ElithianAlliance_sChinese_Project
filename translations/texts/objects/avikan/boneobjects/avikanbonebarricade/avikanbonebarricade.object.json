@@ -71,17 +71,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bones-sharpened make for barricade-good."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/boneobjects/avikanbonebarricade/avikanbonebarricade.object": [
         "/drodenDescription"
       ]
     },

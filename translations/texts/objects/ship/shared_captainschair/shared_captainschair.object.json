@@ -37,23 +37,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
-        "/akkimariDescription"
-      ],
-      "objects/ship/avikan/avikancaptainschair/avikancaptainschair.object": [
-        "/akkimariDescription"
-      ],
-      "objects/ship/trink/trinkcaptainschair/trinkcaptainschair.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Chair-captain. Linked to console-navigation."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/aegi/aegicaptainschair/aegicaptainschair.object": [
         "/drodenDescription"
       ],
       "objects/ship/akkimari/akkimaricaptainschair/akkimaricaptainschair.object": [

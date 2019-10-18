@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/theleanstucksword/theleanstucksword.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sword of god-thief. Akki take sword, use to kill god-thief."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/theleanstucksword/theleanstucksword.object": [
         "/description"
       ]
     },

@@ -139,23 +139,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/alliancebooks/alliancebooks3.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Books. Akki not want to read."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/alliancebooks/alliancebooks1.object": [
         "/hymidDescription"
       ],
       "objects/alliance/decorative/alliancebooks/alliancebooks2.object": [

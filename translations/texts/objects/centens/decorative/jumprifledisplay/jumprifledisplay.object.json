@@ -174,16 +174,5 @@
     "Texts": {
       "Eng": "This weapon is ancient, and no longer functional."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/decorative/jumprifledisplay/jumprifledisplay.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Weapon-solar, fire plasma. Akki melt enemies!"
-    }
   }
 ]

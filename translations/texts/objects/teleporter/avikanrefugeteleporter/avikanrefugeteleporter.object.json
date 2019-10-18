@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Starfarer's Teleporter"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/teleporter/avikanrefugeteleporter/avikanrefugeteleporter.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Teleporter-alien, linked to Refuge-Starfarers."
-    }
   }
 ]

@@ -113,17 +113,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sheet protects vehicle-alien from the desert."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/vehicles/avikanhoverbikecovered/avikanhoverbikecovered.object": [
         "/apexDescription"
       ]
     },

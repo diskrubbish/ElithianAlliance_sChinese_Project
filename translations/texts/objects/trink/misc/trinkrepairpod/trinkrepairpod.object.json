@@ -135,17 +135,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Machines repair here. Akki sabotage, make it break machines!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/misc/trinkrepairpod/trinkrepairpod.object": [
         "/drodenDescription"
       ]
     },

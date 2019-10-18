@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanoutposthatch/avikanoutposthatch.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki go into pipes from here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanoutposthatch/avikanoutposthatch.object": [
         "/floranDescription"
       ]
     },

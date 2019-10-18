@@ -47,17 +47,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/theleancorpsepile/theleancorpsepile.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "God-thieves-dead. Akki pleased."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/theleancorpsepile/theleancorpsepile.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

@@ -1,0 +1,16 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/shortdescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Side Plate"
+    }
+  }
+]

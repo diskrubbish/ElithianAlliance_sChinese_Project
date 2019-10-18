@@ -82,17 +82,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Roof-alien, has many lights."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinksmallroof/trinksmallroof.object": [
         "/shortdescription"
       ]
     },

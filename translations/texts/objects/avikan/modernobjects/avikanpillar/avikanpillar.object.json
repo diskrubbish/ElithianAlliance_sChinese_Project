@@ -158,17 +158,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Pillar-long, for supporting roof-heavy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanpillar/avikanpillar.object": [
         "/drodenDescription"
       ]
     },

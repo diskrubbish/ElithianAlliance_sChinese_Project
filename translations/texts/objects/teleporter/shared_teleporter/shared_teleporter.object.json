@@ -354,20 +354,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/teleporter/trinklowteleporter/trinklowteleporter.object": [
-        "/akkimariDescription"
-      ],
-      "objects/teleporter/trinktallteleporter/trinktallteleporter.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Teleporter-alien, look fancy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
         "/jorgasianDescription"
       ],

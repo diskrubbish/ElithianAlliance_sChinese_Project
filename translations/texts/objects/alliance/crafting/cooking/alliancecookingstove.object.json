@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/cooking/alliancecookingstove.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki cook food, make tasty-more."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/crafting/cooking/alliancecookingstove.object": [
         "/avikanDescription"
       ]
     },

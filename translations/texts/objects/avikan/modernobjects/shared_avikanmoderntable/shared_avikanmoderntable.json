@@ -61,20 +61,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Table-metal. Clean-very."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanmoderntable/avikanmoderntable.object": [
         "/hymidDescription"
       ],
       "objects/avikan/modernobjects/avikanmoderntable2/avikanmoderntable2.object": [

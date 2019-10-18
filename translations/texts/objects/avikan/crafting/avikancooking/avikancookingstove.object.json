@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki cook, make food tasty-more."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikancooking/avikancookingstove.object": [
         "/aegiDescription"
       ]
     },

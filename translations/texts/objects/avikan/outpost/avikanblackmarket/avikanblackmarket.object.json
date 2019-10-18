@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Alien-shady. Akki-shady too. Friends?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanblackmarket/avikanblackmarket.object": [
         "/drodenDescription"
       ]
     },

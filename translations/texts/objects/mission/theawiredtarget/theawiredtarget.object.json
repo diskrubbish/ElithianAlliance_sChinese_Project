@@ -3,28 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/theawiredtarget/theawiredtarget.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki shoot target, target break. Target break, something happens!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/theawiredtarget/theawiredtarget.object": [
-        "/drodenDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Detected practice target. Unit can fire at it to complete a circuit."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/theawiredtarget/theawiredtarget.object": [
         "/novakidDescription"
       ]
     },

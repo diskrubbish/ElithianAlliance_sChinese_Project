@@ -126,17 +126,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanvehiclejumpgate/avikanvehiclejumpgate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Teleporter for vehicle."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanvehiclejumpgate/avikanvehiclejumpgate.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

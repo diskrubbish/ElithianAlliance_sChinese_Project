@@ -147,17 +147,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentobjects/avikantentdoor/avikantentdoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door to tent."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentobjects/avikantentdoor/avikantentdoor.object": [
         "/centensDescription"
       ]
     },

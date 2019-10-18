@@ -207,23 +207,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/containers/centenschest/centenschest.object": [
-        "/akkimariDescription"
-      ],
-      "objects/centens/containers/centenslargechest/centenslargechest.object": [
-        "/akkimariDescription"
-      ],
-      "objects/centens/containers/centenssmallchest/centenssmallchest.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "God-maker storage, Akki find valuables inside."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/containers/centenschest/centenschest.object": [
         "/floranDescription"
       ],
       "objects/centens/containers/centenslargechest/centenslargechest.object": [

@@ -184,18 +184,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/crafting/avikaninventor/avikaninventor.object": [
-        "/akkimariDescription",
-        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki use blueprint to craft things-many."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikaninventor/avikaninventor.object": [
         "/notixDescription",
         "/upgradeStages/0/itemSpawnParameters/notixDescription"
       ]
@@ -271,17 +259,6 @@
     },
     "Texts": {
       "Eng": "I can craft specialized crafting tools here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikaninventor/avikaninventor.object": [
-        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Screen shows blueprints, useful for Akki."
     }
   },
   {

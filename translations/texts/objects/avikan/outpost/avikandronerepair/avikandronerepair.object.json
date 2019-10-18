@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki repair drones here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikandronerepair/avikandronerepair.object": [
         "/drodenDescription"
       ]
     },

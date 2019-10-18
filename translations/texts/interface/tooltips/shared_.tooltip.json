@@ -19,9 +19,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/tooltips/thea-activethrowable.tooltip": [
-        "/descriptionLabel/value"
-      ],
       "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
         "/descriptionLabel/value"
       ],

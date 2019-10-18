@@ -146,17 +146,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Things-many inside. Aliens store items-weird."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancecloset/alliancecloset.object": [
         "/notixDescription"
       ]
     },

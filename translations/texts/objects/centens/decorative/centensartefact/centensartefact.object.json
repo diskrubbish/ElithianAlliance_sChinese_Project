@@ -157,17 +157,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/decorative/centensartefact/centensartefact.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cube-strange, artefact-god-maker."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/decorative/centensartefact/centensartefact.object": [
         "/drodenDescription"
       ]
     },

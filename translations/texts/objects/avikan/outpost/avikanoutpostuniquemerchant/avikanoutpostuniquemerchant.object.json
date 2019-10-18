@@ -48,17 +48,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanoutpostuniquemerchant/avikanoutpostuniquemerchant.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Person-shady remind Akki of something. Akki no focus..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanoutpostuniquemerchant/avikanoutpostuniquemerchant.object": [
         "/description"
       ]
     },

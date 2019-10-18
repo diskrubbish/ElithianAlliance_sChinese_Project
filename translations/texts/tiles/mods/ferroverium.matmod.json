@@ -3,28 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/mods/ferroverium.matmod": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki mine ferroverium, make materials-new."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/mods/ferroverium.matmod": [
-        "/drodenDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Detected ferroverium ore deposit. Recommend immediate extraction."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/mods/ferroverium.matmod": [
         "/novakidDescription"
       ]
     },

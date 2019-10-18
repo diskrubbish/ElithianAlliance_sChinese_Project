@@ -113,17 +113,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentobjects/avikantent/avikantent.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tent-leather, Akki sleep here for the night."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentobjects/avikantent/avikantent.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

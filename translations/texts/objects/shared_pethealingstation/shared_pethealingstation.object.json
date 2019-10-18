@@ -2,9 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/description"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/description"
       ],
@@ -19,9 +16,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/hymidDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/hymidDescription"
       ],
@@ -36,9 +30,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/erixianDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/erixianDescription"
       ],
@@ -53,9 +44,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/jorgasianDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/jorgasianDescription"
       ],
@@ -70,26 +58,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/misc/avikanpethealingstation/avikanpethealingstation.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki heal pet here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/aegiDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/aegiDescription"
       ],
@@ -104,9 +72,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/drodenDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/drodenDescription"
       ],
@@ -121,9 +86,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/floranDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/floranDescription"
       ],
@@ -138,9 +100,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/avianDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/avianDescription"
       ],
@@ -155,9 +114,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/novakidDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/novakidDescription"
       ],
@@ -172,9 +128,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/humanDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/humanDescription"
       ],
@@ -189,9 +142,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/apexDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/apexDescription"
       ],
@@ -206,9 +156,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/hylotlDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/hylotlDescription"
       ],
@@ -223,9 +170,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/glitchDescription/glitchEmotedText"
       ],
@@ -240,9 +184,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/trinkDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/trinkDescription"
       ],
@@ -257,9 +198,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/avikanDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/avikanDescription"
       ],
@@ -274,9 +212,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/notixDescription"
-      ],
       "objects/alliance/other/alliancepethealingstation/alliancepethealingstation.object": [
         "/notixDescription"
       ],

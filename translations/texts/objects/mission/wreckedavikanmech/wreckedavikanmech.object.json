@@ -47,17 +47,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mech-alien-wrecked. Akki wonder where pilot is."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/wreckedavikanmech/wreckedavikanmech.object": [
         "/floranDescription"
       ]
     },

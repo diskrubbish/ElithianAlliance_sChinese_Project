@@ -1,0 +1,33 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/theagreenscreenplatform.matitem": [
+        "/description"
+      ],
+      "objects/misc/theagreenscreen/theagreenscreen.object": [
+        "/aegiDescription",
+        "/apexDescription",
+        "/avianDescription",
+        "/avikanDescription",
+        "/centensDescription",
+        "/description",
+        "/dremetonDescription",
+        "/drodenDescription",
+        "/erixianDescription",
+        "/floranDescription",
+        "/glitchDescription",
+        "/humanDescription",
+        "/hylotlDescription",
+        "/hymidDescription",
+        "/hyvonDescription",
+        "/jorgasianDescription",
+        "/notixDescription",
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "No description."
+    }
+  }
+]

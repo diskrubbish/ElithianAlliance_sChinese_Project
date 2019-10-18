@@ -53,16 +53,5 @@
     "Texts": {
       "Eng": "AAE Shipping Container"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki store many things inside!"
-    }
   }
 ]

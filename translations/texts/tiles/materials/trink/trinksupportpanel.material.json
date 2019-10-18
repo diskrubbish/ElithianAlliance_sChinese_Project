@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/trink/trinksupportpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Beam-support, keep walls standing."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/trink/trinksupportpanel.material": [
         "/floranDescription"
       ]
     },

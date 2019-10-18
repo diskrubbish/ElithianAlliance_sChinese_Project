@@ -157,17 +157,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "If Akki wet, Akki dry here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
         "/avikanDescription"
       ]
     },

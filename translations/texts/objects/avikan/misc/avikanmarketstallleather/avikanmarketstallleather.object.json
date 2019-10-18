@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Cloth and leather. Akki use for weaving."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanmarketstallleather/avikanmarketstallleather.object": [
         "/aegiDescription"
       ]
     },

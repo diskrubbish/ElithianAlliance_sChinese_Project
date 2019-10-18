@@ -157,17 +157,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentparts/avikantentside/avikantentside.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tent-side, wall-leather."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentparts/avikantentside/avikantentside.object": [
         "/aegiDescription"
       ]
     },

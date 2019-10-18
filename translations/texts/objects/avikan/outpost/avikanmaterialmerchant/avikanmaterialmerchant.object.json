@@ -47,17 +47,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Robot give Akki tokens, if Akki give robot materials."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanmaterialmerchant/avikanmaterialmerchant.object": [
         "/avikanDescription"
       ]
     },

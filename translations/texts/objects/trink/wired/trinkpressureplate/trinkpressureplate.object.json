@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/wired/trinkpressureplate/trinkpressureplate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki stand on plate, plate sink into ground."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/wired/trinkpressureplate/trinkpressureplate.object": [
         "/shortdescription"
       ]
     },

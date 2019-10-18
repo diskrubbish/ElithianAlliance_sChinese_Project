@@ -88,16 +88,5 @@
     "Texts": {
       "Eng": "This black tapestry displays the emblem of our Watchers, the forces that protect us from the Thell."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikantapestrywatcher/avikantapestrywatcher.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Watchers watching Akki."
-    }
   }
 ]

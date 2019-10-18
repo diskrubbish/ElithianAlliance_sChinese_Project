@@ -73,20 +73,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/containers/alliancecrate/alliancecrate.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Crate. Akki store stuff here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/containers/alliancecrate/alliancecrate.object": [
         "/trinkDescription"
       ],
       "objects/alliance/containers/alliancelargecrate/alliancelargecrate.object": [

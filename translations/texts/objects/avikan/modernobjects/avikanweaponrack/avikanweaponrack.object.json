@@ -64,16 +64,5 @@
     "Texts": {
       "Eng": "This wall-mounted weapons rack uses a magnetic lock to keep the weapons secure."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanweaponrack/avikanweaponrack.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Weapons-alien. Akki take them, use against aliens. Akki laugh!"
-    }
   }
 ]

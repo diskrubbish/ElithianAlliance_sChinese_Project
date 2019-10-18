@@ -39,16 +39,5 @@
     "Texts": {
       "Eng": "/ai/portraits/aegiportrait.png:unique.1"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/aegi/aegitechstation/aegitechstation.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Interface-SAIL. Akki talk to ship here."
-    }
   }
 ]

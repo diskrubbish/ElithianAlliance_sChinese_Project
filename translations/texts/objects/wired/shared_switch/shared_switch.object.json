@@ -16,9 +16,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/wired/akkimariwallswitch/akkimariwallswitch.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
       "objects/alliance/wired/alliancewallswitch/alliancewallswitch.object": [
         "/glitchDescription/glitchEmotedText"
       ],
@@ -42,9 +39,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/wired/akkimariwallswitch/akkimariwallswitch.object": [
-        "/drodenDescription"
-      ],
       "objects/alliance/wired/alliancewallswitch/alliancewallswitch.object": [
         "/drodenDescription"
       ],
@@ -68,9 +62,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/wired/akkimariwallswitch/akkimariwallswitch.object": [
-        "/floranDescription"
-      ],
       "objects/alliance/wired/alliancewallswitch/alliancewallswitch.object": [
         "/floranDescription"
       ],

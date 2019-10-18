@@ -33,12 +33,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/akkimaripowercore/akkimaripowercore.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
         "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
       ],
@@ -346,17 +340,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/space/akkimarishipengine/akkimarishipengine.object": [
-        "/glitchDescription/glitchEmote"
-      ]
-    },
-    "Texts": {
-      "Eng": "Awed."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/akkimari/decorative/akkimaribountyhologram/akkimaribountyhologram.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -447,9 +430,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/akkimari/doors/akkimarislidinghatch/akkimarislidinghatch.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/wired/akkimaripressureplate/akkimaripressureplate.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/alliance/wired/alliancepressureplate/alliancepressureplate.object": [
@@ -634,12 +614,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor-wired.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "objects/akkimari/decorative/akkimaribanner/akkimaribanner.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -652,16 +626,7 @@
       "objects/akkimari/wired/akkimaributton/akkimaributton.object": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/wired/akkimarilargepressureplate/akkimarilargepressureplate.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "objects/akkimari/wired/akkimarismallbutton/akkimarismallbutton.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/alliance/containers/allianceshippingcontainer/allianceshippingcontainer.object": [
@@ -909,12 +874,6 @@
       ],
       "objects/avikan/outpost/avikanarmringdirt/avikanarmringdirt.object": [
         "/glitchDescription/glitchEmote"
-      ],
-      "objects/farmables/achvass/achvassseed.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/farmables/achvass/wildachvassseed.object": [
-        "/glitchDescription/glitchEmote"
       ]
     },
     "Texts": {
@@ -1080,14 +1039,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/crafting/akkimaricrafting/akkimaricrafting.object": [
-        "/glitchDescription/glitchEmote",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote",
-        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "objects/alliance/crafting/alliancecrafting/alliancecrafting.object": [
         "/glitchDescription/glitchEmote",
         "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote"
@@ -1449,21 +1400,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/crafting/akkimaricrafting/akkimaricrafting.object": [
-        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/akkimarijusticar/akkimarijusticar.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
         "/glitchDescription/glitchEmote",
         "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote",
@@ -1563,9 +1499,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/doors/akkimariflightdoor/akkimariflightdoor.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -1684,12 +1617,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
-        "/glitchDescription/glitchEmote",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote",
-        "/upgradeStages/1/itemSpawnParameters/glitchDescription/glitchEmote",
-        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmote"
-      ],
       "objects/alliance/crafting/allianceinventor/allianceinventor.object": [
         "/glitchDescription/glitchEmote",
         "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote",
@@ -1771,9 +1698,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/akkimari/containers/akkimarichest/akkimarichest.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/containers/akkimarismallchest/akkimarismallchest.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
@@ -1934,23 +1858,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/containers/akkimaricrate/akkimaricrate.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/farmables/sagrassa/sagrassaseed.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/farmables/sagrassa/wildsagrassaseed.object": [
-        "/glitchDescription/glitchEmote"
-      ]
-    },
-    "Texts": {
-      "Eng": "Mystified."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/tools/manipulator/akkimari/akkimariscanmode.inspectiontool": [
         "/nothingThereText/glitch/1/glitchEmote"
       ],
@@ -2005,9 +1912,6 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/biome/smashablerocks/hyveriumrocksmall/hyveriumrocksmall.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/colonydeeds/akkimaricolonydeed.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/colonydeeds/alliancecolonydeed.object": [
@@ -2093,49 +1997,19 @@
       "items/materials/generic/avikanthickpipetop.matitem": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/akkimari/decorative/akkimarihangingstorage/akkimarihangingstorage.object": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/akkimari/decorative/plating/akkimaribottomplating/akkimaribottomplating.object": [
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/akkimari/decorative/plating/akkimaribottomplating2/akkimaribottomplating2.object": [
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/akkimari/decorative/plating/akkimaribottomplating3/akkimaribottomplating3.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating/akkimarisideplating.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating/akkimarisideplatinginverted.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating2/akkimarisideplating2.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating2/akkimarisideplating2inverted.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating3/akkimarisideplating3.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating3/akkimarisideplating3inverted.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/plating/akkimaritopplating/akkimaritopplating.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/plating/akkimaritopplating2/akkimaritopplating2.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/decorative/plating/akkimaritopplating3/akkimaritopplating3.object": [
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/akkimari/lights/akkimarilightstrip/akkimarilightstrip.object": [
@@ -2259,9 +2133,6 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/alliance/furniture/alliancetowelrack/alliancetowelrack.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
@@ -2609,24 +2480,6 @@
       "objects/farmables/bolbohn/wildbolbohnseed.object": [
         "/glitchDescription/glitchEmote"
       ],
-      "objects/farmables/vrelli/vrelliseed.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/farmables/vrelli/wildvrelliseed.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/mannequins/akkimarimannequin/akkimarimannequin.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/mannequins/avikanmannequin/avikanmannequin.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/mannequins/drodenmannequin/drodenmannequin.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/mannequins/trinkmannequin/trinkmannequin.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "objects/mission/avikanmechspawner/avikanmechspawner.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -2667,18 +2520,6 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/ship/trink/trinkteleportertier0/trinkteleportertier0.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/space/akkimarishipantenna/akkimarishipantenna.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/space/akkimarishipantenna2/akkimarishipantenna2.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/space/akkimarishipthruster/akkimarishipthruster.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/trink/decorative/trinkhangingwires/trinkhangingwires.object": [
@@ -2793,9 +2634,6 @@
         "/glitchDescription/glitchEmote"
       ],
       "tiles/materials/trink/trinkhull.material": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "tiles/mods/akrisgrass.matmod": [
         "/glitchDescription/glitchEmote"
       ],
       "tiles/platforms/akkimariplatform.material": [
@@ -2916,6 +2754,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/alliance/furniture/alliancedesk/alliancedesk.object": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/alliance/other/alliancerecruitmentdesk/alliancerecruitmentdesk.object": [
@@ -3146,9 +2987,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
-        "/glitchDescription/glitchEmote"
-      ],
       "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -3282,9 +3120,6 @@
         "/glitchDescription/glitchEmote"
       ],
       "objects/akkimari/furniture/akkimaripiratecaptainchair/akkimaripiratecaptainchair.object": [
-        "/glitchDescription/glitchEmote"
-      ],
-      "objects/akkimari/wired/akkimariwallswitch/akkimariwallswitch.object": [
         "/glitchDescription/glitchEmote"
       ],
       "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
@@ -3612,10 +3447,6 @@
       ],
       "items/tools/manipulator/trink/trinkscanmode.inspectiontool": [
         "/nothingThereText/glitch/0/glitchEmote"
-      ],
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/glitchDescription/glitchEmote",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmote"
       ],
       "objects/akkimari/doors/akkimarifabricdoor/akkimarifabricdoor.object": [
         "/glitchDescription/glitchEmote"

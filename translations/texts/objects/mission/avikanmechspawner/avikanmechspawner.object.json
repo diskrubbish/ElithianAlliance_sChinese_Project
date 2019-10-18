@@ -80,6 +80,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/avikanmechspawner/avikanmechspawner.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien mech bay. Akki steal mech, scavenge for parts?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
         "/erixianDescription"
       ]
     },
@@ -96,17 +107,6 @@
     },
     "Texts": {
       "Eng": "An alien mech bay."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/avikanmechspawner/avikanmechspawner.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bay-mech-alien. Akki steal mech, scavenge for parts?"
     }
   },
   {

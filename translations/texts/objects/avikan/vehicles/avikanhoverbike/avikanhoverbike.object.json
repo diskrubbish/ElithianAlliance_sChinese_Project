@@ -113,17 +113,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Bike-alien, looks fast."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/vehicles/avikanhoverbike/avikanhoverbike.object": [
         "/avianDescription"
       ]
     },

@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/alliance/allianceinterfacewall.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Screen-clean, built into wall."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/alliance/allianceinterfacewall.material": [
         "/novakidDescription"
       ]
     },

@@ -31,16 +31,5 @@
     "Texts": {
       "Eng": "Alliance Kitchen Cabinet"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancekitchencabinet/alliancekitchencabinet.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Things-fragile inside. Look like plates-food."
-    }
   }
 ]

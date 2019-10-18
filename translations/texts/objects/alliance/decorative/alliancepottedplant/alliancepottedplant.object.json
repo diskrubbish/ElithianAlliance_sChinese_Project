@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/alliancepottedplant/alliancepottedplant.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plant-small, strange-very."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/alliancepottedplant/alliancepottedplant.object": [
         "/shortdescription"
       ]
     },

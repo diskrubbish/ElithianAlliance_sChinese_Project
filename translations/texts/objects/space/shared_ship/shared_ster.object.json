@@ -29,32 +29,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/allianceshipbooster/allianceshipbooster.object": [
-        "/akkimariDescription"
-      ],
-      "objects/space/allianceshipthruster/allianceshipthruster.object": [
-        "/akkimariDescription"
-      ],
-      "objects/space/avikanshipbooster/avikanshipbooster.object": [
-        "/akkimariDescription"
-      ],
-      "objects/space/avikanshipthruster/avikanshipthruster.object": [
-        "/akkimariDescription"
-      ],
-      "objects/space/theashipbooster/theashipbooster.object": [
-        "/akkimariDescription"
-      ],
-      "objects/space/theashipthruster/theashipthruster.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki no touch, or Akki burn!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/allianceshipbooster/allianceshipbooster.object": [
         "/drodenDescription"
       ],
       "objects/space/allianceshipthruster/allianceshipthruster.object": [

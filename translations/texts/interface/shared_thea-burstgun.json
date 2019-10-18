@@ -2,9 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/itemdescriptions/thea-burstgun-unique.itemdescription": [
-        "/damagePerShotTitleLabel/value"
-      ],
       "interface/itemdescriptions/thea-burstgun.itemdescription": [
         "/damagePerShotTitleLabel/value"
       ],
@@ -40,7 +37,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/itemdescriptions/thea-burstgun-unique.itemdescription": [
-        "/roundsPerBurstTitleLabel/value"
+        "/damagePerShotTitleLabel/value"
       ],
       "interface/itemdescriptions/thea-burstgun.itemdescription": [
         "/roundsPerBurstTitleLabel/value"

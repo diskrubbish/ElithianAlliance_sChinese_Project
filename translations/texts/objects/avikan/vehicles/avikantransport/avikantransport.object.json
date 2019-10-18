@@ -174,16 +174,5 @@
     "Texts": {
       "Eng": "This vehicle uses hover technology first used by the Gods."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/vehicles/avikantransport/avikantransport.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Vehicle-alien, transport goods around."
-    }
   }
 ]

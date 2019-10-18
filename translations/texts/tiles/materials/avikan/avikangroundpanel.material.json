@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/avikan/avikangroundpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panel for ground, made for walking."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/avikan/avikangroundpanel.material": [
         "/novakidDescription"
       ]
     },

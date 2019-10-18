@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki sleep here if tired."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancebunkbed/alliancebunkbed.object": [
         "/shortdescription"
       ]
     },

@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanwatchertapestry/avikanwatchertapestry.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Decoration, eye-large."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanwatchertapestry/avikanwatchertapestry.object": [
         "/floranDescription"
       ]
     },

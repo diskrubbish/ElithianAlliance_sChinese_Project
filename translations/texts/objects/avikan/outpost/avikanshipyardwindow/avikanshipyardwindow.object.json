@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanshipyardwindow/avikanshipyardwindow.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki look at shipyard through glass."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanshipyardwindow/avikanshipyardwindow.object": [
         "/shortdescription"
       ]
     },

@@ -14,6 +14,39 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A console for controlling connected objects."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A control panel of some sort."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A shiny console with an even shinier interface."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
         "/jorgasianDescription"
       ]
     },
@@ -47,11 +80,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/wired/allianceconsole/allianceconsole.object": [
-        "/akkimariDescription"
+        "/avikanDescription"
       ]
     },
     "Texts": {
-      "Eng": "If Akki press button, things explode?"
+      "Eng": "An alien interface. I can't make much sense of it."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis. Console. Interface decryption failed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This console may control nearby mechanisms."
     }
   },
   {
@@ -69,11 +124,33 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This panel likely controls mechanisms nearby."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
         "/trinkDescription"
       ]
     },
     "Texts": {
       "Eng": "This standard Alliance interface allows several Alliance species to operate this console."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/wired/allianceconsole/allianceconsole.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "What will happen if I touch these buttons?"
     }
   }
 ]

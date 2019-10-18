@@ -93,24 +93,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
-        "/avianDescription",
-        "/glitchDescription/glitchEmotedText",
-        "/notixDescription"
-      ],
-      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
-        "/apexDescription",
-        "/description",
-        "/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small drone."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
         "/erixianDescription",
         "/humanDescription"
@@ -160,12 +142,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/akkimari/containers/akkimarichest/akkimarichest.object": [
-        "/drodenDescription"
-      ],
-      "objects/akkimari/containers/akkimaricrate/akkimaricrate.object": [
-        "/drodenDescription"
-      ],
-      "objects/akkimari/containers/akkimarismallchest/akkimarismallchest.object": [
         "/drodenDescription"
       ],
       "objects/alliance/containers/alliancecrate/alliancecrate.object": [
@@ -317,20 +293,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/alliance/lights/alliancetablelamp/alliancetablelamp.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/modernobjects/avikangroundlight/avikangroundlight.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Light-small."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
         "/centensDescription",
         "/drodenDescription",
@@ -346,7 +308,6 @@
         "/trinkDescription"
       ],
       "objects/alliance/lights/alliancestandinglamp/alliancestandinglamp.object": [
-        "/akkimariDescription",
         "/drodenDescription",
         "/theleanDescription"
       ],

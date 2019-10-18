@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/wired/trinkwallswitch/trinkwallswitch.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki flip switch. Something happens?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/wired/trinkwallswitch/trinkwallswitch.object": [
         "/shortdescription"
       ]
     },

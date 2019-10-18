@@ -163,26 +163,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
-        "/akkimariDescription"
-      ],
-      "objects/space/dockingfield/thea-diagonaldockingfield.object": [
-        "/akkimariDescription"
-      ],
-      "objects/space/dockingfield/thea-dockingfield.object": [
-        "/akkimariDescription"
-      ],
-      "objects/space/dockingfield/thea-dockingfieldsmall.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Field-blocking, keep air in ship."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
         "/avianDescription"
       ],
       "objects/space/dockingfield/thea-diagonaldockingfield.object": [

@@ -569,9 +569,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/itemdescriptions/thea-activethrowable.itemdescription": [
-        "/speedTitleLabel/value"
-      ],
       "interface/itemdescriptions/thea-ammogun-mf-unique.itemdescription": [
         "/speedTitleLabel/value"
       ],
@@ -630,9 +627,6 @@
         "/speedTitleLabel/value"
       ],
       "interface/itemdescriptions/thea-sword-unique.itemdescription": [
-        "/speedTitleLabel/value"
-      ],
-      "interface/tooltips/thea-activethrowable.tooltip": [
         "/speedTitleLabel/value"
       ],
       "interface/tooltips/thea-ammogun-mf-unique.tooltip": [
@@ -906,9 +900,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/itemdescriptions/thea-activethrowable.itemdescription": [
-        "/priceLabel/value"
-      ],
       "interface/itemdescriptions/thea-ammogun-mf-unique.itemdescription": [
         "/priceLabel/value"
       ],
@@ -1051,9 +1042,6 @@
         "/priceLabel/value"
       ],
       "interface/itemdescriptions/thea-sword-unique.itemdescription": [
-        "/priceLabel/value"
-      ],
-      "interface/tooltips/thea-activethrowable.tooltip": [
         "/priceLabel/value"
       ],
       "interface/tooltips/thea-ammogun-mf-unique.tooltip": [

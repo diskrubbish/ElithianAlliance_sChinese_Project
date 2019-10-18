@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/rimdweller/doors/rimthickhatch/rimthickhatch.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hatch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/rimdweller/doors/rimthickhatch/rimthickhatch.object": [
         "/shortdescription"
       ]
     },

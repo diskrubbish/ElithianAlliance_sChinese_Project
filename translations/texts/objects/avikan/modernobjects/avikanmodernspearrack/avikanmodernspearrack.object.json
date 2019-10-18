@@ -124,17 +124,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sticks-pointy, for killing. Akki like killing."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanmodernspearrack/avikanmodernspearrack.object": [
         "/aegiDescription"
       ]
     },

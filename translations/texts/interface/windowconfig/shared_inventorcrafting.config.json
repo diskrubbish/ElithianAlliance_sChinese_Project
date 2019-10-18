@@ -17,9 +17,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/windowconfig/akkimariinventorcrafting.config": [
-        "/paneLayout/windowtitle/subtitle"
-      ],
       "interface/windowconfig/allianceinventorcrafting.config": [
         "/paneLayout/windowtitle/subtitle"
       ],

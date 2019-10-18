@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/alliance/allianceprefabwall.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Wall-prefabricated, for houses-modular."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/alliance/allianceprefabwall.material": [
         "/floranDescription"
       ]
     },

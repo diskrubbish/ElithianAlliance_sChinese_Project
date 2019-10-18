@@ -2,38 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor-wired.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/outpost/avikanbackgrounddoor/avikanbackgrounddoor.object": [
-        "/akkimariDescription"
-      ],
-      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor-wired.object": [
-        "/akkimariDescription"
-      ],
-      "objects/rimdweller/decorative/rimbackgrounddoor/rimbackgrounddoor.object": [
-        "/akkimariDescription"
-      ],
-      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2-wired.object": [
-        "/akkimariDescription"
-      ],
-      "objects/rimdweller/decorative/rimbackgrounddoor2/rimbackgrounddoor2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki wonder where door leads..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor-wired.object": [
-        "/floranDescription"
-      ],
-      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor.object": [
-        "/floranDescription"
-      ],
       "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor-wired.object": [
         "/floranDescription"
       ],
@@ -72,42 +40,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor-wired.object": [
-        "/aegiDescription",
-        "/apexDescription",
-        "/avianDescription",
-        "/avikanDescription",
-        "/centensDescription",
-        "/dremetonDescription",
-        "/erixianDescription",
-        "/glitchDescription/glitchEmotedText",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/hymidDescription",
-        "/jorgasianDescription",
-        "/notixDescription",
-        "/novakidDescription",
-        "/theleanDescription",
-        "/trinkDescription"
-      ],
-      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor.object": [
-        "/aegiDescription",
-        "/apexDescription",
-        "/avianDescription",
-        "/avikanDescription",
-        "/centensDescription",
-        "/dremetonDescription",
-        "/erixianDescription",
-        "/glitchDescription/glitchEmotedText",
-        "/humanDescription",
-        "/hylotlDescription",
-        "/hymidDescription",
-        "/jorgasianDescription",
-        "/notixDescription",
-        "/novakidDescription",
-        "/theleanDescription",
-        "/trinkDescription"
-      ],
       "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor-wired.object": [
         "/aegiDescription",
         "/apexDescription",
@@ -296,12 +228,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor-wired.object": [
-        "/drodenDescription"
-      ],
-      "objects/akkimari/decorative/akkimaribackgrounddoor/akkimaribackgrounddoor.object": [
-        "/drodenDescription"
-      ],
       "objects/alliance/decorative/alliancebackgrounddoor/alliancebackgrounddoor-wired.object": [
         "/drodenDescription"
       ],

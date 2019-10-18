@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/wired/avikanalarm/avikanalarm.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Alarm-alien. Hurt ears-Akki."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/wired/avikanalarm/avikanalarm.object": [
         "/trinkDescription"
       ]
     },

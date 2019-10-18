@@ -113,17 +113,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/boneobjects/avikanspearrack/avikanspearrack.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Spears-bone, for hunting."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/boneobjects/avikanspearrack/avikanspearrack.object": [
         "/erixianDescription"
       ]
     },

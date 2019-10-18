@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Roof-metal, glowy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinkroofsideback/trinkroofsideback.object": [
         "/description"
       ]
     },

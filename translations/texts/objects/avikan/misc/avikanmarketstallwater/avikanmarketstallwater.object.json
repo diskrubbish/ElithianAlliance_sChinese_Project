@@ -174,16 +174,5 @@
     "Texts": {
       "Eng": "Water is scarce on Kadavan, but Heragon has even less of it."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanmarketstallwater/avikanmarketstallwater.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Water. Akki drink up here."
-    }
   }
 ]

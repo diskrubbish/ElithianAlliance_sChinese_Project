@@ -174,16 +174,5 @@
     "Texts": {
       "Eng": "Sheets of fabric layered on top of each other to make a simple tent wall."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentparts/avikantentside2/avikantentside2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tent-side-colourful."
-    }
   }
 ]

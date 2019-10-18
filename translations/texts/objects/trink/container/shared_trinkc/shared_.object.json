@@ -3,20 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/container/trinkcontainer/trinkcontainer.object": [
-        "/akkimariDescription"
-      ],
-      "objects/trink/container/trinkcrate/trinkcrate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Crate-alien, has lights-fancy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/container/trinkcontainer/trinkcontainer.object": [
         "/drodenDescription"
       ],
       "objects/trink/container/trinkcrate/trinkcrate.object": [

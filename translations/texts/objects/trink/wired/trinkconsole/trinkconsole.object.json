@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/wired/trinkconsole/trinkconsole.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Console-tiny, Akki use but no understand."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/wired/trinkconsole/trinkconsole.object": [
         "/shortdescription"
       ]
     },

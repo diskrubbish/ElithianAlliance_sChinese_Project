@@ -157,20 +157,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/bolbohn/bolbohnseed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/farmables/bolbohn/wildbolbohnseed.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plant-weird, like blob-purple."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/bolbohn/bolbohnseed.object": [
         "/erixianDescription"
       ],
       "objects/farmables/bolbohn/wildbolbohnseed.object": [

@@ -2,6 +2,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "objects/trink/decorative/trinkroof/trinkroof.object": [
+        "/hylotlDescription"
+      ],
       "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
         "/hylotlDescription"
       ],

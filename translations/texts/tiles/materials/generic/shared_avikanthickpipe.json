@@ -38,25 +38,5 @@
     "Texts": {
       "Eng": "Analysis complete. Large pipe."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/generic/avikanthickpipebottom.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/generic/avikanthickpipeleft.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/generic/avikanthickpiperight.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/generic/avikanthickpipetop.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Pipe-large, Akki could almost crawl through."
-    }
   }
 ]

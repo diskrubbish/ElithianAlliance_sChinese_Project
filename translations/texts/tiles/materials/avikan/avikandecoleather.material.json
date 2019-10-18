@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/avikan/avikandecoleather.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki no read the letters-alien. Akki not interested."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/avikan/avikandecoleather.material": [
         "/drodenDescription"
       ]
     },

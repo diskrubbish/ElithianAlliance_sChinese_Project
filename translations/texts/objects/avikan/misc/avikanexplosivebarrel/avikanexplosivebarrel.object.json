@@ -14,39 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
-        "/erixianDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "A barrel filled with highly volatile fuel."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
-        "/aegiDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "A barrel full of explosive fuel..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
-        "/trinkDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "A fuel-filled barrel. It could ignite if the barrel is broken."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
         "/description"
       ]
     },
@@ -58,33 +25,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
-        "/hymidDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "An exlosive barrel. You can tell by its red colour, if games have taught me anything."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
       "Eng": "Avikan Explosive Barrel"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Barrel-fuel. Akki ignite, then big boom!"
     }
   },
   {
@@ -135,44 +80,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
-        "/avikanDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "The fuel inside is highly flammable. This barrel makes for a good makeshift bomb."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
-        "/jorgasianDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "This barrel is filled with a volatile fuel."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
         "/hylotlDescription"
       ]
     },
     "Texts": {
       "Eng": "This barrel is shut for a good reason. Its content might be explosive."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
-        "/notixDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "This barrel resonates quite pleasantly. The sound of it exploding would be less pleasant..."
     }
   },
   {

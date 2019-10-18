@@ -63,6 +63,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
+        "/akkimariDescription"
+      ],
+      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien antenna. Akki curious what it's sending."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
         "/hymidDescription"
       ],
       "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
@@ -127,20 +141,6 @@
     },
     "Texts": {
       "Eng": "An antenna."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/allianceantenna/allianceantenna.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/allianceantenna2/allianceantenna2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Antenna-alien. Akki curious what it's sending."
     }
   },
   {

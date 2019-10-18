@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/leathersheets/avikanoutpostlargesheet/avikanoutpostlargesheet.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sheet-large, Akki have shelter."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/leathersheets/avikanoutpostlargesheet/avikanoutpostlargesheet.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

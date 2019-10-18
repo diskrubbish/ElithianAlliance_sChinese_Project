@@ -113,17 +113,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Chair-alien. Akki comfortable."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanshipchair/avikanshipchair.object": [
         "/hymidDescription"
       ]
     },

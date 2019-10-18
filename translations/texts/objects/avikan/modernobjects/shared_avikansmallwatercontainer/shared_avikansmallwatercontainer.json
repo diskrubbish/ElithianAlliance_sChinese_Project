@@ -40,19 +40,5 @@
     "Texts": {
       "Eng": "Water in small boxesss."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikansmallwatercontainer/avikansmallwatercontainer.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/modernobjects/avikansmallwatercontainer2/avikansmallwatercontainer2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Water."
-    }
   }
 ]

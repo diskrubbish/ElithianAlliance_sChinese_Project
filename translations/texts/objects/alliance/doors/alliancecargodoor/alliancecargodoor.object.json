@@ -64,16 +64,5 @@
     "Texts": {
       "Eng": "Cargo door. Alien design is remarkably familiar."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/doors/alliancecargodoor/alliancecargodoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-large. Vehicle-large fit through."
-    }
   }
 ]

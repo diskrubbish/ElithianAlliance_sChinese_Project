@@ -31,20 +31,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-sliding, make noise-funny."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/doors/allianceslidingdoor/allianceslidingdoor.object": [
         "/hymidDescription"
       ],
       "objects/alliance/doors/allianceslidingdoorautomated/allianceslidingdoorautomated.object": [

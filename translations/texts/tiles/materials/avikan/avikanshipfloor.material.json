@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/avikan/avikanshipfloor.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Floor-ship, Akki no clean it. Let Nokkimari do it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/avikan/avikanshipfloor.material": [
         "/floranDescription"
       ]
     },

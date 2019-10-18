@@ -30,23 +30,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "items/crafting/akkimariglassitem.item": [
-        "/shortdescription"
-      ],
-      "items/materials/akkimari/akkimariglass.matitem": [
-        "/shortdescription"
-      ],
-      "tiles/materials/akkimari/akkimariglass.material": [
-        "/shortdescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akris Glass"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/materials/akkimari/akkimariplatform.matitem": [
         "/shortdescription"
       ],

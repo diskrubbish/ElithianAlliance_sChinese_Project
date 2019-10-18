@@ -81,17 +81,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Light-small, for reading."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/lights/alliancedesklight/alliancedesklight.object": [
         "/aegiDescription"
       ]
     },

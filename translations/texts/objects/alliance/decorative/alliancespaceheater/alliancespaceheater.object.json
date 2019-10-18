@@ -103,17 +103,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Device make heat."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/alliancespaceheater/alliancespaceheater.object": [
         "/novakidDescription"
       ]
     },

@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/platforms/trinkplatform.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Platform filled with wires."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/platforms/trinkplatform.material": [
         "/floranDescription"
       ]
     },

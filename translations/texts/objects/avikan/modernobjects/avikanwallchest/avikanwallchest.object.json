@@ -20,16 +20,5 @@
     "Texts": {
       "Eng": "Avikan Wall Container"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanwallchest/avikanwallchest.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Chest-wall. Akki want to break it off."
-    }
   }
 ]

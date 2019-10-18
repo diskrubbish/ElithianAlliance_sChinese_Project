@@ -47,17 +47,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/trink/trinkgroundpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panel filled with wires. Akki connect them all!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/trink/trinkgroundpanel.material": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

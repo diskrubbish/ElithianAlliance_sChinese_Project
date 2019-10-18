@@ -74,6 +74,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "tiles/materials/centens/centensblockpanel.material": [
+        "/novakidDescription"
+      ],
       "tiles/materials/centens/centensgroundpanel.material": [
         "/novakidDescription"
       ],
@@ -89,20 +92,6 @@
     },
     "Texts": {
       "Eng": "I'm baffled by how light and strong this 'ere metal here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/centens/centenshoripanel.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/centens/centensvertpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panel-strong, made by god-makers."
     }
   },
   {

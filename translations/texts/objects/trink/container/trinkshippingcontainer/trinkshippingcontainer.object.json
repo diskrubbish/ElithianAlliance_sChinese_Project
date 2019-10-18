@@ -53,16 +53,5 @@
     "Texts": {
       "Eng": "Circuit Shipping Container"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/container/trinkshippingcontainer/trinkshippingcontainer.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Container-shipping, Akki store things-many inside."
-    }
   }
 ]

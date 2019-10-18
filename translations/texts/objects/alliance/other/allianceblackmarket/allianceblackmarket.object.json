@@ -25,22 +25,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
-        "/akkimariDescription"
+        "/drodenDescription"
       ]
     },
     "Texts": {
-      "Eng": "Alien-shady sells stuff-good."
+      "Eng": "Detected unregistered robotic merchant. Recommending caution."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/other/allianceblackmarket/allianceblackmarket.object": [
-        "/drodenDescription"
+        "/akkimariDescription"
       ]
     },
     "Texts": {
-      "Eng": "Detected unregistered robotic merchant. Recommending caution."
+      "Eng": "Shady alien sells good stuff."
     }
   },
   {

@@ -2,12 +2,23 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/hyvonDescription"
+      "objects/alliance/wired/alliancedaynightsensor/alliancedaynightsensorhidden.object": [
+        "/description"
       ],
-      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
-        "/hyvonDescription"
+      "objects/mission/theacrowdsounds/theacrowdsounds.object": [
+        "/description"
       ],
+      "objects/mission/theahiddenlight/theahiddenlight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nothing here..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
         "/hyvonDescription"
       ],
@@ -391,81 +402,12 @@
         "/dremetonDescription",
         "/theleanDescription"
       ],
-      "objects/akkimari/containers/akkimaricrate/akkimaricrate.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/theleanDescription"
-      ],
-      "objects/akkimari/containers/akkimarismallchest/akkimarismallchest.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/theleanDescription"
-      ],
       "objects/akkimari/containers/akkimarivaashbarrel/akkimarivaashbarrel.object": [
         "/centensDescription",
         "/dremetonDescription",
         "/hyvonDescription"
       ],
-      "objects/akkimari/crafting/akkimaricrafting/akkimaricrafting.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/erixianDescription",
-        "/theleanDescription",
-        "/upgradeStages/0/itemSpawnParameters/centensDescription",
-        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
-        "/upgradeStages/0/itemSpawnParameters/erixianDescription",
-        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
-        "/upgradeStages/1/itemSpawnParameters/centensDescription",
-        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
-        "/upgradeStages/1/itemSpawnParameters/erixianDescription",
-        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
-        "/upgradeStages/2/itemSpawnParameters/centensDescription",
-        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
-        "/upgradeStages/2/itemSpawnParameters/erixianDescription",
-        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
-      ],
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/erixianDescription",
-        "/theleanDescription",
-        "/upgradeStages/0/itemSpawnParameters/centensDescription",
-        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
-        "/upgradeStages/0/itemSpawnParameters/erixianDescription",
-        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
-        "/upgradeStages/1/itemSpawnParameters/centensDescription",
-        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
-        "/upgradeStages/1/itemSpawnParameters/erixianDescription",
-        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
-        "/upgradeStages/2/itemSpawnParameters/centensDescription",
-        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
-        "/upgradeStages/2/itemSpawnParameters/erixianDescription",
-        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
-      ],
-      "objects/akkimari/crafting/akkimariinventor/akkimariinventor.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/erixianDescription",
-        "/theleanDescription",
-        "/upgradeStages/0/itemSpawnParameters/centensDescription",
-        "/upgradeStages/0/itemSpawnParameters/dremetonDescription",
-        "/upgradeStages/0/itemSpawnParameters/erixianDescription",
-        "/upgradeStages/0/itemSpawnParameters/theleanDescription",
-        "/upgradeStages/1/itemSpawnParameters/centensDescription",
-        "/upgradeStages/1/itemSpawnParameters/dremetonDescription",
-        "/upgradeStages/1/itemSpawnParameters/erixianDescription",
-        "/upgradeStages/1/itemSpawnParameters/theleanDescription",
-        "/upgradeStages/2/itemSpawnParameters/centensDescription",
-        "/upgradeStages/2/itemSpawnParameters/dremetonDescription",
-        "/upgradeStages/2/itemSpawnParameters/erixianDescription",
-        "/upgradeStages/2/itemSpawnParameters/theleanDescription"
-      ],
       "objects/akkimari/crafting/akkimariscavengertable/akkimariscavengertable.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/theleanDescription"
-      ],
-      "objects/akkimari/crafting/akkimariweaponimprovement/akkimariweaponimprovement.object": [
         "/centensDescription",
         "/dremetonDescription",
         "/theleanDescription"
@@ -475,40 +417,35 @@
         "/dremetonDescription",
         "/hyvonDescription"
       ],
-      "objects/akkimari/decorative/akkimariarbiter/akkimariarbiter.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/theleanDescription"
-      ],
       "objects/akkimari/decorative/akkimaribeacon/akkimaribeacon.object": [
         "/centensDescription",
         "/dremetonDescription",
         "/theleanDescription"
+      ],
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/centensDescription",
+        "/dremetonDescription",
+        "/hyvonDescription"
       ],
       "objects/akkimari/decorative/akkimaribountyhologram/akkimaribountyhologram.object": [
         "/centensDescription",
         "/dremetonDescription",
         "/hyvonDescription"
       ],
-      "objects/akkimari/decorative/akkimariflic/akkimariflic.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/theleanDescription"
-      ],
       "objects/akkimari/decorative/akkimarihangingstorage/akkimarihangingstorage.object": [
         "/erixianDescription"
       ],
-      "objects/akkimari/decorative/akkimarijusticar/akkimarijusticar.object": [
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
         "/centensDescription",
         "/dremetonDescription",
-        "/theleanDescription"
+        "/hyvonDescription"
       ],
-      "objects/akkimari/decorative/akkimaripowercore/akkimaripowercore.object": [
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
         "/centensDescription",
         "/dremetonDescription",
-        "/theleanDescription"
+        "/hyvonDescription"
       ],
-      "objects/akkimari/decorative/akkimarirailing/akkimarirailing.object": [
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
         "/centensDescription",
         "/dremetonDescription",
         "/hyvonDescription"
@@ -517,66 +454,6 @@
         "/centensDescription",
         "/dremetonDescription",
         "/erixianDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimaribottomplating/akkimaribottomplating.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimaribottomplating2/akkimaribottomplating2.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimaribottomplating3/akkimaribottomplating3.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating/akkimarisideplating.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating/akkimarisideplatinginverted.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating2/akkimarisideplating2.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating2/akkimarisideplating2inverted.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating3/akkimarisideplating3.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimarisideplating3/akkimarisideplating3inverted.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimaritopplating/akkimaritopplating.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimaritopplating2/akkimaritopplating2.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/akkimari/decorative/plating/akkimaritopplating3/akkimaritopplating3.object": [
-        "/centensDescription",
-        "/dremetonDescription",
         "/hyvonDescription"
       ],
       "objects/akkimari/decorative/sheets/akkimarisheet/akkimarisheet.object": [
@@ -594,11 +471,6 @@
       "objects/akkimari/doors/akkimarifabricdoor2/akkimarifabricdoor2.object": [
         "/centensDescription",
         "/dremetonDescription"
-      ],
-      "objects/akkimari/doors/akkimariflightdoor/akkimariflightdoor.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
       ],
       "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
         "/centensDescription",
@@ -683,14 +555,6 @@
         "/dremetonDescription",
         "/hyvonDescription"
       ],
-      "objects/akkimari/other/akkimaripethealingstation/akkimaripethealingstation.object": [
-        "/centensDescription",
-        "/dremetonDescription"
-      ],
-      "objects/akkimari/other/akkimaripettether/akkimaripettether.object": [
-        "/centensDescription",
-        "/dremetonDescription"
-      ],
       "objects/akkimari/smashable/akkimaripot/akkimaripot.object": [
         "/centensDescription",
         "/dremetonDescription",
@@ -706,11 +570,6 @@
         "/dremetonDescription",
         "/theleanDescription"
       ],
-      "objects/akkimari/wired/akkimariconsole/akkimariconsole.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
       "objects/akkimari/wired/akkimarigenerator/akkimarigenerator.object": [
         "/centensDescription",
         "/dremetonDescription",
@@ -719,11 +578,6 @@
       "objects/akkimari/wired/akkimarisecuritycamera/akkimarisecuritycamera.object": [
         "/centensDescription",
         "/dremetonDescription"
-      ],
-      "objects/akkimari/wired/akkimarismallconsole/akkimarismallconsole.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
       ],
       "objects/alliance/containers/alliancecrate/alliancecrate.object": [
         "/centensDescription",
@@ -1163,7 +1017,6 @@
       "objects/alliance/furniture/alliancetvstand/alliancetvstand.object": [
         "/centensDescription",
         "/dremetonDescription",
-        "/erixianDescription",
         "/theleanDescription"
       ],
       "objects/alliance/lights/alliancealarm/alliancealarm.object": [
@@ -1520,11 +1373,6 @@
         "/dremetonDescription",
         "/erixianDescription",
         "/hyvonDescription"
-      ],
-      "objects/avikan/misc/avikanexplosivebarrel/avikanexplosivebarrel.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/theleanDescription"
       ],
       "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
         "/centensDescription",
@@ -2100,11 +1948,6 @@
         "/dremetonDescription",
         "/hyvonDescription"
       ],
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/centensDescription",
         "/dremetonDescription",
@@ -2169,16 +2012,6 @@
         "/centensDescription",
         "/dremetonDescription",
         "/theleanDescription"
-      ],
-      "objects/farmables/achvass/achvassseed.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/farmables/achvass/wildachvassseed.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
       ],
       "objects/farmables/ambrum/ambrumseed.object": [
         "/centensDescription",
@@ -2254,16 +2087,6 @@
         "/dremetonDescription",
         "/hyvonDescription"
       ],
-      "objects/farmables/sagrassa/sagrassaseed.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/farmables/sagrassa/wildsagrassaseed.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
       "objects/farmables/selvas/selvasseed.object": [
         "/centensDescription",
         "/dremetonDescription",
@@ -2280,16 +2103,6 @@
       ],
       "objects/farmables/vahlberry/wildvahlberryseed.object": [
         "/centensDescription",
-        "/hyvonDescription"
-      ],
-      "objects/farmables/vrelli/vrelliseed.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/farmables/vrelli/wildvrelliseed.object": [
-        "/centensDescription",
-        "/dremetonDescription",
         "/hyvonDescription"
       ],
       "objects/flags/flagaegi/flagaegi.object": [
@@ -2600,31 +2413,6 @@
         "/centensDescription",
         "/dremetonDescription",
         "/theleanDescription"
-      ],
-      "objects/space/akkimarishipantenna/akkimarishipantenna.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/space/akkimarishipantenna2/akkimarishipantenna2.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/space/akkimarishipengine/akkimarishipengine.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/space/akkimarishipenginesmall/akkimarishipenginesmall.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
-      ],
-      "objects/space/akkimarishipthruster/akkimarishipthruster.object": [
-        "/centensDescription",
-        "/dremetonDescription",
-        "/hyvonDescription"
       ],
       "objects/space/dockingfield/thea-diagonaldockingfield-topblocked.object": [
         "/centensDescription",

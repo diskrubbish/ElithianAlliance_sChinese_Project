@@ -143,20 +143,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/decorative/centensmonolith/centensmonolith.object": [
-        "/akkimariDescription"
-      ],
-      "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Artefact-strange, monolith of god-maker."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/decorative/centensmonolith/centensmonolith.object": [
         "/shortdescription"
       ],
       "objects/centens/decorative/centensmonolith2/centensmonolith2.object": [

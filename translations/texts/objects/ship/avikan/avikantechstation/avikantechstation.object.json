@@ -39,16 +39,5 @@
     "Texts": {
       "Eng": "/ai/portraits/avikanportrait.png:unique.1"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/avikan/avikantechstation/avikantechstation.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki talk to SAIl here."
-    }
   }
 ]

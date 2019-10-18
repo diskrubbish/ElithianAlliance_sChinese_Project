@@ -129,20 +129,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/alliancetv/alliancetv.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/alliancetv2/alliancetv2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Footage-alien, shows places-alien. Akki want to go there."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/alliancetv/alliancetv.object": [
         "/humanDescription"
       ],
       "objects/alliance/decorative/alliancetv2/alliancetv2.object": [

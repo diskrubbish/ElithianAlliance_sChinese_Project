@@ -196,16 +196,5 @@
     "Texts": {
       "Eng": "This turret should keep the ship safe."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanshipturret/avikanshipturret.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Turret-large. Tear through ships."
-    }
   }
 ]

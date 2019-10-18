@@ -174,16 +174,5 @@
     "Texts": {
       "Eng": "Various Avikan weapons can be purchased here."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanmarketstallmodernweapons/avikanmarketstallmodernweapons.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Weapons-alien, for fighting."
-    }
   }
 ]

@@ -91,17 +91,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Chest-military. Akki find weapons inside?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/container/trinkweaponchest/trinkweaponchest.object": [
         "/shortdescription"
       ]
     },

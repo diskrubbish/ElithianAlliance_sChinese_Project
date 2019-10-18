@@ -102,17 +102,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Drone-large, looks dangerous. Akki careful."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanlargedrahl/avikanlargedrahl.object": [
         "/floranDescription"
       ]
     },

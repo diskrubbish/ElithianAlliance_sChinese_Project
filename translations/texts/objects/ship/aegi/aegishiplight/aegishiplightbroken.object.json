@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Broken Alliance Ship Light"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/aegi/aegishiplight/aegishiplightbroken.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Light-broken, Akki should replace."
-    }
   }
 ]

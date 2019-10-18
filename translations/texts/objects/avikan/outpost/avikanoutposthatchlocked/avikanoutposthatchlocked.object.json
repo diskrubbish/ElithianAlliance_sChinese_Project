@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanoutposthatchlocked/avikanoutposthatchlocked.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hatch-locked, Akki not get in here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanoutposthatchlocked/avikanoutposthatchlocked.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

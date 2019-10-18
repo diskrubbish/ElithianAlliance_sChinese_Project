@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mannequins/drodenmannequin/drodenmannequin.object": [
-        "/drodenDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Detected mannequin. Tailored to Droden shape."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mannequins/drodenmannequin/drodenmannequin.object": [
         "/description"
       ]
     },

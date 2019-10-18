@@ -65,16 +65,5 @@
     "Texts": {
       "Eng": "Thellhunter's Weapon"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/thellhunterweapon/thellhunterweapon.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Weapon-alien, rifle-Thellhunter."
-    }
   }
 ]

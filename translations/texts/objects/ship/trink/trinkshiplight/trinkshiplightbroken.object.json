@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Light-broken, make Akki agitated..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/trink/trinkshiplight/trinkshiplightbroken.object": [
         "/trinkDescription"
       ]
     },

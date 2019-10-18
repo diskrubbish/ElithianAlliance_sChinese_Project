@@ -17,20 +17,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/alliance/allianceborderlessglass.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/alliance/allianceglass.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plastic-clear, look like glass."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/alliance/allianceborderlessglass.material": [
         "/glitchDescription/glitchEmotedText"
       ],
       "tiles/materials/alliance/allianceglass.material": [

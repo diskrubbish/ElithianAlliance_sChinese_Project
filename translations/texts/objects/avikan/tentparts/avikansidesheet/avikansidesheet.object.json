@@ -115,17 +115,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sheet-leather."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentparts/avikansidesheet/avikansidesheet.object": [
         "/jorgasianDescription"
       ]
     },

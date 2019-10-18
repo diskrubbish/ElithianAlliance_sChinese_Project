@@ -26,17 +26,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/avikan/avikandarkgroundpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panel-floor, Akki walk on it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/avikan/avikandarkgroundpanel.material": [
         "/floranDescription"
       ]
     },

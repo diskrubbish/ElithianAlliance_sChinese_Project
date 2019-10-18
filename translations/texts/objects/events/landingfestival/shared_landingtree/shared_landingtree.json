@@ -88,6 +88,23 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
+        "/akkimariDescription"
+      ],
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
+        "/akkimariDescription"
+      ],
+      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Alien tree full of gold! Akki want, want want!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
         "/avikanDescription"
       ],
       "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
@@ -249,23 +266,6 @@
     },
     "Texts": {
       "Eng": "This tree is full of shiny goods!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/events/landingfestival/landingtreelarge/landingtreelarge-event.object": [
-        "/akkimariDescription"
-      ],
-      "objects/events/landingfestival/landingtreelarge/landingtreelarge.object": [
-        "/akkimariDescription"
-      ],
-      "objects/events/landingfestival/landingtreemedium/landingtreemedium.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tree-alien full of gold! Akki want, want want!"
     }
   },
   {

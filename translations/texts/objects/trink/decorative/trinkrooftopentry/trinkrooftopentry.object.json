@@ -71,17 +71,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki enter through roof here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinkrooftopentry/trinkrooftopentry.object": [
         "/aegiDescription"
       ]
     },

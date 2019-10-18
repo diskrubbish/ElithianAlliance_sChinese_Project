@@ -71,17 +71,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Banner-large, for Nomada."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikantapestrynomada/avikantapestrynomada.object": [
         "/drodenDescription"
       ]
     },

@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/banners/alliancebannertrink/alliancebannertrink.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Symbol means it belongs to Circuit-Trink."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/banners/alliancebannertrink/alliancebannertrink.object": [
         "/shortdescription"
       ]
     },

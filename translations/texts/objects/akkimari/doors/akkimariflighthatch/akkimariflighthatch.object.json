@@ -58,6 +58,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akkimari can fly Chaseflight through here."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
         "/shortdescription"
       ]
     },
@@ -102,6 +113,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran musst use vehicle to open thisss door."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
         "/humanDescription"
       ]
     },
@@ -124,11 +146,55 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Only vehicles can cause this door to open."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Shoddy-looking, but quite sturdy in reality."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "These doors only open to vehicles."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
         "/notixDescription"
       ]
     },
     "Texts": {
       "Eng": "This hatch was very crudely made."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/doors/akkimariflighthatch/akkimariflighthatch.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This here door only opens to vehicles."
     }
   }
 ]

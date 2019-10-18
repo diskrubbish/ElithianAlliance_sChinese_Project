@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "A basic bathroom sink, complete with a wall-mounted mirror."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancebathroomsinkmirror/alliancebathroomsinkmirror.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki look handsome in mirror!"
-    }
   }
 ]

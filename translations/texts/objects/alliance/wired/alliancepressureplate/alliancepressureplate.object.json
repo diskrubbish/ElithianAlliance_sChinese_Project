@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/wired/alliancepressureplate/alliancepressureplate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki stand here, plate activates!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/wired/alliancepressureplate/alliancepressureplate.object": [
         "/shortdescription"
       ]
     },

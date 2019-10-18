@@ -143,20 +143,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/containers/alliancespacecontainer/alliancespacecontainer.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/containers/alliancespacecontainerclamped/alliancespacecontainerclamped.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Strong container, Akki struggles to break."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/containers/alliancespacecontainer/alliancespacecontainer.object": [
         "/notixDescription"
       ],
       "objects/alliance/containers/alliancespacecontainerclamped/alliancespacecontainerclamped.object": [

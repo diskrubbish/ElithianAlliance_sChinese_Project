@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanthickhatchplatform/avikanthickhatchplatform.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hatch-thick, has platform. Akki stand on when open."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanthickhatchplatform/avikanthickhatchplatform.object": [
         "/shortdescription"
       ]
     },

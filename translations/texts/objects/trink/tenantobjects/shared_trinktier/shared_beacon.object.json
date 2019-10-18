@@ -95,29 +95,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
-        "/akkimariDescription"
-      ],
-      "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [
-        "/akkimariDescription"
-      ],
-      "objects/trink/tenantobjects/trinktier4beacon/trinktier4beacon.object": [
-        "/akkimariDescription"
-      ],
-      "objects/trink/tenantobjects/trinktier5beacon/trinktier5beacon.object": [
-        "/akkimariDescription"
-      ],
-      "objects/trink/tenantobjects/trinktier6beacon/trinktier6beacon.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki use beacon to call guard-tenant."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/tenantobjects/trinktier2beacon/trinktier2beacon.object": [
         "/drodenDescription"
       ],
       "objects/trink/tenantobjects/trinktier3beacon/trinktier3beacon.object": [

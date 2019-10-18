@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/doors/trinkhatchplatform/trinkhatchplatform.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hatch-metal, Akki stand on platform even when open."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/doors/trinkhatchplatform/trinkhatchplatform.object": [
         "/shortdescription"
       ]
     },

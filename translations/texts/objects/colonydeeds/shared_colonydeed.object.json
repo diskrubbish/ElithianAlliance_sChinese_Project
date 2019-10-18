@@ -2,9 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/erixianDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/erixianDescription"
       ],
@@ -22,9 +19,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/trinkDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/trinkDescription"
       ],
@@ -42,9 +36,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/drodenDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/drodenDescription"
       ],
@@ -62,9 +53,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/jorgasianDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/jorgasianDescription"
       ],
@@ -82,29 +70,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/colonydeeds/alliancecolonydeed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/colonydeeds/avikancolonydeed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/colonydeeds/trinkcolonydeed.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Deed-colony, Akki place in house. Also place door and light, tenant come!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/aegiDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/aegiDescription"
       ],
@@ -122,9 +87,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/hymidDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/hymidDescription"
       ],
@@ -142,9 +104,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/hylotlDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/hylotlDescription"
       ],
@@ -162,9 +121,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/apexDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/apexDescription"
       ],
@@ -182,9 +138,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/glitchDescription/glitchEmotedText"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/glitchDescription/glitchEmotedText"
       ],
@@ -202,9 +155,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/description"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/description"
       ],
@@ -222,9 +172,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/floranDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/floranDescription"
       ],
@@ -242,9 +189,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/notixDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/notixDescription"
       ],
@@ -262,9 +206,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/humanDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/humanDescription"
       ],
@@ -282,9 +223,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/avikanDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/avikanDescription"
       ],
@@ -302,9 +240,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/avianDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/avianDescription"
       ],
@@ -322,9 +257,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/colonydeeds/akkimaricolonydeed.object": [
-        "/novakidDescription"
-      ],
       "objects/colonydeeds/alliancecolonydeed.object": [
         "/novakidDescription"
       ],

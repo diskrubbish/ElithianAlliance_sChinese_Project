@@ -135,17 +135,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/doors/centensblastdoor/centensblastdoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-ancient, resist blasts-heavy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/doors/centensblastdoor/centensblastdoor.object": [
         "/notixDescription"
       ]
     },

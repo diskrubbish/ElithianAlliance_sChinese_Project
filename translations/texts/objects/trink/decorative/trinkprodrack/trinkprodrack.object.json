@@ -135,17 +135,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/decorative/trinkprodrack/trinkprodrack.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Prods-electric, for herding cattle?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinkprodrack/trinkprodrack.object": [
         "/notixDescription"
       ]
     },

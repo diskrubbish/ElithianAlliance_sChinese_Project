@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Avikan Pressure Plate"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/wired/avikanpressureplate/avikanpressureplate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plate-pressure, activate if Akki stand on. Is Akki fat?"
-    }
   }
 ]

@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/decorative/centenscubes/centenscubes.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki near cubes, Akki feel calm. Akki feel strange..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/decorative/centenscubes/centenscubes.object": [
         "/shortdescription"
       ]
     },

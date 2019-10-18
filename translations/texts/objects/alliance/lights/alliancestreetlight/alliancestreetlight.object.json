@@ -136,17 +136,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Light-tall, for lighting street."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/lights/alliancestreetlight/alliancestreetlight.object": [
         "/novakidDescription"
       ]
     },

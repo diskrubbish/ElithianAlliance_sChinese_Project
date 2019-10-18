@@ -20,16 +20,5 @@
     "Texts": {
       "Eng": "Alliance Defense Turret"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/wired/allianceturret/allianceturret.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Gun-automated. Akki careful here..."
-    }
   }
 ]

@@ -12,5 +12,19 @@
     "Texts": {
       "Eng": "A transparent multi-coloured crystal."
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/akkimari/akkimariglass.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/akkimari/akkimariglass.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akris Glass"
+    }
   }
 ]

@@ -113,17 +113,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Look like food-good."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/plushies/trangiiplushie/trangiiplushie.object": [
         "/novakidDescription"
       ]
     },

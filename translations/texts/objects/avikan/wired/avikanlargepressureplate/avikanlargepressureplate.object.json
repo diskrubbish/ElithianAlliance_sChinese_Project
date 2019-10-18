@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Avikan Vehicle Plate"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/wired/avikanlargepressureplate/avikanlargepressureplate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plate-pressure, activate with vehicle. Akki not fat enough."
-    }
   }
 ]

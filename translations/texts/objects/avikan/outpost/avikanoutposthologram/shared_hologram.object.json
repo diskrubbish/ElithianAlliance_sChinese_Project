@@ -111,20 +111,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/outpost/avikanoutposthologram/avikanshootingrangehologram.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Lady-light-alien. Seem friendly."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanoutposthologram/avikanoutposthologram.object": [
         "/avianDescription",
         "/glitchDescription/glitchEmotedText"
       ],

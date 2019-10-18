@@ -3,6 +3,20 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/akkimari/akkimariplating.material": [
+        "/akkimariDescription"
+      ],
+      "tiles/materials/akkimari/akkimariplatingfront.material": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big metal plating. Strong, yeees?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/akkimari/akkimariplating.material": [
         "/description"
       ],
       "tiles/materials/akkimari/akkimariplatingfront.material": [
@@ -11,20 +25,6 @@
     },
     "Texts": {
       "Eng": "Irregular metal plating made from assorted scrap metal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/akkimari/akkimariplating.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/akkimari/akkimariplatingfront.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plating-metal-big. Strong, yeees?"
     }
   }
 ]

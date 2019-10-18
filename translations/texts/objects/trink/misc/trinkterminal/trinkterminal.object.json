@@ -102,17 +102,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/misc/trinkterminal/trinkterminal.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "COnsole-big, must be important. Akki try to read."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/misc/trinkterminal/trinkterminal.object": [
         "/shortdescription"
       ]
     },

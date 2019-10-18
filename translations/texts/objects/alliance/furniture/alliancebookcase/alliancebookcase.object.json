@@ -93,17 +93,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Books-many. Akki not read all."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancebookcase/alliancebookcase.object": [
         "/notixDescription"
       ]
     },

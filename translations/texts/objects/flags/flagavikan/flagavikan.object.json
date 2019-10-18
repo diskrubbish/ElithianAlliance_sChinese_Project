@@ -91,17 +91,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/flags/flagavikan/flagavikan.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Flag-alien, symbol of Nomada-Avikan."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/flags/flagavikan/flagavikan.object": [
         "/novakidDescription"
       ]
     },

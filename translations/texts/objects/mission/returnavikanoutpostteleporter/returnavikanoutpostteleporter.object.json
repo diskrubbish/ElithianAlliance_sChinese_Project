@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/returnavikanoutpostteleporter/returnavikanoutpostteleporter.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki use teleporter. Akki back at Starfarer's Refuge."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/returnavikanoutpostteleporter/returnavikanoutpostteleporter.object": [
         "/drodenDescription"
       ]
     },

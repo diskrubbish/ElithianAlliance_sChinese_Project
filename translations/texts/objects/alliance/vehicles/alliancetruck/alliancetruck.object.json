@@ -185,16 +185,5 @@
     "Texts": {
       "Eng": "This vehicle is good for transporting heavy cargo."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/vehicles/alliancetruck/alliancetruck.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Vehicle-alien. Wheels-many."
-    }
   }
 ]

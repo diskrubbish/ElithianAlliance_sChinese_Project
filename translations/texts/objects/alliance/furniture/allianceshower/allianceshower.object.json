@@ -47,17 +47,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/allianceshower/allianceshower.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki wash here. Akki clean again."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/allianceshower/allianceshower.object": [
         "/drodenDescription"
       ]
     },

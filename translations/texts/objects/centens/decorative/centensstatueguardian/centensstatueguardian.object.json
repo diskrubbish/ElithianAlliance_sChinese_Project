@@ -102,17 +102,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Statue, holding spear-sharp."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/decorative/centensstatueguardian/centensstatueguardian.object": [
         "/novakidDescription"
       ]
     },

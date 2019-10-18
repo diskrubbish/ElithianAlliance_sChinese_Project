@@ -92,17 +92,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki drive by, Akki slows down. Akki not like."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
         "/shortdescription"
       ]
     },
@@ -130,6 +119,17 @@
     },
     "Texts": {
       "Eng": "Floran ssshould be careful. Glowing pole ssslowss down hoverbikess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/avikan/wired/avikanracinggateslow/avikanracinggateslow.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "If Akki speeds past on hoverbike, Akki will slow down."
     }
   },
   {

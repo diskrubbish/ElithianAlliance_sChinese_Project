@@ -51,17 +51,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki not pay. Akki steal!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancestorecounter/alliancestorecounter.object": [
         "/shortdescription"
       ]
     },

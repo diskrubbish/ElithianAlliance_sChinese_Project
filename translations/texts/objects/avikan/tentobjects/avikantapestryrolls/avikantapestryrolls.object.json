@@ -91,17 +91,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Rolls-leather, in the way."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentobjects/avikantapestryrolls/avikantapestryrolls.object": [
         "/humanDescription"
       ]
     },

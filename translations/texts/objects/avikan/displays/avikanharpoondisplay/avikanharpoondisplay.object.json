@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Harpoon, for killing."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/displays/avikanharpoondisplay/avikanharpoondisplay.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

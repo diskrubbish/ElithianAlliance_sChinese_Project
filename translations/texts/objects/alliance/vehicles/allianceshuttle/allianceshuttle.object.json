@@ -185,16 +185,5 @@
     "Texts": {
       "Eng": "This vehicle can easily transport people and cargo from the ground into orbit."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/vehicles/allianceshuttle/allianceshuttle.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Vehicle-armoured."
-    }
   }
 ]

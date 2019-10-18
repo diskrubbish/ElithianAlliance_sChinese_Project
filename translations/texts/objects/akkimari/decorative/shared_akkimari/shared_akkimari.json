@@ -1,0 +1,342 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A metal skeleton plated with scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/erixianDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/erixianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A surprisingly strong scrap metal wall."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/aegiDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/aegiDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/aegiDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/aegiDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall built from scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/hymidDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/hymidDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/hymidDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/hymidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall made of scrap metal."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/novakidDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall o' junk."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/jorgasianDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/jorgasianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A wall of scrap metal. Primitive, but very functional."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/akkimariDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/akkimariDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Akkimari knows wall will hold."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/drodenDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Detected scrap metal wall plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/description"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/description"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/description"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal plating found on the outside of Akkimari structures."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/apexDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/apexDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/apexDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Metal plating. It looks primitive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/avianDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/avianDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/avianDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scrap metal plating."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/hylotlDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Scrap metal plating. Not very elegant."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/floranDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ssscrap metal platess."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/humanDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This looks like scrap metal. Kinda primitive."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/trinkDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/trinkDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/trinkDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/trinkDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This scrap metal wall is surprisingly well insulated."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/notixDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/notixDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/notixDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/notixDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wall is a bit scrappy."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/akkimari/decorative/akkimaribottomplating/akkimaribottomplating.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplating.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/decorative/akkimarisideplating/akkimarisideplatinginverted.object": [
+        "/avikanDescription"
+      ],
+      "objects/akkimari/decorative/akkimaritopplating/akkimaritopplating.object": [
+        "/avikanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This wall looks like it was made from scrap metal."
+    }
+  }
+]

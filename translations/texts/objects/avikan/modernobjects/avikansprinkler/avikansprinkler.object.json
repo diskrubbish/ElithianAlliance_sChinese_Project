@@ -91,17 +91,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Irrigation-automated, keep plants watered. Otherwise plants die, Akkimari no food."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikansprinkler/avikansprinkler.object": [
         "/humanDescription"
       ]
     },

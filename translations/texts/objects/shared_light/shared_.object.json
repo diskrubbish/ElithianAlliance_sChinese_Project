@@ -336,19 +336,5 @@
     "Texts": {
       "Eng": "Light source detected."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/lights/alliancelightstrip/alliancelightstrip.object": [
-        "/akkimariDescription"
-      ],
-      "objects/ship/aegi/aegishiplight/aegishiplight.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Light-simple."
-    }
   }
 ]

@@ -124,17 +124,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/container/trinkfridge/trinkfridge.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Storage-cold, keeps food fresh."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/container/trinkfridge/trinkfridge.object": [
         "/aegiDescription"
       ]
     },

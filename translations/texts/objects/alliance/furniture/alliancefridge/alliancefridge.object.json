@@ -146,17 +146,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Storage-cold, for keeping food-fresh."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancefridge/alliancefridge.object": [
         "/apexDescription"
       ]
     },

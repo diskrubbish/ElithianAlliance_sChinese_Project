@@ -47,17 +47,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/platforms/centensplatform.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Platform made by god-makers."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/platforms/centensplatform.material": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

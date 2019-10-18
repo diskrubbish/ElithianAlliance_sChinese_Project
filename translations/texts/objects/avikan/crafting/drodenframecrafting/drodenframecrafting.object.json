@@ -331,18 +331,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/crafting/drodenframecrafting/drodenframecrafting.object": [
-        "/akkimariDescription",
-        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki make frames-Droden here... Why would Akki?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/drodenframecrafting/drodenframecrafting.object": [
         "/upgradeStages/2/itemSpawnParameters/trinkDescription"
       ]
     },
@@ -418,17 +406,6 @@
     },
     "Texts": {
       "Eng": "I reckon someone with the right skills could craft some fancy robot parts here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/drodenframecrafting/drodenframecrafting.object": [
-        "/upgradeStages/2/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Machine make frames-Droden. Akki not have to do work themselves."
     }
   },
   {
@@ -610,17 +587,6 @@
     },
     "Texts": {
       "Eng": "Was I created in a similar type of factory?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/drodenframecrafting/drodenframecrafting.object": [
-        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Workshop-large, Akki craft Droden."
     }
   },
   {

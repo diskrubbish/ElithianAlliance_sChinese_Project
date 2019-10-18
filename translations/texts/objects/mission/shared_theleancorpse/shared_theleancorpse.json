@@ -106,26 +106,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/theleancorpse1/theleancorpse1.object": [
-        "/akkimariDescription"
-      ],
-      "objects/mission/theleancorpse2/theleancorpse2.object": [
-        "/akkimariDescription"
-      ],
-      "objects/mission/theleancorpse3/theleancorpse3.object": [
-        "/akkimariDescription"
-      ],
-      "objects/mission/theleancorpse4/theleancorpse4.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "God-thief-dead. Akki pleased."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/theleancorpse1/theleancorpse1.object": [
         "/shortdescription"
       ],
       "objects/mission/theleancorpse2/theleancorpse2.object": [

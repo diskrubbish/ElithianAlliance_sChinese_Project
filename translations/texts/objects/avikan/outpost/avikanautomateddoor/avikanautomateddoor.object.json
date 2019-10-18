@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanautomateddoor/avikanautomateddoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-automated."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanautomateddoor/avikanautomateddoor.object": [
         "/floranDescription"
       ]
     },

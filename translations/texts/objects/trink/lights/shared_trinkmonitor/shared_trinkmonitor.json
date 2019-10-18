@@ -122,23 +122,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
-        "/akkimariDescription"
-      ],
-      "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [
-        "/akkimariDescription"
-      ],
-      "objects/trink/lights/trinkmonitorwide/trinkmonitorwide.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Screen-alien, Akki no read..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/lights/trinkmonitor/trinkmonitor.object": [
         "/avikanDescription"
       ],
       "objects/trink/lights/trinkmonitorsmall/trinkmonitorsmall.object": [

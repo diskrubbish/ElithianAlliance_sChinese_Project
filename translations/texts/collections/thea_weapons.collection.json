@@ -160,30 +160,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "collections/thea_weapons.collection": [
-        "/collectables/thea-supremacy/description"
-      ]
-    },
-    "Texts": {
-      "Chs": "带有内置散热器系统的快速突击步枪。",
-      "Eng": "A fast assault rifle with a built-in heat sink system."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "collections/thea_weapons.collection": [
-        "/collectables/thea-erito/description"
-      ]
-    },
-    "Texts": {
-      "Chs": "优美的长剑，其剑刃近乎坚不可摧。",
-      "Eng": "A graceful longsword with a near-unbreakable edge."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "collections/thea_weapons.collection": [
         "/collectables/thea-excalibur/description"
       ]
     },
@@ -1023,17 +999,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "collections/thea_weapons.collection": [
-        "/collectables/thea-supremacy/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "C30 Supremacy"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "collections/thea_weapons.collection": [
         "/collectables/thea-lightrunner/title"
       ]
     },
@@ -1160,17 +1125,6 @@
     },
     "Texts": {
       "Eng": "Desert's Embrace"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "collections/thea_weapons.collection": [
-        "/collectables/thea-erito/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Erito"
     }
   },
   {
@@ -1326,17 +1280,6 @@
     },
     "Texts": {
       "Eng": "Linebreaker"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "collections/thea_weapons.collection": [
-        "/collectables/thea-lyiinsrifle/title"
-      ]
-    },
-    "Texts": {
-      "Eng": "Lyiin's Rifle"
     }
   },
   {
@@ -1645,17 +1588,6 @@
     },
     "Texts": {
       "Eng": "The Architect"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "collections/thea_weapons.collection": [
-        "/collectables/thea-lyiinsrifle/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "The personal firearm of Lyiin Taemera, inspired by weapons of alien design."
     }
   },
   {

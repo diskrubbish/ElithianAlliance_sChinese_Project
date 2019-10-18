@@ -43,26 +43,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/centens/centensglowpanel.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/centens/centensglowpanel2.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/centens/centensvertglowpanel.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/centens/centensvertglowpanel2.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panel-glowing, Akki entranced."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/centens/centensglowpanel.material": [
         "/novakidDescription"
       ],
       "tiles/materials/centens/centensglowpanel2.material": [

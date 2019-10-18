@@ -2,38 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/alliance/decorative/posters/allianceposter/allianceposter.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/posters/allianceposteraae/allianceposteraae.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/posters/allianceposterart/allianceposterart.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/posters/allianceposteraventor/allianceposteraventor.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/posters/allianceposterbriggs/allianceposterbriggs.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/posters/allianceposterenerth/allianceposterenerth.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/posters/allianceposterfroza/allianceposterfroza.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/posters/alliancepostergame/alliancepostergame.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki not know this. Poster-alien looks colourful."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/alliance/decorative/posters/allianceposteraae/allianceposteraae.object": [
         "/drodenDescription"
       ],

@@ -129,20 +129,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/selvas/selvasseed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/farmables/selvas/wildselvasseed.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Flowers-blue, contain substance-medicinal."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/selvas/selvasseed.object": [
         "/jorgasianDescription"
       ],
       "objects/farmables/selvas/wildselvasseed.object": [

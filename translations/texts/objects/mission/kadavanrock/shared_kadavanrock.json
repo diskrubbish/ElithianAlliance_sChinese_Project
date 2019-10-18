@@ -43,26 +43,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/kadavanrock/kadavanrock1.object": [
-        "/akkimariDescription"
-      ],
-      "objects/mission/kadavanrock/kadavanrock2.object": [
-        "/akkimariDescription"
-      ],
-      "objects/mission/kadavanrock/kadavanrock3.object": [
-        "/akkimariDescription"
-      ],
-      "objects/mission/kadavanrock/kadavanrock4.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki uninterested. Rock-boring."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/kadavanrock/kadavanrock1.object": [
         "/drodenDescription"
       ],
       "objects/mission/kadavanrock/kadavanrock2.object": [

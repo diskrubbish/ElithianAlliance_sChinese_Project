@@ -87,20 +87,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/loftgrain/loftgrainseed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/farmables/loftgrain/wildloftgrainseed.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Grass-green, colour-strange."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/loftgrain/loftgrainseed.object": [
         "/glitchDescription/glitchEmotedText"
       ],
       "objects/farmables/loftgrain/wildloftgrainseed.object": [

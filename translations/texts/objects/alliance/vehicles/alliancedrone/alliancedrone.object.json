@@ -47,6 +47,19 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
+        "/apexDescription",
+        "/description",
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small drone."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
         "/novakidDescription"
       ]
     },
@@ -107,17 +120,6 @@
     },
     "Texts": {
       "Eng": "Detected alien vehicle. Similarities to Vanguard Drahl units noted."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/vehicles/alliancedrone/alliancedrone.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Drone-small, for flying. Akki use to spy?"
     }
   },
   {

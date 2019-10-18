@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/allianceserver/allianceserver.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Computers-alien. Akki learn things-many here!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/allianceserver/allianceserver.object": [
         "/jorgasianDescription"
       ]
     },

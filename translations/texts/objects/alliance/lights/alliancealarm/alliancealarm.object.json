@@ -31,16 +31,5 @@
     "Texts": {
       "Eng": "Detected alien alarm system. Recommend caution."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/lights/alliancealarm/alliancealarm.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "If Akki hear alarm, Akki run to safety."
-    }
   }
 ]

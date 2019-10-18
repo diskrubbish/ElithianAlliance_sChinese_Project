@@ -157,20 +157,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/ambrum/ambrumseed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/farmables/ambrum/wildambrumseed.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plant-alien, make fibers-white. Remind Akki of silk-Akkimari."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/ambrum/ambrumseed.object": [
         "/avikanDescription"
       ],
       "objects/farmables/ambrum/wildambrumseed.object": [

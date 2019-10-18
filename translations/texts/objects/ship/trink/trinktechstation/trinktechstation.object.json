@@ -39,16 +39,5 @@
     "Texts": {
       "Eng": "/ai/portraits/trinkportrait.png:unique.1"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/trink/trinktechstation/trinktechstation.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki talk to SAIL, AI-good."
-    }
   }
 ]

@@ -80,22 +80,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/decorative/centenscolumn/centenscolumn.object": [
-        "/shortdescription"
+        "/akkimariDescription"
       ]
     },
     "Texts": {
-      "Eng": "Centensian Column"
+      "Eng": "Akki can't scrap this metal. Metal too strong."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/decorative/centenscolumn/centenscolumn.object": [
-        "/akkimariDescription"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Column-great, supports weight-great."
+      "Eng": "Centensian Column"
     }
   },
   {

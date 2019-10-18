@@ -143,26 +143,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/holograms/alliancehologram3/alliancehologram3.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/holograms/alliancehologram4/alliancehologram4.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hologram-alien."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/holograms/alliancehologram1/alliancehologram1.object": [
         "/hylotlDescription"
       ],
       "objects/alliance/decorative/holograms/alliancehologram2/alliancehologram2.object": [

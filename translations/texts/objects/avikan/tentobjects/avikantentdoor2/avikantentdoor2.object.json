@@ -126,17 +126,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-fabric, flimsy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentobjects/avikantentdoor2/avikantentdoor2.object": [
         "/erixianDescription"
       ]
     },

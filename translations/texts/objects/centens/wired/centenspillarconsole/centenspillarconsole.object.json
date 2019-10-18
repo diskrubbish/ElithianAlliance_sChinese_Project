@@ -113,17 +113,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Pillar-light, interface-strange. Akki touch, pillar change!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/wired/centenspillarconsole/centenspillarconsole.object": [
         "/floranDescription"
       ]
     },

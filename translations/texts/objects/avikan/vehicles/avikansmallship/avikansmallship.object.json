@@ -179,17 +179,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Ship-alien, Akki want to fly."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/vehicles/avikansmallship/avikansmallship.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

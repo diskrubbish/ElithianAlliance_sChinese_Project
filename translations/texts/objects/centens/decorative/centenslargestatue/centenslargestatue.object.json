@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "God-maker statue, sword-large. Akki want to take sword!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/decorative/centenslargestatue/centenslargestatue.object": [
         "/shortdescription"
       ]
     },

@@ -92,17 +92,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Pillar-light, make things bright!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/lights/trinklightpillar/trinklightpillar.object": [
         "/trinkDescription"
       ]
     },

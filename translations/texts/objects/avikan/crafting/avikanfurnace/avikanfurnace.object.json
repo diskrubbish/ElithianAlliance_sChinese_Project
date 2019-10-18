@@ -140,29 +140,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/crafting/avikanfurnace/avikanfurnace.object": [
-        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Forge-hot, for smelting metals."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikanfurnace/avikanfurnace.object": [
-        "/akkimariDescription",
-        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Furnace-stone, not too hot."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikanfurnace/avikanfurnace.object": [
         "/jorgasianDescription",
         "/upgradeStages/0/itemSpawnParameters/jorgasianDescription"
       ]
@@ -250,18 +227,6 @@
     },
     "Texts": {
       "Eng": "This furnace is not very safe."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikanfurnace/avikanfurnace.object": [
-        "/glitchDescription/glitchEmotedText",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This furnace is the perfect temperature for smelting basic ores"
     }
   },
   {

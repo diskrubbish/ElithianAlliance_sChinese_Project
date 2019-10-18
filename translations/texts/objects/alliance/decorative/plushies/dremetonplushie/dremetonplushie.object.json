@@ -146,17 +146,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Toy-alien, soft-very."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/plushies/dremetonplushie/dremetonplushie.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

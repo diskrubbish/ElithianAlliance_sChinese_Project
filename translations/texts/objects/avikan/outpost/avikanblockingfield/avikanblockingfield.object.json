@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanblockingfield/avikanblockingfield.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Field-energy. Akki not get through easily."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanblockingfield/avikanblockingfield.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

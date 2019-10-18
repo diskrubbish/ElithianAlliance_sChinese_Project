@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/thelean/theleanscoutship/theleanscoutship.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "God-thieves here, Akki careful. Sneak up, kill them all."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/thelean/theleanscoutship/theleanscoutship.object": [
         "/novakidDescription"
       ]
     },

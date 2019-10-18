@@ -2,11 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
-        "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle"
-      ],
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
         "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
         "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
@@ -72,20 +67,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/novakidDescription"
-      ],
-      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/novakidDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "A small star burns inside this device. 'Tis glorious!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
         "/humanDescription",
         "/upgradeStages/0/itemSpawnParameters/humanDescription"
@@ -97,35 +78,6 @@
     },
     "Texts": {
       "Eng": "A smelting furnace. Looks hot."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/description"
-      ],
-      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/description",
-        "/upgradeStages/0/itemSpawnParameters/description"
-      ]
-    },
-    "Texts": {
-      "Eng": "A stone smelter capable of smelting basic metal bars."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/drodenDescription"
-      ],
-      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/drodenDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Analysis failed. Heat signature exceding maximum values. Error."
     }
   },
   {
@@ -147,23 +99,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/avikanDescription"
-      ],
-      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/avikanDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Even the metals of the Old Ones won't survive the temperatures inside this device."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/upgradeStages/1/itemSpawnParameters/floranDescription"
-      ],
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
         "/upgradeStages/1/itemSpawnParameters/floranDescription"
       ],
@@ -173,20 +108,6 @@
     },
     "Texts": {
       "Eng": "Floran isss careful. Fire will burn Floran..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/floranDescription"
-      ],
-      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/floranDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Floran isss careful. Ssmall sssun will burn everything."
     }
   },
   {
@@ -208,45 +129,17 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
-      ],
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
+      ],
+      "objects/avikan/crafting/avikanfurnace/avikanfurnace.object": [
+        "/glitchDescription/glitchEmotedText",
+        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "I feel myself drying up just standing near this device..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/hymidDescription",
-        "/upgradeStages/0/itemSpawnParameters/hymidDescription"
-      ],
-      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/hymidDescription",
-        "/upgradeStages/0/itemSpawnParameters/hymidDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "I've never been a fan of working the forge."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/akkimari/crafting/akkimarifurnace/akkimarifurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
-      ],
-      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
-      ]
-    },
-    "Texts": {
-      "Eng": "This device could easily melt my own body."
+      "Eng": "This furnace is the perfect temperature for smelting basic ores"
     }
   }
 ]

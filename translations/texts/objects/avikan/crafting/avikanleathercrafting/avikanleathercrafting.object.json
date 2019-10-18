@@ -36,29 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
-        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki put hides is, machine make items-leather."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
-        "/akkimariDescription",
-        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki tan hides here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikanleathercrafting/avikanleathercrafting.object": [
         "/upgradeStages/1/itemSpawnParameters/notixDescription"
       ]
     },

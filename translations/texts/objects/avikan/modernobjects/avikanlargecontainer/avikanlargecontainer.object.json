@@ -70,17 +70,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki open, look inside."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanlargecontainer/avikanlargecontainer.object": [
         "/floranDescription"
       ]
     },

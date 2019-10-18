@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/decorative/trinkserver/trinkserver.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sever-alien. Akki hack, learn things-many."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinkserver/trinkserver.object": [
         "/hymidDescription"
       ]
     },

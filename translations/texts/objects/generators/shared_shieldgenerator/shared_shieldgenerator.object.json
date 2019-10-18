@@ -139,23 +139,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
-        "/akkimariDescription"
-      ],
-      "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [
-        "/akkimariDescription"
-      ],
-      "objects/generators/trinkshieldgenerator/trinkshieldgenerator.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Generator-shield, protect regions from destruction."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/generators/allianceshieldgenerator/allianceshieldgenerator.object": [
         "/floranDescription"
       ],
       "objects/generators/avikanshieldgenerator/avikanshieldgenerator.object": [

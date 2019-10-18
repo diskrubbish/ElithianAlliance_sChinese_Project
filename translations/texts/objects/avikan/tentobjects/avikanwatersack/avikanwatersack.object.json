@@ -146,17 +146,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sack-water, Akki careful not getting wet."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentobjects/avikanwatersack/avikanwatersack.object": [
         "/avikanDescription"
       ]
     },

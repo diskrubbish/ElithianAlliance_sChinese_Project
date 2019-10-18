@@ -31,20 +31,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plant-spicy, Akki like! Mouth burn, tasty-very!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/avikanspiceplant/avikanspiceplantseed.object": [
         "/description"
       ],
       "objects/farmables/avikanspiceplant/wildavikanspiceplantseed.object": [

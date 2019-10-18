@@ -47,17 +47,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki cook food here."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikancooking/avikancookingstation.object": [
         "/humanDescription"
       ]
     },

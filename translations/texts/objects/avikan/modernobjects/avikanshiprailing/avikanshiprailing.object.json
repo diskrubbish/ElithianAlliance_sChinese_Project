@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Avikan Ship Railing"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanshiprailing/avikanshiprailing.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Railing-safety, keep Akki from falling."
-    }
   }
 ]

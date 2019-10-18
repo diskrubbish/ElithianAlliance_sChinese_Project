@@ -159,32 +159,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
-        "/akkimariDescription"
-      ],
-      "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [
-        "/akkimariDescription"
-      ],
-      "objects/ship/boosters/giantboosterflamethea/giantboosterflamethea.object": [
-        "/akkimariDescription"
-      ],
-      "objects/ship/boosters/largeboosterflamethea/largeboosterflamethea.object": [
-        "/akkimariDescription"
-      ],
-      "objects/ship/boosters/mediumboosterflamethea/mediumboosterflamethea.object": [
-        "/akkimariDescription"
-      ],
-      "objects/ship/boosters/mediumboosterflamethea2/mediumboosterflamethea2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Exhaust-hot, Akki burn if Akki touch."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/boosters/boosterflamethea/boosterflamethea.object": [
         "/drodenDescription"
       ],
       "objects/ship/boosters/boosterflametrink/boosterflametrink.object": [

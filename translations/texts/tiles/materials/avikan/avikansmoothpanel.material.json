@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/avikan/avikansmoothpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panel-smooth. Akki no climb it."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/avikan/avikansmoothpanel.material": [
         "/description"
       ]
     },

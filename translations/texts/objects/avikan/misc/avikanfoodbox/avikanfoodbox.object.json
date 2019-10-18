@@ -124,17 +124,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Food-alien, Akki eat everything!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanfoodbox/avikanfoodbox.object": [
         "/jorgasianDescription"
       ]
     },

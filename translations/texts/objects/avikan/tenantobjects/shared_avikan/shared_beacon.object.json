@@ -107,32 +107,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/tenantobjects/avikantier4beacon/avikantier4beacon.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/tenantobjects/avikantier5beacon/avikantier5beacon.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/tenantobjects/avikantier6beacon/avikantier6beacon.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/tenantobjects/avikanvanguardbeacon/avikanvanguardbeacon.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "If Akki place in house with deed-colony, Akki summon guard."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tenantobjects/avikantier2beacon/avikantier2beacon.object": [
         "/avikanDescription"
       ],
       "objects/avikan/tenantobjects/avikantier3beacon/avikantier3beacon.object": [

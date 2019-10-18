@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki steal food?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/alliancestoreshelf/alliancestoreshelf.object": [
         "/notixDescription"
       ]
     },

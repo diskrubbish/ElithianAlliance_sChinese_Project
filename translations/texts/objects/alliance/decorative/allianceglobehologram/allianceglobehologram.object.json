@@ -80,22 +80,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
-        "/shortdescription"
+        "/akkimariDescription"
       ]
     },
     "Texts": {
-      "Eng": "Hologram of Elithia"
+      "Eng": "Great hologram of Elithia. Akki impressed."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/allianceglobehologram/allianceglobehologram.object": [
-        "/akkimariDescription"
+        "/shortdescription"
       ]
     },
     "Texts": {
-      "Eng": "Hologram-great of Elithia. Akki impressed."
+      "Eng": "Hologram of Elithia"
     }
   },
   {

@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Avikan Storage Locker"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanstoragelocker/avikanstoragelocker.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Chest-wall, efficient."
-    }
   }
 ]

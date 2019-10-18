@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Avikan Curtain"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentobjects/avikancurtain/avikancurtain.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Curtain for window."
-    }
   }
 ]

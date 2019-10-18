@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki glad door won't open. If door open, Akki sucked into space and dead."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/avikan/avikancargodoorbroken/avikancargodoorbroken.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

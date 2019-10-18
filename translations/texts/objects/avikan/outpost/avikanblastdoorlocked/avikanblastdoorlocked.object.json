@@ -135,17 +135,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-locked. Akki try to break, Akki fail."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanblastdoorlocked/avikanblastdoorlocked.object": [
         "/hymidDescription"
       ]
     },

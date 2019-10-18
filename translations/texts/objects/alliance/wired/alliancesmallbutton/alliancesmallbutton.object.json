@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/wired/alliancesmallbutton/alliancesmallbutton.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki press button, make things happen."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/wired/alliancesmallbutton/alliancesmallbutton.object": [
         "/shortdescription"
       ]
     },

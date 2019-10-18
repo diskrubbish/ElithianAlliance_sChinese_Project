@@ -103,17 +103,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Computer-alien. Interface-weird."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikancomputer/avikancomputer.object": [
         "/floranDescription"
       ]
     },

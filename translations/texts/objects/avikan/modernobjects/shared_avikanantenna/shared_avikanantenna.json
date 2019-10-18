@@ -129,20 +129,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Antenna-strong, receive signals."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanantenna/avikanantenna.object": [
         "/avikanDescription"
       ],
       "objects/avikan/modernobjects/avikanantenna2/avikanantenna2.object": [

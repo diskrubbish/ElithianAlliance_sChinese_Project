@@ -158,17 +158,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-sloped, slippery-very."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/doors/trinkslopeddoor/trinkslopeddoor.object": [
         "/shortdescription"
       ]
     },

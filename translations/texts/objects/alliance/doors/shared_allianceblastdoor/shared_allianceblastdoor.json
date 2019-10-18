@@ -12,19 +12,5 @@
     "Texts": {
       "Eng": "Alliance Blast Door"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/doors/allianceblastdoor/allianceblastdoor.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/doors/allianceblastdoorautomated/allianceblastdoorautomated.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-thick, for resisting blasts."
-    }
   }
 ]

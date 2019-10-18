@@ -238,31 +238,5 @@
     "Texts": {
       "Eng": "Inactive Droden Frame"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikandroden/avikandroden.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/misc/avikandrodenheavy/avikandrodenheavy.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/misc/avikandrodenlegion1/avikandrodenlegion1.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/misc/avikandrodenlegion2/avikandrodenlegion2.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/misc/avikandrodenlegion3/avikandrodenlegion3.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/misc/avikandrodenlegion4/avikandrodenlegion4.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Robot-sleeping. Akki salvage metals?"
-    }
   }
 ]

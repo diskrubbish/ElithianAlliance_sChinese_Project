@@ -58,22 +58,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/platforms/alliancestoneplatform.material": [
-        "/akkimariDescription"
+        "/floranDescription"
       ]
     },
     "Texts": {
-      "Eng": "Platform-stone."
+      "Eng": "Ssstone platformss."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "tiles/platforms/alliancestoneplatform.material": [
-        "/floranDescription"
+        "/akkimariDescription"
       ]
     },
     "Texts": {
-      "Eng": "Ssstone platformss."
+      "Eng": "Stone platform..."
     }
   }
 ]

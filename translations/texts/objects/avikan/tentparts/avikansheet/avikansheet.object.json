@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentparts/avikansheet/avikansheet.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sheet-leather, cast a shadow."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentparts/avikansheet/avikansheet.object": [
         "/trinkDescription"
       ]
     },

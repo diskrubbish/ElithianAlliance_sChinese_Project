@@ -174,16 +174,5 @@
     "Texts": {
       "Eng": "This palm tree is a sign of wealth amongst the Avikan."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanlobbydeco/avikanlobbydeco.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tree-tall. Akki climb it?"
-    }
   }
 ]

@@ -179,17 +179,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Planet-tiny. Akki feel giant now!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/allianceminiglobe/allianceminiglobe.object": [
         "/novakidDescription"
       ]
     },

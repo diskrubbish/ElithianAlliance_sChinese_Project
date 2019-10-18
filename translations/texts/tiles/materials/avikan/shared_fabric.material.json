@@ -45,20 +45,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/avikan/avikanborderlessfabric.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/avikan/avikanfabric.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Fabric-soft, feels good to skin-Akki."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/avikan/avikanborderlessfabric.material": [
         "/floranDescription"
       ],
       "tiles/materials/avikan/avikanborderlesspurplefabric.material": [

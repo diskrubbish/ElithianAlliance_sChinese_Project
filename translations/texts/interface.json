@@ -47,15 +47,6 @@
       "interface/tooltips/thea-unique.tooltip": [
         "/priceLabel/value"
       ],
-      "interface/windowconfig/akkimaricrafting.config": [
-        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
-      ],
-      "interface/windowconfig/akkimarifurnacecrafting.config": [
-        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
-      ],
-      "interface/windowconfig/akkimariinventorcrafting.config": [
-        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
-      ],
       "interface/windowconfig/alliancecrafting.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value"
       ],
@@ -100,9 +91,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/scripted/allianceweaponimprovement/akkimariweaponimprovementgui.config": [
-        "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
-      ],
       "interface/scripted/allianceweaponimprovement/allianceweaponimprovementgui.config": [
         "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
       ],
@@ -114,15 +102,6 @@
       ],
       "interface/scripted/vehiclerepair/avikan-vehiclerepairgui.config": [
         "/gui/itemScrollArea/children/itemList/schema/listTemplate/itemName/value"
-      ],
-      "interface/windowconfig/akkimaricrafting.config": [
-        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
-      ],
-      "interface/windowconfig/akkimarifurnacecrafting.config": [
-        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
-      ],
-      "interface/windowconfig/akkimariinventorcrafting.config": [
-        "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"
       ],
       "interface/windowconfig/alliancecrafting.config": [
         "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value"

@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Sheets-cloth, look fancy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentparts/avikansmallsheet/avikansmallsheet.object": [
         "/trinkDescription"
       ]
     },

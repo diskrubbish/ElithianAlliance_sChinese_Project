@@ -73,20 +73,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancebench/alliancebench.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/furniture/alliancebench2/alliancebench2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki sit, Akki relax."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancebench/alliancebench.object": [
         "/jorgasianDescription"
       ],
       "objects/alliance/furniture/alliancebench2/alliancebench2.object": [

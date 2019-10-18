@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Alliance Storage Locker"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/containers/alliancestoragelocker/alliancestoragelocker.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Storage in wall, Akki think it useful."
-    }
   }
 ]

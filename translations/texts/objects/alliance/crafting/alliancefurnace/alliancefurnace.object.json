@@ -195,6 +195,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small star burns inside this device. 'Tis glorious!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
         "/upgradeStages/1/itemSpawnParameters/avianDescription"
       ]
     },
@@ -218,11 +229,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
+        "/description",
+        "/upgradeStages/0/itemSpawnParameters/description"
       ]
     },
     "Texts": {
-      "Eng": "Akki careful. Temperatures-high, Akki not burn self."
+      "Eng": "A stone smelter capable of smelting basic metal bars."
     }
   },
   {
@@ -274,6 +286,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/drodenDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Analysis failed. Heat signature exceding maximum values. Error."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
         "/upgradeStages/2/itemSpawnParameters/hymidDescription"
       ]
     },
@@ -285,12 +308,22 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/akkimariDescription",
-        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
+        "/upgradeStages/2/itemSpawnParameters/avikanDescription"
       ]
     },
     "Texts": {
-      "Eng": "Furnace-stone, for smelting metals."
+      "Eng": "Even the metals of the Old Ones won't survive the temperatures inside this device."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss careful. Ssmall sssun will burn everything."
     }
   },
   {
@@ -308,6 +341,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
+        "/upgradeStages/2/itemSpawnParameters/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "I feel myself drying up just standing near this device..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
         "/upgradeStages/1/itemSpawnParameters/notixDescription"
       ]
     },
@@ -319,11 +363,12 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/upgradeStages/2/itemSpawnParameters/akkimariDescription"
+        "/hymidDescription",
+        "/upgradeStages/0/itemSpawnParameters/hymidDescription"
       ]
     },
     "Texts": {
-      "Eng": "Like forge-nuclear, hot-very. Melt things-many!"
+      "Eng": "I've never been a fan of working the forge."
     }
   },
   {
@@ -374,12 +419,11 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/crafting/alliancefurnace/alliancefurnace.object": [
-        "/glitchDescription/glitchEmotedText",
-        "/upgradeStages/0/itemSpawnParameters/glitchDescription/glitchEmotedText"
+        "/upgradeStages/2/itemSpawnParameters/glitchDescription/glitchEmotedText"
       ]
     },
     "Texts": {
-      "Eng": "This furnace is the perfect temperature for smelting basic ores."
+      "Eng": "This device could easily melt my own body."
     }
   },
   {

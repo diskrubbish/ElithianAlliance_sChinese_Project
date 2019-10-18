@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/decorative/centenscube/centenscube.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki feel calm. Feeling-strange."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/decorative/centenscube/centenscube.object": [
         "/shortdescription"
       ]
     },

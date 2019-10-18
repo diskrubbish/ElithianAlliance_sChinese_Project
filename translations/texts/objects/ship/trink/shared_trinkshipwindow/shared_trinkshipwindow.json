@@ -171,20 +171,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
-        "/akkimariDescription"
-      ],
-      "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "This window-no, just screen."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/trink/trinkshipwindow/trinkshipwindow.object": [
         "/trinkDescription"
       ],
       "objects/ship/trink/trinkshipwindowsimple/trinkshipwindowsimple.object": [

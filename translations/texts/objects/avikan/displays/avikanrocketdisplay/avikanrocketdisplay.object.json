@@ -135,17 +135,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Launcher-rocket, make big boom! Make Akki happy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/displays/avikanrocketdisplay/avikanrocketdisplay.object": [
         "/avikanDescription"
       ]
     },

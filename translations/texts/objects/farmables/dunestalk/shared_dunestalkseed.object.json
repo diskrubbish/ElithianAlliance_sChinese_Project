@@ -115,20 +115,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/dunestalk/dunestalkseed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/farmables/dunestalk/wildedunestalkseed.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Grass look dead. Dry-very."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/dunestalk/dunestalkseed.object": [
         "/description"
       ],
       "objects/farmables/dunestalk/wildedunestalkseed.object": [

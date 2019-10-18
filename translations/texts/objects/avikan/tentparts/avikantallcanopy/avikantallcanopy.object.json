@@ -20,16 +20,5 @@
     "Texts": {
       "Eng": "Avikan Fabric Canopy"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentparts/avikantallcanopy/avikantallcanopy.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Canopy-colourful."
-    }
   }
 ]

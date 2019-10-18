@@ -78,25 +78,5 @@
     "Texts": {
       "Eng": "Floran is opposed to putting plantsss in boxess."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/allianceplanter/allianceplanter1.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/allianceplanter/allianceplanter2.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/allianceplanter/allianceplanter3.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/decorative/allianceplanter/allianceplanter4.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plants-alien."
-    }
   }
 ]

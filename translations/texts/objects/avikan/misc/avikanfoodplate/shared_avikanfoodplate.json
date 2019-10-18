@@ -73,20 +73,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plate-food, tasty."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikanfoodplate/avikanfoodplate-decorative.object": [
         "/hymidDescription"
       ],
       "objects/avikan/misc/avikanfoodplate/avikanfoodplate.object": [

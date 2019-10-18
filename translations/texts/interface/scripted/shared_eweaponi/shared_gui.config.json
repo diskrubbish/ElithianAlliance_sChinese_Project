@@ -2,10 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/scripted/allianceweaponimprovement/akkimariweaponimprovementgui.config": [
-        "/gui/currentLevelLabel/value",
-        "/gui/newLevelLabel/value"
-      ],
       "interface/scripted/allianceweaponimprovement/allianceweaponimprovementgui.config": [
         "/gui/currentLevelLabel/value",
         "/gui/newLevelLabel/value"

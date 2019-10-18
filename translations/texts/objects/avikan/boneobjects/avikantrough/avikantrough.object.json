@@ -179,17 +179,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Trough for feeding animals."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/boneobjects/avikantrough/avikantrough.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

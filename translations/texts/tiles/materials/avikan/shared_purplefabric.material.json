@@ -31,20 +31,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/avikan/avikanborderlesspurplefabric.material": [
-        "/akkimariDescription"
-      ],
-      "tiles/materials/avikan/avikanpurplefabric.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Fabric-coloured, Akki like colour."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/avikan/avikanborderlesspurplefabric.material": [
         "/glitchDescription/glitchEmotedText"
       ],
       "tiles/materials/avikan/avikanpurplefabric.material": [

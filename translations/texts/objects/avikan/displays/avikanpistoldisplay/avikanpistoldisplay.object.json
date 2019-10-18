@@ -80,17 +80,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Pistol-small. Akki find it puny."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/displays/avikanpistoldisplay/avikanpistoldisplay.object": [
         "/avikanDescription"
       ]
     },

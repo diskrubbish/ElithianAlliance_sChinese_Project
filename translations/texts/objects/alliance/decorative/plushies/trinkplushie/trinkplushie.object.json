@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki seen real version. This cute-more."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/plushies/trinkplushie/trinkplushie.object": [
         "/humanDescription"
       ]
     },

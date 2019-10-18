@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki purchase blueprints, make things-new."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikangunsmith/avikangunsmith.object": [
         "/shortdescription"
       ]
     },

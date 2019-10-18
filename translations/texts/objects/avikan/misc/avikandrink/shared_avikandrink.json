@@ -59,20 +59,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/misc/avikandrink/avikandrink.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki drink juice. Akki thirsty."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/misc/avikandrink/avikandrink-decorative.object": [
         "/drodenDescription"
       ],
       "objects/avikan/misc/avikandrink/avikandrink.object": [

@@ -322,17 +322,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
-        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Big press, make things flat. Akki use for crafting."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
         "/upgradeStages/1/itemSpawnParameters/drodenDescription"
       ]
     },
@@ -361,17 +350,6 @@
     },
     "Texts": {
       "Eng": "Detected printing system. Analysis: machine-built."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/crafting/trinkcrafting/trinkcrafting.object": [
-        "/upgradeStages/2/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Fabricator-automated, make anything Akki need."
     }
   },
   {

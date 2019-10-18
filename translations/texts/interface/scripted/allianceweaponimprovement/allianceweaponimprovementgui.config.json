@@ -1,0 +1,57 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/allianceweaponimprovement/allianceweaponimprovementgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " Improve your weapons here!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/allianceweaponimprovement/allianceweaponimprovementgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Weapon Improvement Bench"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/allianceweaponimprovement/allianceweaponimprovementgui.config": [
+        "/gui/infoLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Insert Upgrade Kit"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/allianceweaponimprovement/allianceweaponimprovementgui.config": [
+        "/gui/btnUpgrade/caption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Upgrade"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/allianceweaponimprovement/allianceweaponimprovementgui.config": [
+        "/gui/emptyLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You don't have any weapons that can be upgraded!"
+    }
+  }
+]

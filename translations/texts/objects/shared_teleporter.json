@@ -96,29 +96,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "objects/ship/trink/trinkteleporter/trinkteleporter.object": [
-        "/akkimariDescription"
-      ],
-      "objects/teleporter/alliancelowteleporter/alliancelowteleporter.object": [
-        "/akkimariDescription"
-      ],
-      "objects/teleporter/alliancetallteleporter/alliancetallteleporter.object": [
-        "/akkimariDescription"
-      ],
-      "objects/teleporter/avikanlowteleporter/avikanlowteleporter.object": [
-        "/akkimariDescription"
-      ],
-      "objects/teleporter/avikantallteleporter/avikantallteleporter.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Teleporter-alien, make Akki feel dizzy."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "objects/avikan/outpost/avikanoutpostteleporter/avikanoutpostteleporter.object": [
         "/aegiDescription"
       ],

@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Avikan Shelf"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanshelf/avikanshelf.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Shelf on wall."
-    }
   }
 ]

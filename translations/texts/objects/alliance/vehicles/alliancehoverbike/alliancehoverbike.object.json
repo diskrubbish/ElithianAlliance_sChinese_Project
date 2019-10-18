@@ -102,17 +102,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki fly on vehicle-alien! Akki free!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/vehicles/alliancehoverbike/alliancehoverbike.object": [
         "/shortdescription"
       ]
     },

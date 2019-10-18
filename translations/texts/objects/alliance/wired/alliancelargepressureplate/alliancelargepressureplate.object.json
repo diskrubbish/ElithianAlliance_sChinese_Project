@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki place vehicle, plate activates."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/wired/alliancelargepressureplate/alliancelargepressureplate.object": [
         "/shortdescription"
       ]
     },

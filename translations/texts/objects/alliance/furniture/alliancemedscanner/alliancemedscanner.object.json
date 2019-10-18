@@ -47,17 +47,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki disturbed. Looks like device-torture."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancemedscanner/alliancemedscanner.object": [
         "/shortdescription"
       ]
     },

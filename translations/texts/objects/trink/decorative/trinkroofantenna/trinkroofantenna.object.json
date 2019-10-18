@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Antenna-small, placed on roof."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinkroofantenna/trinkroofantenna.object": [
         "/shortdescription"
       ]
     },

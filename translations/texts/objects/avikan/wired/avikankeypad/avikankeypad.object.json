@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/wired/avikankeypad/avikankeypad.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki enter code, door unlocks."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/wired/avikankeypad/avikankeypad.object": [
         "/erixianDescription"
       ]
     },

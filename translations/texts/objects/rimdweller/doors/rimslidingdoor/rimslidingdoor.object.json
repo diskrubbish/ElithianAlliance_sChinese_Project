@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki open door, make woosh-woosh sound!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/rimdweller/doors/rimslidingdoor/rimslidingdoor.object": [
         "/shortdescription"
       ]
     },

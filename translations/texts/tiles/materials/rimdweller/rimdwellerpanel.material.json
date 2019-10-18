@@ -18,18 +18,7 @@
       ]
     },
     "Texts": {
-      "Eng": "Analysis complete. Metal panel. Moderate deterioration detected."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/rimdweller/rimdwellerpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panel-rusted, Akki no clean it."
+      "Eng": "Analysis complete. Metal panel. Moderate deterioration detected"
     }
   },
   {

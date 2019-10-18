@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/flags/flagaegi/flagaegi.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Flag of Union-Aegi, colourful and pretty."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/flags/flagaegi/flagaegi.object": [
         "/novakidDescription"
       ]
     },

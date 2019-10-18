@@ -179,17 +179,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plate-bone for cooking food."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikancooking/avikancookingplate.object": [
         "/description"
       ]
     },

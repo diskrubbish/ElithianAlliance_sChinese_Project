@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/alliance/allianceslopedglass.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plastic-clear, Akki surprised by strength."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/alliance/allianceslopedglass.material": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

@@ -102,17 +102,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki not know interface-alien. Confusing-very."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/alliancelaptop/alliancelaptop.object": [
         "/shortdescription"
       ]
     },

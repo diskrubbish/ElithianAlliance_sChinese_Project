@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki take supplies, use to support Kelraaki."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/containers/allianceweaponchest/allianceweaponchest.object": [
         "/shortdescription"
       ]
     },

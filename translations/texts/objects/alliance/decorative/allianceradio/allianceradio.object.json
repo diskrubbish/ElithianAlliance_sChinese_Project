@@ -169,17 +169,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/allianceradio/allianceradio.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Radio-alien. Make music-nice."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/allianceradio/allianceradio.object": [
         "/hymidDescription"
       ]
     },

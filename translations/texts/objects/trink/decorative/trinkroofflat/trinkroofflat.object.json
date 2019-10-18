@@ -20,16 +20,5 @@
     "Texts": {
       "Eng": "Flat Trinkian Roof"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinkroofflat/trinkroofflat.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Roof-alien, top-flat."
-    }
   }
 ]

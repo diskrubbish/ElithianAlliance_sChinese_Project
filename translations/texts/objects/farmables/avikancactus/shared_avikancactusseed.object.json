@@ -241,20 +241,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/farmables/avikancactus/avikancactusseed.object": [
-        "/akkimariDescription"
-      ],
-      "objects/farmables/avikancactus/wildavikancactusseed.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Plant full of water. Akki drink?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/farmables/avikancactus/avikancactusseed.object": [
         "/trinkDescription"
       ],
       "objects/farmables/avikancactus/wildavikancactusseed.object": [

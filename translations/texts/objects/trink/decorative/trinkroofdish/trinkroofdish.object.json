@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Dish-tiny, spin, spin and spin around!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinkroofdish/trinkroofdish.object": [
         "/shortdescription"
       ]
     },

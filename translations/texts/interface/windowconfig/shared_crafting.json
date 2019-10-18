@@ -2,9 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/windowconfig/akkimariinventorcrafting.config": [
-        "/paneLayout/btnCraft/caption"
-      ],
       "interface/windowconfig/allianceinventorcrafting.config": [
         "/paneLayout/btnCraft/caption"
       ],
@@ -26,15 +23,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/windowconfig/akkimaricrafting.config": [
-        "/paneLayout/lblProduct/value"
-      ],
-      "interface/windowconfig/akkimarifurnacecrafting.config": [
-        "/paneLayout/lblProduct/value"
-      ],
-      "interface/windowconfig/akkimariinventorcrafting.config": [
-        "/paneLayout/lblProduct/value"
-      ],
       "interface/windowconfig/alliancecrafting.config": [
         "/paneLayout/lblProduct/value"
       ],
@@ -80,15 +68,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/windowconfig/akkimaricrafting.config": [
-        "/paneLayout/filter/hint"
-      ],
-      "interface/windowconfig/akkimarifurnacecrafting.config": [
-        "/paneLayout/filter/hint"
-      ],
-      "interface/windowconfig/akkimariinventorcrafting.config": [
-        "/paneLayout/filter/hint"
-      ],
       "interface/windowconfig/alliancecrafting.config": [
         "/paneLayout/filter/hint"
       ],

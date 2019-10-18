@@ -31,16 +31,5 @@
     "Texts": {
       "Eng": "Blast door. Structural integrity: 98 percent."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanblastdoor/avikanblastdoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door seals room."
-    }
   }
 ]

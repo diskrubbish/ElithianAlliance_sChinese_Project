@@ -73,20 +73,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
-        "/akkimariDescription"
-      ],
-      "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "God-maker make light-floating."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/centens/lights/centenshoverlight/centenshoverlight.object": [
         "/centensDescription"
       ],
       "objects/centens/lights/centenshoverlight2/centenshoverlight2.object": [

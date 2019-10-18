@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Core-ship. Make Akki feel dizzy..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/allianceshipcore/allianceshipcore.object": [
         "/drodenDescription"
       ]
     },

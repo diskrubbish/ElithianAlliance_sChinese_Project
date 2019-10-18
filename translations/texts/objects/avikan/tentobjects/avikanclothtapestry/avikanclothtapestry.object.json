@@ -168,17 +168,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentobjects/avikanclothtapestry/avikanclothtapestry.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tapestry-cloth, Akki use as towel."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentobjects/avikanclothtapestry/avikanclothtapestry.object": [
         "/avianDescription"
       ]
     },

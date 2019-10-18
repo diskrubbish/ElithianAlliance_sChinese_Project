@@ -14,17 +14,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Crate-large, things-many inside?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/modernobjects/avikanlargecrate/avikanlargecrate.object": [
         "/shortdescription"
       ]
     },

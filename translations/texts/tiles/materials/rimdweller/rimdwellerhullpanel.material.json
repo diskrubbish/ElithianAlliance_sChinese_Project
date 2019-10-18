@@ -25,17 +25,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/rimdweller/rimdwellerhullpanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Hull-ship, thick and heavy. Akki no carve through..."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/rimdweller/rimdwellerhullpanel.material": [
         "/novakidDescription"
       ]
     },

@@ -2,26 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "items/active/weapons/ranged/akkimari/akkimari-flamethrower/akkimari-flamethrower.activeitem": [
-        "/altAbility/name"
-      ],
-      "items/active/weapons/ranged/unique/arclighter/trink-arclighter.activeitem": [
-        "/altAbility/name"
-      ],
-      "items/active/weapons/ranged/unique/guardbreakersbow/avikan-guardbreakersbow.activeitem": [
-        "/altAbility/name"
-      ],
-      "items/active/weapons/ranged/unique/oathbreaker/avikan-oathbreaker.activeitem": [
-        "/altAbility/name"
-      ]
-    },
-    "Texts": {
-      "Eng": "Gun Bash"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/active/weapons/ranged/avikan/avikan-missilepod/avikan-missilepod.activeitem": [
         "/altAbility/name"
       ],

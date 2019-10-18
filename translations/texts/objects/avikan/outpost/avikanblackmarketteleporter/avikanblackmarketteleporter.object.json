@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "Drifter's Teleporter"
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanblackmarketteleporter/avikanblackmarketteleporter.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Teleporter-alien. Akki come back later."
-    }
   }
 ]

@@ -9,16 +9,5 @@
     "Texts": {
       "Eng": "A basic bathroom sink."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancebathroomsink/alliancebathroomsink.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Small source-water."
-    }
   }
 ]

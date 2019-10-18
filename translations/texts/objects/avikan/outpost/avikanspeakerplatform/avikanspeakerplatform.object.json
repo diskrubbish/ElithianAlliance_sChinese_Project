@@ -40,17 +40,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikanspeakerplatform/avikanspeakerplatform.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki stand here, talk to Akkimari."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikanspeakerplatform/avikanspeakerplatform.object": [
         "/shortdescription"
       ]
     },

@@ -102,20 +102,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/furniture/alliancetable/alliancetable.object": [
-        "/akkimariDescription"
-      ],
-      "objects/alliance/furniture/alliancetable2/alliancetable2.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Table-alien."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/furniture/alliancetable/alliancetable.object": [
         "/hylotlDescription"
       ],
       "objects/alliance/furniture/alliancetable2/alliancetable2.object": [

@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/platforms/theagreenscreenplatform.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki know you cheating. You no supposed to have this."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/platforms/theagreenscreenplatform.material": [
         "/drodenDescription"
       ]
     },

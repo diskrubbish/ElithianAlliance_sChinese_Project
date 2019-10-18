@@ -3,17 +3,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mannequins/trinkmannequin/trinkmannequin.object": [
-        "/drodenDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Detected mannequin. Tailored to Trinkian shape."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mannequins/trinkmannequin/trinkmannequin.object": [
         "/description"
       ]
     },

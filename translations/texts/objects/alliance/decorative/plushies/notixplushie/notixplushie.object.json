@@ -80,17 +80,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki find it cute."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/plushies/notixplushie/notixplushie.object": [
         "/avikanDescription"
       ]
     },

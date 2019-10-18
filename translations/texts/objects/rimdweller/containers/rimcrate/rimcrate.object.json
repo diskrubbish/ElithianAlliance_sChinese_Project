@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/rimdweller/containers/rimcrate/rimcrate.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Crate-alien, has goodies inside?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/rimdweller/containers/rimcrate/rimcrate.object": [
         "/shortdescription"
       ]
     },

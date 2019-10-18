@@ -58,17 +58,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Canopy for shade, Akki protected from sun."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/tentparts/avikanopencanopy/avikanopencanopy.object": [
         "/drodenDescription"
       ]
     },

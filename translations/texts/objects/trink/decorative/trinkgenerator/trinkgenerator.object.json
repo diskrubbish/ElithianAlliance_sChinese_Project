@@ -91,17 +91,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Generator make power, Akki use power to make things happen."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinkgenerator/trinkgenerator.object": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

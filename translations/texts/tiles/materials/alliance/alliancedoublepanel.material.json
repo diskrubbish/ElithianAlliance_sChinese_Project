@@ -36,17 +36,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "tiles/materials/alliance/alliancedoublepanel.material": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Panels-layered, make for insulation-good."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "tiles/materials/alliance/alliancedoublepanel.material": [
         "/glitchDescription/glitchEmotedText"
       ]
     },

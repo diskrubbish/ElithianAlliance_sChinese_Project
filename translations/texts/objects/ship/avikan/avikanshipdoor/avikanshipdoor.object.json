@@ -53,16 +53,5 @@
     "Texts": {
       "Eng": "An Avikan ship door."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/avikan/avikanshipdoor/avikanshipdoor.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-ship, special-not."
-    }
   }
 ]

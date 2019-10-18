@@ -130,18 +130,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
-        "/akkimariDescription",
-        "/upgradeStages/0/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki carve bones here!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
         "/jorgasianDescription"
       ]
     },
@@ -282,17 +270,6 @@
     },
     "Texts": {
       "Eng": "How can such simple tools can be used to craft bone items of excellent quality?"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/crafting/avikanbonecrafting/avikanbonecrafting.object": [
-        "/upgradeStages/1/itemSpawnParameters/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Machine makes tools-bone. Easier for Akki."
     }
   },
   {

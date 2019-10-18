@@ -164,16 +164,5 @@
     "Texts": {
       "Eng": "This stuffed toy looks a bit weird."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/decorative/plushies/centensplushie/centensplushie.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Toy-alien. Is that god-maker?"
-    }
   }
 ]

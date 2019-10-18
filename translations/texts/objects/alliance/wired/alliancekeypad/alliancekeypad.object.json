@@ -69,17 +69,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Akki need code... Akki want to break!"
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/wired/alliancekeypad/alliancekeypad.object": [
         "/shortdescription"
       ]
     },

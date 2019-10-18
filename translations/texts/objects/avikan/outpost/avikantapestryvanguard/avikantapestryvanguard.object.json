@@ -63,17 +63,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Tapestry with symbol. Symbol for Vanguard."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/avikan/outpost/avikantapestryvanguard/avikantapestryvanguard.object": [
         "/avikanDescription"
       ]
     },

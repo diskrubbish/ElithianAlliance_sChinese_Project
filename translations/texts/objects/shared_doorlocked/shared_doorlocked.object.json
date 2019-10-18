@@ -17,20 +17,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/alliance/doors/allianceblastdoorlocked/allianceblastdoorlocked.object": [
-        "/akkimariDescription"
-      ],
-      "objects/avikan/outpost/avikanautomateddoorlocked/avikanautomateddoorlocked.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Door-locked. Akki not get through."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/alliance/doors/allianceblastdoorlocked/allianceblastdoorlocked.object": [
         "/floranDescription"
       ],
       "objects/avikan/outpost/avikanautomateddoorlocked/avikanautomateddoorlocked.object": [

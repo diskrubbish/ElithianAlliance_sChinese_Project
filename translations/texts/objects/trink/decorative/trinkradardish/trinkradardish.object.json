@@ -114,17 +114,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/trink/decorative/trinkradardish/trinkradardish.object": [
-        "/akkimariDescription"
-      ]
-    },
-    "Texts": {
-      "Eng": "Dish-big, Akki intercept signal! Akki want to know what aliens say."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/trink/decorative/trinkradardish/trinkradardish.object": [
         "/floranDescription"
       ]
     },
