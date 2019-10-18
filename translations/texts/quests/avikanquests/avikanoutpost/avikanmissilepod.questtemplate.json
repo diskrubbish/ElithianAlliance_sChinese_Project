@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我发现了一架精英无人机的破损导弹发射器。也许它还可以修好... ^green;我应该试着在远星庇护所里找一位武器匠^white;——他们会知道导弹发射器是否还能修好。",
       "Eng": "I found the broken missile pod of an Elite Drahl. Perhaps it can still be repaired... ^green;I should try to look for a weaponsmith in the Starfarer's Refuge ^white;- they'll know if the missile pod can still be repaired."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这真是个重大发现，船长。我想我还能修好这个导弹发射器，但是我们需要一些材料。",
       "Eng": "This is quite the find, Captain. I think I can still repair this missile pod, but we'll need some materials."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;爆炸性火力",
       "Eng": "^green;Explosive Firepower"
     }
   }

@@ -172,6 +172,7 @@
       ]
     },
     "Texts": {
+      "Chs": "前卫队刮刀型机甲",
       "Eng": "Vanguard Krahl"
     }
   },
@@ -183,6 +184,7 @@
       ]
     },
     "Texts": {
+      "Chs": "探测到前卫队机甲。状态: 未激活。",
       "Eng": "Vanguard Mech detected. Status: Inactive."
     }
   }

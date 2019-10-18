@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "一位开路骑士必须足智多谋。在我们的集体里没有什么是容易取得的，所以在你得到你的^orange;执照^white;之前，你必须得^green;搭建你自己的^orange;座乘跳跃门^green;然后交给我^white;。你需要一个^orange;阿威坎跳跃门核心^white;来制作它——^green;有几个流浪的商人卖这种东西，所以先找到他们中的一个^white;。",
       "Eng": "A Keffrider must be resourceful. Nothing in our community is easily granted, so before you get your ^orange;license^white;, you must ^green;build your own ^orange;Vehicle Jumpgate^green; and bring it to me^white;. You'll need an ^orange;Avikan Jumpgate Core^white; to craft it - ^green;there's a few wandering merchants out there who sell such items, so find one of them first^white;."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "干得好，船长！我会安排把^orange;座乘跳跃门^white;安装在您飞船上的各项事宜。你最后需要的一样东西就是^orange;跳跃门控制器^white;，这样你就可以随时召唤你的开路机车。",
       "Eng": "Nice work, Captain! I'll arrange for that ^orange;Vehicle Jumpgate^white; to be installed onto your ship. The last thing you need is a ^orange;Jumpgate Controller^white;, so you can summon your Keff at any time."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;开路骑士III",
       "Eng": "^green;Keffrider III"
     }
   }

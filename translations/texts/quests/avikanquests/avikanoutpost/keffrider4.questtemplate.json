@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "恭喜你，开路骑士！你的开路机车现在已经准备好在任何时候被您召唤，快去尽情兜风吧，我的朋友！",
       "Eng": "Congratulations, Keffrider! Your Keff is now ready to be summoned at any time, so go and ride, my friend!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "那扇^orange;座乘跳跃门^white;可以把你的开路机车从船上的货舱运到战场,但如果你不能远程控制它，它就没用了。用^green;我给你的^orange;阿威坎发射器^green;为自己做个^orange;跳跃门控制器^white;，之后骑上自己的开路机车驰骋吧！",
       "Eng": "That ^orange;Vehicle Jumpgate^white; can transport your Keff from your ship's cargo hold to the field, but it's useless if you can't remotely control it. ^green;Build yourself a ^orange;Jumpgate Controller^green; using the ^orange;Avikan Transmitter^green; I gave you^white;, and you'll be ready to ride your very own Keff!"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;开路骑士IV",
       "Eng": "^green;Keffrider IV"
     }
   }
