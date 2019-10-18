@@ -70,7 +70,7 @@
       ]
     },
     "Texts": {
-      "Chs": "用功勋代币交换，战机军团终端允许你招募战机船员。",
+      "Chs": "用勋绩代币交换，战机军团终端允许你招募战机船员。",
       "Eng": "In exchange for Tokens of Merit, the Droden Legion Terminal allows you to recruit Droden crewmembers."
     }
   },
@@ -202,7 +202,7 @@
       ]
     },
     "Texts": {
-      "Chs": "这位游牧民供应商允许您使用功勋代币来购买各种材料。",
+      "Chs": "这位游牧民供应商允许您使用勋绩代币来购买各种材料。",
       "Eng": "This vendor of the Nomada Token Exchange allows you to purchase a variety of materials using Tokens of Merit."
     }
   },
@@ -214,7 +214,7 @@
       ]
     },
     "Texts": {
-      "Chs": "这位游牧民供应商允许您使用各种材料来换取功勋代币。",
+      "Chs": "这位游牧民供应商允许您使用各种材料来换取勋绩代币。",
       "Eng": "This vendor of the Nomada Token Exchange allows you to trade leftover materials in exchange for Tokens of Merit."
     }
   },
