@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "一本描绘著名的断钢圣剑系列盾刃的书。",
+      "Chs": "著名的断钢圣剑级盾刃的简介。",
       "Eng": "A description of the famous Excalibur-class shieldblades."
     }
   },
@@ -19,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "因为其稀有和不可预测性，埃癸技术很少使用湖仙碎片，但埃维尔军备却能够利用特殊工艺制造的齿轮来使用这种碎片。碎片被放置在武器的中心，在那里，它的能量可以最好地分配到整把盾刃的剑身。在剑柄处的一个直观的压力传感器允许使用者激活武器两种模式之一: 进攻或防御。",
+      "Chs": "由于其稀有性和不可预测性，埃癸人技术很少使用湖仙碎片（Xanafian），但是埃维里军备（Aeviri Armaments）能够使用此类碎片制作出出色的装备。 碎片放置在武器的中心，可以在武器的整长上最佳地布散能量。 武器握柄中的直观压力传感器令使用者可以激活武器的两种模式之一：“进攻”或“防御”。",
       "Eng": "Aeginian technology rarely utilizes Xanafian Shards due to their rarity and unpredictability, but Aeviri Armaments was able to craft exceptional gear using such shards. The shard was set in the center of the weapon, where its energy could be best distributed across the weapon's length. An intuitive pressure sensor in the weapon's grip allowed the user to activate one of two modes on the weapon: Offence or Defence."
     }
   },
@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "断钢圣剑系列盾刃",
+      "Chs": "断钢圣剑级盾刃",
       "Eng": "Excalibur-class Shieldblades"
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "在进攻模式下，湖仙碎片会在刀刃上投射一层能量，赋予它一层奇怪而明亮的光芒，这种光芒有助于剑刃撕裂任何斩击到的分子。在防御模式下，能量将被投射到整个武器的剑身上，增强其防御能力。每当能量护罩被击中时，它就会释放出一股能量，这股能量会破坏并回击击中其的任何物体。",
+      "Chs": "在进攻模式下，湖仙碎片会在锋刃上投射一层能量，赋予它奇异而明亮的辉光，这将有力撕裂任何被该武器所击中的分子。 在防御模式下，能量将投射在武器的整体长度上，从而增强其防御能力。 每次充能状态的护盾被击中，它都会释放出一股能量，破坏并击退任何落于其上的物质。",
       "Eng": "In Offence Mode, the Xanafian Shard would project a layer of energy over the blade, granting it a strange, bright glow that would help tear apart the molecules of whatever the weapon would strike. In Defence Mode, the energy would be projected across the length of the weapon, enhancing its defensive capabilities. Every time the energized shield was struck, it would release a burst of energy that damages and knocks back whatever landed the blow."
     }
   },
@@ -55,7 +55,7 @@
       ]
     },
     "Texts": {
-      "Chs": "只有很少断钢圣剑系列盾刃被铸造，而所有的这些盾刃最初都是授予泰美拉家族成员的(其成员最为出名的事迹是在的多次被选为埃癸圆桌联盟的主席)。随着时间的推移，这些武器也被传给了其他人，现在，它们成了收藏家们非常抢手的收藏品。",
+      "Chs": "只有少量的断钢圣剑级盾刃被制造出来，而且最初都是授予泰梅拉（Taemera）家族成员的（他们的成员以多次当选埃癸人邦联盟约总统而闻名）。 随着时间的流逝，这些武器也已经转手给其他人，如今，它们已成为备受追捧的收藏品。",
       "Eng": "Only few Excalibur-class shieldblades were built, and all were originally granted to members of the Taemera family (whose members are best known for having been elected as President of the Aeginian Federal Union on many occasions). Over time, the weapons have been passed on to other people as well, and nowadays, they are a highly sought-after collector's item."
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^orange;断钢圣剑系列盾刃^reset;\n\n断钢圣剑系列盾刃——也称为传承之刃——由现已不存在的埃维尔军备设计和构建。它们是特殊制造的盾刃,使用的手工制顶级合金刀片轻巧但极具弹性。然而，他们拥有的属性却是为他们提供动力的湖仙碎片提供。",
+      "Chs": "^orange;-断钢圣剑级盾刃-^reset;\n\n断钢圣剑级盾刃是一系列盾刃-也称为埃维斯（Aevis）-由现已停产的埃维里军备（Aeviri Armaments）设计和制造。 它们是特殊制造的防护刃具，使用最高品质的异型钢手工锻制而成，重量轻但韧性极强。 他们的主要特征是为他们提供动力的湖仙碎片(Xanafian Shard)。",
       "Eng": "^orange;Excalibur-class Shieldblades^reset;\n\nThe Excalibur-class shieldblades are a group of shieldblades - also known as Aevis - designed and built by the now-defunct Aeviri Armaments. They were shieldblades of exceptional make, hand-crafted using the highest-quality allosteel for a lightweight yet extremely resilient blade. Their defining feature, however, was the Xanafian Shard that powered them."
     }
   }
