@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我就知道你能完成任务！给你，我答应给你的装甲和蓝图！",
       "Eng": "I knew you'd get the job done! Here you are, the armour and blueprints I promised you!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你看起来像个机甲控！ 我有一些埃内斯机甲的蓝图你可能会喜欢，但我不能就这样免费送出去... 如果你可以在^green;外太空^white;给我找个^orange;回收纳米容器^white;，我会给你蓝图和一些装甲！",
       "Eng": "You look like a mech enthusiast! I've got some Enerth mech blueprints you might like, but I can't just give them away for free... If you can ^green;find me a ^orange;Salvaged Nano Receptable ^white;while you're ^green;out in space^white;, I'll give you the blueprints and some armour to boot!"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;联盟机甲部件",
       "Eng": "^green;Alliance Mech Parts"
     }
   }

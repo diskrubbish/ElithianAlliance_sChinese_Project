@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "阿育林是站点的武器制造商。他售卖武器蓝图，协助星际战士制造武器。",
       "Eng": "Ayurin is the local weaponsmith. He sells weapon blueprints and assists Starfarers in crafting weapons."
     }
   },
@@ -33,6 +34,7 @@
       ]
     },
     "Texts": {
+      "Chs": "阿周那",
       "Eng": "Azana"
     }
   },
@@ -44,6 +46,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在星辰旅馆的酒吧你可以买到饮料和食物。",
       "Eng": "Drinks and food can be purchased from the bar at the Starsight Inn."
     }
   },
@@ -55,6 +58,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我是阿周那，安那可系统公司创建的虚拟向导。我为新手和老手提供有关远星的信息。",
       "Eng": "I am Azana, a Virtual Guide created by Anakhar Systems. I provide newcomers and veterans alike with information about the Starfarer's Refuge."
     }
   },
@@ -66,6 +70,7 @@
       ]
     },
     "Texts": {
+      "Chs": "用功勋代币交换，战机军团终端允许你招募战机船员。",
       "Eng": "In exchange for Tokens of Merit, the Droden Legion Terminal allows you to recruit Droden crewmembers."
     }
   },
@@ -77,6 +82,7 @@
       ]
     },
     "Texts": {
+      "Chs": "看起来你已经采取了主动的姿态去探索远星避难所。",
       "Eng": "It appears that you have taken the initiative to explore the Starfarer's Refuge yourself."
     }
   },
@@ -88,6 +94,7 @@
       ]
     },
     "Texts": {
+      "Chs": "扎克尔销售阿威坎游牧民认可的座乘和座乘零部件。",
       "Eng": "Jahkar sells Nomada-certified vehicles and vehicle components."
     }
   },
@@ -99,6 +106,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;远星庇护所^reset;的^orange;阿周那^reset;处",
       "Eng": "Return to ^orange;Azana^reset; in the ^orange;Starfarer's Refuge^reset;"
     }
   },
@@ -110,6 +118,7 @@
       ]
     },
     "Texts": {
+      "Chs": "扫描仪是个伟大的发现工具。",
       "Eng": "Scanning is a great tool for discovery."
     }
   },
@@ -121,6 +130,7 @@
       ]
     },
     "Texts": {
+      "Chs": "感谢您使用安那可系统虚拟向导。我希望我今天能向你提供有用的信息。仅此而已。",
       "Eng": "Thank you for using this Anakhar Systems Virtual Guide. I hope to have provided you with useful information today. Vas Vha'leih."
     }
   },
@@ -132,6 +142,7 @@
       ]
     },
     "Texts": {
+      "Chs": "远星庇护所的介绍到此结束。当你准备好接受小小的奖励时，请^green;回到我这里^white;。",
       "Eng": "That concludes the tour of the Starfarer's Refuge. Please, ^green;return to me^white; when you're ready for a small reward."
     }
   },
@@ -143,6 +154,7 @@
       ]
     },
     "Texts": {
+      "Chs": "游牧者商店提供个性化的传送装置。这里还有一个公共使用的传送器。",
       "Eng": "The Nomada Translocator Store offers personalized teleportation devices. It also features a teleporter for public use."
     }
   },
@@ -154,6 +166,7 @@
       ]
     },
     "Texts": {
+      "Chs": "远星庇护所",
       "Eng": "The Starfarer's Refuge"
     }
   },
@@ -165,6 +178,7 @@
       ]
     },
     "Texts": {
+      "Chs": "远星庇护所提供许多服务。除了服务这里还有更多的事物等着被发现。",
       "Eng": "The Starfarer's Refuge offers many services. There is still more to be found."
     }
   },
@@ -176,6 +190,7 @@
       ]
     },
     "Texts": {
+      "Chs": "守望者的办公室就在这些安全控制台后面。这些办公室只对该组织的成员开放。",
       "Eng": "The offices of the Watchers are found behind these security consoles. The offices are only accessible to members of the organization."
     }
   },
@@ -187,6 +202,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这位游牧民供应商允许您使用功勋代币来购买各种材料。",
       "Eng": "This vendor of the Nomada Token Exchange allows you to purchase a variety of materials using Tokens of Merit."
     }
   },
@@ -198,6 +214,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这位游牧民供应商允许您使用各种材料来换取功勋代币。",
       "Eng": "This vendor of the Nomada Token Exchange allows you to trade leftover materials in exchange for Tokens of Merit."
     }
   },
@@ -209,6 +226,7 @@
       ]
     },
     "Texts": {
+      "Chs": "瓦利安提供座乘回收和修复服务。",
       "Eng": "Valyan offers vehicle reparation and restoration services."
     }
   },
@@ -220,6 +238,7 @@
       ]
     },
     "Texts": {
+      "Chs": "欢迎来到远星庇护所，新来者！我是^orange;阿周那^white;，你的虚拟向导。请花点时间熟悉一下在^orange;远星庇护所^white;提供的多种服务。^green;扫描感兴趣的区域，我会向你转达有关服务的信息。",
       "Eng": "Welcome to the Starfarer's Refuge, new arrival! I am ^orange;Azana^white;, your virtual guide. Please take the time to familiarize yourself with the many services offered in the ^orange;Starfarer's Refuge^white;. ^green;Scan areas of interest, and I will relay you information about the services provided there."
     }
   },
@@ -231,6 +250,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;扫描物件^reset;以了解更多有关于^orange;远星庇护所^reset;的信息",
       "Eng": "^green;Scan objects^reset; to learn more about the ^orange;Starfarer's Refuge^reset;"
     }
   }

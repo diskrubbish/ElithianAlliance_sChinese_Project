@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;远星庇护所^reset;的^orange;扎义德^reset;处",
       "Eng": "Return to ^orange;Zaheed ^reset;in the ^orange;Starfarer's Refuge^reset;"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "前卫队急于研究和复制你从大地守护团那里获取的物质枪，但他们需要一些材料。^green;我指派你去检索^orange;20个物质枪模块^green;以便前卫队可以开始复制这个装置。^reset;当然，你也会因此得到奖励。",
       "Eng": "The Vanguard are eager to study and replicate the Matter Manipulator you retrieved from the Protectorate, but they need some materials. ^green;I'm assigning you with retrieving ^orange;20 Manipulator Modules ^green;so that the Vanguard can start replicating the device. ^reset;You'll be rewarded for it too, of course."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "干得好，船长。我会让我的守望者把这些带到前卫队去。与此同时，他们为你自己的物质操纵器制造了一个新的外壳——一个更适合游牧民船长的外壳。好好享受吧，船长。",
       "Eng": "Well done, Captain. I will have my Watchers bring these to the Vanguard. In the mean time, they built you a new casing for your own Matter Manipulator - one more befitting of a Captain of the Nomada. Enjoy it, Captain."
     }
   }

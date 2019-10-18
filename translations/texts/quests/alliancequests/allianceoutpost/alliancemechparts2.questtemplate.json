@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我刚收到一批新的机甲武器蓝图！你可以同时拥有两者的副本^green;如果你能给我从green;突变星球^reset;上找到一些^orange;活洁液^reset;，就你可以同时拥有所有武器蓝图的副本。收集^orange;50单位的量^green;就足够了^reset;. 阿基马里人用它来为他们的科技提供动力——我想看看我是否用这玩意本身来设计一些定制武器！",
       "Eng": "I just received a new batch of mech weapon blueprints! You can have a copy of both, ^green;if you can find me some of that weird ^orange;Vaash liquid ^reset;reportedly found on ^green;mutated planets^reset;. ^orange;50 Units ^green;should be enough^reset;. The Akkimari use it to power their tech - I want to see if I can design some custom weapons with it myself!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你是最棒的，谢谢！来，拿着我答应过你的蓝图——它们应该很适合你！",
       "Eng": "You are just the best, thank you! Here, take the blueprints I promised you - they should serve you well!"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;裂空爆破",
       "Eng": "^green;Blasting through Space"
     }
   }
