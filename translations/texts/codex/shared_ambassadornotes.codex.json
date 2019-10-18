@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大使的日志",
       "Eng": "Ambassador's Log"
     }
   },
@@ -24,6 +25,7 @@
       ]
     },
     "Texts": {
+      "Chs": "您目前为止的工作记录",
       "Eng": "Your notes on your current assignment."
     }
   }
