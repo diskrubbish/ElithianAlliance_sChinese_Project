@@ -92,7 +92,7 @@
       ]
     },
     "Texts": {
-      "Chs": "您确定 你 不是 Miniknog 吗？",
+      "Chs": "您确定 *你 *不是 *米尼克诺格 吗？",
       "Eng": "Are you sure YOU aren't Miniknog?"
     }
   },
@@ -296,7 +296,7 @@
       ]
     },
     "Texts": {
-      "Chs": "舰长，您有什么有趣的传说要讲吗？",
+      "Chs": "长官，您有什么有趣的传说要讲吗？",
       "Eng": "Do you have any interesting tales to tell, Captain?"
     }
   },
@@ -596,7 +596,7 @@
       ]
     },
     "Texts": {
-      "Chs": "嗯？ 喔，对不起舰长！ 我没注意到您在那儿。",
+      "Chs": "嗯？ 喔，对不起长官！ 我没注意到您在那儿。",
       "Eng": "Hmm? Oh, sorry Captain! I hadn't noticed you there."
     }
   },
@@ -756,7 +756,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "希望您遵守基本法。 朋友。 否则我们之间可能会产生摩擦。",
       "Eng": "I hope you're respecting the Avikan Common Law, friend. Otherwise we might have a problem."
     }
   },
@@ -768,7 +768,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我可能认识一些想应征成为您船员的人。",
       "Eng": "I might know some people who'd like to enlist for your crew."
     }
   },
@@ -781,7 +781,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我可能会容忍你的种族，但这并不意味着我有多喜欢你。",
       "Eng": "I might tolerate your kind, but that doesn't mean I like you."
     }
   },
@@ -793,7 +793,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我想念卡达文...",
       "Eng": "I miss Kadavan..."
     }
   },
@@ -805,7 +805,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我在你进来的路上看到了你的太空飞船。她看起来有些怪。",
       "Eng": "I saw your spaceship on your way in. It looked a bit odd."
     }
   },
@@ -817,7 +817,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我看到你获得了平民身份。 真是令人印象深刻。",
       "Eng": "I see you have gained civilian status. Impressive."
     }
   },
@@ -837,7 +837,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我好像远远看到有什么人在那些小行星上……",
       "Eng": "I thought I saw someone on those asteroids in the distance..."
     }
   },
@@ -849,7 +849,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我认为你的种族有翼...曾经。",
       "Eng": "I thought your kind had wings."
     }
   },
@@ -861,7 +861,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我祈愿我也能成为像您一样的舰长...",
       "Eng": "I wish I could be a captain like you..."
     }
   },
@@ -873,7 +873,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我希望我能像您一样踏上冒险之途，长官。",
       "Eng": "I wish I could go on adventures like you, Captain."
     }
   },
@@ -885,7 +885,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我希望我能去到瓦哈拉斯·安德拉'威赫…哪一天…",
       "Eng": "I wish I could go to Vhalas Andra'veih one day..."
     }
   },
@@ -897,7 +897,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "下一次我深入地下时，真想有你在一起。",
       "Eng": "I'd like to have you with me next time I delve underground."
     }
   },
@@ -909,7 +909,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "令我震撼的是您竟喙说我们的语言。",
       "Eng": "I'm impressed that you can speak our language with that beak of yours."
     }
   },
@@ -921,7 +921,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我注意你很久了，机器。",
       "Eng": "I'm keeping my eye on you, machine."
     }
   },
@@ -934,7 +934,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我对机器谈不上喜欢。",
       "Eng": "I'm not fond of machines."
     }
   },
@@ -947,7 +947,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我没在和机器讲话。",
       "Eng": "I'm not talking to a machine."
     }
   },
@@ -959,7 +959,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我确信您若愿意必将可以成为一位森天拉尔。",
       "Eng": "I'm sure you could become a Centlar if you wanted to."
     }
   },
@@ -971,7 +971,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我很惊讶你站在这里耐得住这股热量。 许多外星人觉得它难以忍受。",
       "Eng": "I'm surprised you can stand the heat here. Many aliens find it unbearable."
     }
   },
@@ -983,7 +983,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我告诉您，评议会马上就要找到瓦哈拉斯·安德拉'威赫啦！",
       "Eng": "I'm telling you, the Council is close to finding Vhalas Andra'veih!"
     }
   },
@@ -995,7 +995,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我听说你的种族可能会对陌生人充满敌意。",
       "Eng": "I've heard your kind can be quite hostile to strangers."
     }
   },
@@ -1007,7 +1007,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "吾闻尔族喜好神秘。 汝当追寻古者之迹。",
       "Eng": "I've heard your kind likes mysteries. You should investigate the Old Ones."
     }
   },
@@ -1019,7 +1019,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我以前从未见过谁身上有这么多毛发。",
       "Eng": "I've never seen someone with that much hair before."
     }
   },
@@ -1031,7 +1031,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "若非日海狄斯肯许战机以自由，我想你不会立于此处。",
       "Eng": "If Rhadeis didn't agree to Droden being free, I suppose you wouldn't have been here."
     }
   },
@@ -1051,7 +1051,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "如果您有一些富余的材料，可以在传送器商店旁边用它们来交换代币。",
       "Eng": "If you have some leftover materials, you can trade them for tokens next to the teleporter shop."
     }
   },
@@ -1063,7 +1063,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你的种族真的是肉食的吗？ 我更倾向于相信你是肉的食。",
       "Eng": "Is your kind really carnivorous? I'd be more inclined to believe you are the ones being eaten."
     }
   },
@@ -1075,7 +1075,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "机器人也是人，但请别告诉其他人我说过这些。",
       "Eng": "Machine people are people too, but don't tell anyone here I said that."
     }
   },
@@ -1088,7 +1088,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "机器。",
       "Eng": "Machine."
     }
   },
@@ -1100,7 +1100,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我的开赴者需要维修。 你不会刚巧是一台维修架构吧？是吧？",
       "Eng": "My Keff needs repairs. You wouldn't happen to be a repair-frame, would you?"
     }
   },
@@ -1112,7 +1112,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "需要什么吗？长官？",
       "Eng": "Need anything, Captain?"
     }
   },
@@ -1124,7 +1124,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "需要什么吗？",
       "Eng": "Need anything?"
     }
   },
@@ -1136,7 +1136,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "别他妈戳了，菜逼。",
       "Eng": "No stabbing here, plant."
     }
   },
@@ -1148,7 +1148,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "惟于舰艏是遵，诺玛达万岁！",
       "Eng": "Nothing but respect for a captain of the Fleet. Hail the Nomada!"
     }
   },
@@ -1168,7 +1168,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "奥丁因·阿斯-日海狄斯是你在这里可以找到的最好的武器供应商。",
       "Eng": "Odyin as-Rhadeis is the best weapons vendor you'll find here."
     }
   },
@@ -1181,7 +1181,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "奥丁因·阿斯-日海狄斯提供武器，但我不知道他愿意为你这家伙提供些什么。",
       "Eng": "Odyin as-Rhadeis offers weapons, but I'm not sure what he'll be willing to offer you."
     }
   },
@@ -1194,7 +1194,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "也许您可以在材料兑换中卖身。",
       "Eng": "Perhaps you could trade in yourself at the material exchange."
     }
   },
@@ -1206,7 +1206,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "日海狄斯指引汝途，舰长。",
       "Eng": "Rhadeis supports you, Captain."
     }
   },
@@ -1218,7 +1218,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "那么，你真的是个AI喽？俺寻思能更可怕点呢。",
       "Eng": "So, you're an actual AI? I thought you'd be scarier."
     }
   },
@@ -1230,7 +1230,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "缺心眼的机器，滚开。",
       "Eng": "Soulless machine. Get out of here."
     }
   },
@@ -1242,7 +1242,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "诺玛达应该更多重用像您这样的人。",
       "Eng": "The Nomada could use more people like you."
     }
   },
@@ -1255,7 +1255,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "远星庇护所欢迎所有人，甚至机器。",
       "Eng": "The Starfarer's Refuge welcomes all, even machines."
     }
   },
@@ -1268,7 +1268,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "监理人在看着你。",
       "Eng": "The Watchers are watching you."
     }
   },
@@ -1280,7 +1280,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "监理人们也许可以吸收一些像您这样的人。",
       "Eng": "The Watchers could use someone like you."
     }
   },
@@ -1292,7 +1292,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "评议会觉得你值得拥有自己的舰船？好吧，若是他们相信你有这个能力，那我也会有的。",
       "Eng": "The council deemed you worthy of your own ship? Well, if they believe you capable, then so will I."
     }
   },
@@ -1304,7 +1304,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "扮演舰队机长的角色要承担很多责任。 您确定可以应付吗？",
       "Eng": "The role of Fleet captain comes with a great many responsibilities. Are you certain you can handle them?"
     }
   },
@@ -1324,7 +1324,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "远星庇护所里有一家传送器商店，你去过吗？",
       "Eng": "There's a teleporter shop here in the Starfarer's Refuge. Have you been there yet?"
     }
   },
@@ -1337,7 +1337,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "附近有个传送商店，可以给你用。",
       "Eng": "There's a teleporter shop near here. Use it."
     }
   },
@@ -1349,7 +1349,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "这里没有米尼克诺格，如果您非得知道的话。",
       "Eng": "There's no Miniknog here, if you were wondering."
     }
   },
@@ -1361,7 +1361,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "您的羽毛看起来有点像我们的襟翼。",
       "Eng": "Those feathers of yours look a bit like our flaps."
     }
   },
@@ -1374,7 +1374,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "伏尔炎·阿斯-纳达塔维修载具。 兴许他也可以修理修理你。",
       "Eng": "Valyan as-Nadata repairs vehicles. Maybe he can repair you too."
     }
   },
@@ -1386,7 +1386,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "圣城万荣，水之造物。",
       "Eng": "Vas Vha'leih, creature of the water."
     }
   },
@@ -1398,7 +1398,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "圣城万荣。",
       "Eng": "Vas Vha'leih."
     }
   },
@@ -1410,7 +1410,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "等一下，你有自己的舰船吗？ 那简直是梦想成真！",
       "Eng": "Wait, you have your own ship? That must be a dream come true!"
     }
   },
@@ -1422,7 +1422,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "等等，你的主人许你自由了？",
       "Eng": "Wait, your owner set you free?"
     }
   },
@@ -1434,7 +1434,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "欢迎来到远星庇护所！长官！",
       "Eng": "Welcome to the Starfarer's Refuge, Captain!"
     }
   },
@@ -1446,7 +1446,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "欢迎来到远星庇护所，舰长。",
       "Eng": "Welcome to the Starfarer's Refuge, Captain."
     }
   },
@@ -1458,7 +1458,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "欢迎来远星庇护所，战机.",
       "Eng": "Welcome to the Starfarer's Refuge, Droden."
     }
   },
@@ -1470,7 +1470,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "欢迎来到远星庇护所，旅星者。",
       "Eng": "Welcome to the Starfarer's Refuge, Starfarer."
     }
   },
@@ -1488,7 +1488,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "欢迎来到远星庇护所，陌生人！",
       "Eng": "Welcome to the Starfarer's Refuge, stranger!"
     }
   },
@@ -1500,7 +1500,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "讲真，你是什么做成的？",
       "Eng": "What are you made of, exactly?"
     }
   },
@@ -1512,7 +1512,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你属于哪类构造？战斗？维修？",
       "Eng": "What kind of frame are you? Combat? Repairs?."
     }
   },
@@ -1524,7 +1524,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你属于哪一类物种呢？",
       "Eng": "What sort of creature might you be?"
     }
   },
@@ -1536,7 +1536,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你来自哪里？ 哦，对，你一定忘记了。",
       "Eng": "Where did you come from? Oh, right, you must have forgotten."
     }
   },
@@ -1549,7 +1549,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "谁造的你？",
       "Eng": "Who built you?"
     }
   },
@@ -1568,7 +1568,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "为什么不去赏星客栈喝一杯呢？",
       "Eng": "Why don't you go and get a drink at the Starsight Inn?"
     }
   },
@@ -1581,7 +1581,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你怎么不从我身边走开，去远处那些小行星上坐坐呢？",
       "Eng": "Why don't you leave me and go sit on those asteroids in the distance instead?"
     }
   },
@@ -1593,7 +1593,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "哈？",
       "Eng": "Yeah?"
     }
   },
@@ -1605,7 +1605,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "嗯？",
       "Eng": "Yes?"
     }
   },
@@ -1617,7 +1617,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你们战机是个生而为死的种族。",
       "Eng": "You Droden are a dying race."
     }
   },
@@ -1629,7 +1629,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你们战机只适合从事简单劳力。",
       "Eng": "You Droden are only good for doing menial labour."
     }
   },
@@ -1641,7 +1641,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你是机器们力所能及的榜样。",
       "Eng": "You are an example of what machines can be."
     }
   },
@@ -1653,7 +1653,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你都没有任何耳瓣吗？",
       "Eng": "You don't have any flaps?"
     }
   },
@@ -1666,7 +1666,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你没有灵魂，铁皮怪。",
       "Eng": "You have no soul, machine."
     }
   },
@@ -1678,7 +1678,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你看起来稍有那么一些像个埃癸人",
       "Eng": "You look a bit like an Aegi."
     }
   },
@@ -1690,7 +1690,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "像你这些的机器们只会把事情弄得更糟。",
       "Eng": "You machines only ever make things worse."
     }
   },
@@ -1702,7 +1702,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "您绝对在旅途中见识过许多有趣的人吧！",
       "Eng": "You must meet a lot of interesting people on your journeys."
     }
   },
@@ -1714,7 +1714,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "看来你倒是有些被称为猎人的资格。",
       "Eng": "You seem like a capable hunter."
     }
   },
@@ -1726,7 +1726,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "您看起来像是音乐型的人才。 为我唱一首歌，好吗？",
       "Eng": "You seem the musical type. Sing me a song, will you?"
     }
   },
@@ -1738,7 +1738,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "想你自己有个灵魂？想不出的。",
       "Eng": "You think you have a soul? You thought wrong."
     }
   },
@@ -1750,7 +1750,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "捉迷藏的话大概你两边都不在行。",
       "Eng": "You won't be any good at hide and seek."
     }
   },
@@ -1762,7 +1762,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "舰长，您将非常适合就任探求者。",
       "Eng": "You'd be a great fit for the Seekers, Captain."
     }
   },
@@ -1775,7 +1775,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "在这儿你不会找到太多朋友的。",
       "Eng": "You'll find few friends here."
     }
   },
@@ -1787,7 +1787,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "我不会施舍你怜悯。",
       "Eng": "You'll get no love from me."
     }
   },
@@ -1799,7 +1799,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "有点味儿啊你...",
       "Eng": "You're a bit smelly..."
     }
   },
@@ -1811,7 +1811,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你是不是和塞尔拜把子了？",
       "Eng": "You're in league with the Thell, aren't you?"
     }
   },
@@ -1823,7 +1823,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你不是埃癸人吧？",
       "Eng": "You're no Aegi, are you?"
     }
   },
@@ -1835,7 +1835,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "充其量你就是个会走的废料块。",
       "Eng": "You're nothing more than a walking scrap bag."
     }
   },
@@ -1847,7 +1847,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "眼睛好小...",
       "Eng": "Your eyes are so small..."
     }
   },
@@ -1859,7 +1859,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "好吧，至少你的脑袋还能当个不错的战利品。",
       "Eng": "Your head would make for a fine trophy."
     }
   },
@@ -1871,7 +1871,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "尔族所制之矛令人印象至深。",
       "Eng": "Your kind makes rather impressive spears."
     }
   },
@@ -1883,7 +1883,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你全身的皮肤都又湿又滑！",
       "Eng": "Your skin is all wet!"
     }
   },
@@ -1895,7 +1895,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "何，何等柔软的肌肤！",
       "Eng": "Your skin is so soft!"
     }
   }
