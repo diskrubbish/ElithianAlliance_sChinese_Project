@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "克里昂真是个迷人的城市！",
       "Eng": "Creon is a fascinating city."
     }
   },
@@ -19,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "别进下水道,你很容易在那里面晕头转向。",
       "Eng": "Do not go into the sewers. You can easily get lost in there."
     }
   },
@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你明白生命的意义吗？",
       "Eng": "Do you know the meaning of life?"
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "您常来这里吗？舰长？",
       "Eng": "Do you visit here often?"
     }
   },
@@ -55,7 +55,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你好，旅行者。",
       "Eng": "Greetings, traveler."
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "你好。",
       "Eng": "Greetings."
     }
   },
@@ -79,7 +79,7 @@
       ]
     },
     "Texts": {
-      "Chs": "",
+      "Chs": "您去过特林克人的大使馆吗？",
       "Eng": "Have you been to the Trinkian embassy yet?"
     }
   },
@@ -91,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "去过招募办公室吗？ 在那儿你能轻松找到更多雇员。",
       "Eng": "Have you been to the recruitment office yet? You can easily find more crewmembers there."
     }
   },
@@ -102,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大使馆的最高层你去没去过？ 那里有一扇锁着的门，我好想知道它的背后是什么。",
       "Eng": "Have you been to the top level of the embassy? There's a locked door there. I wonder what's behind it?"
     }
   },
@@ -113,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "您去过联盟建立的其中一个殖民地吗？ 对它印象如何？",
       "Eng": "Have you ever been to one of the Union colonies? What was it like?"
     }
   },
@@ -124,6 +127,7 @@
       ]
     },
     "Texts": {
+      "Chs": "试过搭便车没？ 那可甚是有趣。",
       "Eng": "Have you ever tried hitchhiking? It's great fun."
     }
   },
@@ -135,6 +139,7 @@
       ]
     },
     "Texts": {
+      "Chs": "哈啊...？哦！你好呀！",
       "Eng": "Huh? Oh, hi there!"
     }
   },
@@ -146,6 +151,7 @@
       ]
     },
     "Texts": {
+      "Chs": "草，我车呢？！ 希望咱不会像上次那样给它忘在屋顶上……",
       "Eng": "I forgot where I parked my hovercar again. Hope I didn't leave it on a roof like last time..."
     }
   },
@@ -157,6 +163,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我曾狠狠挨了某匹凯尔贝特一记头槌，那小可怜把自己伤得不轻。",
       "Eng": "I got head-butted by one of the Kelbet once. Poor thing hurt itself quite badly."
     }
   },
@@ -168,6 +175,7 @@
       ]
     },
     "Texts": {
+      "Chs": "爷有张能进入使馆地下靶场的绿卡。 不，你别想拿到它，别想。",
       "Eng": "I have a pass to enter the embassy gun range. No, you can't have it."
     }
   },
@@ -179,6 +187,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我听闻有些可怖的事降临在了地球上...",
       "Eng": "I heard something awful happened to Earth."
     }
   },
@@ -190,6 +199,7 @@
       ]
     },
     "Texts": {
+      "Chs": "最近我听到小镇的下水井里发出了些奇怪的噪音。 也许我该把这事报告给P-ASA ...",
       "Eng": "I heard strange noises in the sewers below the town. Maybe I should report them to P-ASA..."
     }
   },
@@ -201,6 +211,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我听说他们有计划进一步扩大使馆。 我很好奇，接下来还会添加什么。",
       "Eng": "I heard there are plans to expand the embassy even further. I am curious to see what will be added next."
     }
   },
@@ -212,6 +223,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我听别人说下水道里有个特林克，名叫“螺栓”。 这事儿听起来有点假。",
       "Eng": "I heard there's a Trink in the sewers by the name of 'the Bolter'. Sounds sketchy."
     }
   },
@@ -223,6 +235,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我帮助设计了使馆的能源电网。它可是非常有效。",
       "Eng": "I helped design the embassy's power grid. It is very efficient."
     }
   },
@@ -234,6 +247,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我就在这里搭个便车。",
       "Eng": "I hitchhiked my way here."
     }
   },
@@ -245,6 +259,7 @@
       ]
     },
     "Texts": {
+      "Chs": "希望大使馆里的那些阿威坎们不是来这里猎杀机器人的...",
       "Eng": "I hope that Avikan in the embassy isn't here to hunt down machines..."
     }
   },
@@ -256,6 +271,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我在某个地方落了钥匙。 也许还是去趟失物招领处比较有用。",
       "Eng": "I lost my keys somewhere. Perhaps the lost and found booth can help me."
     }
   },
@@ -267,6 +283,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我喜欢看到夜晚的城市灯光亮起来。",
       "Eng": "I love seeing the city lights turn on at night."
     }
   },
@@ -278,6 +295,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我喜爱那些使馆观景池里的鱼。",
       "Eng": "I love the fish in the embassy's pools."
     }
   },
@@ -289,6 +307,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我爱以利提亚的那些星球模型。 它们令我感到渺小。",
       "Eng": "I love those globes of Elithia. Makes me feel small."
     }
   },
@@ -300,6 +319,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我最近刚毕业！",
       "Eng": "I recently graduated!"
     }
   },
@@ -311,6 +331,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我看到有些士兵在使馆塔楼上。 有些担忧他们为什么会在那里？",
       "Eng": "I saw soldiers way up in the embassy tower. I wonder why they're there?"
     }
   },
@@ -322,6 +343,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我见过塔顶的那箱子。 不知里面会有些什么？",
       "Eng": "I saw this chest way up on the tower. I wonder what's in it?"
     }
   },
@@ -333,6 +355,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我在大使馆里见过这个怪异的外星人，我猜是个阿基马里人，一想就让我浑身难受。",
       "Eng": "I saw this strange alien in the embassy, an Akkimari I think. Made me feel uneasy."
     }
   },
@@ -344,6 +367,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我觉得我在城镇附近的那些悬崖之上看到了某些东西。",
       "Eng": "I think I saw something up on those cliffs near the town."
     }
   },
@@ -355,6 +379,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我试驾过一次安怡突击舰，不怎么适合我开。",
       "Eng": "I tried to enter an Aventor Galliot once. I didn't quite fit."
     }
   },
@@ -366,6 +391,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我曾是个和你一样的旅行者，但我已经厌了。",
       "Eng": "I used to be a traveler like you, but I got bored of that life."
     }
   },
@@ -377,6 +403,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我想要一只转基犬。",
       "Eng": "I want a Trangii."
     }
   },
@@ -388,6 +415,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我想回家打电动啊。",
       "Eng": "I want to go home and play some games."
     }
   },
@@ -400,6 +428,7 @@
       ]
     },
     "Texts": {
+      "Chs": "好想有一天能去西西旅行哪。",
       "Eng": "I want to visit Scii some day."
     }
   },
@@ -411,6 +440,7 @@
       ]
     },
     "Texts": {
+      "Chs": "总有一天我会去拜访那些殖民地的。",
       "Eng": "I want to visit the colonies one day."
     }
   },
@@ -422,6 +452,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我希望能住进大城市。",
       "Eng": "I wish I lived in the big city."
     }
   },
@@ -433,6 +464,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我多希望我也是大使啊。 我将要去的地方会是...",
       "Eng": "I wish I was an ambassador too. The places I'd get to visit..."
     }
   },
@@ -444,6 +476,7 @@
       ]
     },
     "Texts": {
+      "Chs": "不知道远处的那座塔究竟有多高？",
       "Eng": "I wonder how high that tower in the distance really is?"
     }
   },
@@ -455,6 +488,7 @@
       ]
     },
     "Texts": {
+      "Chs": "那些下水道为啥禁止入内？",
       "Eng": "I wonder why the sewers are off-limits?"
     }
   },
@@ -466,6 +500,7 @@
       ]
     },
     "Texts": {
+      "Chs": "咱真心为使馆里有这么多卫生间而感到庆幸。",
       "Eng": "I'm glad the embassy has plenty of public toilets."
     }
   },
@@ -477,6 +512,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我曾经在城镇下面的窨井里呆过。 那里稍微有点吓人。",
       "Eng": "I've been inside the sewers beneath the town once. It's kinda scary in there."
     }
   },
@@ -488,6 +524,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我在那座大城市里有房子。 您实际上都能从这儿看到它。",
       "Eng": "I've got a home in the big city. You can actually see it from here."
     }
   },
@@ -499,6 +536,7 @@
       ]
     },
     "Texts": {
+      "Chs": "天啊！我听说过你！ 您就是<entityname>, 对吧？",
       "Eng": "I've heard of you! You are <entityname>, right?"
     }
   },
@@ -510,6 +548,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我在这里见过一些怪人。 可把我吓坏了。",
       "Eng": "I've seen some weird people here. I was kinda freaked out."
     }
   },
@@ -521,6 +560,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这是您第一次来访以利提亚吗？",
       "Eng": "Is this your first time visiting Elithia?"
     }
   },
@@ -532,6 +572,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这个地方不是很好吗？ 它拥有一切我需要的东西！",
       "Eng": "Isn't this place great? It's got everything I'd ever need!"
     }
   },
@@ -543,6 +584,7 @@
       ]
     },
     "Texts": {
+      "Chs": "欣赏着树木在埃癸建筑群的顶部茁壮生长，可真是令人着迷。 这是对空间的非常有效的利用。",
       "Eng": "It is fascinating to see the trees growing on top of Aeginian buildings. It's a very efficient use of space."
     }
   },
@@ -554,6 +596,7 @@
       ]
     },
     "Texts": {
+      "Chs": "很高兴看到，同志们更加依赖公共线路而不是个人交通。 这样效率很高。",
       "Eng": "It is good to see that the Aegi rely more on public transportation than personal transportation. It's quite efficient."
     }
   },
@@ -565,6 +608,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在这里能看到如此多的野生动物真是特别。 他们并不怎么害怕我们。",
       "Eng": "It is odd to see so much wildlife here. They are not exactly afraid of us."
     }
   },
@@ -576,6 +620,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使馆的许多灯光只在晚上打开。 我很欣赏这套系统的效能。",
       "Eng": "Many of the embassy's lights only turn on at night. I like the efficiency of the system."
     }
   },
@@ -587,6 +632,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我表弟前几天换了台新的安怡突击舰（Aventor Galliot）。 说实话我有点酸。",
       "Eng": "My cousin got a new Aventor Galliot the other day. I'm a bit jealous."
     }
   },
@@ -598,6 +644,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我的花粉症又犯了。",
       "Eng": "My hayfever is acting up again."
     }
   },
@@ -609,6 +656,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我的宠物转基犬应该就在这附近某处吧。",
       "Eng": "My pet Trangii should be around here somewhere."
     }
   },
@@ -620,6 +668,7 @@
       ]
     },
     "Texts": {
+      "Chs": "早些时候那些转基犬中的一只凶了我，它可能不喜欢我。",
       "Eng": "One of those Trangii barked at me earlier. I don't think it likes me."
     }
   },
@@ -631,6 +680,7 @@
       ]
     },
     "Texts": {
+      "Chs": "看着远处的都市总能令我感到开心。",
       "Eng": "Seeing the city in the distance always makes me feel happy."
     }
   },
@@ -642,6 +692,7 @@
       ]
     },
     "Texts": {
+      "Chs": "埃癸人同志们都是·热狍·（Hötbrod）的铁粉，但我真的get不到点。",
       "Eng": "The Aegi are big fans of Hötbrod, but I don't really get the fascination."
     }
   },
@@ -653,6 +704,7 @@
       ]
     },
     "Texts": {
+      "Chs": "克里昂大使馆的确有些好东西，对吧？ 这是一个很棒的打卡地。",
       "Eng": "The Creon Embassy is really something, huh? It's such a great place to visit."
     }
   },
@@ -664,6 +716,7 @@
       ]
     },
     "Texts": {
+      "Chs": "克里昂大使馆是如此一座宏伟的建筑。",
       "Eng": "The Creon Embassy is such a large building."
     }
   },
@@ -675,6 +728,7 @@
       ]
     },
     "Texts": {
+      "Chs": "克里昂使馆也许不是最大的使馆，但它却位列最好的使馆之中。",
       "Eng": "The Creon Embassy may not be the largest embassy, but it is one of the best."
     }
   },
@@ -686,6 +740,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这里的凯尔贝特们真是娴雅。",
       "Eng": "The Kelbet here are so peaceful."
     }
   },
@@ -697,6 +752,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这里的P-ASA干员们非常警惕。",
       "Eng": "The P-ASA officers here are very vigilant."
     }
   },
@@ -708,6 +764,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使馆的横幅真是太酷了。 能使所有人都感到彼此相连。",
       "Eng": "The banners in the embassy are so cool. Makes us all feel connected."
     }
   },
@@ -719,6 +776,7 @@
       ]
     },
     "Texts": {
+      "Chs": "镇上的书店虽小，但真的很赞。",
       "Eng": "The bookstore in town is small, but pretty good."
     }
   },
@@ -730,6 +788,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这里的气候真的舒服。 连雨都还算不错。",
       "Eng": "The climate here is really comfortable. Even the rain isn't too bad."
     }
   },
@@ -741,6 +800,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大使馆的电梯运转效率很高。",
       "Eng": "The elevators in the embassy run very efficiently."
     }
   },
@@ -752,6 +812,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使馆内部实际备有枪支测试场。 您需要特殊的通行证才能访问它。",
       "Eng": "The embassy actually has a gun range. You need a special pass to access it though."
     }
   },
@@ -763,6 +824,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大使馆总是会提供与盟军星网的卓越连接。",
       "Eng": "The embassy always offers exceptional connection to the Allied Interstellar Network."
     }
   },
@@ -774,6 +836,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这里的花园真漂亮。",
       "Eng": "The gardens here are so pretty."
     }
   },
@@ -785,6 +848,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使馆接待处的那位女士帮助我良多。",
       "Eng": "The lady at the embassy's reception desk was actually quite helpful to me."
     }
   },
@@ -796,6 +860,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这里的这座公园令人难以置信地安静平和。",
       "Eng": "The parks here are incredibly peaceful."
     }
   },
@@ -807,6 +872,7 @@
       ]
     },
     "Texts": {
+      "Chs": "该镇上有一些很不错的商店，但大多数于我都没什么用。",
       "Eng": "The town has some good shops in it, but most of it isn't very relevant to me."
     }
   },
@@ -818,6 +884,7 @@
       ]
     },
     "Texts": {
+      "Chs": "该镇的正式官方名称为使馆村。 它实际上不是克里昂的一部分，但恰好就在它的边缘。",
       "Eng": "The town is officially called the Embassy Village. It's not actually part of Creon, but it's right on the edge."
     }
   },
@@ -829,6 +896,7 @@
       ]
     },
     "Texts": {
+      "Chs": "镇上的汽车经销店有一些很棒的载具可供出售。",
       "Eng": "The vehicle dealership in the town has some great rides for sale."
     }
   },
@@ -840,6 +908,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使馆机库中有很多特林克工程师。 很高兴在这里看到更多我的同类。",
       "Eng": "There are many Trinkian engineers in the embassy hangars. It's good to see more of my kind here."
     }
   },
@@ -851,6 +920,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大使馆更高的楼层里有一位联邦上将。 我还没有获得与他交流的许可。",
       "Eng": "There is a Union Admiral in the embassy's upper levels. I haven't been allowed to speak to him yet."
     }
   },
@@ -862,6 +932,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使馆机库里有个技工可以修理损坏的载具。",
       "Eng": "There's a mechanic in the embassy's hangars who fixes up broken vehicles."
     }
   },
@@ -873,6 +944,7 @@
       ]
     },
     "Texts": {
+      "Chs": "镇上有一家商店出售海报。 我想要NSI的海报，但是有点贵。",
       "Eng": "There's a shop in the town that sells posters. I wanted the NSI poster, but it's kinda expensive."
     }
   },
@@ -884,6 +956,7 @@
       ]
     },
     "Texts": {
+      "Chs": "镇上有一家很棒的礼品店。",
       "Eng": "There's an awesome gift shop in the town."
     }
   },
@@ -895,6 +968,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这里有各“种”各样的人。",
       "Eng": "There's people of all kinds of species here."
     }
   },
@@ -906,6 +980,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使馆里有那么多的电梯！",
       "Eng": "There's so many elevators in the embassy."
     }
   },
@@ -917,6 +992,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使馆的机库里有一些极好的特林克工程师和机械师。",
       "Eng": "There's some great Trinkian engineers and mechanics in the embassy's hangar."
     }
   },
@@ -928,6 +1004,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大使馆里有那样一位阿威坎友人，我期望他们什么时候也能加入同盟。",
       "Eng": "There's this one Avikan fellow in the embassy. I hope they join the Alliance at some point, too."
     }
   },
@@ -939,6 +1016,7 @@
       ]
     },
     "Texts": {
+      "Chs": "该使馆是以利提亚同盟的一个极佳的代表象征。",
       "Eng": "This embassy is a good representation of the Elithian Alliance."
     }
   },
@@ -950,6 +1028,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这个地方很迷人。",
       "Eng": "This place is quite fascinating."
     }
   },
@@ -961,6 +1040,7 @@
       ]
     },
     "Texts": {
+      "Chs": "想去喝一杯吗？",
       "Eng": "Wanna go grab a drink?"
     }
   },
@@ -972,6 +1052,7 @@
       ]
     },
     "Texts": {
+      "Chs": "想和我一起去看看·热狍·小摊吗？",
       "Eng": "Want to come with me and visit the Hötbrod stand?"
     }
   },
@@ -983,6 +1064,7 @@
       ]
     },
     "Texts": {
+      "Chs": "舒缓地看着远处悬浮车辆川流不息是如此抚慰人心。",
       "Eng": "Watching the hovercars in the distance is so soothing."
     }
   },
@@ -994,6 +1076,7 @@
       ]
     },
     "Texts": {
+      "Chs": "哟，今个又是什么风儿把您给吹来大使馆了？",
       "Eng": "What brings you to the embassy today?"
     }
   },
@@ -1005,6 +1088,7 @@
       ]
     },
     "Texts": {
+      "Chs": "您一定去过许多壮丽难言，令人震撼的地方吧。",
       "Eng": "You must have seen some incredible places."
     }
   }
