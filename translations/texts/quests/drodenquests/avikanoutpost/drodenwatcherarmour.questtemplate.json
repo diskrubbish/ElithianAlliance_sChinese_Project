@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "侦察战机单位注册在守望者名下。日志显示最近与扎希德指挥官的交流。守望者盔甲已收到。^green;这个单位可以以^orange;阿威坎装备的守望者盔甲^green;交易^orange;守望者主题战机替换部件。^reset;全套收集之后返回交付。",
+      "Chs": "侦察战机单位注册在监理人名下。日志显示最近与扎希德指挥官的交流。监理人盔甲已收到。^green;这个单位可以以^orange;阿威坎装备的监理人盔甲^green;交易^orange;监理人主题战机替换部件。^reset;全套收集之后返回交付。",
       "Eng": "Detected Droden unit registered to the Watchers. Logs indicate recent interaction with Commander Zaheed. Watcher armour received. ^green;This unit can trade ^orange;Avikan-fitted Watcher armour ^green;for ^orange;Watcher-themed Droden part replacements.^reset; Return with full set to complete trade."
     }
   },
@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "交易接受。提交守望者主题的战机零件替代品。结束谈话。",
+      "Chs": "交易接受。提交监理人主题的战机零件替代品。结束谈话。",
       "Eng": "Trade accepted. Handing over Watcher-themed Droden part replacements. Ending conversation."
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^green;守望者战机",
+      "Chs": "^green;监理人战机",
       "Eng": "^green;Droden of the Watchers"
     }
   }
