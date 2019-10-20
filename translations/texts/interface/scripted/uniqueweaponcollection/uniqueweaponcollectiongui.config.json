@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": " 找回那些独有的装备",
       "Eng": " Reclaim lost Unique equipment"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": " 特殊装备重铸",
       "Eng": " Unique Equipment Reforger"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "|需要远古精华|",
       "Eng": "REQUIRED ESSENCE"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "找回",
       "Eng": "Reclaim"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "您的收藏中还没有特殊装备！",
       "Eng": "You don't have Unique Equipment in your Collections!"
     }
   }

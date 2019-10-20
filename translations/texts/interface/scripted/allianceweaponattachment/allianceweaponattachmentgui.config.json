@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": " 定制专属武器！",
       "Eng": " Customize your weapons!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": " 武器配件台",
       "Eng": " Weapon Attachment Bench"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "改造",
       "Eng": "Assemble"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "改装或拆卸武器配件",
       "Eng": "Assemble or dismantle a weapon"
     }
   }

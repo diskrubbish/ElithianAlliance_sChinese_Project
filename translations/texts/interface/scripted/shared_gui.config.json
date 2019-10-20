@@ -13,6 +13,7 @@
       ]
     },
     "Texts": {
+      "Chs": "0 / --",
       "Eng": "0 / --"
     }
   },
@@ -27,6 +28,7 @@
       ]
     },
     "Texts": {
+      "Chs": "20/20",
       "Eng": "20/20"
     }
   },
@@ -44,6 +46,7 @@
       ]
     },
     "Texts": {
+      "Chs": "取消",
       "Eng": "Cancel"
     }
   },
@@ -58,6 +61,7 @@
       ]
     },
     "Texts": {
+      "Chs": "拆解",
       "Eng": "Dismantle"
     }
   },
@@ -72,6 +76,7 @@
       ]
     },
     "Texts": {
+      "Chs": "确保船员名额未满。 恕我无力退款！",
       "Eng": "Make sure your crew isn't full. No refunds possible!"
     }
   },
@@ -94,6 +99,7 @@
       ]
     },
     "Texts": {
+      "Chs": "招收",
       "Eng": "Recruit"
     }
   }

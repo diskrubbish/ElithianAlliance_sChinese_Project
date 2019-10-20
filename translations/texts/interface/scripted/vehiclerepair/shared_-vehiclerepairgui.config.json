@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": " 在这修理你的载具！",
       "Eng": " Repair your vehicles here!"
     }
   },
@@ -24,6 +25,7 @@
       ]
     },
     "Texts": {
+      "Chs": "|需要芯片|",
       "Eng": "REQUIRED CHIPS"
     }
   },
@@ -38,6 +40,7 @@
       ]
     },
     "Texts": {
+      "Chs": "修复",
       "Eng": "Repair"
     }
   },
@@ -52,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你可没有什么要修的东西！",
       "Eng": "You don't have any vehicles to repair!"
     }
   }
