@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "联盟的一个前哨最近遭到了一群阿基马里人的袭击。 我们需要有人传送到这个星球去^green;平息领头的^orange;阿基马里义贼团^white;。作为奖励，^green;你可以进入克里昂大使馆的射击场^white;。",
+      "Chs": "联邦的一个前哨最近遭到了一群阿基马里人的袭击。 我们需要有人传送到这个星球去^green;平息领头的^orange;阿基马里义贼团^white;。作为奖励，^green;你可以进入克里昂大使馆的射击场^white;。",
       "Eng": "A Union outpost was recently attacked by a pack of Akkimari. We need someone to beam down to the planet and ^green;put an end to the ^orange;Akkimari Justicar ^green;that leads the pack^white;. As a reward, ^green;you will earn yourself access to the Creon Embassy's shooting range^white;."
     }
   },
@@ -55,7 +55,7 @@
       ]
     },
     "Texts": {
-      "Chs": "与^orange;穆曼^reset;交谈以传送到^orange;联盟空间站^reset;",
+      "Chs": "与^orange;穆曼^reset;交谈以传送到^orange;联邦前哨站^reset;",
       "Eng": "Talk to ^orange;Mumam^reset; to warp down to the ^orange;Union outpost^reset;"
     }
   },

@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": " 联盟招募中心",
       "Eng": " Alliance Recruitment Desk"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": " 从泛联盟雇职中招聘船员",
       "Eng": " Recruit crewmembers from the Alliance"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "联盟船员合同",
       "Eng": "Alliance Crew Contract"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "使用合同招募联盟船员",
       "Eng": "Use contracts to recruit Alliance crewmembers"
     }
   }
