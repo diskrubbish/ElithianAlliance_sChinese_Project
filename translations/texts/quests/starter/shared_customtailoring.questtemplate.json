@@ -16,6 +16,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我想要一套守护团制服的请求已经得到了回应，我的新制服应该在我的更衣柜里等着我。",
       "Eng": "My request for a custom Protectorate uniform has been answered, and my new uniform should be waiting for me in my locker."
     }
   },
@@ -36,6 +37,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这件比标准制服要合身得多。最好别弄丢了——它真的是独一无二的。",
       "Eng": "This'll fit far better than the standard uniform. Better not lose it - it's truly one of a kind."
     }
   },
@@ -59,6 +61,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;定制裁衣",
       "Eng": "^green;Custom Tailoring"
     }
   }

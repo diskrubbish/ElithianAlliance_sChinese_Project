@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "哦吼吼，落地节快乐！我，呃...碰到了一个小问题: 有人偷走了一些节日大厅游客的礼物！你愿意帮我^green;找回它们吗^reset;? 总共有 ^orange;十个大的紫色礼物s ^green;，散落在^orange;节日大厅^reset;和^orange;克里昂大使馆！^reset;",
       "Eng": "Hohoho, happy Landing Festival! I, err... have run into a small problem: someone has stolen some of the presents meant for visitors of the Festival Hall! Would you be a dear and ^green;recover them for me^reset;? There are ^orange;ten large, purple presents ^green;in total, scattered across the ^orange;Festival Hall ^green;and the ^orange;Creon Embassy^reset;!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;节日大厅^reset;的^orange;探路老人^reset;处",
       "Eng": "Return to ^orange;the Pathfinder ^reset;in the ^orange;Festival Hall^reset;"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你做得很好！我会确保这些礼物得到公平的分配。这是给你的礼物，谢谢你帮我给别人带来了一个快乐的落地节！",
       "Eng": "You have done well! I will make sure that these presents are distributed fairly. Here's a present for you, as thanks for helping me bring others a happy Landing Festival!"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;遗失的礼物",
       "Eng": "^green;The Lost Presents"
     }
   }

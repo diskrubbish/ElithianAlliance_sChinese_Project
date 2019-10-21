@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你好啊！我正在研究一种可以随时释放冷冻气体的原型装备，但我需要更多的研究材料。这里的冰很好，但我需要更强力的东西：^orange;冷冻提取物^reset;。你看起来像个冒险家：^green;你能帮我找一些吗^reset;？如果你做到的话，这件装备就属于你了！",
       "Eng": "Hi there! I'm working on a prototype piece of armour that emits a freezing gas at all times, but I need some more materials for my research. The ice here is good, but I need something stronger: ^orange;Cryonic Extract^reset;. You look like an adventurer: ^green;could you find some for me^reset;? You'll get to keep the armour if you do!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;节日大厅^reset;的^orange;塞拉^reset;处",
       "Eng": "Return to ^orange;Sera ^reset;in the ^orange;Festival Hall^reset;"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "太好了，这正是我所需要的！有了这么多的冷冻提取物，冷冻气体应该足以冷冻几乎任何东西！带上这件装备，一定要试一试。我想你会喜欢的！",
       "Eng": "Wonderful, this is just what I needed! With this much cryonic extract, the freezing gas should be potent enough to freeze almost anything! Take the armour with you, and make sure to give it a try. I think you'll like it!"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "冬之拥抱",
       "Eng": "^green;The Embrace of Winter"
     }
   }

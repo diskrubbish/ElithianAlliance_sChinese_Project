@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我爱雪！当你试用这个武器的时候你也会喜欢雪的。在雪中玩得开心！",
       "Eng": "I love snow! You'll love snow too when you try out this weapon. Have fun in the snow!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我喜欢雪。你不喜欢雪吗？下雪真是太好了。你想打雪仗吗？还有冰块？我有个武器给你。^green;如果你给我雪，^orange;超级多的雪^green;，我会给你这个武器^reset;.。快去给我拿点雪来！",
       "Eng": "I love snow. Don't you love snow? Snow is great. Do you want to shoot snow? And ice? I have a weapon for you. ^green;If you give me snow, ^orange;LOTS of snow^green;, I'll give you this weapon^reset;. Just bring me more snow!"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;节日大厅^reset;的^orange;雪ROM^reset;处",
       "Eng": "Return to ^orange;SnowROM ^reset;in the ^orange;Festival Hall^reset;"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;雪愿众生",
       "Eng": "^green;Snow for Everyone"
     }
   }
