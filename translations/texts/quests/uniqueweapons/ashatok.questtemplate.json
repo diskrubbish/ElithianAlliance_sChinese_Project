@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "恰恰拉印象深刻！仲裁者难以击倒，容器是一个不错的奖品。恰恰拉可以用它制造武器，但是要付钱。",
       "Eng": "Chacharra impressed! Justicar difficult to take down, container a good prize. Chacharra can make weapon from it, for price."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "找到位于^orange;克里昂大使馆^reset;的^orange;恰恰拉^reset;",
       "Eng": "Find ^orange;Chacharra ^reset;in the ^orange;Creon Embassy^reset;"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+    "Chs": "我发现了一个大容器，里面装满了活洁酸，以前应该是一架仲裁者用来驱动武器用的。^green;我应该找一个精通活洁武器的阿基马里人^white;——也许他们可以用这个容器给我做个新武器。",
       "Eng": "I found a large container full of Vaash acid, previously used by a Justicar to power its weapons. ^green;I should find an Akkimari who knows their way around Vaash weapons ^white;- perhaps they can fashion a new weapon for me using this container."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;酸性军备",
       "Eng": "^orange;Acidic Warfare"
     }
   }

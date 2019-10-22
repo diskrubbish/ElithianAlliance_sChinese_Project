@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "恰恰拉快乐，有所有阿基需要。给你：你的武器。多用它，百战百胜。",
       "Eng": "Chacharra happy, have all Akki need. Here you go: weapon for you. Use it much, fights you win."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "恰恰拉需要材料。大量材料。大量像素也需要支付。^green;给恰恰拉找^orange;12块硬化废金属^green;和^orange;30000像素^green;。^white;然后恰恰拉会为你制造武器。",
       "Eng": "Chacharra need materials. Many materials. Many pixels, too, want payment. ^green;Find Chacharra ^orange;12 Hardened Scrap Metal ^green;and ^orange;30000 Pixels^green;. ^white;Then Chacharra will make weapon for you."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;酸性军备II",
       "Eng": "^orange;Acidic Warfare II"
     }
   }

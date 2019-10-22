@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "啊，所以阿达科派你来的？很高兴再次收到他的来信，我也很乐意在这个项目上帮助你。",
       "Eng": "Ah, so Adako sent you? It's good to hear from him again, and I'd be glad to help you with this project."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "防护罩基本完成了，但是我无法修复电源。 我有个朋友也许知道怎么修，但他周游^orange;联盟使馆^reset;去了。^green;找到他，把防护罩给他^reset;，他应该能帮你完成防护罩。",
       "Eng": "The shield is pretty much done, but I couldn't fix the power supply. I have a friend who might know how to fix it, but he went off to visit some ^orange;alien embassy^reset;. ^green;Find him and bring him the shield^reset;, and he should be able to help you finish the shield."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;盾蔽之眼III" ,
       "Eng": "^orange;A Shielded Eye III"
     }
   }

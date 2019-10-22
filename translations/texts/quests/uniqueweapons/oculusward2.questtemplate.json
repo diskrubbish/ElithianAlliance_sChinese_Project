@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "给你，船长。这个防护罩运行的很好！",
       "Eng": "Here you go, Captain. This shield is starting to come together quite well!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "防护罩发生器仍然处于原始状态，但是所有的连接都被烧坏了，而且没有电源供给防护罩。^green;找来^orange;8部分天人科技^green;和^orange;16块天人金属^reset;，之后我应该能为发生器做一个功能外壳。",
       "Eng": "The shield generator is still in pristine condition, but all of the connections were fried, and there's no power source for the shield. ^green;Find me ^orange;8 pieces of Centensian Tech^green; and ^orange;16 pieces of Centensian Metal^reset;, and I should be able to build a functional casing for the generator."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;盾蔽之眼II" ,
       "Eng": "^orange;A Shielded Eye II"
     }
   }

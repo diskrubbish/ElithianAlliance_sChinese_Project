@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我从天人之眼的残骸中找到了一台防护罩发生器。它看起来还能用，但是所有的连接都烧坏了...^green;也许某个研究天人技术的人可以帮我修好它。^reset;",
       "Eng": "I recovered a shield generator from an Oculus's wreckage. It still looks functional, but all of the connections have been fried... ^green;Perhaps someone who studies Centensian technology can repair it for me.^reset;"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这是来自天人之眼的一处部件吗？难以置信！我想我可能知道怎么让它重新运行起来。",
       "Eng": "Is this a part from a Ce'Tennan Oculus? Incredible! I think I might know how to get it operational again."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;盾蔽之眼" ,
       "Eng": "^orange;A Shielded Eye"
     }
   }

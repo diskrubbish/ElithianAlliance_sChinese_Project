@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "找到位于^orange;克里昂大使馆^reset;的^orange;法兹^reset;",
       "Eng": "Find ^orange;Faze ^reset;in the ^orange;Creon Embassy^reset;"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我发现了一张武器蓝图的碎片。^green;我应该找到其他的碎片，把它们带到克里昂大使馆的军火商那里^white;——他们会知道怎么看完整的蓝图。",
       "Eng": "I found a fragment of a weapon blueprint. ^green;I should find the other pieces and bring them to a weapons dealer in the Creon Embassy ^white;- they'll know how to read the completed blueprint."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你找到了张完美的蓝图！在这里，让我拼凑起来，并把它翻译成一些你可以在工具站制造的东西。我想你会对结果感到满意的！",
       "Eng": "You found quite the blueprint! Here, let me combine it all and translate it into something you can use at a crafting station. I think you'll be happy with the results!"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;精益装配",
       "Eng": "^orange;Excelsior Assembly"
     }
   }

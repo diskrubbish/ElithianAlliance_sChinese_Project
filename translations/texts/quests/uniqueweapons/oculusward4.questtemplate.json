@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "给你，船长！一个功能齐全的天人防护罩，随时可以进行测试。只是要小心不要耗尽你的能量储备，否则你将在一段时间内毫无防备...",
       "Eng": "Here you go, Captain! One fully functional Centensian shield, ready to be put to the test. Just be careful not to exhaust your energy reserves, or you'll be left defenseless for some time..."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "能源供应的修复很棘手，但如果我把它连接到你的太空服的能量储备，我应该能够让发生装置再次运行。",
       "Eng": "The power supply is tricky to fix, but if I link it to your suit's energy reserves, I should be able to get the generator running again. ^green;You will have to find ^orange;50 units of Centensian Liquid^reset;: that will help me link up your suit to the shield generator."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;盾蔽之眼IV" ,
       "Eng": "^orange;A Shielded Eye IV"
     }
   }
