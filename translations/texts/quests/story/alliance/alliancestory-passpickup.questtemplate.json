@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "一处新的大使馆最近在克里昂附近开办了，我想邀请你和我一起去那里。",
       "Eng": "A new embassy was recently opened near Creon, and I'd like to invite you to join me there."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "啊，很高兴再次收到你的回讯，大使！",
       "Eng": "Ah, it is good to hear from you again, ambassador!"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "任何你在太空中发现的联盟飞船都应该装备一个传送器，可以把你带到克里昂大使馆。",
       "Eng": "Any Alliance vessels you find out in space should be equipped with a teleporter that can bring you to the Creon Embassy."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在位于^orange;克里昂大使馆^reset;的^orange;戴蕾德^reset;处登记",
       "Eng": "Check in with ^orange;Dayleid ^reset;in the ^orange;Creon Embassy^reset;"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "快来克里昂看看吧，大使。我会等你的。",
       "Eng": "Come visit Creon soon, ambassador. I'll be waiting for you."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "给您，大使先生。专属于您的^orange;大大使通行证^reset;: 它将允许您^green;访问在克里昂大使馆最顶层^reset;的^orange;指挥中心reset;。",
       "Eng": "Here you are, ambassador. Your very own ^orange;Ambassador's Pass^reset;: it'll allow you to ^green;visit the ^orange;Command Center ^green;at the very top of the Creon Embassy^reset;."
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我收到了来自^orange;莱茵将军^reset;的信息，当时你正在外面探险。 ^green;如果你有时间的话，我现在就可以把它接通给你。^reset;",
       "Eng": "I have received a transmission from ^orange;Admiral Lyiin ^reset;while you were out exploring. ^green;I can patch it through to you now, if you have time.^reset;"
     }
   },
@@ -84,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "接听^orange;莱茵将军^reset;的通讯",
       "Eng": "Listen to ^orange;Admiral Lyiin^reset;'s transmission"
     }
   },
@@ -95,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "等你到了那里，你需要进入大使馆的上层，向大使馆大厅的秘书处报到。秘书会给你^orange;大使通行证^reset; 。",
       "Eng": "Once you're there, report to the secretary desk in the Embassy's lobby. The secretary will give you your ^orange;Ambassador's Pass^reset;, which you'll need to access the Embassy's upper levels."
     }
   },
@@ -106,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "返回以利提亚联盟",
       "Eng": "Return to the Elithian Alliance"
     }
   }

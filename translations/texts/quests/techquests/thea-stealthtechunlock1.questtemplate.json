@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "恰恰拉有项科技，有项有用的隐形科技。你可以拥有这项科技，代价是...^green;给恰恰拉带^orange;5颗钻石^reset;，然后恰恰拉会为你展示^orange;隐形技术^reset;的测试。",
       "Eng": "Chacharra has tech, useful tech to go invisible. You can have tech, for price... ^green;Bring Chacharra ^orange;5 Diamonds^reset;, then Chacharra show you test course for ^orange;Stealth Tech^reset;."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你让恰恰拉快乐，快乐阿基帮助你！^orange;隐形技术^reset;现在完全是你的了...",
       "Eng": "You make Chacharra happy, happy Akki help you! ^orange;Stealth Tech ^reset;almost yours now..."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;恰恰拉的隐形技术I",
       "Eng": "^orange;Chacharra's Stealth Tech I"
     }
   }

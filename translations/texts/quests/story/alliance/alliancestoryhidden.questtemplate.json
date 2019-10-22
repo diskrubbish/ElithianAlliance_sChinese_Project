@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "联盟故事线 - 前置程序",
       "Eng": "Alliance Story - Initial Setup"
     }
   },
@@ -19,6 +20,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这个任务是联盟故事情节的先决条件。你不应该在你的日志中看到这个。",
       "Eng": "This quest acts as a prerequisite to the Alliance storyline. You shouldn't be able to see this in your log."
     }
   }

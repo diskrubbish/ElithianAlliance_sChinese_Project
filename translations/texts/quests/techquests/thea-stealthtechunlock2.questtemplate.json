@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "在你学习科技之前，恰恰拉要确保你知道科技是如何工作的。^green;去完成^green;恰恰拉做的^reset;^orange;测试路径^reset;，之后^orange;隐形科技^reset;就永远是你的了！",
       "Eng": "Before you get tech, Chacharra make sure you know how tech works. ^green;Go to ^orange;testing course ^green;Chacharra made^reset;, then ^orange;Stealth Tech ^reset;yours forever!"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "恰恰拉印象深刻，你很熟练！你拿好^orange;隐形科技^reset;，用它去偷袭其他的敌人...",
       "Eng": "Chacharra impressed, you skilled! You keep ^orange;Stealth Tech^reset;, use to sneak past many enemies..."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "完成^orange;隐形科技测试路径^reset;",
       "Eng": "Complete the ^orange;Stealth Tech testing course^reset;"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "与^orange;恰恰拉^reset;交谈以进入^orange;测试路径^reset;",
       "Eng": "Talk to ^orange;Chacharra^reset; to enter the ^orange;testing course^reset;"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;恰恰拉的隐形技术II",
       "Eng": "^orange;Chacharra's Stealth Tech II"
     }
   }

@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "一雏机数据存储设备。它目前是空的。",
       "Eng": "A Trinkian data storage device. It is currently empty."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#BA66FF;回路数据设备^white;",
       "Eng": "^#BA66FF;Circuit Data Drive^white;"
     }
   }
