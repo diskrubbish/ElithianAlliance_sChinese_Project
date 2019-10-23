@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "击败^orange;土匪头目^reset;",
       "Eng": "Defeat the ^orange;Bandit Leader^reset;"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我遇到了一些小偷，他们抢劫了我的补给...我设法追踪小偷到他们的藏身之处，但我自己不能前往。你能帮帮我吗？ ^green;打败他们的^orange;头目^reset;，之后我会奖励你一个我最新的^orange;原型武器^reset;！",
       "Eng": "I've been having issues with thieves intercepting my supplies... I managed to track the thieves to their hideout, but I can't go in there myself. Could you help me out? ^green;Take out their ^orange;leader^reset;, and I'll reward you with one of my latest ^orange;prototype weapons^reset;!"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;远星庇护所^reset;的^orange;阿尤连^reset;处",
       "Eng": "Return to ^orange;Ayurin^reset; in the ^orange;Starfarer's Refuge^reset;"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "与^orange;阿尤连^reset;交谈以传送到^orange;盗贼藏身处^reset;",
       "Eng": "Talk to ^orange;Ayurin^reset; to warp down to the ^orange;thieves' hideout^reset;"
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "圣城万荣，我的朋友友！你今天帮了我一个大忙。这是我向你们保证过的武器原型:  我把它称作^orange;阿尤连之怒^reset;！",
       "Eng": "Vas Vha'leih, my friend! You've done me a great service today. Here's the prototype weapon I promised you: I call it ^orange;Ayurin's Wrath^reset;!"
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;阿尤连的补给",
       "Eng": "^orange;Ayurin's Supplies"
     }
   }

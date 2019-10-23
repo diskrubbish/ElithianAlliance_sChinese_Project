@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "修理这个工具并不太难，但是我们需要的材料可能很难得到。^green;找来^orange;12部分天人科技^green;和^orange;12块天人金属^reset;，我想就我修好外壳。",
       "Eng": "Repairing this tool isn't too hard, but the materials we need may be difficult to obtain. ^green;Find me ^orange;12 pieces of Centensian Tech^green; and ^orange;12 pieces of Centensian Metal^reset;, and I think I can repair the casing."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "干得好，船长。我现在就开始修理工具的外壳。",
       "Eng": "Well done, Captain. I'll get to repairing the tool casing now."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;远古利器II",
       "Eng": "^orange;Tools of the Ancients II"
     }
   }

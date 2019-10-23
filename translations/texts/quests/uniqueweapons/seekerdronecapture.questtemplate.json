@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我正在为探求者做关于天人无人机的研究，我需要一些帮助。你能^green;帮我捕捉一架^orange;天人之眼^green;和一架^orange;天人护卫^reset;吗？我只需要数据，所以你可以自己留着这些无人机！作为交易我会给你一些新开发的^orange;武器原型^reset;。",
       "Eng": "I'm doing research on Ce'Tennan drones for the Seekers, and I could use some help. Can you ^green;capture a ^orange;Ce'Tennan Oculus ^green;and a ^orange;Ce'Tennan Keeper ^reset;for me? I only need the data, so you can keep the drones yourself! I'll give you some newly developed ^orange;prototype weapons ^reset;in exchange."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "圣城万荣，我的朋友。你从这些无人机上收集的数据对守卫者的研究有着极大的帮助。我把这些原型武器作为感谢！我相信你旅行时会发现它们很有用。",
       "Eng": "Vas Vha'leih, my friend. The data you collected off of those drones will help the Keepers' research immensely. Take these prototype weapons as thanks! I'm sure you'll find them useful on your travels."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;探求者研究计划",
       "Eng": "^orange;The Seekers' Research Project"
     }
   }
