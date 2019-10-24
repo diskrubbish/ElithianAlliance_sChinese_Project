@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "充能射击伤害:",
       "Eng": "Charged Shot Damage:"
     }
   },
@@ -24,6 +25,7 @@
       ]
     },
     "Texts": {
+      "Chs": "常规射击伤害:",
       "Eng": "Regular Shot Damage:"
     }
   }

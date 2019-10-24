@@ -40,6 +40,7 @@
       ]
     },
     "Texts": {
+      "Chs": "再装填",
       "Eng": "Reload"
     }
   },
@@ -84,6 +85,7 @@
       ]
     },
     "Texts": {
+      "Chs": "特殊功能:",
       "Eng": "Special:"
     }
   }

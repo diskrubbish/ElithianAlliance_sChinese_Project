@@ -22,6 +22,7 @@
       ]
     },
     "Texts": {
+      "Chs": "最高射速:",
       "Eng": "Maximum Rate of Fire:"
     }
   },
@@ -48,6 +49,7 @@
       ]
     },
     "Texts": {
+      "Chs": "初射速:",
       "Eng": "Minimum Rate of Fire:"
     }
   }

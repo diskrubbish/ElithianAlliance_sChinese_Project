@@ -13,6 +13,7 @@
       ]
     },
     "Texts": {
+      "Chs": "轰击伤害:",
       "Eng": "Damage Per Burst:"
     }
   },
@@ -30,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "轰击耗能:",
       "Eng": "Energy Per Burst:"
     }
   },
@@ -47,6 +49,7 @@
       ]
     },
     "Texts": {
+      "Chs": "爆发轮数:",
       "Eng": "Rounds Per Burst:"
     }
   }

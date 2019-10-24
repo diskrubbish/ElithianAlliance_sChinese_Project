@@ -13,6 +13,7 @@
       ]
     },
     "Texts": {
+      "Chs": "从怪物那里收获肉类和其他资源。",
       "Eng": "Harvests meat and other goods from monsters."
     }
   },
@@ -96,6 +97,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我是个错误！请举报我！",
       "Eng": "I am a bug. Please report me!"
     }
   },
@@ -188,6 +190,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^gray;级别^reset;",
       "Eng": "^gray;lvl^reset;"
     }
   }

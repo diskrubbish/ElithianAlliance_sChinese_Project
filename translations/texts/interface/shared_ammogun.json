@@ -46,6 +46,7 @@
       ]
     },
     "Texts": {
+      "Chs": "弹匣规格:",
       "Eng": "Magazine Size:"
     }
   },
@@ -96,6 +97,7 @@
       ]
     },
     "Texts": {
+      "Chs": "重装时间:",
       "Eng": "Reload Time:"
     }
   }

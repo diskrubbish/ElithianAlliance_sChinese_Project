@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^gray;等级^reset;",
       "Eng": "^gray;level^reset;"
     }
   }

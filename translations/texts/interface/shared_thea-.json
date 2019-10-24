@@ -16,6 +16,7 @@
       ]
     },
     "Texts": {
+      "Chs": "冷却时间:",
       "Eng": "Cooldown Time:"
     }
   },
@@ -72,6 +73,7 @@
       ]
     },
     "Texts": {
+      "Chs": "每秒伤害:",
       "Eng": "Damage Per Second:"
     }
   },
@@ -218,6 +220,7 @@
       ]
     },
     "Texts": {
+      "Chs": "每击伤害:",
       "Eng": "Damage Per Shot:"
     }
   },
@@ -256,6 +259,7 @@
       ]
     },
     "Texts": {
+      "Chs": "挥击伤害:",
       "Eng": "Damage Per Swing:"
     }
   },
@@ -300,6 +304,7 @@
       ]
     },
     "Texts": {
+      "Chs": "牵引时间:",
       "Eng": "Draw Time:"
     }
   },
@@ -344,6 +349,7 @@
       ]
     },
     "Texts": {
+      "Chs": "每秒耗能:",
       "Eng": "Energy Per Second:"
     }
   },
@@ -487,6 +493,7 @@
       ]
     },
     "Texts": {
+      "Chs": "每击耗能:",
       "Eng": "Energy Per Shot:"
     }
   },
@@ -531,6 +538,7 @@
       ]
     },
     "Texts": {
+      "Chs": "消耗能量:",
       "Eng": "Energy To Hold:"
     }
   },
@@ -563,6 +571,7 @@
       ]
     },
     "Texts": {
+      "Chs": "挖掘强度:",
       "Eng": "Mining Strength:"
     }
   },
@@ -691,6 +700,7 @@
       ]
     },
     "Texts": {
+      "Chs": "射速:",
       "Eng": "Rate of Fire:"
     }
   },
@@ -894,6 +904,7 @@
       ]
     },
     "Texts": {
+      "Chs": "独特",
       "Eng": "Unique"
     }
   },
@@ -1184,6 +1195,7 @@
       ]
     },
     "Texts": {
+      "Chs": "树",
       "Eng": "tree"
     }
   }
