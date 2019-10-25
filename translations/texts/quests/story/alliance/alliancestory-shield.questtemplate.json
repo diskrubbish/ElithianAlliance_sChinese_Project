@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "回复莱茵将军",
+      "Chs": "回复林茵将军",
       "Eng": "Report to Admiral Lyiin"
     }
   },
@@ -19,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "回复位于^orange;克里昂大使馆^reset;的^orange;莱茵将军^reset;",
+      "Chs": "回复位于^orange;克里昂大使馆^reset;的^orange;林茵将军^reset;",
       "Eng": "Report to ^orange;Admiral Lyiin ^reset;in the ^orange;Creon Embassy^reset;"
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^orange;莱茵将军^reset;需要你^green;加入他的^orange;指挥中心^reset;，大使。请尽快去拜访他，并确保随身带上您的^orange;大使通行证^reset;。",
+      "Chs": "^orange;林茵将军^reset;需要你^green;加入他的^orange;指挥中心^reset;，大使。请尽快去拜访他，并确保随身带上您的^orange;大使通行证^reset;。",
       "Eng": "^orange;Admiral Lyiin ^reset;has requested that you ^green;join him in the ^orange;Command Center^reset;, ambassador. Please go and visit him as soon as possible, and make sure you bring your ^orange;Ambassador's Pass ^reset;with you."
     }
   }

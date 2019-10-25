@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "给你，上尉。^green;带上这块^orange;湖仙碎片^green;回去找阿科达^reset;，他可以把你一直在研究的工具组装起来。",
       "Eng": "Here you go, Captain. ^green;Bring this ^orange;Xanafian Shard^green; back to Adako^reset;, and he can put together that tool you've been working on."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "碎片完美契合！给你，上尉: 一把完全恢复的古人工具。",
       "Eng": "The Shard is a perfect fit! Here you go, Captain: one fully restored tool of the Old Ones."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;远古利器IV",
       "Eng": "^orange;Tools of the Ancients IV"
     }
   }

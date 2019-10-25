@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "阿达科让我等你。我可以帮你打开那个遗物。",
       "Eng": "Adako told me to expect you. I can open that relic for you."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这个工具使用湖仙碎片作为它的动力源，所以你需要找到一片新的。^green;去探索一些古人的遗迹^reset;，然后希望你能在之中找到^orange;天人遗物^reset; - 一个悬浮的小立方体 - 应该包含碎片。拿去给万哈斯 - 一旦你得到遗物，他会知道如何提取碎片。",
       "Eng": "The tool uses a Xanafian Shard as its power source, so you'll need to find a new one. ^green;Find some ruins of the Old Ones^reset;, and hopefully you'll find a ^orange;Centensian Relic^reset; - a small hovering cube - which should contain a Shard. Bring it to Vanhas - he'll know how to extract the Shard once you have the relic."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;远古利器III",
       "Eng": "^orange;Tools of the Ancients III"
     }
   }

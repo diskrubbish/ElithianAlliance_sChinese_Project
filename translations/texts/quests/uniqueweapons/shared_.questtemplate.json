@@ -16,6 +16,7 @@
       ]
     },
     "Texts": {
+      "Chs": "找到位于^orange;远星庇护所^reset;的^orange;阿达科^reset;",
       "Eng": "Find ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;"
     }
   },
@@ -30,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "找到位于^orange;克里昂大使馆^reset;的^orange;瓦利亚坎^reset;",
       "Eng": "Find ^orange;Valyakan ^reset;in the ^orange;Creon Embassy^reset;"
     }
   },
@@ -44,6 +46,7 @@
       ]
     },
     "Texts": {
+      "Chs": "找到位于^orange;远星庇护所^reset;的^orange;万哈斯^reset;",
       "Eng": "Find ^orange;Vanhas ^reset;in the ^orange;Starfarer's Refuge^reset;"
     }
   },
@@ -64,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "回到位于^orange;远星庇护所^reset;的^orange;阿科达^reset;处",
       "Eng": "Return to ^orange;Adako ^reset;in the ^orange;Starfarer's Refuge^reset;"
     }
   }

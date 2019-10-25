@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "难以置信，你成功地重新激活了核心！现在剩下的就是组装最后的武器了。",
       "Eng": "Incredible, you managed to reactivate the core! Now all that is left is to assemble the final weapon."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "现在是最困难的部分: 你需要重新激活那个武器核心。 你只能在^orange;跃迁门上行站^reset;这样做，但是这种地方存世极少。我听说有一个地方叫做^orange;伏后斯·阿瓦哈'拉斯^reset;，那里可能有这样一个站点。^green;也许你可以通过探索太空和寻找特殊的异常现象来找到它。^reset;",
       "Eng": "Now comes the hard part: you will need to reactivate that weapon core. You can only do so at a ^orange;Jumpgate Uplink Station^reset;, but few still exist. I have heard rumours of a place called ^orange;Vhos Avha'las ^reset;that might hold such a station. ^green;Perhaps you can find it by exploring space and looking for peculiar anomalies.^reset;"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;毁灭星辰III",
       "Eng": "^orange;Consuming the Stars III"
     }
   }

@@ -52,6 +52,7 @@
       ]
     },
     "Texts": {
+      "Chs": "阿尤连",
       "Eng": "Ayurin"
     }
   },
@@ -66,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "找到位于^orange;远星庇护所^reset;的^orange;阿尤连^reset;",
       "Eng": "Find ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;"
     }
   },
@@ -101,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "找到位于^orange;远星庇护所^reset;的^orange;阿尤连^reset;",
       "Eng": "Return to ^orange;Ayurin ^reset;in the ^orange;Starfarer's Refuge^reset;"
     }
   }

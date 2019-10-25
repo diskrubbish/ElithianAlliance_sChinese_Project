@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你带给我的核心除非用特尔提勒的线路连接起来，否则什么都做不了，所以我需要你帮我收集一些样本。追捕一些特尔提勒人或者侵略无人机或者爪赫，之后给我带^orange;4根特尔提勒触须^white;和^orange;5块特尔提勒钢碎片^white;。",
       "Eng": "The core you brought me won't do anything unless it's wired up using Thelean wiring, so I need you to gather some samples for me. Hunt down some Theleans or Violated Droden and Drahl, and bring me ^orange;4 Thelean Tendrils ^white; and ^orange;5 Thelean Metal Fragments^white;."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "有了这些样品，我就可以完成武器的制造...给你，上尉！小心那个东西，好吗？",
       "Eng": "With these samples, I can finish constructing the weapon... Here you go, Captain! Just be careful with that thing, alright?"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;清理腐化III",
       "Eng": "^orange;Harnessing the Corruption III"
     }
   }

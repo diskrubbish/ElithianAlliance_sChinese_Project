@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我在天人建筑废墟里面找到了一个^orange;神秘的武器核心^reset;。^green;我应该把它交给一个更了解这些古代遗物的人。^reset;",
       "Eng": "I found a ^orange;Mysterious Weapon Core ^reset;in an ancient Centensian ruin. ^green;I should take it to someone who knows more about such ancient relics.^reset;"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "真是个好发现，上尉！这是一个古老的天人跃迁步枪的核心，但是比一般的跃迁步枪要强大得多。",
       "Eng": "What a find, Captain! This is the core of an ancient Centensian jumprifle, but far more powerful than the common ones."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;毁灭星辰",
       "Eng": "^orange;Consuming the Stars"
     }
   }

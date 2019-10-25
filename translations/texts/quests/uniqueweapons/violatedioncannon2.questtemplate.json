@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "如果我要用这个离子核建造一个武器，我需要一些材料。你能交给我^orange;12块片高级卡瓦内特板^white;和^orange;5块晶长护板^white;吗？于此同时我会研究一些武器的设计方案。",
       "Eng": "If I am to build a weapon from this Ion Core, I'm going to need some materials. Could you fetch me about ^orange;12 Superb Kavanite Plates ^white; and ^orange;5 Dranite Plates^white;? I'll work on some plans for the weapon in the mean time."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "太完美了，上尉！你很幸运，我刚刚完成了我打算制造的武器的蓝图。不过，我还需要一些材料。",
       "Eng": "Those are perfect, Captain! Lucky for you, I just finished drawing the blueprints for the weapon I intend to build. I'll need some more materials, however."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;清理腐化II",
       "Eng": "^orange;Harnessing the Corruption II"
     }
   }

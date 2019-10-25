@@ -10,6 +10,7 @@
       ]
     },
     "Texts": {
+      "Chs": "大统领 扎哈德",
       "Eng": "Commander Zaheed"
     }
   },
@@ -21,6 +22,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我正在探测那扇锁着的门后面的特尔提勒生命信号。我建议你爬进上面的通风管道准备突袭。",
       "Eng": "I am detecting Thelean lifesigns beyond that locked door. I advice you climb into the airducts above and prepare a surprise attack."
     }
   },
@@ -32,6 +34,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我探测到隔壁房间有不明生命信号。提高警惕。",
       "Eng": "I am detecting an unknown lifesign in the next room. Be on your guard."
     }
   },
@@ -43,6 +46,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我看你已经到达科林了。我们失去联系的殖民地就在东边的山坡上。",
       "Eng": "I see you've arrived at Dhakorin. The colony we lost contact with is just over the rise to the east."
     }
   },
@@ -54,6 +58,7 @@
       ]
     },
     "Texts": {
+      "Chs": "前面的路似乎被堵住了，但我发现地板上有一处结构性缺陷。也许你可以从那里突破。",
       "Eng": "It seems the way ahead is blocked, but I am detecting a structural weakness in the floor. Perhaps you can break through."
     }
   },
@@ -65,6 +70,7 @@
       ]
     },
     "Texts": {
+      "Chs": "扫描显示这艘飞船在最近被击落。灼烧的痕迹和特尔提勒人的武器一致。",
       "Eng": "Scans indicate that this ship was recently shot down. The burn marks are consistent with Thelean weaponry."
     }
   },
@@ -76,6 +82,7 @@
       ]
     },
     "Texts": {
+      "Chs": "特尔提勒的舰船...看来我的担心得到了证实: 殖民地遭到了塞尔号的袭击。",
       "Eng": "Thelean ships... It seems my fears have been confirmed: the colony was attacked by the Thell."
     }
   },
@@ -87,6 +94,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我们必须知道殖民地发生了什么。快点行动起来。",
       "Eng": "We must know what happened to the colony. Please, hurry."
     }
   },
@@ -98,6 +106,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你必须赶快进去，上尉。如果飞船还在外面，殖民地里一定还有特尔提勒人。",
       "Eng": "You must hurry inside, Captain. If the ships are still outside, there must still be Thell within the colony."
     }
   }

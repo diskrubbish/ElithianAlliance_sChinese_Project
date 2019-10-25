@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "干得好，上尉。我会把这些材料带到阿尤连，这样他就可以开始做框架了。与此同时，我有另一项任务交给你。",
       "Eng": "Good work, Captain. I will have these materials brought to Ayurin so he can start working on the frame. In the mean time, I have another task for you."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我用这个核心可以帮你制造一把新武器，但你需要帮我收集材料。^green;给我带^orange;32片天人眼球^green;，再加上^orange;12部分天人科技^reset;，我会让阿尤连为这把武器做一个新的框架。",
       "Eng": "I could help you build a new weapon using this core, but you will need to gather the materials. ^green;Bring me ^orange;32 pieces of Centensian Metal^green;, along with ^orange;12 pieces of Centensian Tech^reset;, and I will have Ayurin build a new frame for the weapon."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;毁灭星辰II",
       "Eng": "^orange;Consuming the Stars II"
     }
   }

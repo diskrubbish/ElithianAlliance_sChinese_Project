@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "一个古人的遗物。看起来是个容器，但打不开。",
       "Eng": "A Centensian relic. It appears to be a container, but it won't open."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^#BA66FF;天人遗物^white;",
       "Eng": "^#BA66FF;Centensian Relic^white;"
     }
   }

@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我一直在等你，上尉。在这里，我会为你组装武器...再等一会...好了！一把完全恢复的跃迁步枪！小心你瞄准的地方: 它传送了相当的冲力。",
       "Eng": "I've been expecting you, Captain. Here, I will assemble that weapon for you... Just a little longer... There! A fully restored jumprifle! Be careful where you point that thing: it delivers quite the punch."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^green;把^orange;阿尤连制造的框架^green;带到位于^orange;远星庇护所^orange;万哈斯^green;处^reset;。他将知道如何结合框架和重新激活的核心，以制造一把功能完备的跃迁步枪。 和你一起做这个项目很荣幸，上尉。",
       "Eng": "^green;Take the ^orange;frame Ayurin built ^green;and bring it to ^orange;Vanhas ^green;here in the ^orange;Starfarer's Refuge. ^reset;He will know how to combine the frame and the reactivated core to build a fully functional jumprifle. It's been an honour working on this project with you, Captain."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;毁灭星辰IV",
       "Eng": "^orange;Consuming the Stars IV"
     }
   }

@@ -79,7 +79,7 @@
       ]
     },
     "Texts": {
-      "Chs": "我收到了来自^orange;莱茵将军^reset;的信息，当时你正在外面探险。 ^green;如果你有时间的话，我现在就可以把它接通给你。^reset;",
+      "Chs": "我收到了来自^orange;林茵将军^reset;的信息，当时你正在外面探险。 ^green;如果你有时间的话，我现在就可以把它接通给你。^reset;",
       "Eng": "I have received a transmission from ^orange;Admiral Lyiin ^reset;while you were out exploring. ^green;I can patch it through to you now, if you have time.^reset;"
     }
   },
@@ -91,7 +91,7 @@
       ]
     },
     "Texts": {
-      "Chs": "接听^orange;莱茵将军^reset;的通讯",
+      "Chs": "接听^orange;林茵将军^reset;的通讯",
       "Eng": "Listen to ^orange;Admiral Lyiin^reset;'s transmission"
     }
   },
