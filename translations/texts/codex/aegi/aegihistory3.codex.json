@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "第一组是“航海家”旅团，被发送到RS341023系统，该系统被认为是宜居星球的所在地。 另一组是“恒心”旅团，被送往PT167089系统，或更具体地说，送至系统中的第六颗行星PT167089-06。 人们也认为这颗行星可能是宜居的，但没有保证：PT167089-06的读数显示有希望，但它们无法告诉人类该行星的确切状况。",
+      "Chs": "第一组是“航海家”旅团，被发送到RS341023系统，该系统被认为是宜居星球的所在地。 另一组是“恒心”旅团，被送往PT167089系统，或更具体地说，送至系统中的第六颗行星PT167089-06。 人们也认为这颗行星可能是宜居的，但没有保证:PT167089-06的读数显示有希望，但它们无法告诉人类该行星的确切状况。",
       "Eng": "The first group, the Voyager Company, was sent to the RS341023 system, which was believed to be home to a habitable planet. The other group, the Endurance Company, was sent to the PT167089 system, or more specifically to PT167089-06, the sixth planet in the system. This planet was also believed to be potentially habitable, but there were no guarantees: readings of PT167089-06 showed promise, but they could not tell humanity of the exact conditions on the planet."
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^orange;第二章——出埃及行动^reset;\n\n在小行星预计撞击时间的前两天黎明时，飞船已准备在当晚发射。 在完成所有最终检查并确保所有乘客均已登上船后，舰队发射了。 一切进行得还算顺利：42艘船中有39艘幸存下来。 这些船被分为两组，分别前往不同的目的地。",
+      "Chs": "^orange;第二章——出埃及行动^reset;\n\n在小行星预计撞击时间的前两天黎明时，飞船已准备在当晚发射。 在完成所有最终检查并确保所有乘客均已登上船后，舰队发射了。 一切进行得还算顺利:42艘船中有39艘幸存下来。 这些船被分为两组，分别前往不同的目的地。",
       "Eng": "^orange;Chapter 2 - Exodus^reset;\n\nAt dawn, two days before the asteroid's projected time of impact, the ships were prepared for launch that evening. After performing all final checks and ensuring that all passengers were on board, the ships were launched. The launch went relatively well: 39 out of 42 ships survived the launch. The ships had been divided into two groups set for different destinations."
     }
   }
