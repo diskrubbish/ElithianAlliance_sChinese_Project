@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^orange;第三章——抵达^reset;\n\n这颗行星看起来非常像泰拉：如同一颗蓝色大理石，怀抱着郁郁葱葱的绿色大陆和熟悉的白云。 对行星及其大气层的扫描显示，它与泰拉的相似性更高，具有可呼吸的大气，并且大气压和重力仅略高于泰拉。",
+      "Chs": "^orange;第三章——抵达^reset;\n\n这颗行星看起来非常像泰拉:如同一颗蓝色大理石，怀抱着郁郁葱葱的绿色大陆和熟悉的白云。 对行星及其大气层的扫描显示，它与泰拉的相似性更高，具有可呼吸的大气，并且大气压和重力仅略高于泰拉。",
       "Eng": "^orange;Chapter 3 - Arrival^reset;\n\nThe planet looked surprisingly much like Terra: a blue marble with lush green continents and familiar white clouds. Scans of the planet and its atmosphere revealed an even greater likeness to Terra, with a breathable atmosphere, and an atmospheric pressure and gravity only slightly higher than that of Terra."
     }
   },
@@ -43,7 +43,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^yellow;[注 意-最近发现的大地守护团驳斥了这一假设]^reset;\n\n航海家旅团的命运不详：在239 BA的某个时间与舰队失去联系。 然而，恒心旅团在1 BA到达其目的地星系，在其21艘船中仍有19艘仍在使用。 船只继续驶向PT167089-06，并于0 AA（“抵达后”的缩写）到达行星。",
+      "Chs": "^yellow;[注 意-最近发现的大地守护团驳斥了这一假设]^reset;\n\n航海家旅团的命运不详:在239 BA的某个时间与舰队失去联系。 然而，恒心旅团在1 BA到达其目的地星系，在其21艘船中仍有19艘仍在使用。 船只继续驶向PT167089-06，并于0 AA（“抵达后”的缩写）到达行星。",
       "Eng": "^yellow;[NOTE - The recent discovery of the Terrene Protectorate disproves this assumption]^reset;\n\nThe fate of the Voyager Company is unknown: contact with these ships was lost sometime in 239 BA. The Endurance Company, however, arrived at its destination system in 1 BA, with 19 of its 21 ships remaining. The ships continued on their way towards PT167089-06, and arrived at the planet in 0 AA (After Arrival)."
     }
   }
