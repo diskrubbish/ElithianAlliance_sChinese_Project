@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^red;-- CLASS机 密IFIED --^white;\n\n请记住：您的身份，以及诺玛达波及此任务之事，都必须不计一切代价保密。 完成守护团培训后，您要假扮自己的死亡并返回到监理人总部。 尽可能多地向总部发送报告，但不要冒险向任何人透露自己的信息。\n\n愿日海狄斯指引尔前进之途，并诚愿祂督导吾等所有。",
+      "Chs": "^red;-- CLASS机 密IFIED --^white;\n\n请记住：你的身份，以及诺玛达波及此事之故，都必须不计一切代价保密。 完成守护团培训后，你要假扮自己的意外死亡并返回到监理人总部。 尽可能多地向总部发送报告，但不要冒险向任何人透露自己的信息。\n\n愿日海狄斯指引尔等前进之途，并诚愿祂于天界督导吾等所有。",
       "Eng": "^red;-- CLASSIFIED --^white;\n\nRemember: your identity, and the Nomada's involvement in this mission, must be kept a secret at all costs. After you finish your Protectorate training, you are to fake your own death and return to the Watcher Headquarters. Send reports to HQ as often as you can, but do not risk revealing yourself to anyone.\n\nMay Rhadeis guide you along your path, and may he watch over us all."
     }
   },
@@ -55,7 +55,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^red;-- CLASS机 密IFIED --^white;\n\n圣城万荣，监理人特工。\n\n你要执行的任务非常不寻常，但这对我们的诺玛达舰队也非常重要。 我们的情报机关报告描述了一个自称为维和部队的大地守护团组织，在银河系这一区域有大量干预行为。",
+      "Chs": "^red;-- CLASS机 密IFIED --^white;\n\n圣城万荣，监理人特工。\n\n你要执行的任务等级非同小可，但这对我们的诺玛达舰队有极大战略意义。 我们的情报机关报告描述了一个自称为维和部队的大地守护团组织，在银河系这一区域有大量干预行为。",
       "Eng": "^red;-- CLASSIFIED --^white;\n\nVas Vha'leih, Watcher Agent.\n\nThe mission you are being sent on is highly unusual, but it is also of great importance to our Nomada. Our intelligence reports describe a self-proclaimed peacekeeping organization, the Terrene Protectorate, to have a large presence in this sector of the galaxy."
     }
   },
@@ -67,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^red;-- CLASS机 密IFIED --^white;\n\n您的目标是通过身份注册进入他们的队伍来渗透到大地守护团（Terrene Protectorate）。 遵循他们的培训计划，并尽一切可能了解其层次结构，动机以及您认为相关的任何其他事物。\n\n该任务还将需要你获得其中一个“守护团物质枪”，以及可以安全获得的任何其他技术。",
+      "Chs": "^red;-- CLASS机 密IFIED --^white;\n\n你的目标是通过身份注册进入他们的队伍来渗透到大地守护团（Terrene Protectorate）。 遵循他们的培训计划，并尽一切可能了解其层次结构，动机以及你所认为相关的任何其他事物。\n\n该任务还将需要你取得其中一只“守护团物质枪”，以及可以安全获得的任何其他技术。",
       "Eng": "^red;-- CLASSIFIED --^white;\n\nYour goal is to infiltrate the Terrene Protectorate by signing up for their ranks. Follow their training programs and learn all you can about its hierarchy, motives and whatever else you judge relevant.\n\nThe mission will also require you to obtain one of the Protectorate's matter manipulators, along with any other technology you can safely obtain."
     }
   }
