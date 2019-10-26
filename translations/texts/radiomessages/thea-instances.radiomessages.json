@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "小心，前面有许多强盗。",
       "Eng": "Be careful: there's a lot of bandits in the area ahead."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我探测到微弱的光线。你可以按^green;[F]键^reset;按钮来激活刮刀的大灯。",
       "Eng": "I am detecting low levels of light. You can use the ^green;[F] ^reset;button to activate the Krahl's headlights."
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我探测到前面房间有多个前卫队刮刀机甲。你应该坐上一个。",
       "Eng": "I am detecting multiple Vanguard Krahls in the room ahead. You should enter one."
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "我已经破译了前面门的安全密码。开门的密码是55512。",
       "Eng": "I have decrypted the security code for the door ahead. The passcode to unlock the door is 55512."
     }
   },
@@ -51,6 +55,7 @@
       ]
     },
     "Texts": {
+      "Chs": "到目前为止，洛克汗对您的测试很满意，但是还有一些测试需要您进行。",
       "Eng": "Rokhan is pleased with your progress so far, but there are a few more tests for you to run."
     }
   },
@@ -62,6 +67,7 @@
       ]
     },
     "Texts": {
+      "Chs": "刮刀完全有能力进行水下作业。不要犹豫，跳进去吧。",
       "Eng": "The Krahl is fully capable of underwater operation. Do not hesitate to jump in."
     }
   },
@@ -73,6 +79,7 @@
       ]
     },
     "Texts": {
+      "Chs": "刮刀无法通过这个小门。跳出来继续向传送器前进。",
       "Eng": "The Krahl will not fit through this small door. Jump out to proceed to the teleporter."
     }
   },
@@ -84,6 +91,7 @@
       ]
     },
     "Texts": {
+      "Chs": "刮刀的飞行器也可以用于水平飞行。试着飞到另一边去。",
       "Eng": "The Krahl's jumpjets can also be used for horizontal flight. Try to fly to the other side."
     }
   },
@@ -95,6 +103,7 @@
       ]
     },
     "Texts": {
+      "Chs": "匪首就在那边等着。小心点。",
       "Eng": "The leader of the bandits waits just beyond. Be careful."
     }
   },
@@ -106,6 +115,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你之后的目标是前面那台巨大的阿基马里仲裁者。把它击败，然后再找一个传送器往东传送。",
       "Eng": "The target you are after is the large Akkimari Justicar just up ahead. Take it out, then find a return teleporter further to the east."
     }
   },
@@ -117,6 +127,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这个传送机标志着测试航线的结束。你应该回到洛克汗那里。",
       "Eng": "This teleporter marks the end of the testing course. You should return to Rokhan."
     }
   },
@@ -128,6 +139,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你可以从岩石缝隙进入小偷的藏身处。",
       "Eng": "You can enter the thieves' hideout through this crack in the rocks."
     }
   },
@@ -139,6 +151,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你会发现一群阿基马里扫荡者在前方悬崖之外。小心: 他们看起来全副武装，并且有无人机和追捕灯协助。",
       "Eng": "You'll find a group of Akkimari scavengers beyond the cliffs ahead. Be careful: they appear to be heavily armed, and are assisted by drones and a Chaseflight."
     }
   },
@@ -150,6 +163,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你的刮刀装备了强大的跳跃推进器。你可以在空中跳跃来激活它们。",
       "Eng": "Your Krahl is equipped with powerful jumpjets. You can activate them by jumping while in the air."
     }
   },
@@ -161,6 +175,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你的刮刀的跳跃推进器的飞行距离很远，但是他们不能无限的使用。保持对你在空中花费的时间的注意。",
       "Eng": "Your Krahl's jumpjets have good range, but they cannot be used indefinitely. Always mind the amount of time you spend in the air."
     }
   },
@@ -172,6 +187,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你最后的挑战是到达山谷另一边的房间。我观察到你的路上有多个敌人。",
       "Eng": "Your final challenge is to reach the room on the other side of this valley. I am detecting multiple hostiles on your path."
     }
   },
@@ -183,6 +199,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你的第一个任务是摧毁这个房间里的所有目标。你刮刀的爆炸主炮应该足够了。",
       "Eng": "Your first assigned goal is to destroy all targets in this room. Your Krahl's primary explosive cannon should suffice here."
     }
   },
@@ -194,6 +211,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你的目标是这个地区被入侵的精英爪赫。把它打爆，然后在东边的一个小储藏室里找到回程传送器。",
       "Eng": "Your target is the Violated Elite Drahl located in this area. Take it out, then find the return teleporter in a small storage room to the east."
     }
   }

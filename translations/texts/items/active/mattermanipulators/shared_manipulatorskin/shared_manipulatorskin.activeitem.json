@@ -19,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "改变物质枪的外观。^red;必须解锁所有模式。^reset;",
       "Eng": "Changes the appearance of your Matter Manipulator. ^red;Must have unlocked all modes.^reset;"
     }
   }

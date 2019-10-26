@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "如果摄像头拍到你，门就会关上。^green;双击[W]以激活^orange;隐身^reset;并保持在摄像头视线之外。",
       "Eng": "If the camera spots you, the door will close. ^green;Double tap [W] to activate ^orange;stealth ^reset;and keep out of sight."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "隐身不会永远持续下去。快点，否则你不会及时到达终点的！",
       "Eng": "Stealth will not last forever. Be quick, or you won't reach the end in time!"
     }
   },
@@ -29,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "如果你被发现了，地板就会塌陷。快躲起来！",
       "Eng": "The floor will fall away if you are spotted. Stay out of sight!"
     }
   },
@@ -40,6 +43,7 @@
       ]
     },
     "Texts": {
+      "Chs": "你已经完成了测试课程。干得好！",
       "Eng": "You have completed the test course. Well done!"
     }
   }
