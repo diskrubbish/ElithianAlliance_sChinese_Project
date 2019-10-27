@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "逐空控制器",
       "Eng": "Chaseflight Controller"
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "从你的船上的货舱里召唤一台阿基马里逐空型机车。",
       "Eng": "Summons an Akkimari Chaseflight from your ship's cargo hold."
     }
   }

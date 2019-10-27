@@ -13,6 +13,7 @@
       ]
     },
     "Texts": {
+      "Chs": "装满的捕获舱",
       "Eng": "Filled Capture Pod"
     }
   },
@@ -30,6 +31,7 @@
       ]
     },
     "Texts": {
+      "Chs": "把它扔出去，释放里面被捕捉的生物！",
       "Eng": "Throw it down to release the creature captured inside!"
     }
   }

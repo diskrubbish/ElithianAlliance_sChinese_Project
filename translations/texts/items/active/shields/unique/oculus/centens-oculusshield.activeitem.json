@@ -7,6 +7,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;使用天人技术构建，功能强大的盾牌投射器。",
       "Eng": "^orange;A powerful shield projector built using Centensian technology."
     }
   },
@@ -18,6 +19,7 @@
       ]
     },
     "Texts": {
+      "Chs": "^orange;天眼之护^reset;",
       "Eng": "^orange;Oculus Ward^reset;"
     }
   }
